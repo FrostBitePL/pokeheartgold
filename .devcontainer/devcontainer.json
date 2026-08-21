@@ -5,6 +5,11 @@
             "--platform=linux/amd64"
         ]
     },
+    "features": {
+        "ghcr.io/devcontainers/features/sshd:1": {
+            "version": "latest"
+        }
+    },
     "customizations": {
         "vscode": {
             "extensions": [
@@ -12,15 +17,6 @@
                 "ms-python.python",
                 "ms-azuretools.vscode-containers"
             ]
-        },
-        "codespaces": {
-            "repositories": {
-                "PikalaxALT/pokeheartgold": {
-                    "permissions": {
-                        "workflows": "write"
-                    }
-                }
-            }
         }
     },
     "postCreateCommand": "bash ./.devcontainer/setup-devcontainer.sh"
