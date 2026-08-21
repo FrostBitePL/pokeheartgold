@@ -38,7 +38,7 @@
 	</row>
 	<row id="msg_0631_T30GYM0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: What’s the matter?\rAren’t you headed to the\nPokémon League?\rYour face...it tells me you have some\nunfinished business...\rWait a sec!\nYou came from New Bark Town\fwhere Professor Elm’s Lab is, right?\rYou may want to go back to\nNew Bark Town.\rWhatever you have to face from now,\nit’ll be more difficult.\rBut don’t you dare give up!\rIf you do, I’ll feel even worse\nabout having lost to you!\r...\nGive it your all.</language>
+		<language name="English">Clair: What’s the matter?\rAren’t you headed to the\nPokémon League?\rYour face...it tells me you have some\nunfinished business...\rWait a sec!\nYou came from Wierzbna\fwhere Professor Elm’s Lab is, right?\rYou may want to go back to\nWierzbna.\rWhatever you have to face from now,\nit’ll be more difficult.\rBut don’t you dare give up!\rIf you do, I’ll feel even worse\nabout having lost to you!\r...\nGive it your all.</language>
 	</row>
 	<row id="msg_0631_T30GYM0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>

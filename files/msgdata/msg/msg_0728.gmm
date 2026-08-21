@@ -2542,7 +2542,7 @@
 	</row>
 	<row id="msg_0728_00635" index="635">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You came from New Bark Town?\nYou must be exhausted.\r</language>
+		<language name="English">You came from Wierzbna?\nYou must be exhausted.\r</language>
 	</row>
 	<row id="msg_0728_00636" index="636">
 		<attribute name="window_context_name">used</attribute>
@@ -2554,7 +2554,7 @@
 	</row>
 	<row id="msg_0728_00638" index="638">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You said you came from New Bark Town,\nright? I’ll watch and see how far\fyou’ll go!\r</language>
+		<language name="English">You said you came from Wierzbna,\nright? I’ll watch and see how far\fyou’ll go!\r</language>
 	</row>
 	<row id="msg_0728_00639" index="639">
 		<attribute name="window_context_name">used</attribute>

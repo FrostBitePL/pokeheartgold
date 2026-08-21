@@ -23,7 +23,7 @@
 	</row>
 	<row id="msg_0129_D44R0102_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s the matter?\nIf you are headed to the Pokémon\fLeague, go back to New Bark Town\fand Surf along Route 27.\rYour face...is telling me you have\nsome unfinished business...\rCome on!\rWhatever you have to face from now,\ndon’t you dare give up!\rIf you do, I’ll feel even worse\nabout having lost to you!\fGive it your all.\r</language>
+		<language name="English">What’s the matter?\nIf you are headed to the Pokémon\fLeague, go back to Wierzbna\fand Surf along Route 27.\rYour face...is telling me you have\nsome unfinished business...\rCome on!\rWhatever you have to face from now,\ndon’t you dare give up!\rIf you do, I’ll feel even worse\nabout having lost to you!\fGive it your all.\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00006" index="6">
 		<attribute name="window_context_name">used</attribute>

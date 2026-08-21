@@ -1809,7 +1809,7 @@ scr_seq_T20_005:
 	PlaySE SEQ_SE_DP_SELECT
 	LockAll
 	FacePlayer
-	PlayCry SPECIES_MARILL, 0
+	PlayCry SPECIES_PIKACHU, 0
 	NPCMsg msg_0542_T20_00033
 	WaitCry
 	CloseMsg

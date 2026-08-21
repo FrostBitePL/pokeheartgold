@@ -44,7 +44,7 @@
 	</row>
 	<row id="msg_0373_R29_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you see those ledges?\nIt’s scary to jump off them.\rBut you can go to New Bark Town\nwithout walking through tall grass.</language>
+		<language name="English">Do you see those ledges?\nIt’s scary to jump off them.\rBut you can go to Wierzbna\nwithout walking through tall grass.</language>
 	</row>
 	<row id="msg_0373_R29_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -68,7 +68,7 @@
 	</row>
 	<row id="msg_0373_R29_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rt. 29\nEast to New Bark Town</language>
+		<language name="English">Rt. 29\nEast to Wierzbna</language>
 	</row>
 	<row id="msg_0373_R29_00017" index="17">
 		<attribute name="window_context_name">used</attribute>

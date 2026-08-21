@@ -2,59 +2,59 @@
 <body language="English">
 	<row id="msg_0543_T20R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Elm: Hi, {STRVAR_1 3, 0, 0}!\nI’ve been waiting for you!\rDo you know anything about\nmy research?\rAs you know, Pokémon are carried\nin Poké Balls these days.\rBut before the Poké Ball was invented,\npeople used to walk with Pokémon.\fJust like your friend Lyra does!\rPoké Balls are great because you can\ncarry many Pokémon.\rBut walking with Pokémon must have\nsome advantages.\rIt could have something to do with how\nPokémon grow or evolve...\rSo I’m going to give you a Pokémon!\rCan you walk beside this Pokémon,\noutside of its Poké Ball, to see if this\fbrings any special feelings or bonds\fbetween Pokémon and people?\rThe device over there has some Pokémon\nyou could choose from...\r</language>
+		<language name="English">Profesor Mariusz: Witaj, {STRVAR_1 3, 0, 0}!\nCzekalem na ciebie!\rWiesz moze, nad czym pracuje?\rJak zapewne wiesz, dzis Pokémony\nnosi sie w Poké Ballach.\rAle zanim wynaleziono Poké Balle,\nludzie chodzili z Pokémonami\fu boku.\fDokladnie tak, jak robi to twój\nprzyjaciel Emil!\rPoké Balle sa swietne, bo mozna\nnosic przy sobie wiele Pokémonów.\rAle wspólne chodzenie z Pokémonem\nmusi miec jakies zalety.\rMoze to miec zwiazek z tym, jak\nPokémony rosna albo ewoluuja...\rWiec dam ci Pokémona!\rCzy móglbys chodzic obok niego,\npoza Poké Ballem, zebysmy sprawdzili,\fczy to rodzi jakies szczególne wiezi\fmiedzy Pokémonem a czlowiekiem?\rTamto urzadzenie ma kilka Pokémonów\ndo wyboru...\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Elm: Hi, {STRVAR_1 3, 0, 0}!\nI’ve been waiting for you!\rDo you know anything about\nmy research?\rAs you know, Pokémon are carried\nin Poké Balls these days.\rBut before the Poké Ball was invented,\npeople used to walk with Pokémon.\fJust like your friend Ethan does!\rPoké Balls are great because you can\ncarry many Pokémon.\rBut walking with Pokémon must have\nsome advantages.\rIt could have something to do with how\nPokémon grow or evolve...\rSo I’m going to give you a Pokémon!\rCan you walk beside this Pokémon,\noutside of its Poké Ball, to see if this\fbrings any special feelings or bonds\fbetween Pokémon and people?\rThe device over there has some Pokémon\nyou could choose from...\r</language>
+		<language name="English">Profesor Mariusz: Witaj, {STRVAR_1 3, 0, 0}!\nCzekalem na ciebie!\rWiesz moze, nad czym pracuje?\rJak zapewne wiesz, dzis Pokémony\nnosi sie w Poké Ballach.\rAle zanim wynaleziono Poké Balle,\nludzie chodzili z Pokémonami\fu boku.\fDokladnie tak, jak robi to twój\nprzyjaciel Emil!\rPoké Balle sa swietne, bo mozna\nnosic przy sobie wiele Pokémonów.\rAle wspólne chodzenie z Pokémonem\nmusi miec jakies zalety.\rMoze to miec zwiazek z tym, jak\nPokémony rosna albo ewoluuja...\rWiec dam ci Pokémona!\rCzy móglbys chodzic obok niego,\npoza Poké Ballem, zebysmy sprawdzili,\fczy to rodzi jakies szczególne wiezi\fmiedzy Pokémonem a czlowiekiem?\rTamto urzadzenie ma kilka Pokémonów\ndo wyboru...\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Elm: Oh, hey! I got an email!\r</language>
+		<language name="English">Profesor Mariusz: O, czekaj! Mam nowego maila!\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Elm: ...\nHm... Uh-huh... OK...\r</language>
+		<language name="English">Profesor Mariusz: ...\nHmm... Aha... No dobrze...\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Elm: Hey, listen.\nI have this acquaintance that people\fcall Mr. Pokémon.\rHe keeps finding weird things and\nraving about his discoveries.\rAnyway, I just got an email from him\nsaying that this time it’s real.\rIt’s probably another Pokémon Egg,\nbut we’re still so busy with our\fPokémon research...\rWait!\nI know!\rYou can go in our place, right?\nCan we count on you?\rYou can choose one of the Pokémon\nover there.\r</language>
+		<language name="English">Profesor Mariusz: Sluchaj no.\nZnam pewnego znajomego, którego\fwszyscy nazywaja Wackiem.\rCiagle znajduje jakies dziwne rzeczy\ni zachwyca sie swoimi odkryciami.\rW kazdym razie wlasnie dostalem od\nniego wiadomosc, ze tym razem to\fnaprawde cos wielkiego.\rPewnie znowu jakies jajko Pokémona,\nale my wciaz mamy pelne rece roboty\fz naszymi badaniami...\rZaczekaj!\nMam pomysl!\rMozesz pójsc zamiast nas, prawda?\nMozemy na ciebie liczyc?\rMozesz wybrac jednego z Pokémonów\nstamtad.\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Elm: If a wild Pokémon\nappears, let your Pokémon battle it!</language>
+		<language name="English">Profesor Mariusz: Jesli natkniesz sie na\ndzikiego Pokémona, niech twój z nim\fzawalczy!</language>
 	</row>
 	<row id="msg_0543_T20R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Elm: Where are you going?\nThe Poké Balls are in that device.\r</language>
+		<language name="English">Profesor Mariusz: Dokad to sie wybierasz?\nPoké Balle sa w tamtym urzadzeniu.\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received {STRVAR_1 0, 1, 0}\nfrom Professor Elm!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymal(a) {STRVAR_1 0, 1, 0}\nod Profesora Mariusza!</language>
 	</row>
 	<row id="msg_0543_T20R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Give a nickname to the {STRVAR_1 0, 1, 0}\nyou received? {YESNO 0}</language>
+		<language name="English">Nadac przezwisko {STRVAR_1 0, 1, 0},\nktorego wlasnie otrzymales? {YESNO 0}</language>
 	</row>
 	<row id="msg_0543_T20R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Is {STRVAR_1 1, 1, 0} the nickname\nyou want to give? {YESNO 0}</language>
+		<language name="English">Czy {STRVAR_1 1, 1, 0} to przezwisko,\nktore chcesz nadac? {YESNO 0}</language>
 	</row>
 	<row id="msg_0543_T20R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Elm: How do you like walking\nwith your Pokémon? It’s not bad, is it?\rYou can take it all the way to\nMr. Pokémon’s house.\rIf your Pokémon gets hurt...\r</language>
+		<language name="English">Profesor Mariusz: Jak ci sie podoba\nchodzenie z Pokémonem? Niezle, co?\rMozesz z nim isc cala droge,\naz do domu Wacka.\rGdyby twój Pokémon sie zranil...\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You should heal it with this machine.\rIt’s so easy to use.\nJust check the PC on my desk!\r</language>
+		<language name="English">...powinienes go uleczyc ta maszyna.\rJest bardzo prosta w obsludze.\nWystarczy sprawdzic komputer na moim biurku!\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Elm: Mr. Pokémon goes\neverywhere and finds rarities.\fHis house is past Cherrygrove City.\rGo north a little past Cherrygrove.\fI’m counting on you, {STRVAR_1 3, 0, 0}!</language>
+		<language name="English">Profesor Mariusz: Wacek wszedzie chodzi\ni znajduje najróznorodniejsze rzadkosci.\fJego dom jest tuz za Wierzbna,\nprzy trasie do Lazan.\rIdz prosto na pólnoc.\fLicze na ciebie, {STRVAR_1 3, 0, 0}!</language>
 	</row>
 	<row id="msg_0543_T20R0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Elm: Mr. Pokémon goes\neverywhere and finds rarities.\fHis house is past Cherrygrove City.\rGo north a little past Cherrygrove.\fI’m counting on you, {STRVAR_1 3, 0, 0}!</language>
+		<language name="English">Profesor Mariusz: Wacek wszedzie chodzi\ni znajduje najróznorodniejsze rzadkosci.\fJego dom jest tuz za Wierzbna,\nprzy trasie do Lazan.\rIdz prosto na pólnoc.\fLicze na ciebie, {STRVAR_1 3, 0, 0}!</language>
 	</row>
 	<row id="msg_0543_T20R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>

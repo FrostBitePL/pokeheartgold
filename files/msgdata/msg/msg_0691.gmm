@@ -82,11 +82,11 @@
 	</row>
 	<row id="msg_0691_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yesterday, I went out to New Bark\nTown. There was a lady who looked a lot\flike you, {STRVAR_1 3, 0, 0}.\rWhat? That lady was your mom?\nAww, I should’ve introduced myself!\rI bet your mom’s really proud of all\nthat you’ve accomplished.\rCall you later!</language>
+		<language name="English">Yesterday, I went out to Wierzbna. There was a lady who looked a lot\flike you, {STRVAR_1 3, 0, 0}.\rWhat? That lady was your mom?\nAww, I should’ve introduced myself!\rI bet your mom’s really proud of all\nthat you’ve accomplished.\rCall you later!</language>
 	</row>
 	<row id="msg_0691_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yesterday, I went out to New Bark\nTown. There was a lady who looked a lot\flike you, {STRVAR_1 3, 0, 0}.\rWhat? That lady was your mom?\nAww, I should’ve introduced myself!\rI bet your mom’s really proud of all\nthat you’ve accomplished.\rCall you later!</language>
+		<language name="English">Yesterday, I went out to Wierzbna. There was a lady who looked a lot\flike you, {STRVAR_1 3, 0, 0}.\rWhat? That lady was your mom?\nAww, I should’ve introduced myself!\rI bet your mom’s really proud of all\nthat you’ve accomplished.\rCall you later!</language>
 	</row>
 	<row id="msg_0691_00022" index="22">
 		<attribute name="window_context_name">used</attribute>

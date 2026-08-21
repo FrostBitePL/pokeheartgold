@@ -63,7 +63,7 @@
 	</row>
 	<row id="msg_0097_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi!\nMy name’s Palmer.\rI heard a lot about you.\nYou are {STRVAR_1 3, 0, 0} from\fNew Bark Town, right?\rYou are much younger than I thought.\nSo, I’d like you to show me.\rShow me the bond you’ve built with\nyour Pokémon.\rShow me what you’ve learned\nthrough battles with Trainers!\r</language>
+		<language name="English">Hi!\nMy name’s Palmer.\rI heard a lot about you.\nYou are {STRVAR_1 3, 0, 0} from\fWierzbna, right?\rYou are much younger than I thought.\nSo, I’d like you to show me.\rShow me the bond you’ve built with\nyour Pokémon.\rShow me what you’ve learned\nthrough battles with Trainers!\r</language>
 	</row>
 	<row id="msg_0097_00016" index="16">
 		<attribute name="window_context_name">used</attribute>

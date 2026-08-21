@@ -286,7 +286,7 @@
 	</row>
 	<row id="msg_0663_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where are you now?\nWhat are you doing in New Bark Town?\rDid you go back home?\nYou should show off your Pokémon to\fyour mom. I bet she’d be happy!</language>
+		<language name="English">Where are you now?\nWhat are you doing in Wierzbna?\rDid you go back home?\nYou should show off your Pokémon to\fyour mom. I bet she’d be happy!</language>
 	</row>
 	<row id="msg_0663_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
@@ -578,7 +578,7 @@
 	</row>
 	<row id="msg_0663_00144" index="144">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you go back home to New Bark Town,\nyou should show off your Pokémon to\fyour mom. I bet she’d be happy!</language>
+		<language name="English">If you go back home to Wierzbna,\nyou should show off your Pokémon to\fyour mom. I bet she’d be happy!</language>
 	</row>
 	<row id="msg_0663_00145" index="145">
 		<attribute name="window_context_name">used</attribute>

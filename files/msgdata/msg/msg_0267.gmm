@@ -114,7 +114,7 @@
 	</row>
 	<row id="msg_0267_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pardon us for the inconvenience.\rWe have received word from Professor\nElm in New Bark Town that a PICHU\rwith spiky ears cannot be allowed\nto enter.\rPlease place it in your PC Box and\nenter again.</language>
+		<language name="English">Pardon us for the inconvenience.\rWe have received word from Professor\nElm in Wierzbna that a PICHU\rwith spiky ears cannot be allowed\nto enter.\rPlease place it in your PC Box and\nenter again.</language>
 	</row>
 	<row id="msg_0267_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
