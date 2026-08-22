@@ -2,50 +2,50 @@
 <body language="English">
 	<row id="msg_0631_T30GYM0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo! Champ in the making!\rThe Gym has unstable footing.\nKeep your Pokémon in their Poké Balls.\rNow, Clair uses the mythical and sacred\nDragon-type Pokémon.\rYou can’t damage them very easily.\rBut you know, they’re supposed\nto be weak against Ice-type moves.</language>
+		<language name="English">Yo! Przyszły Mistrzu!\rTa Sala ma niestabilne podłoże.\nTrzymaj swoje Pokémony w Poké Ballach.\rClair używa mitycznych i świętych\nPokémonów typu Smoczy.\rNie da się im łatwo zaszkodzić.\rAle wiesz, podobno są słabe\nprzeciwko atakom typu Lodowy.</language>
 	</row>
 	<row id="msg_0631_T30GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey!\nYou were great to beat Clair!\rWhat she says is one thing, but you are\nalready quite the Trainer. I think...\rI’d still do what Clair wants you to\ndo, though.</language>
+		<language name="English">Hej!\nŚwietnie ci poszło z pokonaniem Clair!\rTo, co ona mówi, to jedno, ale myślę,\nże już jesteś niezłym Trenerem...\rMimo to, na twoim miejscu zrobiłbym\nto, o co prosi Clair.</language>
 	</row>
 	<row id="msg_0631_T30GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo! Champ in the making!\rThe Gym has unstable footing.\nKeep your Pokémon in their Poké Balls.\rNow, Clair uses the mythical and sacred\nDragon-type Pokémon.\rYou can’t damage them very easily.\rBut you know, they’re supposed\nto be weak against Ice-type moves.\r</language>
+		<language name="English">Yo! Przyszły Mistrzu!\rTa Sala ma niestabilne podłoże.\nTrzymaj swoje Pokémony w Poké Ballach.\rClair używa mitycznych i świętych\nPokémonów typu Smoczy.\rNie da się im łatwo zaszkodzić.\rAle wiesz, podobno są słabe\nprzeciwko atakom typu Lodowy.\r</language>
 	</row>
 	<row id="msg_0631_T30GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: I am Clair.\rThe world’s best Dragon-type master.\rI can hold my own against even the\nPokémon League’s Elite Four.\rDo you still want to take me on?\r...Fine.\nLet’s do this!\rAs a Gym Leader, I will use my full\npower against any opponent!\r</language>
+		<language name="English">Clair: Jestem Clair.\rNajlepsza mistrzyni typu Smoczy\nna świecie.\rMogę stawić czoła nawet Elitarnej\nCzwórce Ligi Pokémon.\rWciąż chcesz się ze mną zmierzyć?\r...Dobrze.\nZróbmy to!\rJako Liderka Sali, użyję pełni\nmojej mocy przeciwko każdemu\fprzeciwnikowi!\r</language>
 	</row>
 	<row id="msg_0631_T30GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: I won’t concede this.\rI might have lost, but you’re still\nnot ready for the Pokémon League.\rI know. You should take the\nDragon-master challenge.\rBehind this Gym is a place called\nDragon’s Den. There is a small shrine\fat its heart.\fGo there.\rIf you can prove that you’ve lost\nyour lazy ideals, I will admit you\fare a Trainer worthy of a Gym Badge!</language>
+		<language name="English">Clair: Nie ustąpię w tej sprawie.\rMogłam przegrać, ale wciąż nie jesteś\ngotowy/a na Ligę Pokémon.\rWiem. Powinieneś/aś podjąć\nwyzwanie Smoczego Mistrza.\rZa tą Salą jest miejsce zwane\nLegowiskiem Smoków. W jego sercu jest\fmała świątynia.\fIdź tam.\rJeśli udowodnisz, że pozbyłeś/aś się\nswoich leniwych ideałów, uznam cię za\fTrenera godnego Odznaki Sali!</language>
 	</row>
 	<row id="msg_0631_T30GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: What’s the matter?\rIs it too much to expect of you?</language>
+		<language name="English">Clair: Co się dzieje?\rZa dużo od ciebie oczekuję?</language>
 	</row>
 	<row id="msg_0631_T30GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: You’ve kept me waiting!\rHere! Take this!\r</language>
+		<language name="English">Clair: Kazałeś/aś mi czekać!\rProszę! Weź to!\r</language>
 	</row>
 	<row id="msg_0631_T30GYM0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: That contains Dragon Pulse.\rWell, Dragon Pulse is a kind of...umm...\nNever mind!\rIt’s a huge energy of some kind.\nIf you don’t want it, you don’t\fhave to take it.\r</language>
+		<language name="English">Clair: To zawiera atak Fala Smoka.\rCóż, Fala Smoka to taki rodzaj...\numm... Nieważne!\rTo jakaś ogromna energia.\nJeśli go nie chcesz, nie musisz\fgo brać.\r</language>
 	</row>
 	<row id="msg_0631_T30GYM0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What is this? You don’t have room?</language>
+		<language name="English">Co to ma być? Nie masz miejsca?</language>
 	</row>
 	<row id="msg_0631_T30GYM0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: What’s the matter?\rAren’t you headed to the\nPokémon League?\rYour face...it tells me you have some\nunfinished business...\rWait a sec!\nYou came from Wierzbna\fwhere Professor Elm’s Lab is, right?\rYou may want to go back to\nWierzbna.\rWhatever you have to face from now,\nit’ll be more difficult.\rBut don’t you dare give up!\rIf you do, I’ll feel even worse\nabout having lost to you!\r...\nGive it your all.</language>
+		<language name="English">Clair: Co się dzieje?\rNie zmierzasz do Ligi\nPokémon?\rTwoja twarz... mówi mi, że masz\njakąś niedokończoną sprawę...\rZaczekaj chwilę!\nPrzybyłeś/aś z Wierzbnej,\fgdzie jest Laboratorium Profesora\fElma, prawda?\rMoże powinieneś/aś wrócić\ndo Wierzbnej.\rCokolwiek cię teraz czeka,\nbędzie trudniejsze.\rAle nie waż się poddawać!\rBo jeśli to zrobisz, będę się\nczuła jeszcze gorzej z tym, że\fprzegrałam z tobą!\r...\nDaj z siebie wszystko.</language>
 	</row>
 	<row id="msg_0631_T30GYM0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blackthorn City Pokémon Gym</language>
+		<language name="English">Sala Pokémon w Blackthorn City</language>
 	</row>
 	<row id="msg_0631_T30GYM0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blackthorn City Pokémon Gym\rLeader: Clair\nCertified Trainer!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Sala Pokémon w Blackthorn City\rLiderka: Clair\nCertyfikowany Trener!\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 </body>
