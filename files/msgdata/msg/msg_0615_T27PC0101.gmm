@@ -2,22 +2,22 @@
 <body language="English">
 	<row id="msg_0615_T27PC0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bill: Hi, I’m Bill. And who are you?\rHmm, {STRVAR_1 3, 0, 0}, huh?\r</language>
+		<language name="English">Bill: Cześć, jestem Bill. A ty jak\nsię nazywasz?\rHmm, {STRVAR_1 3, 0, 0}, tak?\r</language>
 	</row>
 	<row id="msg_0615_T27PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know what?\nI’m the one who developed\fthe system to transfer Pokémon.\rBut it couldn’t have been done by\nme alone.\rFor example, do you know the Hoenn\nregion? This girl Lanette from Hoenn\fmade the Pokémon Storage System\feasier to use.\rMy friends all over the world are\nworking together to improve\fthe Pokémon trade and\fstorage systems.\rI have to hurry on back to Goldenrod\nand see my folks.\fBuh-bye!\r</language>
+		<language name="English">Wiesz co?\nTo ja opracowałem system do\fprzesyłania Pokémonów.\rAle nie mogłem tego zrobić sam.\rNa przykład, znasz region Hoenn?\nDziewczyna o imieniu Lanette z Hoenn\fuczyniła System Przechowywania\fPokémonów łatwiejszym w użyciu.\rMoi przyjaciele na całym świecie\nwspólnie pracują nad ulepszaniem\fsystemów wymiany i przechowywania\fPokémonów.\rMuszę się spieszyć z powrotem do\nGoldenrod, żeby zobaczyć rodzinę.\fPa-pa!\r</language>
 	</row>
 	<row id="msg_0615_T27PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kimono Girls are so pretty.\rThe way the Kimono Girls dance and\nthe way they use their Pokémon are\fboth marvels.</language>
+		<language name="English">Dziewczyny w Kimonach są takie\nładne.\rSposób, w jaki tańczą, i sposób,\nw jaki używają swoich Pokémonów,\fto cuda.</language>
 	</row>
 	<row id="msg_0615_T27PC0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty, the Gym Leader, is soooo cool.\rHis Pokémon are really tough, too.</language>
+		<language name="English">Morty, Lider Sali, jest taaaki\nfajny.\rJego Pokémony też są naprawdę\nmocne.</language>
 	</row>
 	<row id="msg_0615_T27PC0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lake of Rage...\nThe appearance of a red GYARADOS...\fI smell a conspiracy. I know it!</language>
+		<language name="English">Jezioro Wściekłości...\nPojawienie się czerwonego GYARADOS...\fWyczuwam spisek. Wiem to!</language>
 	</row>
 </body>
