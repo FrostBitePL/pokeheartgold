@@ -857,6 +857,7 @@ const ScrCmdFunc gScriptCmdTable[] = {
     ScrCmd_Capitalize,
     ScrCmd_BufferDeptStoreFloorNo,
     ScrCmd_NumpadInput,
+    ScrCmd_DebugStartCheck,
 };
 const u32 sNumScriptCmds = NELEMS(gScriptCmdTable);
 

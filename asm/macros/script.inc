@@ -4788,6 +4788,11 @@
 	.short \retvar
 	.endm
 
+	.macro DebugStartCheck retvar
+	.short 854
+	.short \retvar
+	.endm
+
 	; Script headers
 
 	.macro MapScript kind, script

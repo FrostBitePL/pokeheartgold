@@ -2,6 +2,8 @@
 #define _IN_SCRCMD_C
 
 #include "constants/events.h"
+#include "constants/items.h"
+#include "constants/moves.h"
 #include "constants/phone_contacts.h"
 #include "constants/trainers.h"
 
@@ -3656,6 +3658,94 @@ void Script_SetMonSeenFlagBySpecies(FieldSystem *fieldSystem, u16 species) {
     CreateMon(mon, species, 50, 32, FALSE, 0, OT_ID_PLAYER_ID, 0);
     Pokedex_SetMonSeenFlag(pokedex, mon);
     Heap_Free(mon);
+}
+
+struct DebugItemRange {
+    u16 itemId;
+    u16 lastItemId;
+    u16 quantity;
+};
+
+static const struct DebugItemRange sDebugBulkItemRanges[] = {
+    { 1, 16, 99 },      // Poké Balls
+    { 17, 112, 99 },    // Medicine, vitamins, evolution stones, fossils, misc
+    { 135, 136, 1 },    // Adamant/Lustrous Orb
+    { 149, 212, 99 },   // Berries
+    { 213, 327, 1 },    // Battle held items
+    { 328, 419, 1 },    // TM01-TM92
+    { 420, 427, 1 },    // HM01-HM08
+    { 492, 500, 1 },    // Special/event Poké Balls
+};
+
+static const u16 sDebugKeyItems[] = {
+    ITEM_TOWN_MAP, ITEM_VS__SEEKER, ITEM_COIN_CASE,
+    ITEM_OLD_ROD, ITEM_GOOD_ROD, ITEM_SUPER_ROD,
+    ITEM_BICYCLE, ITEM_APRICORN_BOX, ITEM_BERRY_POTS, ITEM_DOWSING_MCHN,
+};
+
+static void DebugSetup_GrantBadgesAndItems(FieldSystem *fieldSystem) {
+    PlayerProfile *profile = Save_PlayerData_GetProfile(fieldSystem->saveData);
+    Bag *bag = Save_Bag_Get(fieldSystem->saveData);
+    int i;
+    u16 item;
+
+    for (i = 0; i < 16; i++) {
+        PlayerProfile_SetBadgeFlag(profile, i);
+    }
+
+    for (i = 0; i < NELEMS(sDebugBulkItemRanges); i++) {
+        for (item = sDebugBulkItemRanges[i].itemId; item <= sDebugBulkItemRanges[i].lastItemId; item++) {
+            Bag_AddItem(bag, item, sDebugBulkItemRanges[i].quantity, HEAP_ID_FIELD1);
+        }
+    }
+
+    for (i = 0; i < NELEMS(sDebugKeyItems); i++) {
+        Bag_AddItem(bag, sDebugKeyItems[i], 1, HEAP_ID_FIELD1);
+    }
+}
+
+static void DebugSetup_FillParty(FieldSystem *fieldSystem) {
+    static const u16 sDebugPartySpecies[6] = {
+        SPECIES_MEWTWO, SPECIES_MEW, SPECIES_ARTICUNO, SPECIES_ZAPDOS, SPECIES_MOLTRES, SPECIES_DRAGONITE
+    };
+    Party *party = SaveArray_Party_Get(fieldSystem->saveData);
+    Pokemon *mon;
+    int i;
+
+    for (i = 0; i < NELEMS(sDebugPartySpecies); i++) {
+        mon = AllocMonZeroed(HEAP_ID_FIELD3);
+        ZeroMonData(mon);
+        CreateMon(mon, sDebugPartySpecies[i], 50, 31, FALSE, 0, OT_ID_PLAYER_ID, 0);
+        Party_AddMon(party, mon);
+        Heap_Free(mon);
+    }
+
+    // MEWTWO carries Cut/Fly/Surf/Strength, MEW carries the remaining field moves
+    PartyMonSetMoveInSlot(party, 0, 0, MOVE_CUT);
+    PartyMonSetMoveInSlot(party, 0, 1, MOVE_FLY);
+    PartyMonSetMoveInSlot(party, 0, 2, MOVE_SURF);
+    PartyMonSetMoveInSlot(party, 0, 3, MOVE_STRENGTH);
+
+    PartyMonSetMoveInSlot(party, 1, 0, MOVE_ROCK_SMASH);
+    PartyMonSetMoveInSlot(party, 1, 1, MOVE_WATERFALL);
+    PartyMonSetMoveInSlot(party, 1, 2, MOVE_WHIRLPOOL);
+    PartyMonSetMoveInSlot(party, 1, 3, MOVE_FLASH);
+}
+
+void DebugSetup(FieldSystem *fieldSystem) {
+    DebugSetup_GrantBadgesAndItems(fieldSystem);
+    DebugSetup_FillParty(fieldSystem);
+}
+
+BOOL ScrCmd_DebugStartCheck(ScriptContext *ctx) {
+    u16 *p_ret = ScriptGetVarPointer(ctx);
+    if (gSystem.heldKeys & PAD_BUTTON_B) {
+        DebugSetup(ctx->fieldSystem);
+        *p_ret = TRUE;
+    } else {
+        *p_ret = FALSE;
+    }
+    return FALSE;
 }
 
 BOOL ScrCmd_687(ScriptContext *ctx) {

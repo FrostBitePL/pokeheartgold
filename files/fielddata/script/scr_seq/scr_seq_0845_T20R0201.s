@@ -15,6 +15,9 @@
 	ScrDefEnd
 
 scr_seq_T20R0201_000:
+	DebugStartCheck VAR_SPECIAL_RESULT
+	Compare VAR_SPECIAL_RESULT, TRUE
+	GoToIfEq _T20R0201_debug_start
 	ScrCmd_609
 	LockAll
 	ApplyMovement obj_player, _00A4
@@ -48,6 +51,25 @@ scr_seq_T20R0201_000:
 	WaitMovement
 	CallStd std_fade_end_mom_music
 	SetVar VAR_SCENE_PLAYERS_HOUSE_1F, 1
+	ReleaseAll
+	End
+
+_T20R0201_debug_start:
+	LockAll
+	SetFlag FLAG_GOT_BAG
+	SetFlag FLAG_GOT_TRAINER_CARD
+	SetFlag FLAG_GOT_SAVE_BUTTON
+	SetFlag FLAG_GOT_OPTIONS_BUTTON
+	SetFlag FLAG_GOT_STARTER
+	SetFlag FLAG_GOT_POKEDEX
+	SetFlag FLAG_GOT_POKEGEAR
+	SetFlag FLAG_GOT_APRICORN_BOX
+	SetVar VAR_SCENE_PLAYERS_HOUSE_1F, 1
+	FadeScreen 6, 1, 0, RGB_BLACK
+	WaitFade
+	Warp MAP_NEW_BARK, 0, 690, 394, DIR_SOUTH
+	FadeScreen 6, 1, 1, RGB_BLACK
+	WaitFade
 	ReleaseAll
 	End
 
