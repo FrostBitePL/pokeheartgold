@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0468_T04FS0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’ll run into many Trainers on\nthe way to Cerulean Cape.\rThey want to see how they stack\nup against other Trainers.</language>
+		<language name="English">Natkniesz się na wielu Trenerów\nw drodze do Cerulean Cape.\rChcą sprawdzić, jak wypadają\nna tle innych Trenerów.</language>
 	</row>
 	<row id="msg_0468_T04FS0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Misty is about the only person in town\nwho can beat the Trainers at\fCerulean Cape.</language>
+		<language name="English">Misty jest chyba jedyną osobą\nw mieście, która potrafi pokonać\fTrenerów na Cerulean Cape.</language>
 	</row>
 </body>
