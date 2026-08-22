@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0579_T24R0701_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You came from Olivine?\rDo you remember the four islands\nalong the way?\rI heard that a mythical sea creature is\nhiding in them.</language>
+		<language name="English">Przybyłeś/aś z Olivine?\rPamiętasz cztery wyspy\npo drodze?\rSłyszałem, że ukrywa się na nich\nmityczne morskie stworzenie.</language>
 	</row>
 	<row id="msg_0579_T24R0701_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I heard that you can only see it if\nyou have a Silver Wing.\rIt must have the same scent as\nthe creature.</language>
+		<language name="English">Słyszałem, że można je zobaczyć\ntylko mając Srebrne Skrzydło.\rMusi mieć ten sam zapach\nco to stworzenie.</language>
 	</row>
 	<row id="msg_0579_T24R0701_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ve heard that the whirlpools around\nthe islands are caused by the\fsea creature.\rYou might need a special move to\nget past them.</language>
+		<language name="English">Słyszałem, że wiry wodne wokół\nwysp są powodowane przez to\fmorskie stworzenie.\rMoże potrzebujesz specjalnego ataku,\nżeby je pokonać.</language>
 	</row>
 </body>
