@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0382_R32R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Ruins of Alph.\nA look-and-touch tourist site.\fTry the sliding stone panels!</language>
+		<language name="English">Ruiny Alph.\nMiejsce turystyczne do zwiedzania\fi dotykania. Wypróbuj przesuwane\fkamienne panele!</language>
 	</row>
 	<row id="msg_0382_R32R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re studying the ruins?\nI see a scientist in the making.</language>
+		<language name="English">Badasz ruiny?\nWidzę w tobie przyszłego naukowca.</language>
 	</row>
 	<row id="msg_0382_R32R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are drawings on stone panels.\nI tried moving them.\fI wonder what they are.</language>
+		<language name="English">Na kamiennych panelach są rysunki.\nSpróbowałem je przesunąć.\fZastanawiam się, czym one są.</language>
 	</row>
 </body>
