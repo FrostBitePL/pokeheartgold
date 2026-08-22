@@ -2,39 +2,39 @@
 <body language="English">
 	<row id="msg_0564_T23_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ilex Forest Ahead\nEnter through the gate.</language>
+		<language name="English">Ilex Forest przed tobą\nWejdź przez bramę.</language>
 	</row>
 	<row id="msg_0564_T23_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: ...Tell me something.\rIs it true that Team Rocket has\nreturned?\rWhat? You beat them? Hah!\nQuit lying.\rAre you serious?\nThen let’s see how good you are.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}: ...Powiedz mi coś.\rCzy to prawda, że Team Rocket\npowrócił?\rCo? Pokonałeś ich? Ha!\nPrzestań kłamać.\rMówisz poważnie?\nW takim razie zobaczmy, ile jesteś\fwart.\r</language>
 	</row>
 	<row id="msg_0564_T23_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: I hate the weak.\rPokémon, Trainers.\nIt doesn’t matter who or what.\rI hate to see them hanging around.\nThat goes for Team Rocket, too.\rThey think they are big and tough\nas long as they are in a group.\rBut get them alone, and they’re weak.\nI hate them all.\rYou stay out of my way.\nYou won’t be an exception\fif you get in my way.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}: Nienawidzę słabych.\rPokémonów, Trenerów.\nNieważne kto ani co.\rNienawidzę patrzeć, jak się kręcą.\nDotyczy to też Team Rocket.\rMyślą, że są wielcy i twardzi,\ndopóki są w grupie.\rAle weź ich osobno, a są słabi.\nNienawidzę ich wszystkich.\rTrzymaj się z dala ode mnie.\nNie będziesz wyjątkiem,\fjeśli wejdziesz mi w drogę.\r</language>
 	</row>
 	<row id="msg_0564_T23_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nothing is going on.\nIt’s unsafe to go in there, so I’m\fstanding guard to make sure\fpeople don’t wander in.\rAm I not a good Samaritan?</language>
+		<language name="English">Nic się nie dzieje.\nTam jest niebezpiecznie, więc\fstoję na straży, by upewnić się,\fże nikt tam nie wejdzie.\rCzyż nie jestem dobrym Samarytaninem?</language>
 	</row>
 	<row id="msg_0564_T23_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you know about SlowpokeTail?\nI heard it’s tasty!\rAren’t you glad I told you that?</language>
+		<language name="English">Wiesz coś o SlowpokeTail?\nSłyszałem, że jest smaczny!\rNie cieszysz się, że ci o tym\npowiedziałem?</language>
 	</row>
 	<row id="msg_0564_T23_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The SLOWPOKE have disappeared\nfrom town...\rI heard their tails are being sold\nsomewhere.</language>
+		<language name="English">SLOWPOKE zniknęły\nz miasta...\rSłyszałem, że gdzieś sprzedają\nich ogony.</language>
 	</row>
 	<row id="msg_0564_T23_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The SLOWPOKE have returned.\rKnowing them, they could’ve just been\ntaking it easy somewhere.</language>
+		<language name="English">SLOWPOKE wróciły.\rZnając je, mogły po prostu\ngdzieś leniuchować.</language>
 	</row>
 	<row id="msg_0564_T23_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you come to get Kurt to make\nsome Poké Balls?\fA lot of people do just that.</language>
+		<language name="English">Przyszedłeś, żeby Kurt zrobił ci\njakieś Poké Bale?\fWiele ludzi po to tu przychodzi.</language>
 	</row>
 	<row id="msg_0564_T23_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cut through Azalea and you’ll be in\nIlex Forest.\rBut these skinny trees make it\nimpossible to get through.\rThe Charcoal Man’s Pokémon can cut\ndown trees.</language>
+		<language name="English">Przetnij przez Azalea, a znajdziesz\nsię w Ilex Forest.\rAle te cienkie drzewa uniemożliwiają\nprzejście.\rPokémon Węglarza potrafi\nściąć drzewa.</language>
 	</row>
 	<row id="msg_0564_T23_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -42,42 +42,42 @@
 	</row>
 	<row id="msg_0564_T23_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Yawn?</language>
+		<language name="English">...Ziew?</language>
 	</row>
 	<row id="msg_0564_T23_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Azalea Town\nLiving Happily with Pokémon</language>
+		<language name="English">Azalea Town\nSzczęśliwe Życie z Pokémonami</language>
 	</row>
 	<row id="msg_0564_T23_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kurt’s House\rApricorn and Nothing Else\nThe Stubborn Poké Ball Creator</language>
+		<language name="English">Dom Kurta\rApricorny i Nic Więcej\nUparty Twórca Poké Bali</language>
 	</row>
 	<row id="msg_0564_T23_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Azalea Town Pokémon Gym\nLeader: Bugsy\fThe Walking Bug Pokémon Encyclopedia</language>
+		<language name="English">Sala Pokémon w Azalea Town\nLider: Bugsy\fChodząca Encyklopedia Pokémonów\fRobaczkowych</language>
 	</row>
 	<row id="msg_0564_T23_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SLOWPOKE Well\nAlso known as the Rainmaker Well.\rLocals believe that a SLOWPOKE’s\nyawn summons the rain.\rRecords show that a SLOWPOKE’s yawn\nended a drought 400 years ago.</language>
+		<language name="English">Studnia SLOWPOKE\nZnana też jako Studnia Deszczu.\rMiejscowi wierzą, że ziewnięcie\nSLOWPOKE przywołuje deszcz.\rZapiski mówią, że ziewnięcie SLOWPOKE\nzakończyło suszę 400 lat temu.</language>
 	</row>
 	<row id="msg_0564_T23_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Charcoal Kiln\rWe let our FARFETCH’D fetch branches\nfor charcoal!</language>
+		<language name="English">Piec Węglowy\rPozwalamy naszym FARFETCH’D\nprzynosić gałęzie na węgiel!</language>
 	</row>
 	<row id="msg_0564_T23_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Who are you?\nYou don’t know us?\rWe are...\nTeam Rocket!\r...What?\nWe broke up a while ago?\rGive me a break!\nWe have not broken up!\rActually we did once.\nBut we have come back to\fpursue Giovanni’s ambition.\rEnough talking.\nShut up and just beat it!\r</language>
+		<language name="English">Kim jesteś?\nNie znasz nas?\rJesteśmy...\nTeam Rocket!\r...Co?\nRozwiązaliśmy się jakiś czas temu?\rDaj spokój!\nWcale się nie rozwiązaliśmy!\rNo, właściwie raz tak było.\nAle wróciliśmy, by realizować\fambicje Giovanniego.\rDość gadania.\nZamknij się i spadaj!\r</language>
 	</row>
 	<row id="msg_0564_T23_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{SIZE 200}Thud!{SIZE 100}\r</language>
+		<language name="English">{SIZE 200}Łup!{SIZE 100}\r</language>
 	</row>
 	<row id="msg_0564_T23_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We have this tough guy called Kurt\nin this town.\fHe should be able to take care of it...</language>
+		<language name="English">Mamy w tym mieście twardziela\nzwanego Kurt.\fPowinien sobie z tym poradzić...</language>
 	</row>
 	<row id="msg_0564_T23_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I knew we could count on Kurt!</language>
+		<language name="English">Wiedziałem, że możemy liczyć na Kurta!</language>
 	</row>
 </body>
