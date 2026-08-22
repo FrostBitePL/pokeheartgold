@@ -2,15 +2,15 @@
 <body language="English">
 	<row id="msg_0467_T04_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kanto’s Power Plant?\rIt’s near the end of Route 9, the road\nthat heads east from here.\rI think there was an accident of\nsome sort there.</language>
+		<language name="English">Elektrownia Kanto?\rJest blisko końca Route 9, drogi\nprowadzącej stąd na wschód.\rMyślę, że był tam jakiś\nwypadek.</language>
 	</row>
 	<row id="msg_0467_T04_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re collecting every single kind\nof Pokémon?\rThat must be quite a challenge, but\nit sounds fun, too.</language>
+		<language name="English">Zbierasz każdy pojedynczy rodzaj\nPokémona?\rTo musi być niezłe wyzwanie, ale\nbrzmi też zabawnie.</language>
 	</row>
 	<row id="msg_0467_T04_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The cape in the north is a good\nplace for dates.\rGirls like it!\rJust between you and me...\nMisty, the Gym Leader, is sometimes\fthere at the cape.\rGuess I don’t stand a chance!</language>
+		<language name="English">Przylądek na północy to dobre\nmiejsce na randki.\rDziewczyny to lubią!\rTylko między nami...\nMisty, Liderka Sali, czasem tam\fbywa, na przylądku.\rChyba nie mam żadnych szans!</language>
 	</row>
 	<row id="msg_0467_T04_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -18,62 +18,62 @@
 	</row>
 	<row id="msg_0467_T04_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SLOWBRO is full of the fighting spirit!</language>
+		<language name="English">SLOWBRO jest pełen ducha walki!</language>
 	</row>
 	<row id="msg_0467_T04_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My SLOWBRO and I make an\nawesome combination!\rSLOWBRO, show me your Psychic!\r...!\nSLOWBRO’s Psychic hits hard!</language>
+		<language name="English">Ja i mój SLOWBRO tworzymy\nniesamowitą kombinację!\rSLOWBRO, pokaż mi swoją Psychikę!\r...!\nPsychika SLOWBRO uderza mocno!</language>
 	</row>
 	<row id="msg_0467_T04_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This shady character asked me just now\nhow to get to the Power Plant.\rHe said it must be kept\n“...confidential.”\rWhat does that mean?</language>
+		<language name="English">Ten podejrzany typ zapytał mnie\nwłaśnie, jak dotrzeć do Elektrowni.\rPowiedział, że musi to zostać\n„...poufne”.\rCo to niby ma znaczyć?</language>
 	</row>
 	<row id="msg_0467_T04_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A shady character sneaked into\nthe Gym! What business does\fhe have with Misty?</language>
+		<language name="English">Podejrzany typ wkradł się\ndo Sali! Jaki interes ma\fz Misty?</language>
 	</row>
 	<row id="msg_0467_T04_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I saw this shady guy in black go\noff toward the Cape.</language>
+		<language name="English">Widziałem tego podejrzanego\nfaceta w czerni, idącego w stronę\fPrzylądka.</language>
 	</row>
 	<row id="msg_0467_T04_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m a huge fan of Cerulean Gym’s Misty.</language>
+		<language name="English">Jestem wielkim fanem Misty z Sali\nw Cerulean.</language>
 	</row>
 	<row id="msg_0467_T04_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I heard of a cave here that had\nhorribly powerful Pokémon in it.\fThat’s why I came here.\r</language>
+		<language name="English">Słyszałem o jaskini tutaj, w której\nsą przerażająco silne Pokémony.\fDlatego tu przyjechałem.\r</language>
 	</row>
 	<row id="msg_0467_T04_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayuh?\rMy Dowsing Machine is responding...</language>
+		<language name="English">Ajuh?\rMoja Dowsing Machine reaguje...</language>
 	</row>
 	<row id="msg_0467_T04_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is...\nThe notorious Cerulean Cave!\rHorribly powerful Pokémon live here.\nOnly those who have defeated all eight\fKanto Gym Leaders are allowed to\fchallenge it.</language>
+		<language name="English">To jest...\nOsławiona Cerulean Cave!\rMieszkają tu przerażająco silne\nPokémony. Tylko ci, którzy pokonali\fwszystkich ośmiu Liderów Sal Kanto,\fmogą się tu zmierzyć.</language>
 	</row>
 	<row id="msg_0467_T04_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cerulean City\nThe Floral Lagoon City</language>
+		<language name="English">Cerulean City\nMiasto Kwiecistej Laguny</language>
 	</row>
 	<row id="msg_0467_T04_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cerulean City Pokémon Gym\nLeader: Misty\fThe Tomboyish Mermaid</language>
+		<language name="English">Sala Pokémon w Cerulean City\nLiderka: Misty\fChłopczyca-Syrenka</language>
 	</row>
 	<row id="msg_0467_T04_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trendsetter of the Bicycle Boom\rCerulean Bike Main Shop</language>
+		<language name="English">Twórca Trendu Rowerowego Boomu\rGłówny Sklep Rowerowy w Cerulean</language>
 	</row>
 	<row id="msg_0467_T04_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s a notice here...\rStamp out thievery and make the city\na friendlier, more cheerful place!\fCerulean Police</language>
+		<language name="English">Jest tu ogłoszenie...\rWytępmy złodziejstwo i uczyńmy to\nmiasto przyjaźniejszym, weselszym\fmiejscem!\fPolicja Cerulean</language>
 	</row>
 	<row id="msg_0467_T04_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rt. 24 Ahead\nEast to Cerulean Cape</language>
+		<language name="English">Route 24 Przed Tobą\nNa Wschód do Cerulean Cape</language>
 	</row>
 	<row id="msg_0467_T04_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s locked...</language>
+		<language name="English">Jest zamknięte...</language>
 	</row>
 </body>
