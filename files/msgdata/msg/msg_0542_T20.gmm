@@ -172,4 +172,12 @@
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Kamień jest zimny i milczący.\nMoże obudzi się, gdy zacznę\nswoją podróż z Pokémonem?</language>
 	</row>
+	<row id="msg_0542_T20_00043" index="43">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">TEST A: numpad wrocil, numer OK.</language>
+	</row>
+	<row id="msg_0542_T20_00044" index="44">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">TEST B: GiveMon wrocil bez crasha.</language>
+	</row>
 </body>

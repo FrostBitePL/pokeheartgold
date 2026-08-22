@@ -1858,11 +1858,17 @@ scr_seq_T20_018:
 	WaitButton
 	CloseMsg
 	NumpadInput VAR_TEMP_x4000
+	NPCMsg msg_0542_T20_00043
+	WaitButton
+	CloseMsg
 	Compare VAR_TEMP_x4000, 0
 	GoToIfEq _T20_018_invalid
 	Compare VAR_TEMP_x4000, 151
 	GoToIfGt _T20_018_invalid
 	GiveMon VAR_TEMP_x4000, 25, ITEM_NONE, 0, 0, VAR_SPECIAL_RESULT
+	NPCMsg msg_0542_T20_00044
+	WaitButton
+	CloseMsg
 	Compare VAR_SPECIAL_RESULT, 0
 	GoToIfEq _T20_018_full
 	BufferSpeciesName 1, VAR_TEMP_x4000, 0, 0

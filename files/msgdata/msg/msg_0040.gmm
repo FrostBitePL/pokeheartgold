@@ -174,15 +174,15 @@
 	</row>
 	<row id="msg_0040_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mom: {STRVAR_1 3, 0, 0}!\nWelcome home.\rIt sounds like you had quite the\nexperience out there.\rMaybe you should take a quick\nrest so you can relax.\r...\n...</language>
+		<language name="English">Mama: {STRVAR_1 3, 0, 0}!\nWitaj w domu.\rBrzmi na to, że sporo dziś\nprzeżyłeś.\rMoże powinieneś trochę\nodpocząć i się zrelaksować.\r...\n...</language>
 	</row>
 	<row id="msg_0040_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mom: Oh, good! You and your\nPokémon are looking great.\rOh, yes, I heard from Professor Elm.\rHe said that a Pokémon’s energy is\nmeasured in HP (Hit Points).\rIf your Pokémon lose their HP,\nyou can restore it at any\fPokémon Center.\rIf you’re going to travel far away,\nthe smart Trainer stocks up on\fPotions at the Pokémon Mart.\rMake me proud, honey!\nTake care!</language>
+		<language name="English">Mama: Cieszę się! Ty i twój\nPokémon świetnie wyglądacie.\rAch tak, słyszałam od Profesora\nMariusza.\rPowiedział, że energia Pokémona\nmierzona jest w HP (punktach życia).\rJeśli twój Pokémon straci HP,\nmożesz go uzdrowić w każdym\fCentrum Pokémon.\rJeśli wybierasz się w daleką podróż,\nmądry Trener zaopatruje się\fw Mikstury w Sklepie Pokémon.\rSpraw, bym była dumna, kochanie!\nUważaj na siebie!</language>
 	</row>
 	<row id="msg_0040_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mom: Oh, good! You and your\nPokémon are looking great.\rOh yes, {STRVAR_1 3, 0, 0}, your Pokémon\nwill faint if it runs out of HP.\rIf your Pokémon loses its HP, come\nhome before it faints.\rIt will be healed to full health by\ntaking a rest.\rWell, honey, make me proud!\nTake care!</language>
+		<language name="English">Mama: Cieszę się! Ty i twój\nPokémon świetnie wyglądacie.\rAch tak, {STRVAR_1 3, 0, 0}, twój Pokémon\nzemdleje, jeśli straci wszystkie HP.\rJeśli twój Pokémon straci HP,\nwróć do domu, zanim zemdleje.\rZostanie w pełni uzdrowiony,\ngdy odpocznie.\rNo cóż, kochanie, spraw, bym\nbyła dumna! Uważaj na siebie!</language>
 	</row>
 	<row id="msg_0040_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
