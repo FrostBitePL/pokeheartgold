@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0525_T10R0401_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am Bruno of the Elite Four.\rI always train to the extreme because\nI believe in our potential.\rThat is how we became strong.\nCan you withstand our power?\rHm? I see no fear in you. You look\ndetermined. Perfect for battle!\rReady, {STRVAR_1 3, 0, 0}?\rYou will bow down to our\noverwhelming power!\rHoo hah!\r</language>
+		<language name="English">Jestem Bruno z Elitarnej Czwórki.\rZawsze trenuję do granic możliwości,\nbo wierzę w nasz potencjał.\rTak właśnie staliśmy się silni.\nCzy wytrzymasz naszą moc?\rHm? Nie widzę w tobie strachu.\nWyglądasz na zdeterminowanego/ą.\fIdealnie do walki!\rGotowy/a, {STRVAR_1 3, 0, 0}?\rUgniesz się przed naszą\nprzytłaczającą mocą!\rHoo hah!\r</language>
 	</row>
 	<row id="msg_0525_T10R0401_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Having lost, I have no right to\nsay anything...\fGo face your next challenge!\r</language>
+		<language name="English">Skoro przegrałem, nie mam prawa\nnic mówić...\fIdź, stawić czoła następnemu wyzwaniu!\r</language>
 	</row>
 	<row id="msg_0525_T10R0401_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Having lost, I have no right to\nsay anything...\fGo face your next challenge!</language>
+		<language name="English">Skoro przegrałem, nie mam prawa\nnic mówić...\fIdź, stawić czoła następnemu wyzwaniu!</language>
 	</row>
 </body>
