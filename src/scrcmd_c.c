@@ -3732,7 +3732,7 @@ static void DebugSetup_FillParty(FieldSystem *fieldSystem) {
     PartyMonSetMoveInSlot(party, 1, 3, MOVE_FLASH);
 }
 
-void DebugSetup(FieldSystem *fieldSystem) {
+static void DebugSetup(FieldSystem *fieldSystem) {
     DebugSetup_GrantBadgesAndItems(fieldSystem);
     DebugSetup_FillParty(fieldSystem);
 }
