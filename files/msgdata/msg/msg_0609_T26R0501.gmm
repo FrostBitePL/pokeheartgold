@@ -2,50 +2,50 @@
 <body language="English">
 	<row id="msg_0609_T26R0501_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Along the way to Cianwood, there are\nfour deserted islands.\rBad kids are taken to the islands\nas punishment!</language>
+		<language name="English">Po drodze do Cianwood są cztery\nbezludne wyspy.\rNiegrzeczne dzieci wysyła się na\nte wyspy jako karę!</language>
 	</row>
 	<row id="msg_0609_T26R0501_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whenever I get in trouble, Daddy\nalways scares me.</language>
+		<language name="English">Ilekroć mam kłopoty, tatuś zawsze\nmnie straszy.</language>
 	</row>
 	<row id="msg_0609_T26R0501_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My sister gave me a lot of Seals!\fHere, have some!\r</language>
+		<language name="English">Moja siostra dała mi mnóstwo\nPieczątek!\fProszę, weź trochę!\r</language>
 	</row>
 	<row id="msg_0609_T26R0501_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow!\nYou have so many Seals!\rYou can cover your Poké Balls in Seals!</language>
+		<language name="English">Wow!\nMasz tyle Pieczątek!\rMożesz obkleić nimi swoje Poké Bale!</language>
 	</row>
 	<row id="msg_0609_T26R0501_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I can give you better ones tomorrow!</language>
+		<language name="English">Mogę dać ci lepsze jutro!</language>
 	</row>
 	<row id="msg_0609_T26R0501_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\nYou don’t have a Seal Case?\fI was gonna give you some Seals...</language>
+		<language name="English">Co?\nNie masz Pudełka na Pieczątki?\fChciałam ci dać trochę Pieczątek...</language>
 	</row>
 	<row id="msg_0609_T26R0501_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There!\nI’ll give you this!\r</language>
+		<language name="English">No proszę!\nDam ci to!\r</language>
 	</row>
 	<row id="msg_0609_T26R0501_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have another!\r</language>
+		<language name="English">Weź jeszcze jedną!\r</language>
 	</row>
 	<row id="msg_0609_T26R0501_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have more!\r</language>
+		<language name="English">Weź więcej!\r</language>
 	</row>
 	<row id="msg_0609_T26R0501_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stick them on your Ball Capsules!</language>
+		<language name="English">Naklej je na swoje Kapsułki do Bali!</language>
 	</row>
 	<row id="msg_0609_T26R0501_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Seal Case is full!</language>
+		<language name="English">Twoje Pudełko na Pieczątki jest pełne!</language>
 	</row>
 	<row id="msg_0609_T26R0501_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {STRVAR_1 10, 0, 0} was\nput away in the Seal Case.\r</language>
+		<language name="English">{STRVAR_1 10, 0, 0} zostało schowane\nw Pudełku na Pieczątki.\r</language>
 	</row>
 </body>
