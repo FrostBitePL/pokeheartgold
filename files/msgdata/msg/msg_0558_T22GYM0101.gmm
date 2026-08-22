@@ -26,7 +26,7 @@
 	</row>
 	<row id="msg_0558_T22GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hej! Przyszły Mistrzu!\nJesteś tu pewnie, by rzucić wyzwanie\fFalknerowi, Liderowi Sali, prawda?\rWitaj serdecznie.\n...Prawie!\rW tym mieście jest wieża zwana\nWieżą Kiełków, gdzie Trenerzy\fprzychodzą się szkolić.\rWyzwanie Falknera może być zbyt\ntrudne, jeśli nie przeszedłeś\fich treningu.\fHa ha ha!</language>
+		<language name="English">Hej! Przyszły Mistrzu!\nJesteś tu pewnie, by rzucić wyzwanie\fFalknerowi, Liderowi Sali, prawda?\rWitaj serdecznie.\n...Prawie!\rW tym mieście jest wieża zwana\nSprout Tower, gdzie Trenerzy\fprzychodzą się szkolić.\rWyzwanie Falknera może być zbyt\ntrudne, jeśli nie przeszedłeś\fich treningu.\fHa ha ha!</language>
 	</row>
 	<row id="msg_0558_T22GYM0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>

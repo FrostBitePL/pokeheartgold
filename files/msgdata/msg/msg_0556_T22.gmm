@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0556_T22_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Były doniesienia o Pokémonach typu\nDuch pojawiających się w Wieży Kiełków.\rMówią, że ataki typu Normalny\nnie mają na nie żadnego wpływu.</language>
+		<language name="English">Były doniesienia o Pokémonach typu\nDuch pojawiających się w Sprout Tower.\rMówią, że ataki typu Normalny\nnie mają na nie żadnego wpływu.</language>
 	</row>
 	<row id="msg_0556_T22_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -46,7 +46,7 @@
 	</row>
 	<row id="msg_0556_T22_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wieża Kiełków\rDoświadcz Drogi Pokémonów,\nby odrzucić swoje wątpliwości.</language>
+		<language name="English">Sprout Tower\rDoświadcz Drogi Pokémonów,\nby odrzucić swoje wątpliwości.</language>
 	</row>
 	<row id="msg_0556_T22_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
