@@ -31,6 +31,5 @@
 #define obj_T20_gsmama                       7
 #define obj_T20_var_1_2                      8
 #define obj_T20_tsure_poke_static_marill_2     9
-#define obj_T20_easter_egg_rock              10
 
 #endif //SCR_SEQ_T20_H_
