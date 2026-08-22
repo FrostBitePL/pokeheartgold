@@ -2,66 +2,66 @@
 <body language="English">
 	<row id="msg_0378_R31_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Hnuurg ...Huh?\rI walked too far today looking\nfor Pokémon.\rMy feet hurt and I’m sleepy...\rIf I were a wild Pokémon, I’d be\neasy to catch...\r...Zzzz...</language>
+		<language name="English">...Hnyy ...Co?\rDziś zaszedłem za daleko,\nszukając Pokémonów.\rBolą mnie stopy i chce mi się spać...\rGdybym był dzikim Pokémonem,\nłatwo byłoby mnie złapać...\r...Zzzz...</language>
 	</row>
 	<row id="msg_0378_R31_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Hnuurg! ...Huh?\rI feel like reading some words\non a piece of paper or something...\r...Zzz...\n...!!\r</language>
+		<language name="English">...Hnyy! ...Co?\rMam ochotę poczytać jakieś słowa\nna kartce papieru czy coś...\r...Zzz...\n...!!\r</language>
 	</row>
 	<row id="msg_0378_R31_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? What?\nWhat about that Pokémon?\fI don’t have any mail.\rZzz...</language>
+		<language name="English">Co? Co takiego?\nCo z tym Pokémonem?\fNie mam żadnej Poczty.\rZzz...</language>
 	</row>
 	<row id="msg_0378_R31_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Mail isn’t for me.</language>
+		<language name="English">Ta Poczta nie jest do mnie.</language>
 	</row>
 	<row id="msg_0378_R31_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, hey! I got an email!\r...\nHuh?\fI don’t know this Pokémon.\fI’ll just let you take care of it.\r</language>
+		<language name="English">Och, hej! Dostałem e-mail!\r...\nCo?\fNie znam tego Pokémona.\fPozwolę, żebyś się nim zaopiekował.\r</language>
 	</row>
 	<row id="msg_0378_R31_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} handed over the Pokémon\nholding the Mail.</language>
+		<language name="English">{STRVAR_1 3, 0, 0} przekazał(a) Pokémona\ntrzymającego Pocztę.</language>
 	</row>
 	<row id="msg_0378_R31_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} handed over the Mail.</language>
+		<language name="English">{STRVAR_1 3, 0, 0} przekazał(a) Pocztę.</language>
 	</row>
 	<row id="msg_0378_R31_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let’s see...\r“Thank you for your Mail.\nIt was such an exciting adventure.\rI did not like ZUBAT, though...”\nThat’s what it says.\rI went to a dark cave the other day\nwith a friend.\rThat cave leads to another route.\nBy the way, I must thank you for\fbeing so kind.\rI’d like to do something good in return.\r</language>
+		<language name="English">Zobaczmy...\r„Dziękuję za twoją Pocztę.\nTo była taka ekscytująca przygoda.\rNie polubiłem jednak ZUBATA...”\nTak tu napisano.\rWybrałem się niedawno z przyjacielem\ndo mrocznej jaskini.\rTa jaskinia prowadzi do innej trasy.\nSwoją drogą, muszę ci podziękować\fza twoją uprzejmość.\rChciałbym się jakoś odwdzięczyć.\r</language>
 	</row>
 	<row id="msg_0378_R31_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TM44 is...\n...Zzz...\f...\r...Umm... Rest!\rThe phrase “recover fast” became\nshortened to “Rest,” you see?\fThis is a move to sleep and recover HP.</language>
+		<language name="English">TM44 to...\n...Zzz...\f...\r...Yyy... Odpoczynek!\rFraza „szybka regeneracja” skróciła\nsię do „Odpoczynku”, rozumiesz?\fTo atak, który usypia i regeneruje HP.</language>
 	</row>
 	<row id="msg_0378_R31_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...I’m\nsleepy...</language>
+		<language name="English">...Chce mi\nsię spać...</language>
 	</row>
 	<row id="msg_0378_R31_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Wait!\nThat would make you not have\fany Pokémon!</language>
+		<language name="English">...Czekaj!\nWtedy nie miałbyś\fżadnego Pokémona!</language>
 	</row>
 	<row id="msg_0378_R31_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I found a good Pokémon in Dark Cave.\nI’m going to raise it to take on\fFalkner.\rHe’s the leader of Violet City’s Gym.</language>
+		<language name="English">Znalazłem dobrego Pokémona w Mrocznej\nJaskini. Wychowam go, by stawić czoła\fFalknerowi.\rTo Lider Sali w Łażanach.</language>
 	</row>
 	<row id="msg_0378_R31_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dark Cave...\rIf a Pokémon could light it up,\nI’d explore it.</language>
+		<language name="English">Mroczna Jaskinia...\rGdyby jakiś Pokémon mógł ją\noświetlić, zbadałbym ją.</language>
 	</row>
 	<row id="msg_0378_R31_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rt. 31\nWest to Violet City</language>
+		<language name="English">Trasa 31\nZachód do Łażan</language>
 	</row>
 	<row id="msg_0378_R31_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dark Cave</language>
+		<language name="English">Mroczna Jaskinia</language>
 	</row>
 	<row id="msg_0378_R31_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? What is it?\nIs that a Pokémon Egg?\fI’ve never seen one.\r...Zzz...</language>
+		<language name="English">Co? Co to jest?\nCzy to Jajko Pokémona?\fNigdy takiego nie widziałem.\r...Zzz...</language>
 	</row>
 </body>
