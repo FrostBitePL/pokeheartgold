@@ -2,34 +2,34 @@
 <body language="English">
 	<row id="msg_0457_T02R0301_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to Trainer House, the newest\nand most happening place in Viridian.\fWe’re open to Trainers only.\rYou can battle against the best\nof the best right downstairs.</language>
+		<language name="English">Witaj w Domu Trenera, najnowszym\ni najbardziej gorącym miejscu\fw Viridian. Wpuszczamy tylko Trenerów.\rMożesz zawalczyć z najlepszymi\nz najlepszych na dole.</language>
 	</row>
 	<row id="msg_0457_T02R0301_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Viridian is the town closest to\nIndigo Plateau.\rThey built this place because so\nmany Trainers pass through on their\fway up to Indigo Plateau.</language>
+		<language name="English">Viridian to miasto najbliżej\nIndigo Plateau.\rZbudowali to miejsce, bo tak wielu\nTrenerów przechodzi tędy w drodze\fdo Indigo Plateau.</language>
 	</row>
 	<row id="msg_0457_T02R0301_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">They hold practice battles\ndownstairs here.\rI would love to see how well a\nTrainer from Johto battles.</language>
+		<language name="English">Na dole odbywają się\nwalki treningowe.\rBardzo chciałbym zobaczyć, jak dobrze\nwalczy Trener z Johto.</language>
 	</row>
 	<row id="msg_0457_T02R0301_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You go all over the place and battle\nall kinds of Trainers.\rThis is not just to train your Pokémon.\nThis is also a chance to experience\fmany things yourself.\rI bet the Champion from\nPallet Town went to all the\fcities and towns in Kanto.</language>
+		<language name="English">Chodzisz wszędzie i walczysz\nz każdym rodzajem Trenerów.\rTo nie tylko trening twoich Pokémonów.\nTo także okazja, by samemu\fdoświadczyć wielu rzeczy.\rZałożę się, że Mistrz z Pallet Town\nodwiedził wszystkie miasta\fi miasteczka w Kanto.</language>
 	</row>
 	<row id="msg_0457_T02R0301_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whew...\rI’m taking a rest from\nPokémon battles.</language>
+		<language name="English">Uff...\rOdpoczywam od walk\nPokémonów.</language>
 	</row>
 	<row id="msg_0457_T02R0301_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Practice battles are held in the\nTraining Hall downstairs.\rSkilled Trainers are invited to\nparticipate.\rCommunicate with your friends through\nthe Pokéwalker to bring them here!\rBe aware that you cannot bring them\nhere once you are downstairs!</language>
+		<language name="English">Walki treningowe odbywają się\nw Sali Treningowej na dole.\rZapraszamy do udziału\nuzdolnionych Trenerów.\rSkomunikuj się ze znajomymi przez\nPokéwalkera, żeby ich tu sprowadzić!\rMiej na uwadze, że nie możesz ich\ntu sprowadzić, gdy jesteś już na dole!</language>
 	</row>
 	<row id="msg_0457_T02R0301_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer House Rules\r1. You can challenge various Trainers\n    once a day.\r2. All Pokémon over Level 50 become\n    Level 50 for the battle.\r3. You cannot use items from your Bag.\r4. Afterward, your Pokémon will recover\n    and the held item will be restored.\r5. You cannot earn experience from\n    the battle.\r6. You earn Battle Points instead!\rSkilled Trainers are invited to\nparticipate.</language>
+		<language name="English">Zasady Domu Trenera\r1. Możesz rzucić wyzwanie różnym\n    Trenerom raz dziennie.\r2. Wszystkie Pokémony powyżej\n    Poziomu 50 stają się Poziomem 50\r    na czas walki.\r3. Nie możesz używać przedmiotów\n    z plecaka.\r4. Po walce twoje Pokémony wrócą\n    do zdrowia, a trzymany przedmiot\r    zostanie przywrócony.\r5. Nie zdobywasz doświadczenia\n    z tej walki.\r6. Zamiast tego zdobywasz Punkty\n    Walki!\rZapraszamy do udziału\nuzdolnionych Trenerów.</language>
 	</row>
 	<row id="msg_0457_T02R0301_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...What’s this?\nA strategy memo?\rThis writing looks like ONIX tracks...\fIt’s completely illegible...</language>
+		<language name="English">...Co to jest?\nNotatka ze strategią?\rTo pismo wygląda jak ślady ONIXA...\fJest kompletnie nieczytelne...</language>
 	</row>
 </body>
