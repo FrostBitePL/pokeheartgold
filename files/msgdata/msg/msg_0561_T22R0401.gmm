@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0561_T22R0401_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">She uses the names of all the foods\nshe really enjoys eating.\rFor the nicknames she gives to her\nPokémon, I mean.</language>
+		<language name="English">Ona używa nazw wszystkich jedzeń,\nktóre naprawdę lubi jeść.\rChodzi mi o przezwiska, jakie\nnadaje swoim Pokémonom.</language>
 	</row>
 	<row id="msg_0561_T22R0401_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I call my PIDGEY Strawberry!</language>
+		<language name="English">Nazywam mojego PIDGEY Truskawka!</language>
 	</row>
 	<row id="msg_0561_T22R0401_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Strawberry: Pijji!</language>
+		<language name="English">Truskawka: Pijji!</language>
 	</row>
 </body>

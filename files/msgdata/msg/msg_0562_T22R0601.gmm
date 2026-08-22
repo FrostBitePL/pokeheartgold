@@ -2,26 +2,26 @@
 <body language="English">
 	<row id="msg_0562_T22R0601_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon you get in a trade\ngrows quickly.\rBut if you don’t have the right Gym\nBadge, they may disobey you.</language>
+		<language name="English">Pokémon otrzymany w wymianie\nrośnie szybciej.\rAle jeśli nie masz odpowiedniej\nOdznaki Sali, może cię nie słuchać.</language>
 	</row>
 	<row id="msg_0562_T22R0601_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I collect Pokémon.\nDo you have BELLSPROUT?\rWant to trade it for my ONIX? {YESNO 0}</language>
+		<language name="English">Kolekcjonuję Pokémony.\nMasz może BELLSPROUT?\rChcesz wymienić go na mojego ONIX? {YESNO 0}</language>
 	</row>
 	<row id="msg_0562_T22R0601_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yay! I got myself BELLSPROUT!\nThanks!</language>
+		<language name="English">Hurra! Mam własnego BELLSPROUT!\nDzięki!</language>
 	</row>
 	<row id="msg_0562_T22R0601_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? That’s not BELLSPROUT.\fWhat a letdown...</language>
+		<language name="English">Co? To nie jest BELLSPROUT.\fCóż za rozczarowanie...</language>
 	</row>
 	<row id="msg_0562_T22R0601_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t want to trade? Aww...</language>
+		<language name="English">Nie chcesz się wymienić? Ech...</language>
 	</row>
 	<row id="msg_0562_T22R0601_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, how’s my old ONIX doing?</language>
+		<language name="English">Cześć, jak się miewa mój dawny ONIX?</language>
 	</row>
 </body>
