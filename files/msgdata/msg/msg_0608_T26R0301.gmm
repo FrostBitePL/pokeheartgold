@@ -2,22 +2,22 @@
 <body language="English">
 	<row id="msg_0608_T26R0301_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, I’m looking for this Pokémon.\rIf you have a KRABBY, would you\ntrade it for my VOLTORB? {YESNO 0}</language>
+		<language name="English">Cześć, szukam tego Pokémona.\rJeśli masz KRABBY, wymienisz go\nna mojego VOLTORB? {YESNO 0}</language>
 	</row>
 	<row id="msg_0608_T26R0301_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Great! Thank you!\rI finally got a KRABBY!</language>
+		<language name="English">Świetnie! Dziękuję!\rWreszcie mam KRABBY!</language>
 	</row>
 	<row id="msg_0608_T26R0301_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t have a KRABBY?\nThat’s too bad, then.</language>
+		<language name="English">Nie masz KRABBY?\nSzkoda w takim razie.</language>
 	</row>
 	<row id="msg_0608_T26R0301_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t have one either?\rGee, that’s really disappointing...</language>
+		<language name="English">Ty też nie masz?\rEch, to naprawdę rozczarowujące...</language>
 	</row>
 	<row id="msg_0608_T26R0301_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi! The KRABBY you traded me is\ndoing great!</language>
+		<language name="English">Cześć! KRABBY, którego mi dałeś,\nma się świetnie!</language>
 	</row>
 </body>
