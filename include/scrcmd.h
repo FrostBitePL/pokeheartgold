@@ -190,6 +190,7 @@ BOOL ScrCmd_GetTrainerEyeType(ScriptContext *ctx);
 BOOL ScrCmd_GetEyeTrainerNum(ScriptContext *ctx);
 BOOL ScrCmd_NamePlayer(ScriptContext *ctx);
 BOOL ScrCmd_NicknameInput(ScriptContext *ctx);
+BOOL ScrCmd_NumpadInput(ScriptContext *ctx);
 BOOL ScrCmd_FadeScreen(ScriptContext *ctx);
 BOOL ScrCmd_WaitFade(ScriptContext *ctx);
 BOOL ScrCmd_Warp(ScriptContext *ctx);

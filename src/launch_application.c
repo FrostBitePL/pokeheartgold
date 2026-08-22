@@ -2,6 +2,7 @@
 
 #include "global.h"
 
+#include "constants/charcode.h"
 #include "constants/flags.h"
 
 #include "application/pokegear/pokegear_main.h"
@@ -1027,6 +1028,19 @@ void sub_0203F570(FieldSystem *fieldSystem, SaveData *args) {
     FieldSystem_LaunchApplication(fieldSystem, &_02102830, fieldSystem);
 }
 
+static u16 ParseNumpadInput(const u16 *flat) {
+    u32 value = 0;
+    int i;
+    for (i = 0; i < 3; i++) {
+        u16 c = flat[i];
+        if (c < CHAR_0 || c > CHAR_9) {
+            break;
+        }
+        value = value * 10 + (c - CHAR_0);
+    }
+    return (u16)value;
+}
+
 static BOOL Task_NamingScreen(TaskManager *taskman) {
     FieldSystem *fieldSystem = TaskManager_GetFieldSystem(taskman);
     NamingScreenData *data = TaskManager_GetEnvironment(taskman);
@@ -1055,6 +1069,8 @@ static BOOL Task_NamingScreen(TaskManager *taskman) {
             if (sub_0202C88C(friendGroup, var2)) {
                 data->args->noInput = 2;
             }
+        } else if (args->kind == NAME_SCREEN_UNK4) {
+            data->args->noInput = ParseNumpadInput(args->nameInputFlat);
         }
         if (data->args->noInput == 0) {
             SetName(taskman);

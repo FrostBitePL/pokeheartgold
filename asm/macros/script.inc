@@ -4783,6 +4783,11 @@
 	.byte \arg1
 	.endm
 
+	.macro NumpadInput retvar
+	.short 853
+	.short \retvar
+	.endm
+
 	; Script headers
 
 	.macro MapScript kind, script

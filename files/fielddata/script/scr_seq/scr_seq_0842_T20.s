@@ -1847,3 +1847,37 @@ scr_seq_T20_015:
 	SimpleNPCMsg msg_0542_T20_00012
 	End
 	.balign 4, 0
+
+scr_seq_T20_016:
+	PlaySE SEQ_SE_DP_SELECT
+	LockAll
+	FacePlayer
+	NPCMsg msg_0542_T20_00038
+	WaitButton
+	CloseMsg
+	NumpadInput VAR_TEMP_x4000
+	Compare VAR_TEMP_x4000, 0
+	GoToIfEq _T20_016_invalid
+	Compare VAR_TEMP_x4000, 151
+	GoToIfGt _T20_016_invalid
+	GiveMon VAR_TEMP_x4000, 25, ITEM_NONE, 0, 0, VAR_SPECIAL_RESULT
+	Compare VAR_SPECIAL_RESULT, 0
+	GoToIfEq _T20_016_full
+	NPCMsg msg_0542_T20_00039
+	WaitButton
+	CloseMsg
+	ReleaseAll
+	End
+_T20_016_invalid:
+	NPCMsg msg_0542_T20_00040
+	WaitButton
+	CloseMsg
+	ReleaseAll
+	End
+_T20_016_full:
+	NPCMsg msg_0542_T20_00041
+	WaitButton
+	CloseMsg
+	ReleaseAll
+	End
+	.balign 4, 0

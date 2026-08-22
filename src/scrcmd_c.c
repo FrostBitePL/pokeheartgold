@@ -2136,6 +2136,12 @@ BOOL ScrCmd_NicknameInput(ScriptContext *ctx) {
     return TRUE;
 }
 
+BOOL ScrCmd_NumpadInput(ScriptContext *ctx) {
+    u16 *p_var = ScriptGetVarPointer(ctx);
+    CallTask_NamingScreen(ctx->taskman, NAME_SCREEN_UNK4, 0, 3, 0, NULL, p_var);
+    return TRUE;
+}
+
 BOOL ScrCmd_629(ScriptContext *ctx) {
     void **p_work = FieldSysGetAttrAddr(ctx->fieldSystem, SCRIPTENV_RUNNING_APP_DATA);
     *p_work = sub_0209707C(ctx->fieldSystem);
