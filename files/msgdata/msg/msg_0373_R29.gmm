@@ -2,23 +2,23 @@
 <body language="English">
 	<row id="msg_0373_R29_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: {STRVAR_1 3, 0, 0}!\nYou can catch wild Pokémon\fwith Poké Balls.\rFollow me!\r</language>
+		<language name="English">Emil: {STRVAR_1 3, 0, 0}!\nMożesz łapać dzikie Pokémony\fza pomocą Poké Balli.\rChodź za mną!\r</language>
 	</row>
 	<row id="msg_0373_R29_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: {STRVAR_1 3, 0, 0}!\nYou can catch wild Pokémon\fwith Poké Balls.\rFollow me!\r</language>
+		<language name="English">Emil: {STRVAR_1 3, 0, 0}!\nMożesz łapać dzikie Pokémony\fza pomocą Poké Balli.\rChodź za mną!\r</language>
 	</row>
 	<row id="msg_0373_R29_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Just like that!\r...\nHuh? Was I too fast?\rI’ll try again. Come this way!\r</language>
+		<language name="English">...O tak właśnie!\r...\nHę? Może za szybko?\rSpróbuję jeszcze raz. Chodź tędy!\r</language>
 	</row>
 	<row id="msg_0373_R29_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">See? Just like that!\rIt’s better to lower your\ntarget’s HP more than I did,\for make it sleep or something.\rYou can try all kinds of things\nto see what works.\rI’ll give you these. Good luck!\r</language>
+		<language name="English">Widzisz? O tak właśnie!\rLepiej obniżyć HP celu\nbardziej niż ja to zrobiłem,\flub uśpić go w jakiś sposób.\rMożesz próbować różnych rzeczy,\nby sprawdzić, co zadziała.\rDam ci te. Powodzenia!\r</language>
 	</row>
 	<row id="msg_0373_R29_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">See? Just like that!\rIt’s better to lower your\ntarget’s HP more than I did,\for make it sleep or something.\rYou can try all kinds of things\nto see what works.\rI’ll give you these. Good luck!\r</language>
+		<language name="English">Widzisz? O tak właśnie!\rLepiej obniżyć HP celu\nbardziej niż ja to zrobiłem,\flub uśpić go w jakiś sposób.\rMożesz próbować różnych rzeczy,\nby sprawdzić, co zadziała.\rDam ci te. Powodzenia!\r</language>
 	</row>
 	<row id="msg_0373_R29_00005" index="5">
 		<attribute name="window_context_name">garbage</attribute>
@@ -32,50 +32,50 @@
 	</row>
 	<row id="msg_0373_R29_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: See you!\r</language>
+		<language name="English">Emil: Nara!\r</language>
 	</row>
 	<row id="msg_0373_R29_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: See ya!\r</language>
+		<language name="English">Emil: Nara!\r</language>
 	</row>
 	<row id="msg_0373_R29_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, how are your Pokémon?\rIf they’re weak and not ready for\nbattle, keep out of the tall grass.</language>
+		<language name="English">Hej, jak się mają twoje Pokémony?\rJeśli są słabe i niegotowe\ndo walki, trzymaj się z dala\fod wysokiej trawy.</language>
 	</row>
 	<row id="msg_0373_R29_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you see those ledges?\nIt’s scary to jump off them.\rBut you can go to Wierzbna\nwithout walking through tall grass.</language>
+		<language name="English">Widzisz te uskoki?\nStrach z nich skakać.\rAle możesz dojść do Wierzbnej\nbez przechodzenia przez\nwysoką trawę.</language>
 	</row>
 	<row id="msg_0373_R29_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I wanted to take a break, so I\nsaved to record my progress.</language>
+		<language name="English">Chciałem zrobić przerwę, więc\nzapisałem swoje postępy.</language>
 	</row>
 	<row id="msg_0373_R29_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m waiting for Pokémon that\nappear only in the daytime.</language>
+		<language name="English">Czekam na Pokémony, które\npojawiają się tylko za dnia.</language>
 	</row>
 	<row id="msg_0373_R29_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m waiting for Pokémon that\nappear only at night.</language>
+		<language name="English">Czekam na Pokémony, które\npojawiają się tylko nocą.</language>
 	</row>
 	<row id="msg_0373_R29_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m waiting for Pokémon that\nappear only in the morning.</language>
+		<language name="English">Czekam na Pokémony, które\npojawiają się tylko rano.</language>
 	</row>
 	<row id="msg_0373_R29_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rt. 29\nWest to Zastruże</language>
+		<language name="English">Trasa 29\nZachód do Zastruża</language>
 	</row>
 	<row id="msg_0373_R29_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rt. 29\nEast to Wierzbna</language>
+		<language name="English">Trasa 29\nWschód do Wierzbnej</language>
 	</row>
 	<row id="msg_0373_R29_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: There you are!\r</language>
+		<language name="English">Emil: Nareszcie cię znalazłem!\r</language>
 	</row>
 	<row id="msg_0373_R29_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: There you are!\r</language>
+		<language name="English">Emil: Nareszcie cię znalazłem!\r</language>
 	</row>
 </body>
