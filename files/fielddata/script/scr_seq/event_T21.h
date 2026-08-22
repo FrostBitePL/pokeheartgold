@@ -12,6 +12,7 @@
 #define _EV_scr_seq_T21_008                  8
 #define _EV_scr_seq_T21_009                  9
 #define _EV_scr_seq_T21_010                 10
+#define _EV_scr_seq_T21_011                 11
 
 #define obj_T21_gsoldman1                    0
 #define obj_T21_gsboy1                       1
@@ -19,5 +20,6 @@
 #define obj_T21_gsbigman                     3
 #define obj_T21_gsrivel                      4
 #define obj_T21_gsmiddleman1                 5
+#define obj_T21_easter_egg_rock              6
 
 #endif //SCR_SEQ_T21_H_

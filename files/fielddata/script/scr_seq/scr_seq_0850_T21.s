@@ -16,6 +16,7 @@
 	ScrDef scr_seq_T21_008
 	ScrDef scr_seq_T21_009
 	ScrDef scr_seq_T21_010
+	ScrDef scr_seq_T21_011
 	ScrDefEnd
 
 scr_seq_T21_010:
@@ -856,5 +857,39 @@ scr_seq_T21_007:
 
 scr_seq_T21_008:
 	SimpleNPCMsg msg_0550_T21_00017
+	End
+	.balign 4, 0
+
+scr_seq_T21_011:
+	PlaySE SEQ_SE_DP_SELECT
+	LockAll
+	FacePlayer
+	NPCMsg msg_0550_T21_00025
+	WaitButton
+	CloseMsg
+	NumpadInput VAR_TEMP_x4000
+	Compare VAR_TEMP_x4000, 0
+	GoToIfEq _T21_011_invalid
+	Compare VAR_TEMP_x4000, 151
+	GoToIfGt _T21_011_invalid
+	GiveMon VAR_TEMP_x4000, 25, ITEM_NONE, 0, 0, VAR_SPECIAL_RESULT
+	Compare VAR_SPECIAL_RESULT, 0
+	GoToIfEq _T21_011_full
+	NPCMsg msg_0550_T21_00026
+	WaitButton
+	CloseMsg
+	ReleaseAll
+	End
+_T21_011_invalid:
+	NPCMsg msg_0550_T21_00027
+	WaitButton
+	CloseMsg
+	ReleaseAll
+	End
+_T21_011_full:
+	NPCMsg msg_0550_T21_00028
+	WaitButton
+	CloseMsg
+	ReleaseAll
 	End
 	.balign 4, 0

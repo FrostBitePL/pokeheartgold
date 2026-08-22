@@ -100,4 +100,20 @@
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Guide Gent’s House\nFull-of-Energy, High-Speed Old Man</language>
 	</row>
+	<row id="msg_0550_T21_00025" index="25">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Czujesz dziwną moc płynącą z tego kamienia...\rPodaj numer Pokédexu (1-151),\nby przywołać wybranego Pokémona.\r</language>
+	</row>
+	<row id="msg_0550_T21_00026" index="26">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Kamień rozbłyskuje!\rPoczułeś przypływ mocy!</language>
+	</row>
+	<row id="msg_0550_T21_00027" index="27">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Kamień milczy...\nNic się nie stało.</language>
+	</row>
+	<row id="msg_0550_T21_00028" index="28">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Kamień rozbłyska, ale nie masz\nmiejsca na nowego Pokémona!</language>
+	</row>
 </body>
