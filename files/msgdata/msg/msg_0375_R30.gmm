@@ -2,31 +2,31 @@
 <body language="English">
 	<row id="msg_0375_R30_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Go, RATTATA!\rTackle!\r</language>
+		<language name="English">Naprzód, RATTATA!\rUderzenie!\r</language>
 	</row>
 	<row id="msg_0375_R30_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What? This is a big battle!\fLeave me alone!\r</language>
+		<language name="English">Co? To poważna walka!\fZostaw mnie w spokoju!\r</language>
 	</row>
 	<row id="msg_0375_R30_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon can use its moves as long\nas the moves still have PP.\rWhen a move has no PP remaining, that\nPokémon cannot use that move.\rThen you should take your Pokémon to\nthe Pokémon Center.</language>
+		<language name="English">Pokémon może używać swoich ataków,\ndopóki mają one PP.\rGdy atak nie ma już PP, dany\nPokémon nie może go użyć.\rWtedy powinieneś zabrać swojego\nPokémona do Centrum Pokémon.</language>
 	</row>
 	<row id="msg_0375_R30_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon can use its moves as long\nas the moves still have PP.\rWhen a move has no PP remaining, that\nPokémon cannot use that move.\rThen you should take your Pokémon to\nthe Pokémon Center.</language>
+		<language name="English">Pokémon może używać swoich ataków,\ndopóki mają one PP.\rGdy atak nie ma już PP, dany\nPokémon nie może go użyć.\rWtedy powinieneś zabrać swojego\nPokémona do Centrum Pokémon.</language>
 	</row>
 	<row id="msg_0375_R30_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m not a Trainer.\rBut if you look one in the eyes,\nprepare to battle.</language>
+		<language name="English">Nie jestem Trenerem.\rAle jeśli spojrzysz jednemu\nw oczy, przygotuj się do walki.</language>
 	</row>
 	<row id="msg_0375_R30_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, kiddo!\rHow in the world can you be so\noblivious to my eye-catching house?\fHold it right there!\r</language>
+		<language name="English">Hej, dzieciaku!\rJak możesz nie zauważać\nmojego rzucającego się w oczy domu?\fStój, ani kroku dalej!\r</language>
 	</row>
 	<row id="msg_0375_R30_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When you follow that path up north,\nyou will see Mr. Pokémon’s house.\rBut before you go, let me finish what\nI have to say.\rDo you...have any Apricorns?\fApricorn trees bear fruit once a day.\fI have one of those trees, too!\rApricorns are really something.\nYou can make Poké Balls and\fother things.\rThey are quite useful.\rI have a feeling this is meant to be,\nbecause I have something for you!\r</language>
+		<language name="English">Gdy pójdziesz tą ścieżką na północ,\nzobaczysz dom Wacka.\rAle zanim pójdziesz, pozwól mi\ndokończyć, co miałem powiedzieć.\rCzy... masz jakieś Apricorny?\fDrzewa Apricornów owocują raz\fdziennie. Ja też mam takie drzewo!\rApricorny to naprawdę coś. Można\nz nich robić Poké Bale\fi inne rzeczy.\rSą naprawdę przydatne.\rCzuję, że to nie przypadek,\nbo mam coś dla ciebie!\r</language>
 	</row>
 	<row id="msg_0375_R30_00007" index="7">
 		<attribute name="window_context_name">garbage</attribute>
@@ -35,26 +35,26 @@
 	</row>
 	<row id="msg_0375_R30_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">With that Apricorn Box, you can carry\nso many Apricorns.\rYou’ll be a decent Apricorn collector!\r</language>
+		<language name="English">Dzięki temu Pudełku na Apricorny\nmożesz nosić ich naprawdę wiele.\rBędziesz niezłym kolekcjonerem\nApricornów!\r</language>
 	</row>
 	<row id="msg_0375_R30_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rt. 30\nSouth to Zastruże</language>
+		<language name="English">Trasa 30\nPołudnie do Zastruża</language>
 	</row>
 	<row id="msg_0375_R30_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mr. Pokémon’s House\nStraight Ahead!</language>
+		<language name="English">Dom Wacka\nProsto przed siebie!</language>
 	</row>
 	<row id="msg_0375_R30_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mr. Pokémon’s House</language>
+		<language name="English">Dom Wacka</language>
 	</row>
 	<row id="msg_0375_R30_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer Tips\rNo stealing other people’s Pokémon!\rPoké Balls are to be thrown only at\nwild Pokémon!</language>
+		<language name="English">Porady dla Trenerów\rNie kradnij cudzych Pokémonów!\rPoké Balami rzucaj tylko\nw dzikie Pokémony!</language>
 	</row>
 	<row id="msg_0375_R30_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh! You’re wearing the Running Shoes.\rThey make you feel like you are flying,\ndon’t they?\rBut beware of wild Pokémon and\nTrainers!\rWhen you run, the noise will\nattract them.</language>
+		<language name="English">Och! Masz na sobie Buty do Biegania.\rSprawiają, że czujesz się, jakbyś\nleciał, prawda?\rAle uważaj na dzikie Pokémony\ni Trenerów!\rGdy biegniesz, hałas\nprzyciąga ich uwagę.</language>
 	</row>
 </body>
