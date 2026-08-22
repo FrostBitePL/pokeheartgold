@@ -2,27 +2,27 @@
 <body language="English">
 	<row id="msg_0582_T25GYM0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: Hi! I’m Whitney!\r...You!\nI saw you at the Radio Tower just now.\rEveryone was into Pokémon, so I got\ninto it, too!\rPokémon are super cute!\rYou want to battle?\fI’m warning you--I’m good!\r</language>
+		<language name="English">Whitney: Cześć! Jestem Whitney!\r...Ty!\nWłaśnie widziałam cię przy\fWieży Radiowej.\rWszyscy interesowali się Pokémonami,\nwięc ja też zaczęłam!\rPokémony są super słodkie!\rChcesz walczyć?\fOstrzegam - jestem dobra!\r</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: Sob...\r...Waaaaaaah!\nYou’re mean!\rYou shouldn’t be so serious!\nYou...you child, you!</language>
+		<language name="English">Whitney: Szlocha...\r...Łiiiiii!\nJesteś podły!\rNie powinieneś być taki poważny!\nTy... ty dzieciaku!</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: Waaaaah!\rWaaaaah!\r...Snivel, hic.\n...You meanie!</language>
+		<language name="English">Whitney: Łaaaaa!\rŁaaaaa!\r...Pociąga nosem, hik.\n...Ty podły!</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: Sniff...\rWhat? What do you want? A Badge?\rOh, right. I forgot.\nHere’s the Plain Badge.\r</language>
+		<language name="English">Whitney: Pociąga nosem...\rCo? Czego chcesz? Odznaki?\rAch tak, zapomniałam.\nProszę, oto Odznaka Prostoty.\r</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Plain Badge from Whitney.</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Prostoty od Whitney.</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: The Plain Badge lets your\nPokémon use Strength outside\fof battle.\rOh, you can have this, too!\r</language>
+		<language name="English">Whitney: Odznaka Prostoty pozwala\ntwojemu Pokémonowi używać ataku\fSiła poza walką.\rOch, możesz też dostać to!\r</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00006" index="6">
 		<attribute name="window_context_name">garbage</attribute>
@@ -31,30 +31,30 @@
 	</row>
 	<row id="msg_0582_T25GYM0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: It’s Attract!\nIt makes full use of a Pokémon’s charm.\rIsn’t it just perfect for a cutie\nlike me?\fThat’s right!\rI heard that this thing called the\nPokéathlon Dome is now open right next\fto the National Park.\rYou should go try it, since you’re\nso good at battling with your Pokémon!</language>
+		<language name="English">Whitney: To Urok!\nW pełni wykorzystuje wdzięk Pokémona.\rCzyż to nie idealne dla takiej\nuroczej dziewczyny jak ja?\fWłaśnie tak!\rSłyszałam, że coś zwanego Kopułą\nPokéathlonu jest teraz otwarte tuż\fobok Parku Narodowego.\rPowinieneś tam spróbować, skoro tak\ndobrze walczysz swoimi Pokémonami!</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: Ah, that was a good cry!\rCome for a visit again! Bye-bye!</language>
+		<language name="English">Whitney: Ach, to był dobry płacz!\rOdwiedź mnie jeszcze! Pa-pa!</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, no. You made Whitney cry.\rIt’s OK. She’ll stop soon.\nShe always cries when she loses.\r</language>
+		<language name="English">Ojej. Rozpłakałeś Whitney.\rW porządku. Zaraz przestanie.\nZawsze płacze, gdy przegrywa.\r</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo! Champ in the making!\rThis Gym is home to Normal-type\nPokémon Trainers.\rI recommend you use Fighting-type\nPokémon.</language>
+		<language name="English">Hej! Przyszły Mistrzu!\rTa Sala to dom dla Trenerów\nPokémonów typu Normalny.\rPolecam użyć Pokémonów\ntypu Waleczny.</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You won? Great! I was busy admiring\nthe powerful Trainers here.</language>
+		<language name="English">Wygrałeś? Świetnie! Byłem zajęty\npodziwianiem potężnych Trenerów tutaj.</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Goldenrod City Pokémon Gym</language>
+		<language name="English">Sala Pokémon w Goldenrod City</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Goldenrod City Pokémon Gym\rLeader: Whitney\nCertified Trainer!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Sala Pokémon w Goldenrod City\rLiderka: Whitney\nCertyfikowany Trener!\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 </body>
