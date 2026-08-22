@@ -290,7 +290,7 @@
 	</row>
 	<row id="msg_0662_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where are you? Cherrygrove City?\nDoesn’t Cherrygrove have that\fwonderful winding path?\rIt’s so much fun to run with your\nPokémon along the beach and listen to\fthe sound of the waves!</language>
+		<language name="English">Where are you? Zastruże?\nDoesn’t Zastruże have that\fwonderful winding path?\rIt’s so much fun to run with your\nPokémon along the beach and listen to\fthe sound of the waves!</language>
 	</row>
 	<row id="msg_0662_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
@@ -582,7 +582,7 @@
 	</row>
 	<row id="msg_0662_00145" index="145">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I really like that wonderful winding\npath in Cherrygrove City.\rIt’s so much fun to run with your\nPokémon along the beach and listen to\fthe sound of the waves!</language>
+		<language name="English">I really like that wonderful winding\npath in Zastruże.\rIt’s so much fun to run with your\nPokémon along the beach and listen to\fthe sound of the waves!</language>
 	</row>
 	<row id="msg_0662_00146" index="146">
 		<attribute name="window_context_name">used</attribute>
