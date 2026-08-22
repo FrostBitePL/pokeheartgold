@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0453_T02FS0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Gym Leader here is totally cool.</language>
+		<language name="English">Lider Sali jest tutaj naprawdę fajny.</language>
 	</row>
 	<row id="msg_0453_T02FS0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you been to Cinnabar?\rIt’s an island way south\nof here.</language>
+		<language name="English">Byłeś/aś już na Cinnabar?\rTo wyspa daleko na południe\nstąd.</language>
 	</row>
 </body>
