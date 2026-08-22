@@ -2,46 +2,46 @@
 <body language="English">
 	<row id="msg_0557_T22FS0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When you first catch a Pokémon,\nit may be weak.\rBut it will eventually grow to\nbe strong.\rIt’s important to treat Pokémon\nwith love.</language>
+		<language name="English">Gdy pierwszy raz łapiesz Pokémona,\nmoże być słaby.\rAle z czasem stanie się\nsilny.\rWażne jest, by traktować Pokémony\nz miłością.</language>
 	</row>
 	<row id="msg_0557_T22FS0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon can hold items like a Potion\nor an Antidote.\rBut they don’t appear to know how\nto use man-made items.</language>
+		<language name="English">Pokémony mogą trzymać przedmioty,\ntakie jak Mikstura czy Antidotum.\rAle nie wydaje się, by wiedziały,\njak używać ludzkich przedmiotów.</language>
 	</row>
 	<row id="msg_0557_T22FS0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Long time no see, {STRVAR_1 3, 0, 0}.\nI’ve been waiting for you.\fThis is from Professor Elm.\rThe thing is...we would like you to\ntake care of an Egg! {YESNO 0}</language>
+		<language name="English">Dawno się nie widzieliśmy,\n{STRVAR_1 3, 0, 0}. Czekałem na ciebie.\fTo od Profesora Mariusza.\rChodzi o to... chcielibyśmy, żebyś\nzaopiekował(a) się Jajkiem! {YESNO 0}</language>
 	</row>
 	<row id="msg_0557_T22FS0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Long time no see, {STRVAR_1 3, 0, 0}.\nI’ve been waiting for you.\fThis is from Professor Elm.\rThe thing is...we would like you to\ntake care of an Egg! {YESNO 0}</language>
+		<language name="English">Dawno się nie widzieliśmy,\n{STRVAR_1 3, 0, 0}. Czekałem na ciebie.\fTo od Profesora Mariusza.\rChodzi o to... chcielibyśmy, żebyś\nzaopiekował(a) się Jajkiem! {YESNO 0}</language>
 	</row>
 	<row id="msg_0557_T22FS0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Egg from the assistant!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nJajko od asystenta!</language>
 	</row>
 	<row id="msg_0557_T22FS0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">After you left, Professor Elm received\na phone call. I have no idea what they\fwere talking about.\rBut, after a while, Professor Elm\nsuddenly cried out, “I can’t think of\fanyone more suited than {STRVAR_1 3, 0, 0}!”\rThen he insisted that I hand this Egg\nto you.\rThat’s how I came here to deliver the\nEgg to you.\rIt seems that a Pokémon will hatch from\nit only when you keep it in your party\fof Pokémon.\rThat’s another reason we’ve\nchosen you, {STRVAR_1 3, 0, 0}.\rPlease take care of it!\r</language>
+		<language name="English">Po twoim wyjściu Profesor Mariusz\nodebrał telefon. Nie mam pojęcia,\fo czym rozmawiali.\rAle po chwili Profesor Mariusz\nnagle zawołał: „Nie przychodzi mi\fdo głowy nikt bardziej odpowiedni\fniż {STRVAR_1 3, 0, 0}!”\rPotem nalegał, żebym przekazał\nci to Jajko.\rDlatego tu przyszedłem, by dostarczyć\nci Jajko.\rWygląda na to, że Pokémon wykluje\nsię z niego tylko wtedy, gdy będziesz\fgo trzymać w swojej drużynie.\rTo kolejny powód, dla którego\nwybraliśmy właśnie ciebie,\f{STRVAR_1 3, 0, 0}.\rProszę, zaopiekuj się nim!\r</language>
 	</row>
 	<row id="msg_0557_T22FS0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">After you left, Professor Elm received\na phone call. I have no idea what they\fwere talking about, but after a while,\fProfessor Elm suddenly cried out,\f“I can’t think of anyone more suited\ffor that than {STRVAR_1 3, 0, 0}!”\rThen he insisted that I hand this Egg\nto you.\rThat’s how I came here to deliver the\nEgg to you.\rIt seems that a Pokémon will hatch from\nit only when you keep it in your party\fof Pokémon.\rThat’s another reason we’ve\nchosen you, {STRVAR_1 3, 0, 0}.\rPlease take care of it!\r</language>
+		<language name="English">Po twoim wyjściu Profesor Mariusz\nodebrał telefon. Nie mam pojęcia,\fo czym rozmawiali.\rAle po chwili Profesor Mariusz\nnagle zawołał: „Nie przychodzi mi\fdo głowy nikt bardziej odpowiedni\fniż {STRVAR_1 3, 0, 0}!”\rPotem nalegał, żebym przekazał\nci to Jajko.\rDlatego tu przyszedłem, by dostarczyć\nci Jajko.\rWygląda na to, że Pokémon wykluje\nsię z niego tylko wtedy, gdy będziesz\fgo trzymać w swojej drużynie.\rTo kolejny powód, dla którego\nwybraliśmy właśnie ciebie,\f{STRVAR_1 3, 0, 0}.\rProszę, zaopiekuj się nim!\r</language>
 	</row>
 	<row id="msg_0557_T22FS0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your party is full.\nYou cannot take the Egg yet.\fI’ll wait here for you.</language>
+		<language name="English">Twoja drużyna jest pełna.\nNie możesz jeszcze wziąć Jajka.\fPoczekam tu na ciebie.</language>
 	</row>
 	<row id="msg_0557_T22FS0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What?\nI never expected you’d say no!\fYou must be kidding, right?\rProfessor Elm really wants you to\ntake care of it...\n\n</language>
+		<language name="English">Co?\nNigdy nie spodziewałem się, że\fpowiesz nie!\fChyba żartujesz, prawda?\rProfesor Mariusz naprawdę chce,\nżebyś się nim zaopiekował(a)...\n\n</language>
 	</row>
 	<row id="msg_0557_T22FS0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0},\nwill you take this Egg? {YESNO 0}</language>
+		<language name="English">{STRVAR_1 3, 0, 0},\nczy weźmiesz to Jajko? {YESNO 0}</language>
 	</row>
 	<row id="msg_0557_T22FS0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0},\nwill you take this Egg? {YESNO 0}</language>
+		<language name="English">{STRVAR_1 3, 0, 0},\nczy weźmiesz to Jajko? {YESNO 0}</language>
 	</row>
 </body>
