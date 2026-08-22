@@ -127,7 +127,7 @@
 	</row>
 	<row id="msg_0219_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rozmawiaj z ludźmi i sprawdzaj rzeczy,\ngdziekolwiek się udasz — w miastach,\nna drogach czy w jaskiniach.\nZbieraj informacje i wskazówki\nz każdego możliwego źródła.</language>
+		<language name="English">Rozmawiaj z ludźmi i sprawdzaj rzeczy,\ngdziekolwiek się udasz - w miastach,\nna drogach czy w jaskiniach.\nZbieraj informacje i wskazówki\nz każdego możliwego źródła.</language>
 	</row>
 	<row id="msg_0219_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
@@ -183,7 +183,7 @@
 	</row>
 	<row id="msg_0219_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}!\nCzy jesteś gotowy?\rTwoja własna, wielka opowieść\nprzygodowa zaraz się zacznie.\rZabawne chwile, trudne chwile —\ntyle wszystkiego na Ciebie czeka!\rMarzenia! Przygoda!\nRuszajmy do świata Pokémonów!\rDo zobaczenia później!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}!\nCzy jesteś gotowy?\rTwoja własna, wielka opowieść\nprzygodowa zaraz się zacznie.\rZabawne chwile, trudne chwile -\ntyle wszystkiego na Ciebie czeka!\rMarzenia! Przygoda!\nRuszajmy do świata Pokémonów!\rDo zobaczenia później!\r</language>
 	</row>
 	<row id="msg_0219_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
