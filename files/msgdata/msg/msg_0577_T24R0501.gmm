@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0577_T24R0501_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? You need medicine?\nYour Pokémon appear to be fine.\fIs something worrying you?\r...\rThe Lighthouse Pokémon is in trouble?\rI got it!\fThis ought to do the trick.</language>
+		<language name="English">Huh? Potrzebujesz lekarstwa?\nTwoje Pokémony wyglądają dobrze.\fCoś cię martwi?\r...\rPokémon z Latarni Morskiej ma kłopoty?\rMam to!\fTo powinno zadziałać.</language>
 	</row>
 	<row id="msg_0577_T24R0501_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>
@@ -11,11 +11,11 @@
 	</row>
 	<row id="msg_0577_T24R0501_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My SecretPotion is a tad too strong.\fI only offer it in an emergency.</language>
+		<language name="English">Mój Tajemny Eliksir jest odrobinę za mocny.\fPodaję go tylko w nagłych wypadkach.</language>
 	</row>
 	<row id="msg_0577_T24R0501_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s up?\nNeed some medicine? {YESNO 0}</language>
+		<language name="English">Co tam?\nPotrzebujesz lekarstwa? {YESNO 0}</language>
 	</row>
 	<row id="msg_0577_T24R0501_00004" index="4">
 		<attribute name="window_context_name">garbage</attribute>
