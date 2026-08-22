@@ -2,19 +2,19 @@
 <body language="English">
 	<row id="msg_0567_T23GYM0102_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bugsy: I’m Bugsy!\nI never lose when it comes to Bug-type\fPokémon.\rMy research is going to make me\nthe authority on Bug-type Pokémon!\rLet me demonstrate what I’ve learned\nfrom my studies.\r</language>
+		<language name="English">Bugsy: Jestem Bugsy!\nNigdy nie przegrywam, gdy chodzi\fo Pokémony typu Robaczkowy.\rMoje badania uczynią mnie\nautorytetem w tej dziedzinie!\rPozwól, że pokażę ci, czego\nnauczyłem się z moich studiów.\r</language>
 	</row>
 	<row id="msg_0567_T23GYM0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bugsy: Whoa, amazing!\nYou’re an expert on Pokémon!\rMy research isn’t complete yet.\nOK, you win. Take this Badge.\r</language>
+		<language name="English">Bugsy: Wow, niesamowite!\nJesteś ekspertem od Pokémonów!\rMoje badania jeszcze nie są\nukończone. Dobrze, wygrałeś.\fWeź tę Odznakę.\r</language>
 	</row>
 	<row id="msg_0567_T23GYM0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Hive Badge from Bugsy!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Ula od Bugsy'ego!</language>
 	</row>
 	<row id="msg_0567_T23GYM0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bugsy: Do you know the benefits of the\nHive Badge?\rIf you have it, Pokémon up to Lv. 30\nwill obey you, even traded ones.\rPokémon that know Cut will be able\nto use it outside of battle, too.\rHere, I also want you to have this.\r</language>
+		<language name="English">Bugsy: Znasz korzyści płynące\nz Odznaki Ula?\rDzięki niej Pokémony do poziomu 30\nbędą cię słuchać, nawet wymienione.\rPokémony znające atak Cięcie będą\nmogły go używać też poza walką.\rProszę, chcę też, żebyś to miał.\r</language>
 	</row>
 	<row id="msg_0567_T23GYM0102_00004" index="4">
 		<attribute name="window_context_name">garbage</attribute>
@@ -23,10 +23,10 @@
 	</row>
 	<row id="msg_0567_T23GYM0102_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bugsy: TM89 contains U-turn.\rIt lets your Pokémon attack, then\nswitch with the next Pokémon\fin your party.\rIsn’t that great?</language>
+		<language name="English">Bugsy: TM89 zawiera atak Zwrot.\rPozwala twojemu Pokémonowi zaatakować,\na potem zamienić się z kolejnym\fPokémonem w drużynie.\rCzyż to nie wspaniałe?</language>
 	</row>
 	<row id="msg_0567_T23GYM0102_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bugsy: Bug-type Pokémon are deep.\nThere are many mysteries to explore.\rStudy your top choices thoroughly.</language>
+		<language name="English">Bugsy: Pokémony typu Robaczkowy\nsą złożone. Jest wiele tajemnic\fdo odkrycia.\rDokładnie badaj swoich faworytów.</language>
 	</row>
 </body>
