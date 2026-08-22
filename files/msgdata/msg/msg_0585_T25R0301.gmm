@@ -2,38 +2,38 @@
 <body language="English">
 	<row id="msg_0585_T25R0301_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you treat your Pokémon nicely,\nthey will love you in return.\rOh? Let me see your Pokémon...\r</language>
+		<language name="English">Jeśli dobrze traktujesz swojego\nPokémona, pokocha cię w zamian.\rOch? Pokaż mi swojego Pokémona...\r</language>
 	</row>
 	<row id="msg_0585_T25R0301_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It looks really happy!\nIt must love you a lot.</language>
+		<language name="English">Wygląda na naprawdę szczęśliwego!\nMusi cię bardzo kochać.</language>
 	</row>
 	<row id="msg_0585_T25R0301_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I get the feeling that it really\ntrusts you.</language>
+		<language name="English">Mam wrażenie, że naprawdę\nci ufa.</language>
 	</row>
 	<row id="msg_0585_T25R0301_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s friendly toward you.\nIt looks sort of happy.</language>
+		<language name="English">Jest do ciebie przyjaźnie\nnastawiony. Wygląda na dość\fszczęśliwego.</language>
 	</row>
 	<row id="msg_0585_T25R0301_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s quite cute.</language>
+		<language name="English">Jest całkiem uroczy.</language>
 	</row>
 	<row id="msg_0585_T25R0301_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You should treat it better.\nIt’s not used to you.</language>
+		<language name="English">Powinieneś traktować go lepiej.\nNie jest do ciebie przyzwyczajony.</language>
 	</row>
 	<row id="msg_0585_T25R0301_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It doesn’t seem to like you at all.\nIt looks mean.</language>
+		<language name="English">Wygląda na to, że w ogóle cię\nnie lubi. Wygląda złośliwie.</language>
 	</row>
 	<row id="msg_0585_T25R0301_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I keep losing in battles, and my\nPokémon end up fainting...\rMaybe that’s why my Pokémon don’t\nlike me much...</language>
+		<language name="English">Ciągle przegrywam walki, a moje\nPokémony w końcu mdleją...\rMoże dlatego moje Pokémony\nmnie nie lubią...</language>
 	</row>
 	<row id="msg_0585_T25R0301_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When I use an item on my Pokémon,\nit acts really glad!</language>
+		<language name="English">Gdy używam przedmiotu na moim\nPokémonie, jest naprawdę zadowolony!</language>
 	</row>
 </body>
