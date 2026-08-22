@@ -2,38 +2,38 @@
 <body language="English">
 	<row id="msg_0604_T26_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\rYou again?\rThere’s no need to be alert.\nI don’t bother with wimps like you.\rSpeaking of weaklings, the city’s\nGym Leader isn’t here, and\fis supposedly taking care of a\fsick Pokémon at the Lighthouse.\rHumph! Boo-hoo!\nJust let sick Pokémon go!\rA Pokémon that can’t battle\nis worthless!\rWhy don’t you go train at\nthe Lighthouse?\rWho knows? It may make you a bit\nof a better Trainer!\r</language>
+		<language name="English">...\rZnowu ty?\rNie ma potrzeby być czujnym.\nNie zawracam sobie głowy takimi\fmięczakami jak ty.\rSkoro mowa o słabeuszach, Liderka\nSali w tym mieście nie ma jej tutaj,\fbo podobno opiekuje się chorym\fPokémonem w Latarni Morskiej.\rHmpf! Buu-hu!\nPo prostu porzuć chore Pokémony!\rPokémon, który nie może walczyć,\njest bezwartościowy!\rMoże pójdziesz potrenować\nw Latarni Morskiej?\rKto wie? Może staniesz się\ntrochę lepszym Trenerem!\r</language>
 	</row>
 	<row id="msg_0604_T26_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dark roads are dangerous at night.\rBut, in the pitch-black night,\nthe sea is even more treacherous!\rWithout the beacon of the Lighthouse\nto guide her, no ship can sail.</language>
+		<language name="English">Ciemne drogi są niebezpieczne\nnocą.\rAle w nieprzeniknionej ciemności\nmorze jest jeszcze bardziej\fzdradliwe!\rBez światła Latarni Morskiej,\nktóre by ją prowadziło, żaden\fstatek nie może wypłynąć.</language>
 	</row>
 	<row id="msg_0604_T26_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That thing you have--\nit’s a Pokégear, right?\fWow, that’s cool.</language>
+		<language name="English">Ta rzecz, którą masz -\nto Pokégear, prawda?\fWow, to super.</language>
 	</row>
 	<row id="msg_0604_T26_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow, you have a Pokémon!\nThat is just so awesome.</language>
+		<language name="English">Wow, masz Pokémona!\nTo jest po prostu niesamowite.</language>
 	</row>
 	<row id="msg_0604_T26_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You, young Trainer!\nThe sea is sweet!\rSing with me!\fThe sea is blue!\nThe sea is salty!</language>
+		<language name="English">Ty, młody Trenerze!\nMorze jest słodkie!\rŚpiewaj ze mną!\fMorze jest niebieskie!\nMorze jest słone!</language>
 	</row>
 	<row id="msg_0604_T26_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Olivine City\nThe Port with Sea Breezes</language>
+		<language name="English">Olivine City\nPort z Morską Bryzą</language>
 	</row>
 	<row id="msg_0604_T26_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Olivine Port\nFast-Ship Pier</language>
+		<language name="English">Port w Olivine\nMolo Szybkiego Statku</language>
 	</row>
 	<row id="msg_0604_T26_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Olivine City Pokémon Gym\nLeader: Jasmine\fThe Steel-Clad Defense Girl</language>
+		<language name="English">Sala Pokémon w Olivine City\nLiderka: Jasmine\fDziewczyna w Stalowej Zbroi</language>
 	</row>
 	<row id="msg_0604_T26_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Olivine’s Lighthouse\rIt is also known as\nthe Glitter Lighthouse.</language>
+		<language name="English">Latarnia Morska w Olivine\rZnana jest też jako\nLśniąca Latarnia.</language>
 	</row>
 </body>
