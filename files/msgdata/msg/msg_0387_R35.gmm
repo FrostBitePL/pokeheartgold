@@ -107,7 +107,7 @@
 	</row>
 	<row id="msg_0387_R35_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Pokémon look pretty tough.\nYou could go anywhere safely.</language>
+		<language name="English">Twoje Pokémony wyglądają dość\nmocno. Mógłbyś bezpiecznie iść\fwszędzie.</language>
 	</row>
 	<row id="msg_0387_R35_00022" index="22">
 		<attribute name="window_context_name">garbage</attribute>
@@ -141,10 +141,10 @@
 	</row>
 	<row id="msg_0387_R35_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rt. 35\nSouth to Goldenrod City</language>
+		<language name="English">Trasa 35\nPołudnie do Goldenrod City</language>
 	</row>
 	<row id="msg_0387_R35_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">North to the National Park\nWest to the Pokéathlon Dome</language>
+		<language name="English">Północ do Parku Narodowego\nZachód do Kopuły Pokéathlonu</language>
 	</row>
 </body>
