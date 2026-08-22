@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0610_T26R0601_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Olivine is on the sea!\rAnd if it’s on the sea, there is bound\nto be something to catch!\rI’ve fished here for 30 years.\rWould you like to face the sea\nand fish? {YESNO 0}</language>
+		<language name="English">Olivine leży nad morzem!\rA skoro leży nad morzem, na pewno\njest tu coś do złowienia!\rŁowię tu ryby od 30 lat.\rChcesz stanąć nad morzem\ni łowić? {YESNO 0}</language>
 	</row>
 	<row id="msg_0610_T26R0601_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah, hahah!\nWe have ourselves a new angler!</language>
+		<language name="English">Ach, hahah!\nMamy nowego wędkarza!</language>
 	</row>
 	<row id="msg_0610_T26R0601_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
@@ -15,14 +15,14 @@
 	</row>
 	<row id="msg_0610_T26R0601_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Water-type Pokémon aren’t found\nin the sea alone.\fThey go wherever there is water.</language>
+		<language name="English">Pokémony typu Wodny nie występują\ntylko w morzu.\fSą wszędzie tam, gdzie jest woda.</language>
 	</row>
 	<row id="msg_0610_T26R0601_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whaaat? You don’t like to fish!?\fIncomprehensible!</language>
+		<language name="English">Coooo? Nie lubisz łowić ryb!?\fNiepojęte!</language>
 	</row>
 	<row id="msg_0610_T26R0601_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How are things?\nLand the big one?</language>
+		<language name="English">Jak leci?\nZłapałeś tego dużego?</language>
 	</row>
 </body>
