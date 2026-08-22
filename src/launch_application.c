@@ -1069,7 +1069,7 @@ static BOOL Task_NamingScreen(TaskManager *taskman) {
             if (sub_0202C88C(friendGroup, var2)) {
                 data->args->noInput = 2;
             }
-        } else if (args->kind == NAME_SCREEN_UNK4) {
+        } else if (args->kind == NAME_SCREEN_UNK6) {
             data->args->noInput = ParseNumpadInput(args->nameInputFlat);
         }
         if (data->args->noInput == 0) {

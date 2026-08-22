@@ -2138,7 +2138,7 @@ BOOL ScrCmd_NicknameInput(ScriptContext *ctx) {
 
 BOOL ScrCmd_NumpadInput(ScriptContext *ctx) {
     u16 *p_var = ScriptGetVarPointer(ctx);
-    CallTask_NamingScreen(ctx->taskman, NAME_SCREEN_UNK4, 0, 3, 0, NULL, p_var);
+    CallTask_NamingScreen(ctx->taskman, NAME_SCREEN_UNK6, 0, 3, 0, NULL, p_var);
     return TRUE;
 }
 

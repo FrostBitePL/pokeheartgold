@@ -154,11 +154,11 @@
 	</row>
 	<row id="msg_0542_T20_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Czujesz dziwną moc płynącą z tego kamienia...\rPodaj numer Pokédexu (1-151),\nby przywołać wybranego Pokémona.\r</language>
+		<language name="English">Czujesz dziwną moc płynącą z tego kamienia...\rPodaj numer Pokédexu (1-151),\nby przywołać wybranego Pokémona.\rWciśnij SELECT, aby przełączyć\nklawiaturę - cyfry są w dolnym rzędzie.\r</language>
 	</row>
 	<row id="msg_0542_T20_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kamień rozbłyskuje!\rPoczułeś przypływ mocy!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a) {STRVAR_1 0, 1, 0}!\rKamień rozbłyskuje!</language>
 	</row>
 	<row id="msg_0542_T20_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
@@ -170,6 +170,6 @@
 	</row>
 	<row id="msg_0542_T20_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TEST: numer wpisany poprawnie,\nekran wrocil bez zawieszenia.</language>
+		<language name="English">Kamień jest zimny i milczący.\nMoże obudzi się, gdy zacznę\nswoją podróż z Pokémonem?</language>
 	</row>
 </body>
