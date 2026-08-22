@@ -2,46 +2,46 @@
 <body language="English">
 	<row id="msg_0454_T02GYM0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue: Yo! Finally got here, huh?\rI wasn’t in the mood at Cinnabar,\nbut now I’m ready to battle you.\r...\rYou’re telling me you conquered all\nthe Gyms in Johto?\rHahaha!\fHeh! Johto’s Gyms are that pathetic?\rHey, don’t worry about it.\nI’ll know if you are good or not by\fbattling you right now.\r</language>
+		<language name="English">Blue: Yo! W końcu tu dotarłeś/aś, co?\rNa Cinnabar nie miałem nastroju,\nale teraz jestem gotowy z tobą walczyć.\r...\rMówisz mi, że podbiłeś/aś wszystkie\nSale w Johto?\rHahaha!\fHeh! Sale w Johto są aż tak żałosne?\rHej, nie martw się tym.\nDowiem się, czy jesteś dobry/a,\fwalcząc z tobą właśnie teraz.\r</language>
 	</row>
 	<row id="msg_0454_T02GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue: No way!\rHow the heck did I lose to you?\r...\rTch, all right...\fHere, take this.\fIt’s the Earth Badge.\r</language>
+		<language name="English">Blue: Nie ma mowy!\rJak, do diabła, przegrałem z tobą?\r...\rTch, dobra...\fProszę, weź to.\fTo Odznaka Ziemi.\r</language>
 	</row>
 	<row id="msg_0454_T02GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Earth Badge from Blue!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Ziemi od Blue!</language>
 	</row>
 	<row id="msg_0454_T02GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue: With this Badge, you’ll be able\nto use the HM move Rock Climb!\fHere!\rTake this as well!\r</language>
+		<language name="English">Blue: Z tą Odznaką, będziesz mógł/mogła\nużywać ataku HM, Wspinaczka po Skałach!\fProszę!\rWeź też to!\r</language>
 	</row>
 	<row id="msg_0454_T02GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue: It contains Trick Room!\rIt allows slower Pokémon to move\nbefore faster Pokémon for a while.\rIt’s a very tricky move, isn’t it?\nHence the name!</language>
+		<language name="English">Blue: Zawiera atak Pokojowa Sztuczka!\rPozwala wolniejszym Pokémonom ruszać\nsię przed szybszymi na jakiś czas.\rTo bardzo podstępny atak, prawda?\nStąd nazwa!</language>
 	</row>
 	<row id="msg_0454_T02GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue: ...\rAll right, I was wrong. You’re the\nreal deal.\fYou are a good Trainer.\rBut I’m going to beat you someday.\nDon’t you forget it!</language>
+		<language name="English">Blue: ...\rDobra, myliłem się. Jesteś\nprawdziwym numerem.\fJesteś dobrym Trenerem.\rAle pewnego dnia cię pokonam.\nNie zapominaj o tym!</language>
 	</row>
 	<row id="msg_0454_T02GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo, legend in the making!\rThe floor here is unstable,\nso you should put away your Pokémon\f...now!\rThe Gym Leader is a guy who battled\nthe Champion three years ago.\rHe’s no pushover.\nGive it everything you’ve got!</language>
+		<language name="English">Yo, przyszła legendo!\rPodłoga jest tutaj niestabilna,\nwięc powinieneś/aś schować swojego\fPokémona...już teraz!\rLider Sali to gość, który walczył\nz Mistrzem trzy lata temu.\rTo nie jest łatwy przeciwnik.\nDaj z siebie wszystko!</language>
 	</row>
 	<row id="msg_0454_T02GYM0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Man, you are truly tough...\rThat was such an inspirational battle.\nIt brought tears to my eyes.</language>
+		<language name="English">Człowieku, jesteś naprawdę silny/a...\rTo była taka inspirująca walka.\nAż łzy napłynęły mi do oczu.</language>
 	</row>
 	<row id="msg_0454_T02GYM0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo, legend in the making!\rThe floor here is unstable,\nso you should put away your Pokémon\f...now!\rThe Gym Leader is a guy who battled\nthe Champion three years ago.\rHe’s no pushover.\nGive it everything you’ve got!\r</language>
+		<language name="English">Yo, przyszła legendo!\rPodłoga jest tutaj niestabilna,\nwięc powinieneś/aś schować swojego\fPokémona...już teraz!\rLider Sali to gość, który walczył\nz Mistrzem trzy lata temu.\rTo nie jest łatwy przeciwnik.\nDaj z siebie wszystko!\r</language>
 	</row>
 	<row id="msg_0454_T02GYM0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Viridian City Pokémon Gym</language>
+		<language name="English">Sala Pokémon w Viridian City</language>
 	</row>
 	<row id="msg_0454_T02GYM0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Viridian City Pokémon Gym\rGym Leader: Blue\nCertified Trainer!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Sala Pokémon w Viridian City\rLider Sali: Blue\nCertyfikowany Trener!\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 </body>
