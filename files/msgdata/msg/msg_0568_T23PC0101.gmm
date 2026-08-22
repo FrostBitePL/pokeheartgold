@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0568_T23PC0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do any of your Pokémon know...\nwhat they call the hidden moves?\rWhen a Pokémon faints, it just means\nit doesn’t have the power to battle.\rBut it can still use hidden moves\noutside of battle!</language>
+		<language name="English">Czy któryś z twoich Pokémonów zna...\njak to się nazywa, ukryte ataki?\rGdy Pokémon zemdleje, oznacza to\ntylko, że brak mu sił do walki.\rAle wciąż może używać ukrytych\nataków poza walką!</language>
 	</row>
 	<row id="msg_0568_T23PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bill’s PC can store up to 30\nPokémon per Box.</language>
+		<language name="English">PC Billa może przechować do 30\nPokémonów na Boks.</language>
 	</row>
 	<row id="msg_0568_T23PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you know what an Apricorn is?\rYou crack it open to discard the core\nand put it in this special machine...\fThen you can catch Pokémon!\rBefore Poké Balls became available,\neverybody used Apricorns to\fcatch Pokémon.\n</language>
+		<language name="English">Wiesz, czym jest Apricorn?\rRozłupujesz go, wyrzucasz środek\ni wkładasz go do tej specjalnej\fmaszyny... Wtedy możesz łapać\fPokémony!\rZanim Poké Bale stały się dostępne,\nwszyscy używali Apricornów\fdo łapania Pokémonów.\n</language>
 	</row>
 </body>
