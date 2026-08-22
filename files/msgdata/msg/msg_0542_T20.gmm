@@ -168,4 +168,8 @@
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Kamień rozbłyska, ale nie masz\nmiejsca na nowego Pokémona!</language>
 	</row>
+	<row id="msg_0542_T20_00042" index="42">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">TEST: numer wpisany poprawnie,\nekran wrocil bez zawieszenia.</language>
+	</row>
 </body>

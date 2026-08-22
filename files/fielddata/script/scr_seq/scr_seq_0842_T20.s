@@ -1861,6 +1861,9 @@ scr_seq_T20_018:
 	GoToIfEq _T20_018_invalid
 	Compare VAR_TEMP_x4000, 151
 	GoToIfGt _T20_018_invalid
+	NPCMsg msg_0542_T20_00042
+	WaitButton
+	CloseMsg
 	GiveMon VAR_TEMP_x4000, 25, ITEM_NONE, 0, 0, VAR_SPECIAL_RESULT
 	Compare VAR_SPECIAL_RESULT, 0
 	GoToIfEq _T20_018_full
