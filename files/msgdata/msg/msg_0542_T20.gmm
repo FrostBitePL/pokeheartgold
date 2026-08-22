@@ -154,7 +154,7 @@
 	</row>
 	<row id="msg_0542_T20_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Czujesz dziwną moc płynącą z tego kamienia...\rPodaj numer Pokédexu (1-151),\nby przywołać wybranego Pokémona.\rWciśnij SELECT, aby przełączyć\nklawiaturę - cyfry są w dolnym rzędzie.\r</language>
+		<language name="English">Czujesz dziwną moc płynącą z tego kamienia...\rZamknij oczy i pomyśl o dalekiej\npodróży...\r</language>
 	</row>
 	<row id="msg_0542_T20_00039" index="39">
 		<attribute name="window_context_name">used</attribute>

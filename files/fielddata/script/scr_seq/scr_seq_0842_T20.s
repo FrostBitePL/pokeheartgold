@@ -1857,30 +1857,15 @@ scr_seq_T20_018:
 	NPCMsg msg_0542_T20_00038
 	WaitButton
 	CloseMsg
-	NumpadInput VAR_TEMP_x4000
-	NPCMsg msg_0542_T20_00043
-	WaitButton
-	CloseMsg
-	Compare VAR_TEMP_x4000, 0
-	GoToIfEq _T20_018_invalid
-	Compare VAR_TEMP_x4000, 151
-	GoToIfGt _T20_018_invalid
+	Random VAR_TEMP_x4000, 151
+	AddVar VAR_TEMP_x4000, 1
 	GiveMon VAR_TEMP_x4000, 25, ITEM_NONE, 0, 0, VAR_SPECIAL_RESULT
-	NPCMsg msg_0542_T20_00044
-	WaitButton
-	CloseMsg
 	Compare VAR_SPECIAL_RESULT, 0
 	GoToIfEq _T20_018_full
 	BufferSpeciesName 1, VAR_TEMP_x4000, 0, 0
 	NPCMsg msg_0542_T20_00039
 	PlayFanfare SEQ_ME_POKEGET
 	WaitFanfare
-	CloseMsg
-	ReleaseAll
-	End
-_T20_018_invalid:
-	NPCMsg msg_0542_T20_00040
-	WaitButton
 	CloseMsg
 	ReleaseAll
 	End
