@@ -2,78 +2,78 @@
 <body language="English">
 	<row id="msg_0047_D01R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A bunch of DIGLETT popped out of the\nground! That was surprising!</language>
+		<language name="English">Grupa DIGLETT wyskoczyła\nz ziemi! To było zaskakujące!</language>
 	</row>
 	<row id="msg_0047_D01R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: Small spaces surrounded by\nrocks make you feel peaceful,\fdon’t you agree?\rBy the way, do you want to\nexchange numbers? {YESNO 0}\n</language>
+		<language name="English">Brock: Małe przestrzenie otoczone\nskałami dają poczucie spokoju,\fnie sądzisz?\rSwoją drogą, chcesz wymienić\nsię numerami? {YESNO 0}\n</language>
 	</row>
 	<row id="msg_0047_D01R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered Brock\nin the Pokégear!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} zapisał(a) Brocka\nw Pokégearze!</language>
 	</row>
 	<row id="msg_0047_D01R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: I would love to have a Pokémon\nbattle against you!\fGive me a call on Saturday nights!</language>
+		<language name="English">Brock: Chciałbym stoczyć z tobą\nwalkę Pokémon!\fZadzwoń do mnie w sobotnie wieczory!</language>
 	</row>
 	<row id="msg_0047_D01R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: I see... How disappointing.\nI would love to have a Pokémon battle\fagainst you...</language>
+		<language name="English">Brock: Rozumiem... Cóż za\nrozczarowanie. Chciałbym stoczyć\fz tobą walkę Pokémon...</language>
 	</row>
 	<row id="msg_0047_D01R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: Can we exchange numbers? {YESNO 0}</language>
+		<language name="English">Brock: Możemy wymienić się\nnumerami? {YESNO 0}</language>
 	</row>
 	<row id="msg_0047_D01R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: Hey, you! Why don’t you\ntake a picture with me? {YESNO 0}</language>
+		<language name="English">Brock: Hej, ty! Może zrobimy sobie\nzdjęcie? {YESNO 0}</language>
 	</row>
 	<row id="msg_0047_D01R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: All righty!\nStand next to me and relax!\r</language>
+		<language name="English">Brock: Dobrze!\nStań obok mnie i się rozluźnij!\r</language>
 	</row>
 	<row id="msg_0047_D01R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: Yes!\nAnother great memory!</language>
+		<language name="English">Brock: Tak!\nKolejna wspaniała pamiątka!</language>
 	</row>
 	<row id="msg_0047_D01R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: Well...\nThat’s OK.</language>
+		<language name="English">Brock: Cóż...\nW porządku.</language>
 	</row>
 	<row id="msg_0047_D01R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Photo Album is full.\rAccess your PC and delete\nsome pictures.</language>
+		<language name="English">Twój Album Zdjęć jest pełny.\rWejdź do PC i usuń\njakieś zdjęcia.</language>
 	</row>
 	<row id="msg_0047_D01R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: Hi, {STRVAR_1 3, 0, 0}!\nHave you seen a Pokémon called BONSLY?\rThey say you have to get it from\nan Egg...\rI am having a hard time finding one.\nIf you happen to have a BONSLY,\fcould you trade it for my RHYHORN? {YESNO 0}</language>
+		<language name="English">Brock: Cześć, {STRVAR_1 3, 0, 0}!\nWidziałeś może Pokémona zwanego\fBONSLY?\rMówią, że trzeba go zdobyć\nz Jajka...\rMam problem ze znalezieniem go.\nJeśli przypadkiem masz BONSLY,\fmógłbyś wymienić go na mojego\fRHYHORN? {YESNO 0}</language>
 	</row>
 	<row id="msg_0047_D01R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: Hi, {STRVAR_1 3, 0, 0}!\nHave you seen a Pokémon called BONSLY?\rThey say you have to get it from an\nEgg...\rI am having a hard time finding one.\nIf you happen to have a BONSLY,\fcould you trade it for my RHYHORN? {YESNO 0}</language>
+		<language name="English">Brock: Cześć, {STRVAR_1 3, 0, 0}!\nWidziałeś może Pokémona zwanego\fBONSLY?\rMówią, że trzeba go zdobyć\nz Jajka...\rMam problem ze znalezieniem go.\nJeśli przypadkiem masz BONSLY,\fmógłbyś wymienić go na mojego\fRHYHORN? {YESNO 0}</language>
 	</row>
 	<row id="msg_0047_D01R0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: All right!\nLet’s trade!\r</language>
+		<language name="English">Brock: Dobrze!\nWymieńmy się!\r</language>
 	</row>
 	<row id="msg_0047_D01R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: I thought you might have one,\nbut I guess it’s not that easy...\rIf you find one, remember to trade\nwith me, OK?</language>
+		<language name="English">Brock: Myślałem, że możesz go mieć,\nale chyba nie jest to takie łatwe...\rJeśli go znajdziesz, pamiętaj,\nżeby się ze mną wymienić, dobrze?</language>
 	</row>
 	<row id="msg_0047_D01R0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: I am looking for BONSLY.\nAre you saying you’ll trade\fit for my RHYHORN? {YESNO 0}</language>
+		<language name="English">Brock: Szukam BONSLY.\nCzy to znaczy, że wymienisz go\fna mojego RHYHORN? {YESNO 0}</language>
 	</row>
 	<row id="msg_0047_D01R0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: Thank you!\nI have been looking for BONSLY!\rThe RHYHORN I gave you knows the move\nThunder Fang! I trained it from an Egg.\rI’m so proud of it, because it can\ntake down Water-type Pokémon, which\fusually are a tough matchup.\rTake good care of it for me!</language>
+		<language name="English">Brock: Dziękuję!\nSzukałem BONSLY!\rRHYHORN, którego ci dałem, zna atak\nGromowy Kieł! Wychowałem go od Jajka.\rJestem z niego bardzo dumny, bo\npotrafi pokonać Pokémony typu\fWodny, które zwykle są trudnym\fprzeciwnikiem.\rZaopiekuj się nim dla mnie!</language>
 	</row>
 	<row id="msg_0047_D01R0101_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: That RHYHORN I gave you knows\nThunder Fang! I trained it from an Egg.\rI’m so proud of it, because it can\ntake down Water-type Pokémon, which\fusually are a tough matchup.\rTake good care of it for me!\n\n</language>
+		<language name="English">Brock: Ten RHYHORN, którego ci dałem,\nzna atak Gromowy Kieł! Wychowałem\fgo od Jajka.\rJestem z niego bardzo dumny, bo\npotrafi pokonać Pokémony typu\fWodny, które zwykle są trudnym\fprzeciwnikiem.\rZaopiekuj się nim dla mnie!\n\n</language>
 	</row>
 	<row id="msg_0047_D01R0101_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: Hey, now!\nThat is not a BONSLY!</language>
+		<language name="English">Brock: Ej, no!\nTo nie jest BONSLY!</language>
 	</row>
 </body>
