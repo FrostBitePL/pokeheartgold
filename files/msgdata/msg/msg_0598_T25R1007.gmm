@@ -2,50 +2,50 @@
 <body language="English">
 	<row id="msg_0598_T25R1007_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you for shopping with us today.\rTo which floor may I take you? {YESNO 0}</language>
+		<language name="English">Dziękujemy za dzisiejsze zakupy\nu nas.\rNa które piętro mogę cię zabrać? {YESNO 0}</language>
 	</row>
 	<row id="msg_0598_T25R1007_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I look forward to serving you again.</language>
+		<language name="English">Czekam, aż będę mógł znów\nci usłużyć.</language>
 	</row>
 	<row id="msg_0598_T25R1007_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Certainly.\nElevator going up.\r</language>
+		<language name="English">Oczywiście.\nWinda jedzie w górę.\r</language>
 	</row>
 	<row id="msg_0598_T25R1007_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Certainly.\nElevator going down.\r</language>
+		<language name="English">Oczywiście.\nWinda jedzie w dół.\r</language>
 	</row>
 	<row id="msg_0598_T25R1007_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We are already on that floor?!</language>
+		<language name="English">Jesteśmy już na tym piętrze?!</language>
 	</row>
 	<row id="msg_0598_T25R1007_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">First floor has the Service Counter\nand the main entrance.</language>
+		<language name="English">Na pierwszym piętrze jest Punkt\nObsługi i główne wejście.</language>
 	</row>
 	<row id="msg_0598_T25R1007_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Second floor has the Trainer’s Market,\nwhere various useful items are sold.</language>
+		<language name="English">Na drugim piętrze jest Rynek\nTrenera, gdzie sprzedaje się różne\fprzydatne przedmioty.</language>
 	</row>
 	<row id="msg_0598_T25R1007_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Third floor has the Battle Collection\nto aim for strong, tough Pokémon.</language>
+		<language name="English">Na trzecim piętrze jest Kolekcja\nBojowa dla silnych, twardych\fPokémonów.</language>
 	</row>
 	<row id="msg_0598_T25R1007_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fourth floor has the Medicine Box to\nimprove your Pokémon’s potential.</language>
+		<language name="English">Na czwartym piętrze jest Skrzynka\nz Lekami, by ulepszyć potencjał\ftwojego Pokémona.</language>
 	</row>
 	<row id="msg_0598_T25R1007_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fifth floor has the TM Corner\nto give your Pokémon a new edge.</language>
+		<language name="English">Na piątym piętrze jest Kącik TM,\nby dać twojemu Pokémonowi\fnową przewagę.</language>
 	</row>
 	<row id="msg_0598_T25R1007_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sixth floor has the Rooftop Atrium.\nDon’t miss the Daily Drawing Corner!</language>
+		<language name="English">Na szóstym piętrze jest Atrium\nna Dachu. Nie przegap Kącika\fCodziennego Losowania!</language>
 	</row>
 	<row id="msg_0598_T25R1007_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The basement has the warehouse.\nIt is not open to customers.</language>
+		<language name="English">W piwnicy jest magazyn.\nJest niedostępny dla klientów.</language>
 	</row>
 </body>
