@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0543_T20R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Mariusz: Witaj, {STRVAR_1 3, 0, 0}!\nCzekalem na ciebie!\rWiesz moze, nad czym pracuje?\rJak zapewne wiesz, dzis Pokémony\nnosi sie w Poké Ballach.\rAle zanim wynaleziono Poké Balle,\nludzie chodzili z Pokémonami\fu boku.\fDokladnie tak, jak robi to twój\nprzyjaciel Emil!\rPoké Balle sa swietne, bo mozna\nnosic przy sobie wiele Pokémonów.\rAle wspólne chodzenie z Pokémonem\nmusi miec jakies zalety.\rMoze to miec zwiazek z tym, jak\nPokémony rosna albo ewoluuja...\rWiec dam ci Pokémona!\rCzy móglbys chodzic obok niego,\npoza Poké Ballem, zebysmy sprawdzili,\fczy to rodzi jakies szczególne wiezi\fmiedzy Pokémonem a czlowiekiem?\rTamto urzadzenie ma kilka Pokémonów\ndo wyboru...\r</language>
+		<language name="English">Profesor Mariusz: Witaj, {STRVAR_1 3, 0, 0}!\nCzekałem na ciebie!\rWiesz może, nad czym pracuję?\rJak zapewne wiesz, dziś Pokémony\nnosi się w Poké Ballach.\rAle zanim wynaleziono Poké Balle,\nludzie chodzili z Pokémonami\fu boku.\fDokładnie tak, jak robi to twój\nprzyjaciel Emil!\rPoké Balle są świetne, bo można\nnosić przy sobie wiele Pokémonów.\rAle wspólne chodzenie z Pokémonem\nmusi mieć jakieś zalety.\rMoże to mieć związek z tym, jak\nPokémony rosną albo ewoluują...\rWięc dam ci Pokémona!\rCzy mógłbyś chodzić obok niego,\npoza Poké Ballem, żebyśmy sprawdzili,\fczy to rodzi jakieś szczególne więzi\fmiędzy Pokémonem a człowiekiem?\rTamto urządzenie ma kilka Pokémonów\ndo wyboru...\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Mariusz: Witaj, {STRVAR_1 3, 0, 0}!\nCzekalem na ciebie!\rWiesz moze, nad czym pracuje?\rJak zapewne wiesz, dzis Pokémony\nnosi sie w Poké Ballach.\rAle zanim wynaleziono Poké Balle,\nludzie chodzili z Pokémonami\fu boku.\fDokladnie tak, jak robi to twój\nprzyjaciel Emil!\rPoké Balle sa swietne, bo mozna\nnosic przy sobie wiele Pokémonów.\rAle wspólne chodzenie z Pokémonem\nmusi miec jakies zalety.\rMoze to miec zwiazek z tym, jak\nPokémony rosna albo ewoluuja...\rWiec dam ci Pokémona!\rCzy móglbys chodzic obok niego,\npoza Poké Ballem, zebysmy sprawdzili,\fczy to rodzi jakies szczególne wiezi\fmiedzy Pokémonem a czlowiekiem?\rTamto urzadzenie ma kilka Pokémonów\ndo wyboru...\r</language>
+		<language name="English">Profesor Mariusz: Witaj, {STRVAR_1 3, 0, 0}!\nCzekałem na ciebie!\rWiesz może, nad czym pracuję?\rJak zapewne wiesz, dziś Pokémony\nnosi się w Poké Ballach.\rAle zanim wynaleziono Poké Balle,\nludzie chodzili z Pokémonami\fu boku.\fDokładnie tak, jak robi to twój\nprzyjaciel Emil!\rPoké Balle są świetne, bo można\nnosić przy sobie wiele Pokémonów.\rAle wspólne chodzenie z Pokémonem\nmusi mieć jakieś zalety.\rMoże to mieć związek z tym, jak\nPokémony rosną albo ewoluują...\rWięc dam ci Pokémona!\rCzy mógłbyś chodzić obok niego,\npoza Poké Ballem, żebyśmy sprawdzili,\fczy to rodzi jakieś szczególne więzi\fmiędzy Pokémonem a człowiekiem?\rTamto urządzenie ma kilka Pokémonów\ndo wyboru...\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -18,43 +18,43 @@
 	</row>
 	<row id="msg_0543_T20R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Mariusz: Sluchaj no.\nZnam pewnego znajomego, którego\fwszyscy nazywaja Wackiem.\rCiagle znajduje jakies dziwne rzeczy\ni zachwyca sie swoimi odkryciami.\rW kazdym razie wlasnie dostalem od\nniego wiadomosc, ze tym razem to\fnaprawde cos wielkiego.\rPewnie znowu jakies jajko Pokémona,\nale my wciaz mamy pelne rece roboty\fz naszymi badaniami...\rZaczekaj!\nMam pomysl!\rMozesz pójsc zamiast nas, prawda?\nMozemy na ciebie liczyc?\rMozesz wybrac jednego z Pokémonów\nstamtad.\r</language>
+		<language name="English">Profesor Mariusz: Słuchaj no.\nZnam pewnego znajomego, którego\fwszyscy nazywają Wackiem.\rCiągle znajduje jakieś dziwne rzeczy\ni zachwyca się swoimi odkryciami.\rW każdym razie właśnie dostałem od\nniego wiadomość, że tym razem to\fnaprawdę coś wielkiego.\rPewnie znowu jakieś jajko Pokémona,\nale my wciąż mamy pełne ręce roboty\fz naszymi badaniami...\rZaczekaj!\nMam pomysł!\rMożesz pójść zamiast nas, prawda?\nMożemy na ciebie liczyć?\rMożesz wybrać jednego z Pokémonów\nstamtąd.\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Mariusz: Jesli natkniesz sie na\ndzikiego Pokémona, niech twój z nim\fzawalczy!</language>
+		<language name="English">Profesor Mariusz: Jeśli natkniesz się na\ndzikiego Pokémona, niech twój z nim\fzawalczy!</language>
 	</row>
 	<row id="msg_0543_T20R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Mariusz: Dokad to sie wybierasz?\nPoké Balle sa w tamtym urzadzeniu.\r</language>
+		<language name="English">Profesor Mariusz: Dokąd to się wybierasz?\nPoké Balle są w tamtym urządzeniu.\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} otrzymal(a) {STRVAR_1 0, 1, 0}\nod Profesora Mariusza!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a) {STRVAR_1 0, 1, 0}\nod Profesora Mariusza!</language>
 	</row>
 	<row id="msg_0543_T20R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nadac przezwisko {STRVAR_1 0, 1, 0},\nktorego wlasnie otrzymales? {YESNO 0}</language>
+		<language name="English">Nadać przezwisko {STRVAR_1 0, 1, 0},\nktórego właśnie otrzymałeś? {YESNO 0}</language>
 	</row>
 	<row id="msg_0543_T20R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Czy {STRVAR_1 1, 1, 0} to przezwisko,\nktore chcesz nadac? {YESNO 0}</language>
+		<language name="English">Czy {STRVAR_1 1, 1, 0} to przezwisko,\nktóre chcesz nadać? {YESNO 0}</language>
 	</row>
 	<row id="msg_0543_T20R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Mariusz: Jak ci sie podoba\nchodzenie z Pokémonem? Niezle, co?\rMozesz z nim isc cala droge,\naz do domu Wacka.\rGdyby twój Pokémon sie zranil...\r</language>
+		<language name="English">Profesor Mariusz: Jak ci się podoba\nchodzenie z Pokémonem? Nieźle, co?\rMożesz z nim iść całą drogę,\naż do domu Wacka.\rGdyby twój Pokémon się zranił...\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...powinienes go uleczyc ta maszyna.\rJest bardzo prosta w obsludze.\nWystarczy sprawdzic komputer na moim biurku!\r</language>
+		<language name="English">...powinieneś go uleczyć tą maszyną.\rJest bardzo prosta w obsłudze.\nWystarczy sprawdzić komputer na moim biurku!\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Mariusz: Wacek wszedzie chodzi\ni znajduje najróznorodniejsze rzadkosci.\fJego dom jest tuz za Wierzbna,\nprzy trasie do Lazan.\rIdz prosto na pólnoc.\fLicze na ciebie, {STRVAR_1 3, 0, 0}!</language>
+		<language name="English">Profesor Mariusz: Wacek wszędzie chodzi\ni znajduje najróżnorodniejsze rzadkości.\fJego dom jest tuż za Wierzbną,\nprzy trasie do Łażan.\rIdź prosto na północ.\fLiczę na ciebie, {STRVAR_1 3, 0, 0}!</language>
 	</row>
 	<row id="msg_0543_T20R0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Mariusz: Wacek wszedzie chodzi\ni znajduje najróznorodniejsze rzadkosci.\fJego dom jest tuz za Wierzbna,\nprzy trasie do Lazan.\rIdz prosto na pólnoc.\fLicze na ciebie, {STRVAR_1 3, 0, 0}!</language>
+		<language name="English">Profesor Mariusz: Wacek wszędzie chodzi\ni znajduje najróżnorodniejsze rzadkości.\fJego dom jest tuż za Wierzbną,\nprzy trasie do Łażan.\rIdź prosto na północ.\fLiczę na ciebie, {STRVAR_1 3, 0, 0}!</language>
 	</row>
 	<row id="msg_0543_T20R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
