@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0120_D37R0105_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Director: Who? What? You came to\nrescue me? Thank you!\rThe Radio Tower!\nWhat’s happening there?\rTaken over by Team Rocket?\nHere. Take this Card Key.\r</language>
+		<language name="English">Dyrektor: Kto? Co? Przyszedłeś/aś,\nżeby mnie uratować? Dziękuję!\rWieża Radiowa!\nCo się tam dzieje?\rPrzejęta przez Team Rocket?\nProszę. Weź tę Kartę-Klucz.\r</language>
 	</row>
 	<row id="msg_0120_D37R0105_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>
@@ -11,10 +11,10 @@
 	</row>
 	<row id="msg_0120_D37R0105_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Director: Use that to open the\nshutters on 3F.\r</language>
+		<language name="English">Dyrektor: Użyj jej, by otworzyć\nrolety na 3 piętrze.\r</language>
 	</row>
 	<row id="msg_0120_D37R0105_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m begging you to help.\rThere’s no telling what they’ll do if\nthey control the transmitter.\rThey may even be able to control\nPokémon using a special signal!\rYou’re the only one I can call on.\nPlease save the Radio Tower...\fand all the Pokémon nationwide!</language>
+		<language name="English">Błagam cię o pomoc.\rNie wiadomo, co zrobią, jeśli\nprzejmą kontrolę nad nadajnikiem.\rMogą nawet być w stanie kontrolować\nPokémony za pomocą specjalnego sygnału!\rTy jesteś jedyną osobą, na której\nmogę polegać. Proszę, uratuj Wieżę\fRadiową...\fi wszystkie Pokémony w całym kraju!</language>
 	</row>
 </body>
