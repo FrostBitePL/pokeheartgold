@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0567_T23GYM0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Ula od Bugsy'ego!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Ula od Bugsy’ego!</language>
 	</row>
 	<row id="msg_0567_T23GYM0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
