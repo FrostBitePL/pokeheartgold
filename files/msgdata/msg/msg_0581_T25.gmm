@@ -2,190 +2,190 @@
 <body language="English">
 	<row id="msg_0581_T25_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">They built the new Radio Tower to\nreplace the old, creaky one.</language>
+		<language name="English">Zbudowali nową Wieżę Radiową,\nby zastąpić starą, skrzypiącą.</language>
 	</row>
 	<row id="msg_0581_T25_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you visited the Pokéathlon Dome?\nIt is a huge sports facility where\fPokémon compete with each other.\rIt was quite a sight!</language>
+		<language name="English">Byłeś już w Kopule Pokéathlonu?\nTo ogromny obiekt sportowy, gdzie\fPokémony rywalizują ze sobą.\rTo było niesamowite widowisko!</language>
 	</row>
 	<row id="msg_0581_T25_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I know there’s a new Bike Shop,\nbut I can’t find it anywhere.</language>
+		<language name="English">Wiem, że jest nowy Sklep\nz Rowerami, ale nigdzie go\fnie mogę znaleźć.</language>
 	</row>
 	<row id="msg_0581_T25_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The fact that you have a Bike...\nmeans you got it from a Bike Shop,\fright?\rAll right!\nI can say that there is a Bike Shop\fsomewhere in this city!</language>
+		<language name="English">Skoro masz Rower...\nto znaczy, że dostałeś go ze Sklepu\fz Rowerami, prawda?\rDobrze!\nMogę więc powiedzieć, że gdzieś\fw tym mieście jest Sklep z Rowerami!</language>
 	</row>
 	<row id="msg_0581_T25_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Is that man in black dressed up\nlike a Team Rocket member?\fHow silly!</language>
+		<language name="English">Czy ten mężczyzna w czerni jest\nprzebrany za członka Team Rocket?\fCóż za głupota!</language>
 	</row>
 	<row id="msg_0581_T25_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Was that man in black really part\nof Team Rocket?\fI can’t believe it!</language>
+		<language name="English">Czy ten mężczyzna w czerni naprawdę\nnależał do Team Rocket?\fNie mogę w to uwierzyć!</language>
 	</row>
 	<row id="msg_0581_T25_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Radio Tower in Goldenrod City is\na landmark.\rThey’re running a promotional campaign\nright now.\rThey’ll modify your Pokégear so it can\nalso serve as a radio.</language>
+		<language name="English">Wieża Radiowa w Goldenrod City to\nzabytkowy punkt orientacyjny.\rProwadzą teraz kampanię promocyjną.\rZmodyfikują twój Pokégear, by mógł\ntakże działać jako radio.</language>
 	</row>
 	<row id="msg_0581_T25_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Radio Tower in Goldenrod City is\na landmark.\rThey’re running a promotional campaign\nright now.\rThey’ll modify your Pokégear so it can\nalso serve as a radio.\rOh, your Pokégear works as a radio!</language>
+		<language name="English">Wieża Radiowa w Goldenrod City to\nzabytkowy punkt orientacyjny.\rProwadzą teraz kampanię promocyjną.\rZmodyfikują twój Pokégear, by mógł\ntakże działać jako radio.\rOch, twój Pokégear działa jako radio!</language>
 	</row>
 	<row id="msg_0581_T25_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">E-he-he-he...\nI got in trouble for playing in the\fbasement of the department store.</language>
+		<language name="English">E-he-he-he...\nMiałem kłopoty za zabawę w piwnicy\fdomu towarowego.</language>
 	</row>
 	<row id="msg_0581_T25_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The man at that tent rates your\nPokémon names.\rHe can even rename your Pokémon.</language>
+		<language name="English">Mężczyzna w tym namiocie ocenia\nimiona twoich Pokémonów.\rMoże nawet zmienić przezwisko\ntwojego Pokémona.</language>
 	</row>
 	<row id="msg_0581_T25_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I think I’ll give my Pokémon cool\nnicknames as a reward if they do\fwell in the Pokéathlon.</language>
+		<language name="English">Myślę, że dam moim Pokémonom fajne\nprzezwiska jako nagrodę, jeśli dobrze\fspiszą się w Pokéathlonie.</language>
 	</row>
 	<row id="msg_0581_T25_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whew! This is one big town.\nI don’t know where anything is.</language>
+		<language name="English">Uff! To naprawdę duże miasto.\nNie wiem, gdzie co jest.</language>
 	</row>
 	<row id="msg_0581_T25_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I know that you can find the\nPokéathlon Dome when you take\fRoute 35 north and go past the\fleft gate...\rBut I seem to get lost every time\nI come to this town...</language>
+		<language name="English">Wiem, że można znaleźć Kopułę\nPokéathlonu, idąc Trasą 35 na północ\fi mijając lewą bramę...\rAle wygląda na to, że gubię się\nza każdym razem, gdy tu przyjeżdżam...</language>
 	</row>
 	<row id="msg_0581_T25_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So this is the Radio Tower...\r</language>
+		<language name="English">Więc to jest Wieża Radiowa...\r</language>
 	</row>
 	<row id="msg_0581_T25_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What do you want, you pest?\nScram!\r</language>
+		<language name="English">Czego chcesz, szkodniku?\nWynocha!\r</language>
 	</row>
 	<row id="msg_0581_T25_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What are you doing?\nGet to your position right away!\r</language>
+		<language name="English">Co ty robisz?\nNatychmiast wracaj na stanowisko!\r</language>
 	</row>
 	<row id="msg_0581_T25_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon? They’re nothing more than\ntools for making money!</language>
+		<language name="English">Pokémony? To nic więcej jak\nnarzędzia do zarabiania pieniędzy!</language>
 	</row>
 	<row id="msg_0581_T25_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We are on guard here.\nDon’t you worry!</language>
+		<language name="English">Pilnujemy tu porządku.\nNie martw się!</language>
 	</row>
 	<row id="msg_0581_T25_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Take over the Radio Tower...\rWhat? It’s none of your business!</language>
+		<language name="English">Przejąć Wieżę Radiową...\rCo? To nie twoja sprawa!</language>
 	</row>
 	<row id="msg_0581_T25_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You look awfully young...\nAre you new?</language>
+		<language name="English">Wyglądasz strasznie młodo...\nJesteś nowy?</language>
 	</row>
 	<row id="msg_0581_T25_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, brat! You don’t belong here!\fGet lost!</language>
+		<language name="English">Hej, bachorze! Nie miejsce tu\ndla ciebie!\fSpadaj!</language>
 	</row>
 	<row id="msg_0581_T25_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, hey!\nI’ve got this covered!\rWhy don’t you go to the Radio Tower?</language>
+		<language name="English">Hej, hej!\nMam to pod kontrolą!\rMoże pójdziesz do Wieży Radiowej?</language>
 	</row>
 	<row id="msg_0581_T25_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Friendship with Pokémon?\rThat makes me laugh!</language>
+		<language name="English">Przyjaźń z Pokémonami?\rTo mnie rozśmiesza!</language>
 	</row>
 	<row id="msg_0581_T25_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Our dream will soon come true...\nIt was such a long struggle...</language>
+		<language name="English">Nasze marzenie wkrótce się spełni...\nTo była taka długa walka...</language>
 	</row>
 	<row id="msg_0581_T25_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Who are you? A newcomer?\rWe’ve run out of Team Rocket\nuniforms.\rOne of my guys is going to get more...\rWhat’s taking him so long?\rThe studio in the tunnel is just around\nthe corner.</language>
+		<language name="English">Kim jesteś? Nowy?\rSkończyły nam się mundury\nTeam Rocket.\rJeden z moich ludzi idzie po\nwięcej...\rCo mu tak długo zajmuje?\rStudio w tunelu jest\ntuż za rogiem.</language>
 	</row>
 	<row id="msg_0581_T25_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">For a young one like you to decide\nto become a member of Team Rocket...\fThat’s great, kiddo!</language>
+		<language name="English">Że taki młody jak ty zdecydował się\nzostać członkiem Team Rocket...\fŚwietnie, dzieciaku!</language>
 	</row>
 	<row id="msg_0581_T25_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Get out of my way!\rWe, as Gym Trainers, will never allow\nTeam Rocket to do nasty things here\fin our city!</language>
+		<language name="English">Zejdź mi z drogi!\rMy, jako Trenerzy Sali, nigdy nie\npozwolimy Team Rocket na paskudztwa\fw naszym mieście!</language>
 	</row>
 	<row id="msg_0581_T25_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tee hee!\rYou Gym Trainers can be a problem.\nStay in the Gym and stay out of\fthe way!</language>
+		<language name="English">Hi hi!\rWy, Trenerzy Sali, potraficie być\nproblemem. Siedźcie w Sali i nie\fwchodźcie w drogę!</language>
 	</row>
 	<row id="msg_0581_T25_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Gym Leader, Whitney, went flying by\nsaying, “I have got to\fget a Radio Card!”</language>
+		<language name="English">Liderka Sali, Whitney, przebiegła,\nmówiąc: „Muszę zdobyć\fKartę Radiową!”</language>
 	</row>
 	<row id="msg_0581_T25_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wh-what are you trying to do?\nCan’t you see this cool, pitch-black\funiform I’m wearing?\rYou’re not afraid of Team Rocket? Huh?</language>
+		<language name="English">C-co próbujesz zrobić?\nNie widzisz tego fajnego,\fczarnego jak smoła munduru,\fktóry noszę?\rNie boisz się Team Rocket? Co?</language>
 	</row>
 	<row id="msg_0581_T25_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t appear scary enough to be a\nTeam Rocket member in that uniform...\fMake a scarier face and say, “Yeee!”\rAll the while, clenching your teeth!</language>
+		<language name="English">Nie wyglądasz wystarczająco strasznie\nna członka Team Rocket w tym mundurze...\fZrób straszniejszą minę i powiedz:\f„Yyy!”\rI zaciśnij przy tym zęby!</language>
 	</row>
 	<row id="msg_0581_T25_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where do you think you’re going?\nWe are right in the middle of\fthe mission!</language>
+		<language name="English">Dokąd niby idziesz?\nJesteśmy właśnie w trakcie misji!</language>
 	</row>
 	<row id="msg_0581_T25_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where do you think you are going?\nThe Radio Tower is not here!</language>
+		<language name="English">Dokąd niby idziesz?\nWieża Radiowa nie jest tutaj!</language>
 	</row>
 	<row id="msg_0581_T25_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The GTS lets you trade Pokémon\nall over the world!\r...Except that we have something\nmore important to do right now!</language>
+		<language name="English">GTS pozwala wymieniać Pokémony\nna całym świecie!\r...Poza tym, że mamy teraz coś\nważniejszego do zrobienia!</language>
 	</row>
 	<row id="msg_0581_T25_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you love to trade so much, wait until\nthe Radio Tower mission is over.\rThen you’ll have plenty of time!</language>
+		<language name="English">Jeśli tak bardzo lubisz wymianę,\nzaczekaj, aż misja w Wieży Radiowej\fsię skończy.\rWtedy będziesz mieć mnóstwo czasu!</language>
 	</row>
 	<row id="msg_0581_T25_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Slow down!\rI’m the only one who was sent here.\fDon’t give me any more trouble, OK?\r</language>
+		<language name="English">Zwolnij!\rJestem jedynym, którego tu wysłano.\fNie sprawiaj mi więcej kłopotów,\fdobrze?\r</language>
 	</row>
 	<row id="msg_0581_T25_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Johto-Kanto Magnet Train Line\nGoldenrod City Station</language>
+		<language name="English">Kolej Magnetyczna Żarów-Kanto\nStacja Goldenrod City</language>
 	</row>
 	<row id="msg_0581_T25_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Goldenrod City Radio Tower\rA Network Providing Johto\nwith Interesting Information</language>
+		<language name="English">Wieża Radiowa w Goldenrod City\rSieć Dostarczająca Regionowi Żarów\nCiekawe Informacje</language>
 	</row>
 	<row id="msg_0581_T25_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Goldenrod City Pokémon Gym\nLeader: Whitney\fThe Incredibly Pretty Girl!</language>
+		<language name="English">Sala Pokémon w Goldenrod City\nLiderka: Whitney\fNiesamowicie Ładna Dziewczyna!</language>
 	</row>
 	<row id="msg_0581_T25_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Goldenrod City\nA Happening Big City</language>
+		<language name="English">Goldenrod City\nTętniące Życiem Wielkie Miasto</language>
 	</row>
 	<row id="msg_0581_T25_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bike Shop Goldenrod Branch\nThe World is a Cycling Path!</language>
+		<language name="English">Sklep z Rowerami, Oddział Goldenrod\nŚwiat to Ścieżka Rowerowa!</language>
 	</row>
 	<row id="msg_0581_T25_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Goldenrod City Game Corner\nA Safe and Sound Playground!</language>
+		<language name="English">Salon Gier w Goldenrod City\nBezpieczne i Solidne Miejsce Zabawy!</language>
 	</row>
 	<row id="msg_0581_T25_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Name Rater\nGet Your Pokémon Nicknames Rated</language>
+		<language name="English">Oceniacz Imion\nOceń Przezwiska Swoich Pokémonów</language>
 	</row>
 	<row id="msg_0581_T25_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Watch Out!\nGet Off Your Bike in the Tunnel</language>
+		<language name="English">Uważaj!\nZejdź z Roweru w Tunelu</language>
 	</row>
 	<row id="msg_0581_T25_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Be Careful!\nGet Off Your Bike in the Tunnel</language>
+		<language name="English">Uważaj!\nZejdź z Roweru w Tunelu</language>
 	</row>
 	<row id="msg_0581_T25_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Global Terminal\rAn Amazing and Completely\nGlobal Terminal!\n</language>
+		<language name="English">Globalny Terminal\rNiesamowity i Całkowicie\nGlobalny Terminal!\n</language>
 	</row>
 	<row id="msg_0581_T25_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Goldenrod Flower Shop\rA Small Shop Providing\nLots of Beauty</language>
+		<language name="English">Kwiaciarnia w Goldenrod\rMały Sklep Dostarczający\nMnóstwo Piękna</language>
 	</row>
 </body>
