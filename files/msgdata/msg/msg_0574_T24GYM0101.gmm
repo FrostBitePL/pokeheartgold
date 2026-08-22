@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0574_T24GYM0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chuck: Ooomph!\nThe pounding waterfall right onto\fmy head...\fArrgh!\rWhy did you stop the waterfall from\npouring on me!\rYou just spoiled my training!\nI have to warn you that I am a strong\fTrainer training every day under\fthis waterfall!\rWhat?\nIt has nothing to do with Pokémon?\r...\nThat’s true!\r...\n...\rCome on. We shall do battle!\r</language>
+		<language name="English">Chuck: Ooomph!\nWalący wodospad prosto na\fmoją głowę...\fArrgh!\rCzemu zatrzymałeś/aś wodospad,\nżeby na mnie nie lał!\rWłaśnie zepsułeś/aś mi trening!\nMuszę cię ostrzec, że jestem silnym\fTrenerem, trenującym codziennie pod\ftym wodospadem!\rCo?\nTo nie ma nic wspólnego z Pokémonami?\r...\nTo prawda!\r...\n...\rChodź. Stoczymy pojedynek!\r</language>
 	</row>
 	<row id="msg_0574_T24GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -10,54 +10,54 @@
 	</row>
 	<row id="msg_0574_T24GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There! Scared now, are you?\rWhat?\nIt has nothing to do with Pokémon?\fThat’s true!\fCome on. We shall do battle!\r</language>
+		<language name="English">Widzisz! No, przestraszyłeś/aś się?\rCo?\nTo nie ma nic wspólnego z Pokémonami?\fTo prawda!\fChodź. Stoczymy pojedynek!\r</language>
 	</row>
 	<row id="msg_0574_T24GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chuck: Hmm... I lost?\rHow about that!\nAll right. You’re worthy of\fthe Storm Badge!\r</language>
+		<language name="English">Chuck: Hmm... Przegrałem?\rNo proszę!\nDobra. Zasługujesz na\fSztormową Odznakę!\r</language>
 	</row>
 	<row id="msg_0574_T24GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Storm Badge from Chuck!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nSztormową Odznakę od Chucka!</language>
 	</row>
 	<row id="msg_0574_T24GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chuck: The Storm Badge lets your\nPokémon Fly to any city or town you’ve\falready been to!\rHere, take this, too!\r</language>
+		<language name="English">Chuck: Sztormowa Odznaka pozwala\ntwojemu Pokémonowi lecieć do\fkażdego miasta, w którym już byłeś/aś!\rProszę, weź jeszcze to!\r</language>
 	</row>
 	<row id="msg_0574_T24GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chuck: That is Focus Punch.\rIt doesn’t land if the foe you’re\nattacking hits you first, but it’s very\fpowerful if it manages to hit!</language>
+		<language name="English">Chuck: To jest Skupiona Pięść.\rNie trafi, jeśli przeciwnik, którego\natakujesz, uderzy cię pierwszy, ale\fjeśli trafi, jest bardzo potężna!</language>
 	</row>
 	<row id="msg_0574_T24GYM0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Argh... Your Bag is jammed full!</language>
+		<language name="English">Argh... Twój plecak jest pełny!</language>
 	</row>
 	<row id="msg_0574_T24GYM0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chuck: Wahahah!\nI enjoyed battling you!\rBut a loss is a loss!\rFrom now on, I’m going to train\n24 hours a day!</language>
+		<language name="English">Chuck: Wahahah!\nSpodobał mi się nasz pojedynek!\rAle przegrana to przegrana!\rOd teraz będę trenować\n24 godziny na dobę!</language>
 	</row>
 	<row id="msg_0574_T24GYM0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">He’s so into his training, he\ndoesn’t seem to notice you.</language>
+		<language name="English">Jest tak pochłonięty treningiem,\nże chyba cię nie zauważa.</language>
 	</row>
 	<row id="msg_0574_T24GYM0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a large winch.\nWill you turn it? {YESNO 0}</language>
+		<language name="English">Jest tu duża korba.\nObrócisz ją? {YESNO 0}</language>
 	</row>
 	<row id="msg_0574_T24GYM0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} turned the winch\nwith pure might!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0} obrócił(a) korbę\nz czystą siłą!\r</language>
 	</row>
 	<row id="msg_0574_T24GYM0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It won’t turn anymore.</language>
+		<language name="English">Już się nie obraca.</language>
 	</row>
 	<row id="msg_0574_T24GYM0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cianwood City Pokémon Gym</language>
+		<language name="English">Sala Pokémon w Cianwood City</language>
 	</row>
 	<row id="msg_0574_T24GYM0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cianwood City Pokémon Gym\rLeader: Chuck\nCertified Trainer!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Sala Pokémon w Cianwood City\rLider: Chuck\nCertyfikowany Trener!\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 </body>
