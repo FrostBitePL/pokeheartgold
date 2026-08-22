@@ -106,7 +106,7 @@
 	</row>
 	<row id="msg_0550_T21_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kamień rozbłyskuje!\rPoczułeś przypływ mocy!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a) {STRVAR_1 0, 1, 0}!\rKamień rozbłyskuje!</language>
 	</row>
 	<row id="msg_0550_T21_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
@@ -115,5 +115,9 @@
 	<row id="msg_0550_T21_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Kamień rozbłyska, ale nie masz\nmiejsca na nowego Pokémona!</language>
+	</row>
+	<row id="msg_0550_T21_00029" index="29">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Kamień jest zimny i milczący.\nMoże obudzi się, gdy zacznę\nswoją podróż z Pokémonem?</language>
 	</row>
 </body>

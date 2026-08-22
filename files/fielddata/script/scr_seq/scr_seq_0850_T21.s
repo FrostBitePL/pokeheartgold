@@ -864,6 +864,7 @@ scr_seq_T21_011:
 	PlaySE SEQ_SE_DP_SELECT
 	LockAll
 	FacePlayer
+	GoToIfUnset FLAG_GOT_STARTER, _T21_011_not_ready
 	NPCMsg msg_0550_T21_00025
 	WaitButton
 	CloseMsg
@@ -875,8 +876,10 @@ scr_seq_T21_011:
 	GiveMon VAR_TEMP_x4000, 25, ITEM_NONE, 0, 0, VAR_SPECIAL_RESULT
 	Compare VAR_SPECIAL_RESULT, 0
 	GoToIfEq _T21_011_full
+	BufferSpeciesName 1, VAR_TEMP_x4000, 0, 0
 	NPCMsg msg_0550_T21_00026
-	WaitButton
+	PlayFanfare SEQ_ME_POKEGET
+	WaitFanfare
 	CloseMsg
 	ReleaseAll
 	End
@@ -888,6 +891,12 @@ _T21_011_invalid:
 	End
 _T21_011_full:
 	NPCMsg msg_0550_T21_00028
+	WaitButton
+	CloseMsg
+	ReleaseAll
+	End
+_T21_011_not_ready:
+	NPCMsg msg_0550_T21_00029
 	WaitButton
 	CloseMsg
 	ReleaseAll
