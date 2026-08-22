@@ -2,27 +2,27 @@
 <body language="English">
 	<row id="msg_0380_R32_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wait up!\nWhat’s the hurry?\r</language>
+		<language name="English">Czekaj!\nCo za pośpiech?\r</language>
 	</row>
 	<row id="msg_0380_R32_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, right?\nSome guy wearing glasses was looking\ffor you.\rSee for yourself. He’s waiting for\nyou at the Poké Mart.</language>
+		<language name="English">{STRVAR_1 3, 0, 0}, prawda?\nSzukał cię jakiś facet w okularach.\rZobacz sam. Czeka na ciebie\nw Sklepie Pokémon.</language>
 	</row>
 	<row id="msg_0380_R32_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, right?\nSome guy wearing glasses was looking\ffor you.\rSee for yourself. He’s waiting for\nyou at the Poké Mart.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}, prawda?\nSzukał cię jakiś facet w okularach.\rZobacz sam. Czeka na ciebie\nw Sklepie Pokémon.\r</language>
 	</row>
 	<row id="msg_0380_R32_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you gone to the Pokémon Gym?\rYou can test your Pokémon and\nyourself there.\rIt’s a rite of passage for all Trainers!</language>
+		<language name="English">Byłeś już w Sali Pokémon?\rMożesz tam sprawdzić siebie\ni swoje Pokémony.\rTo rytuał przejścia dla\nkażdego Trenera!</language>
 	</row>
 	<row id="msg_0380_R32_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you gone to the Pokémon Gym?\rYou can test your Pokémon and\nyourself there.\rIt’s a rite of passage for all Trainers!\r</language>
+		<language name="English">Byłeś już w Sali Pokémon?\rMożesz tam sprawdzić siebie\ni swoje Pokémony.\rTo rytuał przejścia dla\nkażdego Trenera!\r</language>
 	</row>
 	<row id="msg_0380_R32_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have some good Pokémon there.\rIt must be from the training you gave\nthem around Violet City.\rThe training at the Gym must have\nbeen especially helpful.\rAs a souvenir of Violet City, take this.\rIt increases the power of\nGrass-type moves.\r</language>
+		<language name="English">Masz tam niezłe Pokémony.\rTo pewnie dzięki treningowi, jaki\nim dałeś w okolicach Łażan.\rTrening w Sali musiał być\nszczególnie pomocny.\rWeź to jako pamiątkę z Łażan.\rZwiększa moc ataków\ntypu Trawiasty.\r</language>
 	</row>
 	<row id="msg_0380_R32_00006" index="6">
 		<attribute name="window_context_name">garbage</attribute>
@@ -31,19 +31,19 @@
 	</row>
 	<row id="msg_0380_R32_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your experiences in Violet City\nshould be useful for your journey.</language>
+		<language name="English">Twoje doświadczenia z Łażan\npowinny przydać się w podróży.</language>
 	</row>
 	<row id="msg_0380_R32_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, your Bag is chock-full.</language>
+		<language name="English">Hej, twoja Torba jest zapchana.</language>
 	</row>
 	<row id="msg_0380_R32_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, your Bag is chock-full.\r</language>
+		<language name="English">Hej, twoja Torba jest zapchana.\r</language>
 	</row>
 	<row id="msg_0380_R32_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WROOOOAR!\rPEOPLE RUN WHEN I ROAR!\nBUT YOU CAME LOOKING!\rTHAT PLEASES ME!\nNOW TAKE THIS!\r</language>
+		<language name="English">WRUUUUAAA!\rLUDZIE UCIEKAJĄ, GDY RYCZĘ!\nALE TY PRZYSZEDŁEŚ SZUKAĆ!\rTO MNIE CIESZY!\nWEŹ TO!\r</language>
 	</row>
 	<row id="msg_0380_R32_00011" index="11">
 		<attribute name="window_context_name">garbage</attribute>
@@ -52,34 +52,34 @@
 	</row>
 	<row id="msg_0380_R32_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WROOOAR!\nIT’S ROAR!\rEVEN POKéMON RUN\nFROM A GOOD ROAR!</language>
+		<language name="English">WRUUUAAA!\nTO JEST RYK!\rNAWET POKÉMONY UCIEKAJĄ\nPRZED DOBRYM RYKIEM!</language>
 	</row>
 	<row id="msg_0380_R32_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WROOOAR! YOUR BAG IS FULL!</language>
+		<language name="English">WRUUUAAA! TWOJA TORBA JEST PEŁNA!</language>
 	</row>
 	<row id="msg_0380_R32_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How would you like to have this\ntasty, nutritious SlowpokeTail?\rFor you right now, just $1,000,000!\nYou’ll want this! {YESNO 0}</language>
+		<language name="English">Co powiesz na tego smacznego,\nodżywczego SlowpokeTaila?\rDla ciebie teraz, tylko $1 000 000!\nBędziesz tego chciał! {YESNO 0}</language>
 	</row>
 	<row id="msg_0380_R32_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tch! I thought kids these days\nwere loaded...</language>
+		<language name="English">Tss! Myślałem, że dzieciaki\ndzisiaj mają kasę...</language>
 	</row>
 	<row id="msg_0380_R32_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t want it?\nThen scram. Shoo!</language>
+		<language name="English">Nie chcesz tego?\nTo spadaj. Wynocha!</language>
 	</row>
 	<row id="msg_0380_R32_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rt. 32\nSouth to Azalea Town</language>
+		<language name="English">Trasa 32\nPołudnie do Azalea Town</language>
 	</row>
 	<row id="msg_0380_R32_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ruins of Alph\nEast Entrance</language>
+		<language name="English">Ruiny Alph\nWschodnie Wejście</language>
 	</row>
 	<row id="msg_0380_R32_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Union Cave ahead</language>
+		<language name="English">Union Cave przed tobą</language>
 	</row>
 </body>
