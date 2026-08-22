@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0463_T03PC0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Yeah, and the Gym in Cinnabar’s\ngone. I was really amazed.\r...Yes? I’m on the phone.\nGo away!</language>
+		<language name="English">...Tak, a Sali na Cinnabar\njuż nie ma. Byłem naprawdę zdumiony.\r...Tak? Rozmawiam przez telefon.\nOdejdź!</language>
 	</row>
 	<row id="msg_0463_T03PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -10,26 +10,26 @@
 	</row>
 	<row id="msg_0463_T03PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Most Pokémon get drowsy if they\nhear a JIGGLYPUFF singing.\rThere are several moves that can be\nused only while a Pokémon is asleep.</language>
+		<language name="English">Większość Pokémonów robi się senna,\ngdy usłyszy śpiew JIGGLYPUFF.\rJest kilka ataków, których można\nużyć tylko, gdy Pokémon śpi.</language>
 	</row>
 	<row id="msg_0463_T03PC0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aw...\nIf only I had a HAUNTER...\rIf you have a HAUNTER,\nyou will trade it for my XATU,\fwon’t you? {YESNO 0}</language>
+		<language name="English">Ach...\nGdybym tylko miał HAUNTERA...\rJeśli masz HAUNTERA, wymienisz go\nna mojego XATU,\fprawda? {YESNO 0}</language>
 	</row>
 	<row id="msg_0463_T03PC0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How wonderful! You made my day!\rThanks to you, I have finally got the\nPokémon I’ve been looking for...\fsince forever!</language>
+		<language name="English">Ach, cudownie! Uszczęśliwiłeś/aś mnie!\rDzięki tobie w końcu mam Pokémona,\nktórego szukałem...\fod zawsze!</language>
 	</row>
 	<row id="msg_0463_T03PC0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It has to be a HAUNTER!\rHAUNTER!!</language>
+		<language name="English">To musi być HAUNTER!\rHAUNTER!!</language>
 	</row>
 	<row id="msg_0463_T03PC0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’d never turn down a trade\nif you had a HAUNTER.\rThat means you just don’t have one.\nThat must be it...</language>
+		<language name="English">Nigdy nie odmówiłbyś/aś wymiany,\ngdybyś miał/a HAUNTERA.\rTo znaczy, że po prostu go nie masz.\nToż to musi być to...</language>
 	</row>
 	<row id="msg_0463_T03PC0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How do you like the cool XATU\nI traded you?\rIt’s so cool, because it used to be\nwith cool me!</language>
+		<language name="English">Jak ci się podoba ten fajny XATU,\nktórego ci wymieniłem?\rJest taki fajny, bo kiedyś był\nz fajnym mną!</language>
 	</row>
 </body>
