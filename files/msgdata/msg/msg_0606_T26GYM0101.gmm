@@ -2,19 +2,19 @@
 <body language="English">
 	<row id="msg_0606_T26GYM0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Thank you for your help\nat the Lighthouse...\rBut this is different. Please allow me to\nintroduce myself.\rI am Jasmine, a Gym Leader.\nI use the...clang!\fSteel type!\r...Do you know about the Steel type?\rThey are very hard, cold, sharp,\nand really strong!\fUm... I’m not lying.\r</language>
+		<language name="English">Jasmine: Dziękuję za pomoc\nw Latarni Morskiej...\rAle to jest coś innego. Pozwól,\nże się przedstawię.\rJestem Jasmine, Liderka Sali.\nUżywam... szczęk!\fTypu Stalowego!\r...Wiesz coś o typie Stalowym?\rSą bardzo twarde, zimne, ostre\ni naprawdę silne!\fYym... Nie kłamię.\r</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: ...You are a better Trainer\nthan me, in both skill and kindness.\rIn accordance with League rules,\nI confer upon you this Badge.\r</language>
+		<language name="English">Jasmine: ...Jesteś lepszym\nTrenerem niż ja, zarówno\fumiejętnościami, jak i\fżyczliwością.\rZgodnie z zasadami Ligi,\nprzyznaję ci tę Odznakę.\r</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Mineral Badge from Jasmine!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Minerału od Jasmine!</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: With that Badge,\nall Pokémon, including traded\fPokémon up to Lv. 70, will obey\fyou without question.\fUm... Please take this, too...\r</language>
+		<language name="English">Jasmine: Dzięki tej Odznace,\nwszystkie Pokémony, włącznie\fz wymienionymi do poziomu 70,\fbędą cię słuchać bez wahania.\fYym... Weź proszę też to...\r</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00004" index="4">
 		<attribute name="window_context_name">garbage</attribute>
@@ -23,82 +23,82 @@
 	</row>
 	<row id="msg_0606_T26GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: It is called Iron Tail...\rYour Pokémon will hit the target\nwith its hard tail, occasionally\flowering the target’s Defense...</language>
+		<language name="English">Jasmine: Nazywa się Żelazny Ogon...\rTwój Pokémon uderzy cel swoim\ntwardym ogonem, czasem obniżając\fObronę celu...</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Um...\rI don’t know how to say this, but\ngood luck...</language>
+		<language name="English">Jasmine: Yym...\rNie wiem, jak to powiedzieć, ale\npowodzenia...</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Long time, no see.\rUm... I’m fine, thank you.\rI don’t know how to say this,\nbut...nothing...</language>
+		<language name="English">Jasmine: Dawno się nie widzieliśmy.\rYym... Mam się dobrze, dziękuję.\rNie wiem, jak to powiedzieć,\nale... nic...</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Um... Er...\rWill you trade your Pokémon\nfor mine? {YESNO 0}</language>
+		<language name="English">Jasmine: Yym... E...\rWymienisz się swoim Pokémonem\nna mojego? {YESNO 0}</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Really? Thank you very much!\rI’ll be happy with any Pokémon!\r</language>
+		<language name="English">Jasmine: Naprawdę? Bardzo dziękuję!\rBędę zadowolona z każdego\nPokémona!\r</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Oh, uh-huh, I see.\nThat’s disappointing, but I understand.</language>
+		<language name="English">Jasmine: Och, aha, rozumiem.\nTo rozczarowujące, ale rozumiem.</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Thank you so much.\nI’ll take good care of it.</language>
+		<language name="English">Jasmine: Bardzo dziękuję.\nZaopiekuję się nim dobrze.</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Don’t you sometimes feel like\nscrubbing Steel-type Pokémon?\fDon’t you?</language>
+		<language name="English">Jasmine: Nie masz czasem ochoty\nwyszorować Pokémonów typu\fStalowy? Prawda?</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Will you trade {STRVAR_1 1, 1, 0}? {YESNO 0}</language>
+		<language name="English">Wymienisz się {STRVAR_1 1, 1, 0}? {YESNO 0}</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: I like Eggs, too, but\nI’d like a Pokémon, {STRVAR_1 3, 0, 0}.\fOne that might have a little training...</language>
+		<language name="English">Jasmine: Ja też lubię Jajka, ale\nchciałabym Pokémona, {STRVAR_1 3, 0, 0}.\fTakiego, który ma trochę treningu...</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: I’d appreciate it so much...\nExcept that I cannot accept such\fa precious Pokémon.</language>
+		<language name="English">Jasmine: Byłabym bardzo wdzięczna...\nAle nie mogę przyjąć tak\fcennego Pokémona.</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine, the Gym Leader?\nShe’s at the Lighthouse.\rShe’s been tending to a sick Pokémon.\rA strong Trainer is compassionate\nat the same time...</language>
+		<language name="English">Jasmine, Liderka Sali?\nJest w Latarni Morskiej.\rOpiekuje się chorym Pokémonem.\rSilny Trener jest jednocześnie\nwspółczujący...</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine uses Steel-type Pokémon.\rShe’s trying to hide her tenderness\nbehind her steely coldness.</language>
+		<language name="English">Jasmine używa Pokémonów typu\nStalowy.\rStara się ukryć swoją czułość\nza stalowym chłodem.</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That was awesome.\fThe Steel type, huh?\fThat was one heated battle you had!</language>
+		<language name="English">To było niesamowite.\fTyp Stalowy, co?\fCóż za zacięta walka!</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I knew you’d come here.\rThank you for helping the Gym Leader,\nbut battle is a separate matter.\rGo for it!</language>
+		<language name="English">Wiedziałem, że tu przyjdziesz.\rDziękuję za pomoc Liderce Sali,\nale walka to osobna sprawa.\rDawaj!</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Impressive!\rYou should continue your journey to\ndifferent places.\rSince you can use Surf, why don’t you\ntry it on the Lake of Rage?</language>
+		<language name="English">Imponujące!\rPowinieneś kontynuować podróż\nw różne miejsca.\rSkoro potrafisz Surfować, może\nspróbujesz na Jeziorze Wściekłości?</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Giggle...\rI know how capable you are\nfrom the Lighthouse.\rIt’s time you showed that side of\nyourself to Jasmine! Good luck!</language>
+		<language name="English">Chichot...\rWiem, jak zdolny jesteś,\nz Latarni Morskiej.\rCzas pokazać tę stronę siebie\nJasmine! Powodzenia!</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are amazing...\rYou should aim even higher, since\nyou have such potential.\rHave you been to Mahogany Town?</language>
+		<language name="English">Jesteś niesamowity...\rPowinieneś celować jeszcze wyżej,\nskoro masz taki potencjał.\rByłeś już w Mahogany Town?</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Olivine City Pokémon Gym</language>
+		<language name="English">Sala Pokémon w Olivine City</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Olivine City Pokémon Gym\rLeader: Jasmine\nCertified Trainer!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Sala Pokémon w Olivine City\rLiderka: Jasmine\nCertyfikowany Trener!\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 </body>
