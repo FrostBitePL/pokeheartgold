@@ -77,10 +77,10 @@
 	</row>
 	<row id="msg_0394_R38_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rt. 38\nSouth to Olivine City</language>
+		<language name="English">Trasa 38\nPołudnie do Olivine City</language>
 	</row>
 	<row id="msg_0394_R38_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer Tips\rIf a Pokémon is trying to evolve,\nyou can stop it.\rPress the B Button during evolution.\rThat startles the Pokémon and stops\nits evolution.</language>
+		<language name="English">Porady dla Trenerów\rJeśli Pokémon próbuje ewoluować,\nmożesz to zatrzymać.\rNaciśnij przycisk B podczas ewolucji.\rTo spłoszy Pokémona i zatrzyma\njego ewolucję.</language>
 	</row>
 </body>
