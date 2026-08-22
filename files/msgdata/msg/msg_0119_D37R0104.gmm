@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0119_D37R0104_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: Hold it!\rWhat I told you before was to deceive\nyou. I thought it would let me tail you,\fand it would lead me to Lance.\rWell, he never showed up.\f...No matter.\rI was planning to beat you after Lance,\nbut since you are here, I will repay\fmy debts!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}: Zaczekaj!\rTo, co ci wcześniej powiedziałem/am,\nmiało cię zwieść. Myślałem/am, że\fpozwoli mi to cię śledzić, a to\fdoprowadzi mnie do Lance’a.\rCóż, nigdy się nie pojawił.\f...Nieważne.\rPlanowałem/am pokonać cię po Lansie,\nale skoro tu jesteś, spłacę swój\fdług!\r</language>
 	</row>
 	<row id="msg_0119_D37R0104_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: ...I don’t understand.\rIs what that Lance guy said true?\nThat I don’t treat Pokémon properly?\rLove...\rTrust...\rAre they really what I lack?\nAre they keeping me from winning?\rI... I just don’t understand. But it’s\nnot going to end here. Not now.\fNot because of this.\rI won’t give up my dream of becoming\nthe world’s best Pokémon Trainer!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}: ...Nie rozumiem.\rCzy to, co powiedział ten Lance,\njest prawdą? Że nie traktuję Pokémonów\fwłaściwie?\rMiłość...\rZaufanie...\rCzy naprawdę tego mi brakuje?\nCzy to powstrzymuje mnie przed\fwygraną?\rJa... po prostu nie rozumiem. Ale to\nnie skończy się tutaj. Nie teraz.\fNie przez to.\rNie porzucę mojego marzenia,\nby zostać najlepszym Trenerem\fPokémonów na świecie!\r</language>
 	</row>
 </body>
