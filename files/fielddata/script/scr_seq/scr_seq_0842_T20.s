@@ -23,6 +23,7 @@
 	ScrDef scr_seq_T20_015
 	ScrDef scr_seq_T20_016
 	ScrDef scr_seq_T20_017
+	ScrDef scr_seq_T20_018
 	ScrDefEnd
 
 scr_seq_T20_006:
@@ -1848,7 +1849,7 @@ scr_seq_T20_015:
 	End
 	.balign 4, 0
 
-scr_seq_T20_016:
+scr_seq_T20_018:
 	PlaySE SEQ_SE_DP_SELECT
 	LockAll
 	FacePlayer
@@ -1857,24 +1858,24 @@ scr_seq_T20_016:
 	CloseMsg
 	NumpadInput VAR_TEMP_x4000
 	Compare VAR_TEMP_x4000, 0
-	GoToIfEq _T20_016_invalid
+	GoToIfEq _T20_018_invalid
 	Compare VAR_TEMP_x4000, 151
-	GoToIfGt _T20_016_invalid
+	GoToIfGt _T20_018_invalid
 	GiveMon VAR_TEMP_x4000, 25, ITEM_NONE, 0, 0, VAR_SPECIAL_RESULT
 	Compare VAR_SPECIAL_RESULT, 0
-	GoToIfEq _T20_016_full
+	GoToIfEq _T20_018_full
 	NPCMsg msg_0542_T20_00039
 	WaitButton
 	CloseMsg
 	ReleaseAll
 	End
-_T20_016_invalid:
+_T20_018_invalid:
 	NPCMsg msg_0542_T20_00040
 	WaitButton
 	CloseMsg
 	ReleaseAll
 	End
-_T20_016_full:
+_T20_018_full:
 	NPCMsg msg_0542_T20_00041
 	WaitButton
 	CloseMsg

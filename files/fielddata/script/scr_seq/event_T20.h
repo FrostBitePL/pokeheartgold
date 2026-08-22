@@ -19,6 +19,7 @@
 #define _EV_scr_seq_T20_015                 15
 #define _EV_scr_seq_T20_016                 16
 #define _EV_scr_seq_T20_017                 17
+#define _EV_scr_seq_T20_018                 18
 
 #define obj_T20_gsrivel                      0
 #define obj_T20_gswoman1                     1
