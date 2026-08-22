@@ -2,62 +2,62 @@
 <body language="English">
 	<row id="msg_0629_T30_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am sorry.\rClair, our Gym Leader, entered\nthe Dragon’s Den behind the Gym.\rI have no idea when our Leader\nwill return.</language>
+		<language name="English">Przykro mi.\rClair, nasza Liderka Sali, weszła\ndo Legowiska Smoków za Salą.\rNie mam pojęcia, kiedy nasza\nLiderka wróci.</language>
 	</row>
 	<row id="msg_0629_T30_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair, our Gym Leader, is waiting\nfor you.\rHowever, it would be impossible for\na run-of-the-mill Trainer to win.</language>
+		<language name="English">Clair, nasza Liderka Sali, czeka\nna ciebie.\rJednak przeciętny Trener nie\nmiałby szans na wygraną.</language>
 	</row>
 	<row id="msg_0629_T30_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You defeated Clair?\nThat’s amazing!\rI’ve never heard of her losing to\nanyone other than Lance.</language>
+		<language name="English">Pokonałeś/aś Clair?\nToż to niesamowite!\rNigdy nie słyszałem, żeby przegrała\nz kimkolwiek poza Lance’em.</language>
 	</row>
 	<row id="msg_0629_T30_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. Only chosen Trainers may train\nhere. Please leave.</language>
+		<language name="English">Nie. Tylko wybrani Trenerzy mogą\ntu trenować. Proszę, odejdź.</language>
 	</row>
 	<row id="msg_0629_T30_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If Clair allows it, her grandfather--\nour Master--will also.\rYou may enter.</language>
+		<language name="English">Jeśli Clair na to pozwala, jej\ndziadek--nasz Mistrz--też pozwoli.\rMożesz wejść.</language>
 	</row>
 	<row id="msg_0629_T30_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My radio’s busted?\nLately, I only get this weird signal.</language>
+		<language name="English">Moje radio się popsuło?\nOstatnio łapię tylko ten dziwny sygnał.</language>
 	</row>
 	<row id="msg_0629_T30_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Arooo! Voices in my head!\rHuh? I’m listening to my radio!</language>
+		<language name="English">Arooo! Głosy w mojej głowie!\rHuh? Przecież słucham radia!</language>
 	</row>
 	<row id="msg_0629_T30_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Are you going to make your Pokémon\nforget some moves?</language>
+		<language name="English">Chcesz sprawić, by twój Pokémon\nzapomniał jakichś ataków?</language>
 	</row>
 	<row id="msg_0629_T30_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Those Trainers called Dragon Tamers\nare all from Blackthorn City.</language>
+		<language name="English">Ci Trenerzy zwani Poskramiaczami Smoków\npochodzą wszyscy z Blackthorn City.</language>
 	</row>
 	<row id="msg_0629_T30_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow, you came through the Ice Path?\rYou must be a real hotshot Trainer!</language>
+		<language name="English">Ho, przeszedłeś/aś przez Ice Path?\rMusisz być prawdziwym asem wśród\nTrenerów!</language>
 	</row>
 	<row id="msg_0629_T30_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blackthorn City\nA Quiet Mountain Retreat</language>
+		<language name="English">Blackthorn City\nCiche Górskie Ustronie</language>
 	</row>
 	<row id="msg_0629_T30_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blackthorn City Pokémon Gym\nLeader: Clair\fThe Blessed User of Dragon Pokémon</language>
+		<language name="English">Sala Pokémon w Blackthorn City\nLiderka: Clair\fBłogosławiona Użytkowniczka Pokémonów Smoków</language>
 	</row>
 	<row id="msg_0629_T30_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Move Deleter and Move Tutor House\rA Mysterious House Where You Can Make\nPokémon Forget and Remember Moves</language>
+		<language name="English">Dom Kasownika Ataków i Nauczyciela Ataków\rTajemniczy Dom, Gdzie Pokémon Może\nZapomnieć i Przypomnieć Sobie Ataki</language>
 	</row>
 	<row id="msg_0629_T30_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dragon’s Den Ahead</language>
+		<language name="English">Legowisko Smoków Przed Tobą</language>
 	</row>
 	<row id="msg_0629_T30_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer Tips\rWild Pokémon will appear regularly\nif you don’t run, but walk quietly in the\ftall grass.\rIf your party Pokémon are\ntired, it is better to avoid running,\fand go straight to a Pokémon Center.</language>
+		<language name="English">Porady dla Trenerów\rDzikie Pokémony pojawiają się regularnie,\njeśli nie biegniesz, tylko idziesz spokojnie\fprzez wysoką trawę.\rJeśli twoje Pokémony z drużyny są\nzmęczone, lepiej unikać biegania\fi udać się prosto do Centrum Pokémon.</language>
 	</row>
 </body>
