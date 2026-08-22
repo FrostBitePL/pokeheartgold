@@ -2,42 +2,42 @@
 <body language="English">
 	<row id="msg_0462_T03GYM0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: Wow, it’s not often that we\nget a challenger from Johto.\rI’m Brock, the Pewter Gym Leader.\fI’m an expert on Rock-type Pokémon.\rMy Pokémon are impervious to most\nphysical attacks.\rYou’ll have a hard time inflicting\nany damage.\rCome on!\r</language>
+		<language name="English">Brock: Wow, niezbyt często dostajemy\nwyzwanie od kogoś z Johto.\rJestem Brock, Lider Sali w Pewter.\fJestem ekspertem od Pokémonów\ftypu Skalny.\rMoje Pokémony są odporne na\nwiększość ataków fizycznych.\rBędzie ci trudno wyrządzić\njakiekolwiek obrażenia.\rDawaj!\r</language>
 	</row>
 	<row id="msg_0462_T03GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: Your Pokémon’s powerful\nattacks overcame my\frock-hard resistance...\rYou’re stronger than\nI expected...\fGo ahead--take this Badge.\r</language>
+		<language name="English">Brock: Potężne ataki twojego Pokémona\npokonały moją twardą jak skała\fobronę...\rJesteś silniejszy/a, niż\nsię spodziewałem...\fŚmiało--weź tę Odznakę.\r</language>
 	</row>
 	<row id="msg_0462_T03GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Boulder Badge from Brock!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Głazu od Brocka!</language>
 	</row>
 	<row id="msg_0462_T03GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: I really enjoyed the battle\nwith you, {STRVAR_1 3, 0, 0}!\fI’ll give you the move Rock Slide, too.\rIt can sometimes cause your foe\nto flinch.\r</language>
+		<language name="English">Brock: Naprawdę spodobała mi się\nnasza walka, {STRVAR_1 3, 0, 0}!\fDam ci też atak Lawina Skalna.\rMoże czasem sprawić, że przeciwnik\nsię wzdrygnie.\r</language>
 	</row>
 	<row id="msg_0462_T03GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: I really enjoyed the battle\nwith you, {STRVAR_1 3, 0, 0}!\fI’ll give you the move Rock Slide, too.\rIt can sometimes cause your foe\nto flinch.\r</language>
+		<language name="English">Brock: Naprawdę spodobała mi się\nnasza walka, {STRVAR_1 3, 0, 0}!\fDam ci też atak Lawina Skalna.\rMoże czasem sprawić, że przeciwnik\nsię wzdrygnie.\r</language>
 	</row>
 	<row id="msg_0462_T03GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: The world is huge. There are\nstill many strong Trainers like you.\rJust wait and see.\rI’m going to become a lot\nstronger, too.</language>
+		<language name="English">Brock: Świat jest ogromny. Wciąż\njest wielu silnych Trenerów, takich\fjak ty.\rPoczekaj tylko i zobacz.\rJa też stanę się o wiele\nsilniejszy.</language>
 	</row>
 	<row id="msg_0462_T03GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo! Legend in the making! You look...\freally rocking.\rAre you battling the Gym Leaders\nof Kanto?\rThey’re strong and dedicated people,\njust like Johto’s Gym Leaders.</language>
+		<language name="English">Yo! Przyszła legendo! Wyglądasz...\fnaprawdę zajefajnie.\rWalczysz z Liderami Sal\nKanto?\rTo silni i oddani ludzie,\ntacy jak Liderzy Sal z Johto.</language>
 	</row>
 	<row id="msg_0462_T03GYM0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo! Legend in the making! That Gym\ndidn’t give you much trouble.\rThe way you took charge was\nreally inspiring.\fI mean that seriously.</language>
+		<language name="English">Yo! Przyszła legendo! Ta Sala\nnie sprawiła ci wielu problemów.\rSposób, w jaki przejąłeś/aś kontrolę,\nbył naprawdę inspirujący.\fMówię to poważnie.</language>
 	</row>
 	<row id="msg_0462_T03GYM0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pewter City Pokémon Gym</language>
+		<language name="English">Sala Pokémon w Pewter City</language>
 	</row>
 	<row id="msg_0462_T03GYM0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pewter City Pokémon Gym\rLeader: Brock\nCertified Trainer!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Sala Pokémon w Pewter City\rLider: Brock\nCertyfikowany Trener!\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 </body>
