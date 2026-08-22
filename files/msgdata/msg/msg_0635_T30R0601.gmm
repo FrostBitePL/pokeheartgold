@@ -2,67 +2,67 @@
 <body language="English">
 	<row id="msg_0635_T30R0601_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Um...\nWho did you say I was again?\r...\n...\rOh, yes, I remember now!\nI’m the Move Deleter!\r</language>
+		<language name="English">Um...\nKim mówiłeś/aś, że jestem?\r...\n...\rAch, tak, już pamiętam!\nJestem Kasownikiem Ataków!\r</language>
 	</row>
 	<row id="msg_0635_T30R0601_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’ve come to make me force your\nPokémon to forget some moves? {YESNO 0}</language>
+		<language name="English">Przyszedłeś/aś, żebym sprawił,\nby twój Pokémon zapomniał jakiś atak? {YESNO 0}</language>
 	</row>
 	<row id="msg_0635_T30R0601_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which Pokémon should forget a move?\r</language>
+		<language name="English">Który Pokémon powinien zapomnieć atak?\r</language>
 	</row>
 	<row id="msg_0635_T30R0601_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Remember me if there are moves that\nneed to be forgotten.</language>
+		<language name="English">Pamiętaj o mnie, gdy będzie trzeba\nzapomnieć jakiś atak.</language>
 	</row>
 	<row id="msg_0635_T30R0601_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That Pokémon knows only one move,\nso it can’t be forgotten...\r</language>
+		<language name="English">Ten Pokémon zna tylko jeden atak,\nwięc nie może go zapomnieć...\r</language>
 	</row>
 	<row id="msg_0635_T30R0601_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What? That’s an Egg.\nNo Egg should know any moves.\r</language>
+		<language name="English">Co? To Jajko.\nŻadne Jajko nie powinno znać ataków.\r</language>
 	</row>
 	<row id="msg_0635_T30R0601_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK, then.\nWhich move should be forgotten?\r</language>
+		<language name="English">Dobrze więc.\nKtóry atak ma zostać zapomniany?\r</language>
 	</row>
 	<row id="msg_0635_T30R0601_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hm! The move {STRVAR_1 6, 0, 0}?\nShould that move be forgotten? {YESNO 0}</language>
+		<language name="English">Hm! Atak {STRVAR_1 6, 0, 0}?\nCzy ten atak ma zostać zapomniany? {YESNO 0}</language>
 	</row>
 	<row id="msg_0635_T30R0601_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It worked perfectly!\rYour Pokémon has forgotten the move\n{STRVAR_1 6, 0, 0} completely.</language>
+		<language name="English">Zadziałało idealnie!\rTwój Pokémon całkowicie zapomniał\natak {STRVAR_1 6, 0, 0}.</language>
 	</row>
 	<row id="msg_0635_T30R0601_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Me?\nI’m the Pokémon Move Maniac.\rI know every move that Pokémon learn\nwhile they’re leveling up, and I can\fmake Pokémon remember those moves.\rI can make a Pokémon of yours remember\na move if you’d like.\rBut...ahem! It’ll cost you.\rI’ll make a Pokémon remember a move\nif you’ll trade me a Heart Scale.</language>
+		<language name="English">Ja?\nJestem Maniakiem Ataków Pokémonów.\rZnam każdy atak, jakiego Pokémony\nuczą się, awansując na poziomy, i mogę\fsprawić, że Pokémon sobie przypomni\ftaki atak.\rMogę sprawić, że twój Pokémon\nprzypomni sobie atak, jeśli chcesz.\rAle...ehem! To będzie cię coś\nkosztować.\rSprawię, że Pokémon przypomni sobie\natak, jeśli wymienisz się ze mną\fŁuską Serca.</language>
 	</row>
 	<row id="msg_0635_T30R0601_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ha! That’s it! That’s an honest-to-\ngoodness Heart Scale!\rLet me guess, you want me to teach\none of your Pokémon a move?\r</language>
+		<language name="English">Ha! To to! To prawdziwa,\nautentyczna Łuska Serca!\rZgadnę, chcesz, żebym nauczył\njednego z twoich Pokémonów ataku?\r</language>
 	</row>
 	<row id="msg_0635_T30R0601_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If any of your Pokémon needs to learn a\nmove, come back with a Heart Scale.</language>
+		<language name="English">Jeśli któryś z twoich Pokémonów\nbędzie musiał nauczyć się ataku,\fwróć z Łuską Serca.</language>
 	</row>
 	<row id="msg_0635_T30R0601_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which Pokémon needs tutoring?\r</language>
+		<language name="English">Który Pokémon potrzebuje nauki?\r</language>
 	</row>
 	<row id="msg_0635_T30R0601_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which move should I make it remember?\r</language>
+		<language name="English">Który atak ma sobie przypomnieć?\r</language>
 	</row>
 	<row id="msg_0635_T30R0601_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sorry...\rThere isn’t any move I can make\nthat Pokémon remember.</language>
+		<language name="English">Przykro mi...\rNie ma ataku, który mógłbym sprawić,\nby ten Pokémon sobie przypomniał.</language>
 	</row>
 	<row id="msg_0635_T30R0601_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hunh?\rDon’t you think it’d be tough for\nan Egg to remember a move?\rIt’s not even hatched.</language>
+		<language name="English">Hunh?\rNie sądzisz, że byłoby trudno\nJajku przypomnieć sobie atak?\rPrzecież się jeszcze nie wykluło.</language>
 	</row>
 	<row id="msg_0635_T30R0601_00016" index="16">
 		<attribute name="window_context_name">garbage</attribute>
@@ -111,43 +111,43 @@
 	</row>
 	<row id="msg_0635_T30R0601_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 3, 0} handed over one\nHeart Scale in exchange.</language>
+		<language name="English">{STRVAR_1 3, 3, 0} oddał(a) w zamian\njedną Łuskę Serca.</language>
 	</row>
 	<row id="msg_0635_T30R0601_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hohoho...\nThey call me Grandma Wilma.\rI sense a slight talent as a\nDragon Tamer in you.\rWould you like me to teach a move\nto one of your Pokémon? {YESNO 0}</language>
+		<language name="English">Hohoho...\nNazywają mnie Babcią Wilmą.\rWyczuwam w tobie odrobinę talentu\njako Poskramiacza Smoków.\rChcesz, żebym nauczyła ataku jednego\nz twoich Pokémonów? {YESNO 0}</language>
 	</row>
 	<row id="msg_0635_T30R0601_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah, it is you again...\rWould you like me to teach the best\nDragon-type move I know to one of\fyour Pokémon? {YESNO 0}</language>
+		<language name="English">Ach, to znów ty...\rChcesz, żebym nauczyła jednego\nz twoich Pokémonów najlepszego znanego\fmi ataku typu Smoczy? {YESNO 0}</language>
 	</row>
 	<row id="msg_0635_T30R0601_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well, perhaps if you change your\nmind, do come back.</language>
+		<language name="English">Cóż, może jeśli zmienisz zdanie,\nwróć tu.</language>
 	</row>
 	<row id="msg_0635_T30R0601_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see...\nI like your sense of adventure.\rHowever, none of the Pokémon with\nyou now can learn the move.</language>
+		<language name="English">Rozumiem...\nPodoba mi się twoja żądza przygody.\rJednak żaden z Pokémonów, które\nmasz teraz przy sobie, nie może\fnauczyć się tego ataku.</language>
 	</row>
 	<row id="msg_0635_T30R0601_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fine, fine, now pick the Pokémon\nI should teach the move to.\r</language>
+		<language name="English">Dobrze, dobrze, teraz wybierz\nPokémona, którego mam nauczyć ataku.\r</language>
 	</row>
 	<row id="msg_0635_T30R0601_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sorry to disappoint you...\rThat Pokémon you have can learn this\nmove, but it hasn’t come to trust\fyou fully yet...\rUntil then, I can’t make it learn\nthis move.</language>
+		<language name="English">Przykro mi, że muszę cię\nrozczarować...\rTwój Pokémon może nauczyć się tego\nataku, ale jeszcze nie zaufał ci\fw pełni...\rDopóki tak jest, nie mogę sprawić,\nby się go nauczył.</language>
 	</row>
 	<row id="msg_0635_T30R0601_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sorry to disappoint you...\nThat Pokémon can’t learn this move.</language>
+		<language name="English">Przykro mi, że muszę cię\nrozczarować... Ten Pokémon nie może\fnauczyć się tego ataku.</language>
 	</row>
 	<row id="msg_0635_T30R0601_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm...\rTeaching a move to an Egg is\na challenge that’s beyond me.</language>
+		<language name="English">Hmm...\rNauczenie Jajka ataku to\nwyzwanie ponad moje siły.</language>
 	</row>
 	<row id="msg_0635_T30R0601_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh? That Pokémon already\nknows {STRVAR_1 6, 0, 0}.</language>
+		<language name="English">Och? Ten Pokémon już zna\natak {STRVAR_1 6, 0, 0}.</language>
 	</row>
 	<row id="msg_0635_T30R0601_00035" index="35">
 		<attribute name="window_context_name">garbage</attribute>
@@ -186,23 +186,23 @@
 	</row>
 	<row id="msg_0635_T30R0601_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Draco Meteor’s destructive power\nis awe inspiring.\rHowever, using it will also lower\nthe user’s Special Attack.</language>
+		<language name="English">Niszczycielska moc Meteoru Smoków\nbudzi podziw.\rJednak jego użycie obniża też\nAtak Specjalny użytkownika.</language>
 	</row>
 	<row id="msg_0635_T30R0601_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your quest for power has brought\nyou here...\rVery well.\rLet me reward your passion with some\nabsolutely astounding moves.\rThey’re the ultimate moves!\rShall I teach them to\nyour Pokémon? {YESNO 0}</language>
+		<language name="English">Twoje poszukiwanie mocy sprowadziło\ncię tutaj...\rDoskonale.\rPozwól, że nagrodzę twoją pasję\nabsolutnie zdumiewającymi atakami.\rTo najpotężniejsze ataki, jakie\nistnieją!\rMam nauczyć ich twojego\nPokémona? {YESNO 0}</language>
 	</row>
 	<row id="msg_0635_T30R0601_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The ultimate moves!\rShall I teach them to\nyour Pokémon? {YESNO 0}</language>
+		<language name="English">Najpotężniejsze ataki!\rMam nauczyć ich twojego\nPokémona? {YESNO 0}</language>
 	</row>
 	<row id="msg_0635_T30R0601_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To which Pokémon should I teach\na move?\r</language>
+		<language name="English">Którego Pokémona mam nauczyć\nataku?\r</language>
 	</row>
 	<row id="msg_0635_T30R0601_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm... Well, that is fine, as well.\nVisit if you have a change of heart.</language>
+		<language name="English">Hmm... Cóż, to też jest w porządku.\nWróć, jeśli zmienisz zdanie.</language>
 	</row>
 	<row id="msg_0635_T30R0601_00047" index="47">
 		<attribute name="window_context_name">garbage</attribute>
@@ -211,31 +211,31 @@
 	</row>
 	<row id="msg_0635_T30R0601_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That Pokémon can’t learn a move!\nRead the memo there! Keh!</language>
+		<language name="English">Ten Pokémon nie może nauczyć się\nataku! Przeczytaj tę notatkę! Keh!</language>
 	</row>
 	<row id="msg_0635_T30R0601_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Teach a move to an Egg?\nImpossible even for me! Keh!</language>
+		<language name="English">Nauczyć Jajko ataku?\nTo niemożliwe nawet dla mnie! Keh!</language>
 	</row>
 	<row id="msg_0635_T30R0601_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’ve not bonded strongly enough\nwith your Pokémon! Keh!</language>
+		<language name="English">Nie związałeś/aś się jeszcze\nwystarczająco mocno ze swoim\fPokémonem! Keh!</language>
 	</row>
 	<row id="msg_0635_T30R0601_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That Pokémon already knows the move\nI’ve offered to teach! Keh!</language>
+		<language name="English">Ten Pokémon już zna atak,\nktórego zaproponowałem nauczyć! Keh!</language>
 	</row>
 	<row id="msg_0635_T30R0601_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I should teach Blast Burn to\nyour {STRVAR_1 0, 0, 0}? {YESNO 0}</language>
+		<language name="English">Mam nauczyć Wybuchowego Ognia\ntwojego {STRVAR_1 0, 0, 0}? {YESNO 0}</language>
 	</row>
 	<row id="msg_0635_T30R0601_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I should teach Hydro Cannon to\nyour {STRVAR_1 0, 0, 0}? {YESNO 0}</language>
+		<language name="English">Mam nauczyć Wodnej Armaty\ntwojego {STRVAR_1 0, 0, 0}? {YESNO 0}</language>
 	</row>
 	<row id="msg_0635_T30R0601_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I should teach Frenzy Plant to\nyour {STRVAR_1 0, 0, 0}? {YESNO 0}</language>
+		<language name="English">Mam nauczyć Szalejącej Rośliny\ntwojego {STRVAR_1 0, 0, 0}? {YESNO 0}</language>
 	</row>
 	<row id="msg_0635_T30R0601_00055" index="55">
 		<attribute name="window_context_name">garbage</attribute>
@@ -269,10 +269,10 @@
 	</row>
 	<row id="msg_0635_T30R0601_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To the Pokémon listed here,\nthe ultimate moves may be taught!\rThe blazing Fire-type Pokémon\n{CURSOR_X 7}CHARIZARD TYPHLOSION\f{CURSOR_X 7}BLAZIKEN INFERNAPE\rThe restless Water-type Pokémon\n{CURSOR_X 7}BLASTOISE FERALIGATR\f{CURSOR_X 7}SWAMPERT EMPOLEON\rThe quiet Grass-type Pokémon\n{CURSOR_X 7}VENUSAUR MEGANIUM\f{CURSOR_X 7}SCEPTILE TORTERRA</language>
+		<language name="English">Pokémonom wypisanym tutaj\nmożna nauczyć najpotężniejszych ataków!\rPłonące Pokémony typu Ognisty\n{CURSOR_X 7}CHARIZARD TYPHLOSION\f{CURSOR_X 7}BLAZIKEN INFERNAPE\rNiespokojne Pokémony typu Wodny\n{CURSOR_X 7}BLASTOISE FERALIGATR\f{CURSOR_X 7}SWAMPERT EMPOLEON\rSpokojne Pokémony typu Trawiasty\n{CURSOR_X 7}VENUSAUR MEGANIUM\f{CURSOR_X 7}SCEPTILE TORTERRA</language>
 	</row>
 	<row id="msg_0635_T30R0601_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well then, I will teach {STRVAR_1 0, 0, 0}\na move...\r</language>
+		<language name="English">A więc, nauczę {STRVAR_1 0, 0, 0}\nataku...\r</language>
 	</row>
 </body>
