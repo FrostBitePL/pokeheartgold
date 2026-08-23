@@ -2,15 +2,15 @@
 <body language="English">
 	<row id="msg_0263_P01R0307_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, kid. Could I get you to look\nfor my buddy?\rHe’s taking it easy somewhere, that\ngood for nothing!\rI want to go find him, but I’m on guard\nduty and have to stay right here.\r</language>
+		<language name="English">Hej, dzieciaku. Mógłbyś poszukać\nmojego kumpla?\rGdzieś się obija, ten nicpoń!\rChciałbym go poszukać, ale jestem\nna warcie i muszę zostać tutaj.\r</language>
 	</row>
 	<row id="msg_0263_P01R0307_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, kid. Could I get you to look\nfor my buddy?\rHe’s taking it easy somewhere, that\ngood for nothing!\fI want to go find him, but I’m on guard\fduty and have to stay right here.</language>
+		<language name="English">Hej, dzieciaku. Mógłbyś poszukać\nmojego kumpla?\rGdzieś się obija, ten nicpoń!\fChciałbym go poszukać, ale jestem\fna warcie i muszę zostać tutaj.</language>
 	</row>
 	<row id="msg_0263_P01R0307_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thanks, kid!\nI yelled at him good so he’ll quit\fslacking off!</language>
+		<language name="English">Dzięki, dzieciaku!\nOstro na niego nakrzyczałem, żeby\fprzestał się obijać!</language>
 	</row>
 	<row id="msg_0263_P01R0307_00003" index="3">
 		<attribute name="window_context_name">garbage</attribute>
@@ -29,6 +29,6 @@
 	</row>
 	<row id="msg_0263_P01R0307_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, you found me!\rI better go back to my grandpa!\r</language>
+		<language name="English">Och, znalazłeś/aś mnie!\rLepiej wrócę do dziadka!\r</language>
 	</row>
 </body>
