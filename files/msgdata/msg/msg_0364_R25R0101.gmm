@@ -2,78 +2,78 @@
 <body language="English">
 	<row id="msg_0364_R25R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm? You are here for my grandson?\nHis name is Bill.\rHe’s in Johto.\nHe does something with PCs,\fso I’m house-sitting.\r</language>
+		<language name="English">Hmm? Przyszedłeś/aś do mojego\nwnuka? Nazywa się Bill.\rJest w Johto.\nZajmuje się czymś związanym\fz komputerami PC, więc pilnuję\fdomu.\r</language>
 	</row>
 	<row id="msg_0364_R25R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah, my grandson mentioned a round,\nblue Pokémon that has leaves\fgrowing on its head.\r</language>
+		<language name="English">Ach, mój wnuk wspomniał o okrągłym,\nniebieskim Pokémonie, któremu na\fgłowie rosną liście.\r</language>
 	</row>
 	<row id="msg_0364_R25R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bill told me about a Pokémon that is\nvery loyal to its Trainer.\fIt’s a Fire-type Pokémon that’s\fsupposed to Roar well.\r</language>
+		<language name="English">Bill opowiedział mi o Pokémonie,\nktóry jest bardzo lojalny wobec\fswojego Trenera.\fTo Pokémon typu Ognistego, który\fpodobno dobrze Ryczy.\r</language>
 	</row>
 	<row id="msg_0364_R25R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you know that Pokémon with large,\nround eyes.\rThe one that sings a lullaby with\nits cute voice!\r</language>
+		<language name="English">Znasz tego Pokémona z wielkimi,\nokrągłymi oczami.\rTego, który śpiewa kołysankę\nswoim uroczym głosem!\r</language>
 	</row>
 	<row id="msg_0364_R25R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you know that hugely popular\nPokémon?\rThe Pokémon that has a yellow body\nand bright red cheeks...\rI would love to see what it looks\nlike before it evolves.\r</language>
+		<language name="English">Znasz tego niesamowicie popularnego\nPokémona?\rTego, który ma żółte ciało\ni jasnoczerwone policzki...\rBardzo chciałabym zobaczyć, jak\nwygląda, zanim ewoluuje.\r</language>
 	</row>
 	<row id="msg_0364_R25R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I heard that there is a blue and round\nPokémon in Johto.\rBill told me that the end of its tail\nworks like a float.\rIts belly is white. Just the belly.\nI would love to see what it looks like.\r</language>
+		<language name="English">Słyszałam, że w Johto jest\nniebieski, okrągły Pokémon.\rBill powiedział mi, że koniec jego\nogona działa jak pływak.\rMa biały brzuszek. Tylko brzuszek.\nBardzo chciałabym zobaczyć, jak\fwygląda.\r</language>
 	</row>
 	<row id="msg_0364_R25R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My grandson Bill told me about a\nPokémon that has a long tongue.\rIt has ringlike marks on the front\nof its legs, he said!\r</language>
+		<language name="English">Mój wnuk Bill opowiedział mi\no Pokémonie z długim językiem.\rMówił, że ma znaki przypominające\npierścienie na przedniej części\fnóg!\r</language>
 	</row>
 	<row id="msg_0364_R25R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah, my grandson mentioned a round,\nblue Pokémon that has leaves\fgrowing on its head.\r</language>
+		<language name="English">Ach, mój wnuk wspomniał o okrągłym,\nniebieskim Pokémonie, któremu na\fgłowie rosną liście.\r</language>
 	</row>
 	<row id="msg_0364_R25R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you know of a sea Pokémon that\nhas a red sphere in its body?\fYou know, the one that’s shaped like\fa star?\rI heard that it appears at night.\nI would surely like to see it.\r</language>
+		<language name="English">Znasz tego morskiego Pokémona,\nktóry ma czerwoną kulę w ciele?\fWiesz, tego, który ma kształt\fgwiazdy?\rSłyszałam, że pojawia się w nocy.\nZ pewnością chciałabym go zobaczyć.\r</language>
 	</row>
 	<row id="msg_0364_R25R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I heard about a cute Pokémon that\nhas six tails.\rI would love to hug a cute Pokémon\nlike that.\r</language>
+		<language name="English">Słyszałam o uroczym Pokémonie,\nktóry ma sześć ogonów.\rBardzo chciałabym przytulić\ntakiego uroczego Pokémona.\r</language>
 	</row>
 	<row id="msg_0364_R25R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you know that hugely popular\nPokémon?\rThe Pokémon that has a yellow body\nand bright red cheeks...\rI would love to see what it looks\nlike before it evolves.\r</language>
+		<language name="English">Znasz tego niesamowicie popularnego\nPokémona?\rTego, który ma żółte ciało\ni jasnoczerwone policzki...\rBardzo chciałabym zobaczyć, jak\nwygląda, zanim ewoluuje.\r</language>
 	</row>
 	<row id="msg_0364_R25R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you have that Pokémon,\nmay I see it, please? {YESNO 0}</language>
+		<language name="English">Jeśli masz tego Pokémona,\nmogę go zobaczyć, proszę? {YESNO 0}</language>
 	</row>
 	<row id="msg_0364_R25R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You will show me?\nHow good of you!\r</language>
+		<language name="English">Pokażesz mi go?\nAle z ciebie dobra osoba!\r</language>
 	</row>
 	<row id="msg_0364_R25R0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t have it?\nThat’s too bad...</language>
+		<language name="English">Nie masz go?\nSzkoda...</language>
 	</row>
 	<row id="msg_0364_R25R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hm?\rThat’s not the Pokémon that I was\ntold about...</language>
+		<language name="English">Hm?\rTo nie ten Pokémon, o którym mi\nopowiadano...</language>
 	</row>
 	<row id="msg_0364_R25R0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow!\nThat Pokémon is called {STRVAR_1 0, 0, 0}!\rIt’s a wonderful Pokémon!\nAs a token of my appreciation,\fI would like to give this to you!\r</language>
+		<language name="English">Wow!\nTen Pokémon nazywa się\f{STRVAR_1 0, 0, 0}!\rTo wspaniały Pokémon!\nJako wyraz mojej wdzięczności,\fchciałabym dać ci to!\r</language>
 	</row>
 	<row id="msg_0364_R25R0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Come visit again\nsometime.</language>
+		<language name="English">Odwiedź mnie znowu\nkiedyś.</language>
 	</row>
 	<row id="msg_0364_R25R0101_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thanks for showing me so many\ncute Pokémon.\fI really enjoyed myself.\rI’m glad I’ve lived such a long life.</language>
+		<language name="English">Dziękuję, że pokazałeś/aś mi tyle\nuroczych Pokémonów.\fNaprawdę się dobrze bawiłam.\rCieszę się, że żyłam tak długo.</language>
 	</row>
 	<row id="msg_0364_R25R0101_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a dusty machine under\nthe cloth cover...\fIt has not been used for some time.</language>
+		<language name="English">Pod materiałową osłoną jest\nzakurzona maszyna...\fNie była używana od jakiegoś czasu.</language>
 	</row>
 </body>
