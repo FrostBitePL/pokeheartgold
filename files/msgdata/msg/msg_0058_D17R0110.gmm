@@ -2,19 +2,19 @@
 <body language="English">
 	<row id="msg_0058_D17R0110_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zuki: Yes, this is where we welcome\nHO-OH.\rWhen the dance we practiced for many\ndays becomes one with the sound of the\fClear Bell we entrusted to you,\rthen HO-OH shall come down from the\ngreat arch of the sky once again!\r</language>
+		<language name="English">Zuki: Tak, to tutaj witamy HO-OH.\rGdy taniec, który ćwiczyłyśmy przez\nwiele dni, połączy się z dźwiękiem\fClear Bell, który powierzyłyśmy\ftobie,\rwtedy HO-OH ponownie zstąpi\nz wielkiego łuku nieba!\r</language>
 	</row>
 	<row id="msg_0058_D17R0110_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is all we can do for you...\nWhat you do now is entirely up to you...</language>
+		<language name="English">To wszystko, co możemy dla ciebie\nzrobić...\nTo, co zrobisz teraz, zależy\ncałkowicie od ciebie...</language>
 	</row>
 	<row id="msg_0058_D17R0110_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That IS indeed HO-OH...\nThe guardian of the sky around here\ffrom ancient times...\rSo many have tried and tried, only\nto fail...\r{STRVAR_1 3, 0, 0}, your heart and the Clear\nBell in harmony have finally made\fit appear...\r</language>
+		<language name="English">To NAPRAWDĘ jest HO-OH...\nStrażnik tutejszego nieba\fod czasów starożytnych...\rTak wielu próbowało raz za razem,\nby tylko ponieść porażkę...\r{STRVAR_1 3, 0, 0}, twoje serce\nw harmonii z Clear Bell w końcu\fsprawiły, że się pojawił...\r</language>
 	</row>
 	<row id="msg_0058_D17R0110_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, don’t you see?\rHO-OH must have been waiting for\nsomeone like you all this time.\fWouldn’t you agree...?\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}, czy nie rozumiesz?\rHO-OH musiał czekać na kogoś takiego\njak ty przez cały ten czas.\fCzy się nie zgadzasz...?\r</language>
 	</row>
 	<row id="msg_0058_D17R0110_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,18 +22,18 @@
 	</row>
 	<row id="msg_0058_D17R0110_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have done a great job.\nSay hello to Professor Elm for us.</language>
+		<language name="English">Wykonałeś/aś świetną robotę.\nPozdrów od nas Profesora Elma.</language>
 	</row>
 	<row id="msg_0058_D17R0110_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have not only made HO-OH appear,\nbut you have also caught it...\rYou are so wonderful.\nThere is nothing more for us to say.\rTake good care of yourself in\nyour journey...</language>
+		<language name="English">Nie tylko sprawiłeś/aś, że HO-OH\nsię pojawił, ale też go złapałeś/aś...\rJesteś tak wspaniały/a.\nNie mamy już nic więcej do dodania.\rDbaj o siebie w swojej podróży...</language>
 	</row>
 	<row id="msg_0058_D17R0110_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If that is what you believe, we will not\ntry to convince you otherwise.\rStill, if you want to see HO-OH once\nmore, perhaps you can come back here\fafter everything has been settled...</language>
+		<language name="English">Jeśli w to wierzysz, nie będziemy\npróbować cię przekonać inaczej.\rMimo to, jeśli chcesz zobaczyć HO-OH\njeszcze raz, może wrócisz tutaj,\fgdy wszystko się już ułoży...</language>
 	</row>
 	<row id="msg_0058_D17R0110_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I think when you turn your back to it,\nHO-OH will not come back for\fsome time...\rIf you want to see HO-OH, perhaps you\ncan come back here after everything\fhas been settled...</language>
+		<language name="English">Myślę, że gdy się do niego odwrócisz\nplecami, HO-OH przez jakiś czas\fnie wróci...\rJeśli chcesz zobaczyć HO-OH, może\nwrócisz tutaj, gdy wszystko się\fjuż ułoży...</language>
 	</row>
 </body>
