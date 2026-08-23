@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0741_W19R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The beach to Route 19 is closed\nindefinitely due to the Cinnabar\fvolcano’s eruption.\rI wonder if the people of Cinnabar\nare safe...</language>
+		<language name="English">Plaża prowadząca na Trasę 19 jest\nzamknięta na czas nieokreślony\fz powodu erupcji wulkanu Cinnabar.\rCiekawe, czy mieszkańcy Cinnabar\nsą bezpieczni...</language>
 	</row>
 	<row id="msg_0741_W19R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m so glad to hear that no Cinnabar\ncitizens were injured by the eruption!</language>
+		<language name="English">Tak się cieszę, że słyszę, że żaden\nmieszkaniec Cinnabar nie został ranny\fw wyniku erupcji!</language>
 	</row>
 </body>
