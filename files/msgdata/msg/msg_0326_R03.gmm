@@ -2,26 +2,26 @@
 <body language="English">
 	<row id="msg_0326_R03_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mt. Moon ahead.\rMt. Moon Square is on\nthe way to the top!</language>
+		<language name="English">Przed tobą Mt. Moon.\rMt. Moon Square znajduje się\nna drodze na szczyt!</language>
 	</row>
 	<row id="msg_0326_R03_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Never seen a stone like this before!\rCould it be...\na meteorite from space?</language>
+		<language name="English">Nigdy wcześniej nie widziałem/-am\ntakiego kamienia!\rCzy to może być...\nmeteoryt z kosmosu?</language>
 	</row>
 	<row id="msg_0326_R03_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Touching the meteorite boosted\nthe Speed of a certain Pokémon.</language>
+		<language name="English">Dotknięcie meteorytu zwiększyło\nSzybkość pewnego Pokémona.</language>
 	</row>
 	<row id="msg_0326_R03_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Touching the meteorite heightened\nthe defensive capabilities of\fa certain Pokémon.</language>
+		<language name="English">Dotknięcie meteorytu wzmocniło\nzdolności obronne\fpewnego Pokémona.</language>
 	</row>
 	<row id="msg_0326_R03_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Touching the meteorite heightened\nthe offensive capabilities of\fa certain Pokémon.</language>
+		<language name="English">Dotknięcie meteorytu wzmocniło\nzdolności ofensywne\fpewnego Pokémona.</language>
 	</row>
 	<row id="msg_0326_R03_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Touching the meteorite balanced out\nthe attributes of a certain Pokémon.</language>
+		<language name="English">Dotknięcie meteorytu zrównoważyło\ncechy pewnego Pokémona.</language>
 	</row>
 </body>
