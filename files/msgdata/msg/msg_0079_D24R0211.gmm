@@ -2,30 +2,30 @@
 <body language="English">
 	<row id="msg_0079_D24R0211_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a replica of an ancient Pokémon.</language>
+		<language name="English">To replika starożytnego Pokémona.</language>
 	</row>
 	<row id="msg_0079_D24R0211_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmmm.\nWhen did this appear...?\rI wonder what these symbols mean...\f..................\r</language>
+		<language name="English">Hmmm.\nKiedy się to pojawiło...?\rCiekawe, co znaczą te symbole...\f..................\r</language>
 	</row>
 	<row id="msg_0079_D24R0211_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, you!\nLet’s go back to the Research Center!\r</language>
+		<language name="English">Hej, ty!\nWracajmy do Centrum Badawczego!\r</language>
 	</row>
 	<row id="msg_0079_D24R0211_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The symbols on the stone panel were\nlike this...\r</language>
+		<language name="English">Symbole na kamiennym panelu\nwyglądały tak...\r</language>
 	</row>
 	<row id="msg_0079_D24R0211_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OUR FRIENDS LOOK\nUP AND HEARTILY\fCONGRATULATE US\r</language>
+		<language name="English">NASI PRZYJACIELE\nSPOGLĄDAJĄ W GÓRĘ\fI SERDECZNIE NAM GRATULUJĄ\r</language>
 	</row>
 	<row id="msg_0079_D24R0211_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I wonder what it means.\nWe need to examine the ruins once again.\r</language>
+		<language name="English">Ciekawe, co to znaczy.\nMusimy jeszcze raz zbadać ruiny.\r</language>
 	</row>
 	<row id="msg_0079_D24R0211_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} opened the UNOWN Report\nand made notes!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otworzył(a) UNOWN\nReport i zrobił(a) notatki!</language>
 	</row>
 </body>
