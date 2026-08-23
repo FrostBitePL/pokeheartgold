@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0513_T08FS0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I was hoping to buy some Safari Zone\nsouvenirs, but it’s not open!\rI thought it was closed today,\nbut actually it’s gone!\rI never saw it coming.</language>
+		<language name="English">Miałem/-am nadzieję kupić jakieś\npamiątki z Safari Zone, ale jest\fzamknięte!\rMyślałem/-am, że jest tylko\nzamknięte dzisiaj, ale okazuje się,\fże w ogóle go już nie ma!\rNiczego się nie spodziewałem/-am.</language>
 	</row>
 	<row id="msg_0513_T08FS0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Safari Zone has been moved\nto Johto...\rI hear that now the son of the Warden\nis going to run Pal Park!</language>
+		<language name="English">Safari Zone przeniesiono\ndo Johto...\rSłyszałem, że teraz syn Strażnika\nbędzie prowadził Pal Park!</language>
 	</row>
 	<row id="msg_0513_T08FS0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you been to the Pal Park?\rThe Safari Zone Warden’s son is\nrunning it with his wife.\rIt must run in their family to\nmanage parks.</language>
+		<language name="English">Byłeś/aś już w Pal Park?\rSyn Strażnika Safari Zone\nprowadzi go razem z żoną.\rProwadzenie parków musi być\nu nich rodzinne.</language>
 	</row>
 </body>
