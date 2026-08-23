@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0327_R03PC0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh my!\nI remember there was nothing built here\fwhen I climbed the mountain.\rThings change, and it’s getting more\nand more convenient.\n</language>
+		<language name="English">O rety!\nPamiętam, że nic tu nie było\fzbudowane, gdy wspinałem/-am się\fna górę.\rWszystko się zmienia i robi się\ncoraz wygodniej.\n</language>
 	</row>
 	<row id="msg_0327_R03PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Many Trainers are visiting the mountain.\nYou never know what wild Pokémon you’ll\fencounter. It is very important to\frecover your Pokémon at a place like\fthis. Don’t forget to make a record\fof your progress, either!\n</language>
+		<language name="English">Wielu Trenerów odwiedza tę górę.\nNigdy nie wiadomo, jakiego dzikiego\fPokémona napotkasz. Bardzo ważne\fjest, żeby leczyć swoje Pokémony\fw takim miejscu jak to. Nie zapomnij\ftakże zapisać swoich postępów!\n</language>
 	</row>
 </body>
