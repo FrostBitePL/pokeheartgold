@@ -2,42 +2,42 @@
 <body language="English">
 	<row id="msg_0059_D17R1101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: The legendary Pokémon did not\nchoose me...\rBut that does not mean that I have\nlost out on my future.\rI will continue my training until I\ndiscover a new future for me.\rSay, do you want to be part of my\ntraining? {YESNO 0}</language>
+		<language name="English">Morty: Legendarny Pokémon mnie\nnie wybrał...\rAle to nie znaczy, że straciłem\nswoją przyszłość.\rBędę kontynuował trening, dopóki\nnie odkryję dla siebie nowej\fprzyszłości.\rPowiedz, chcesz wziąć udział\nw moim treningu? {YESNO 0}</language>
 	</row>
 	<row id="msg_0059_D17R1101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered Morty\nin the Pokégear!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} zarejestrował(a)\nMorty’ego w Pokégearze!</language>
 	</row>
 	<row id="msg_0059_D17R1101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: Give me a call on Tuesday night if\nyou want a battle!</language>
+		<language name="English">Morty: Zadzwoń do mnie we wtorkowy\nwieczór, jeśli chcesz walki!</language>
 	</row>
 	<row id="msg_0059_D17R1101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: Oh...\nThat’s a shame...</language>
+		<language name="English">Morty: Och...\nSzkoda...</language>
 	</row>
 	<row id="msg_0059_D17R1101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: So, will you be part of my\ntraining? {YESNO 0}</language>
+		<language name="English">Morty: Więc, weźmiesz udział\nw moim treningu? {YESNO 0}</language>
 	</row>
 	<row id="msg_0059_D17R1101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: Hi, it’s you!\rHow about taking a picture\nhere with me as a memento? {YESNO 0}</language>
+		<language name="English">Morty: Cześć, to ty!\rMoże zrobimy sobie tutaj zdjęcie\nna pamiątkę? {YESNO 0}</language>
 	</row>
 	<row id="msg_0059_D17R1101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: All right!\nCome and stand next to me.\r</language>
+		<language name="English">Morty: Dobrze!\nChodź, stań obok mnie.\r</language>
 	</row>
 	<row id="msg_0059_D17R1101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: Mmmm...\nThis is a pretty good picture!</language>
+		<language name="English">Morty: Mmmm...\nTo całkiem dobre zdjęcie!</language>
 	</row>
 	<row id="msg_0059_D17R1101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: I understand...\nyou must be busy with things.</language>
+		<language name="English">Morty: Rozumiem...\nMusisz być zajęty/a różnymi\fsprawami.</language>
 	</row>
 	<row id="msg_0059_D17R1101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Photo Album is full.\rAccess your PC and delete\nsome pictures.</language>
+		<language name="English">Twój Album ze Zdjęciami jest pełny.\rUzyskaj dostęp do swojego PC\ni usuń jakieś zdjęcia.</language>
 	</row>
 </body>
