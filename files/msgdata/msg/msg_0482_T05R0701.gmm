@@ -2,50 +2,50 @@
 <body language="English">
 	<row id="msg_0482_T05R0701_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome!\rFeel free to look around anywhere\non this floor.</language>
+		<language name="English">Witaj!\rMożesz swobodnie rozglądać się\npo tym piętrze.</language>
 	</row>
 	<row id="msg_0482_T05R0701_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sorry, but you can only tour the\nground floor.\rEver since Johto’s Radio Tower was\ntaken over by a criminal gang,\fwe have had to step up our security.</language>
+		<language name="English">Przykro mi, ale możesz zwiedzać\ntylko parter.\rOdkąd Wieżę Radiową w Johto przejęła\nprzestępcza szajka, musieliśmy\fwzmocnić nasze zabezpieczenia.</language>
 	</row>
 	<row id="msg_0482_T05R0701_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Many people are hard at work here\nin the Radio Tower.\rThey must be doing their best to put\non good shows.</language>
+		<language name="English">Wielu ludzi ciężko tu pracuje,\nw Wieży Radiowej.\rMuszą dawać z siebie wszystko, by\ntworzyć dobre programy.</language>
 	</row>
 	<row id="msg_0482_T05R0701_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, no, no, no!\rWe’ve been off the air ever since the\nPower Plant shut down.\rAll my efforts to start this station\nwould be wasted if I can’t broadcast.\fI’ll be ruined!</language>
+		<language name="English">Och, nie, nie, nie!\rNie nadajemy, odkąd Elektrownia\nsię wyłączyła.\rWszystkie moje wysiłki, by uruchomić\ntę stację, pójdą na marne, jeśli nie\fbędę mógł nadawać. Będę zrujnowany!</language>
 	</row>
 	<row id="msg_0482_T05R0701_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah! So you’re the {STRVAR_1 3, 0, 0} who\nsolved the Power Plant’s problem?\rThanks to you, I never lost my job.\nI tell you, you’re a real lifesaver!\fPlease take this as my thanks.\r</language>
+		<language name="English">Ach! Więc to ty jesteś tym/tą\n{STRVAR_1 3, 0, 0}, kto rozwiązał\fproblem Elektrowni?\rDzięki tobie nigdy nie straciłem pracy.\nMówię ci, jesteś prawdziwym\fwybawcą! Proszę, przyjmij to\fw podziękowaniu.\r</language>
 	</row>
 	<row id="msg_0482_T05R0701_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah! So you’re the {STRVAR_1 3, 0, 0} who\nsolved the Power Plant’s problem?\rThanks to you, I never lost my job.\nI tell you, you’re a real lifesaver!\fPlease take this as my thanks.\r</language>
+		<language name="English">Ach! Więc to ty jesteś tym/tą\n{STRVAR_1 3, 0, 0}, kto rozwiązał\fproblem Elektrowni?\rDzięki tobie nigdy nie straciłem pracy.\nMówię ci, jesteś prawdziwym\fwybawcą! Proszę, przyjmij to\fw podziękowaniu.\r</language>
 	</row>
 	<row id="msg_0482_T05R0701_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Director loaded the EXPN Card\non {STRVAR_1 3, 0, 0}’s Pokégear!\r{STRVAR_1 3, 0, 0}’s Pokégear has been\nupgraded!</language>
+		<language name="English">Dyrektor wgrał kartę EXPN\ndo Pokégearu gracza {STRVAR_1 3, 0, 0}!\rPokégear gracza {STRVAR_1 3, 0, 0} został\nulepszony!</language>
 	</row>
 	<row id="msg_0482_T05R0701_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">With that thing, you can tune in to\neven more radio programs here in\fKanto.\fGahahahaha!</language>
+		<language name="English">Z tym gadżetem możesz złapać jeszcze\nwięcej programów radiowych tutaj,\fw Kanto.\fGahahahaha!</language>
 	</row>
 	<row id="msg_0482_T05R0701_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey there!\nI am the super Music Director!\rHuh? Your Pokégear can’t tune in to my\nmusic shows.\rHow unfortunate!\rIf you upgrade it with the EXPN Card,\nyou can tune in.\fYou’d better get one!</language>
+		<language name="English">Hej tam!\nJestem super Dyrektorem Muzycznym!\rHuh? Twój Pokégear nie może złapać\nmoich programów muzycznych.\rJakie to niefortunne!\rJeśli ulepszysz go kartą EXPN,\nbędziesz mógł/mogła je złapać.\fLepiej ją zdobądź!</language>
 	</row>
 	<row id="msg_0482_T05R0701_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey there!\nI am the super Music Director!\rI’m responsible for the gorgeous\nmelodies that go out over the air.\rDon’t be square. Grab your music\noff the air!</language>
+		<language name="English">Hej tam!\nJestem super Dyrektorem Muzycznym!\rTo ja odpowiadam za wspaniałe\nmelodie, które płyną z anteny.\rNie bądź nudziarzem. Łap swoją\nmuzykę z eteru!</language>
 	</row>
 	<row id="msg_0482_T05R0701_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">1F Reception\n2F Sales\f3F Personnel\f4F Production\f5F Director’s Office\n</language>
+		<language name="English">1P Recepcja\n2P Sprzedaż\f3P Kadry\f4P Produkcja\f5P Biuro Dyrektora\n</language>
 	</row>
 	<row id="msg_0482_T05R0701_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Perk Up Pokémon with Mellow Sounds\nof the Poké Flute.\rThe Poké Flute broadcast is only\navailable around the Kanto region.\rTry to tune in around the upper area\nof the radio!</language>
+		<language name="English">Ożyw Pokémony Łagodnymi Dźwiękami\nPoké Flute.\rAudycja Poké Flute jest dostępna\ntylko w regionie Kanto.\rSpróbuj złapać ją w górnym zakresie\nradia!</language>
 	</row>
 </body>
