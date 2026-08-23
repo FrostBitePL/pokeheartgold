@@ -2,106 +2,106 @@
 <body language="English">
 	<row id="msg_0053_D11R0106_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Hey, you!\rMy Gym on Cinnabar Island was burned\ndown by the eruption!\rBut I will not give up!\nTake a look at this cave.\rWe have turned it into a Gym, and I am\nstill acting as a Gym Leader!\rI will give you the Gym Badge\nif you manage to defeat me!\rAre you ready? Here we go!\r</language>
+		<language name="English">Blaine: Hej, ty!\rMoja Sala na Cinnabar Island spłonęła\npodczas erupcji!\rAle się nie poddam!\nSpójrz na tę jaskinię.\rZamieniliśmy ją w Salę, a ja wciąż\ndziałam jako Lider Sali!\rDam ci Odznakę Sali, jeśli zdołasz\nmnie pokonać!\rJesteś gotowy/a? Zaczynamy!\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Awesome. I have burned out...\fTake this Volcano Badge!\r</language>
+		<language name="English">Blaine: Wspaniale. Wypaliłem się...\fWeź tę Odznakę Wulkanu!\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Volcano Badge from Blaine!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Wulkanu od Blaine’a!</language>
 	</row>
 	<row id="msg_0053_D11R0106_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Here, I will give you this, too.\nIt’s called Overheat!\rIt has a slight drawback, but it’s\npowerful and well worth it!\r</language>
+		<language name="English">Blaine: Proszę, dam ci też to.\nNazywa się Przegrzanie!\rMa niewielką wadę, ale jest\npotężne i warte tego!\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: I did lose this time, but I’m\ngoing to win next time.\rWhen I rebuild my Cinnabar Gym,\nwe have to hold a rematch.</language>
+		<language name="English">Blaine: Tym razem przegrałem, ale\nnastępnym razem wygram.\rGdy odbuduję moją Salę w Cinnabar,\nbędziemy musieli zorganizować rewanż.</language>
 	</row>
 	<row id="msg_0053_D11R0106_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: My Fire-type Pokémon will be\neven stronger! Just you watch!</language>
+		<language name="English">Blaine: Moje Pokémony typu Ognistego\nbędą jeszcze silniejsze! Zobaczysz!</language>
 	</row>
 	<row id="msg_0053_D11R0106_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow, to see a Gym in a cave like this?\nI’d love to explore it.\r</language>
+		<language name="English">Wow, Sala w takiej jaskini?\nBardzo chciałbym/-abym ją zbadać.\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bitterness leads to improvement\ntomorrow.</language>
+		<language name="English">Gorycz porażki prowadzi do\npoprawy jutro.</language>
 	</row>
 	<row id="msg_0053_D11R0106_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bitterness leads to improvement\ntomorrow.\r</language>
+		<language name="English">Gorycz porażki prowadzi do\npoprawy jutro.\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am in the middle of collecting\nbattle records.\rCan you help me?\r</language>
+		<language name="English">Jestem w trakcie zbierania\nrekordów walk.\rMożesz mi pomóc?\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I didn’t expect you to be so good!\nWho in the world are you?</language>
+		<language name="English">Nie spodziewałem/-am się, że\njesteś aż tak dobry/a! Kim ty\fw ogóle jesteś?</language>
 	</row>
 	<row id="msg_0053_D11R0106_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I didn’t expect you to be so good!\nWho in the world are you?\r</language>
+		<language name="English">Nie spodziewałem/-am się, że\njesteś aż tak dobry/a! Kim ty\fw ogóle jesteś?\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ooh!\nYou look easily defeated!\r</language>
+		<language name="English">Ooh!\nWyglądasz, jakbyś dał(a) się\flatwo pokonać!\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pardon me!\nI failed to sense how strong you are.</language>
+		<language name="English">Wybacz!\nNie zdołałem/-am wyczuć, jak\fsilny/a jesteś.</language>
 	</row>
 	<row id="msg_0053_D11R0106_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pardon me!\nI failed to sense how strong you are.\r</language>
+		<language name="English">Wybacz!\nNie zdołałem/-am wyczuć, jak\fsilny/a jesteś.\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A white lab coat is a researcher’s life.\nWe may be living in a cave like this, but\fwe never forget to do the laundry.\r</language>
+		<language name="English">Biały fartuch laboratoryjny to\nżycie badacza. Możemy mieszkać\fw takiej jaskini, ale nigdy nie\fzapominamy o praniu.\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This white lab coat makes me feel like I\nhave become smarter for some reason.</language>
+		<language name="English">Ten biały fartuch laboratoryjny\nsprawia, że czuję się, jakbym stał/a\fsię z jakiegoś powodu mądrzejszy/a.</language>
 	</row>
 	<row id="msg_0053_D11R0106_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This white lab coat makes me feel like I\nhave become smarter for some reason.\r</language>
+		<language name="English">Ten biały fartuch laboratoryjny\nsprawia, że czuję się, jakbym stał/a\fsię z jakiegoś powodu mądrzejszy/a.\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine may have lost his Gym, but he\nnever gives up. His perseverance\fis what motivates me!\r</language>
+		<language name="English">Blaine mógł stracić swoją Salę, ale\nnigdy się nie poddaje. Jego wytrwałość\fjest tym, co mnie motywuje!\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Together with Blaine, we will rebuild\nour Gym!</language>
+		<language name="English">Razem z Blaine’em odbudujemy\nnaszą Salę!</language>
 	</row>
 	<row id="msg_0053_D11R0106_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Together with Blaine, we will rebuild\nour Gym!\r</language>
+		<language name="English">Razem z Blaine’em odbudujemy\nnaszą Salę!\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We lost the Gym on Cinnabar Island and\nfelt lost before we came here.\r</language>
+		<language name="English">Straciliśmy Salę na Cinnabar Island\ni czuliśmy się zagubieni, zanim tu\ftrafiliśmy.\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We take a step back when we are\ndefeated...\rDon’t you think we are downright\nhonest?\rNever put us in the same category as\nScientists who help bad guys.</language>
+		<language name="English">Cofamy się o krok, gdy zostajemy\npokonani...\rNie sądzisz, że jesteśmy zupełnie\nszczerzy?\rNigdy nie wrzucaj nas do jednej\nkategorii z Naukowcami, którzy\fpomagają złym ludziom.</language>
 	</row>
 	<row id="msg_0053_D11R0106_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We take a step back when we are\ndefeated...\rDon’t you think we are downright\nhonest?\rNever put us in the same category as\nScientists who help bad guys.\r</language>
+		<language name="English">Cofamy się o krok, gdy zostajemy\npokonani...\rNie sądzisz, że jesteśmy zupełnie\nszczerzy?\rNigdy nie wrzucaj nas do jednej\nkategorii z Naukowcami, którzy\fpomagają złym ludziom.\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo! Legend in the making!\rThis Gym has many Trainers and rocks\nin the way from the rebuilding.\fIt sure won’t be easy to get to Blaine!\rBut keep your cool and defeat the\nTrainers one by one, and you will surely\ffind the path!</language>
+		<language name="English">Yo! Przyszła legendo!\rTa Sala ma wielu Trenerów i skały\nna drodze wynikające z odbudowy.\fZ pewnością nie będzie łatwo dotrzeć\fdo Blaine’a!\rAle zachowaj spokój i pokonuj\nTrenerów jednego po drugim, a na\fpewno znajdziesz drogę!</language>
 	</row>
 	<row id="msg_0053_D11R0106_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Gym Leader rebuilding his Gym and\nthe Trainer from Johto who has come to\fchallenge that Gym Leader...\rI have witnessed a hot battle!</language>
+		<language name="English">Lider Sali odbudowujący swoją Salę\ni Trener z Johto, który przybył,\fby wyzwać tego Lidera Sali...\rByłem świadkiem gorącej walki!</language>
 	</row>
 </body>
