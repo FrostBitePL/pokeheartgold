@@ -2,18 +2,18 @@
 <body language="English">
 	<row id="msg_0348_R12_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rt. 12\nNorth to Lavender Town</language>
+		<language name="English">Trasa 12\nNa północ do Lavender Town</language>
 	</row>
 	<row id="msg_0348_R12_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fishing Spot\rIt’s called the Silence Bridge, because\neveryone walks on tiptoe to avoid\fscaring the Water-type Pokémon.\n\n</language>
+		<language name="English">Miejsce do Wędkowania\rNazywa się Most Ciszy, bo\nwszyscy chodzą tu na palcach, żeby\fnie spłoszyć Pokémonów typu Wodnego.\n\n</language>
 	</row>
 	<row id="msg_0348_R12_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a large Pokémon sleeping\npeacefully.\fIt looks so content!</language>
+		<language name="English">Jakiś wielki Pokémon śpi tu\nspokojnie.\fWygląda na tak zadowolonego!</language>
 	</row>
 	<row id="msg_0348_R12_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...!\rThe SNORLAX opened its eyes wide!\r</language>
+		<language name="English">...!\rSNORLAX szeroko otworzył oczy!\r</language>
 	</row>
 </body>
