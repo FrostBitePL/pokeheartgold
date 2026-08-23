@@ -2,19 +2,19 @@
 <body language="English">
 	<row id="msg_0063_D22R0102_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Relaxation Square for Everyone\nNational Park</language>
+		<language name="English">Miejsce Wypoczynku dla Wszystkich\nNational Park</language>
 	</row>
 	<row id="msg_0063_D22R0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What is this notice?\rPlease battle only in the park grass.\rNational Park\nWarden’s Office</language>
+		<language name="English">Co to za ogłoszenie?\rProszę walczyć tylko w trawie parku.\rNational Park\nBiuro Strażnika</language>
 	</row>
 	<row id="msg_0063_D22R0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What is this notice?\rNo ball playing allowed\nother than Poké Balls.\rNational Park\nWarden’s Office</language>
+		<language name="English">Co to za ogłoszenie?\rZabawa piłkami niedozwolona,\nz wyjątkiem Poké Balli.\rNational Park\nBiuro Strażnika</language>
 	</row>
 	<row id="msg_0063_D22R0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Don: I’m going to\nwin! Don’t bother\fme.</language>
+		<language name="English">Don: Zamierzam\nwygrać! Nie\fprzeszkadzaj mi.</language>
 	</row>
 	<row id="msg_0063_D22R0102_00004" index="4">
 		<attribute name="window_context_name">garbage</attribute>
@@ -28,7 +28,7 @@
 	</row>
 	<row id="msg_0063_D22R0102_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ed: My PARASECT\nputs Pokémon to\fsleep with Spore.</language>
+		<language name="English">Ed: Mój PARASECT\nusypia Pokémony\fZarodnikami.</language>
 	</row>
 	<row id="msg_0063_D22R0102_00007" index="7">
 		<attribute name="window_context_name">garbage</attribute>
@@ -42,7 +42,7 @@
 	</row>
 	<row id="msg_0063_D22R0102_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Abby: I am training my Pokémon to raise\nits Speed to prepare for the Contest.</language>
+		<language name="English">Abby: Trenuję swojego Pokémona,\nżeby zwiększyć jego Szybkość\fprzed Konkursem.</language>
 	</row>
 	<row id="msg_0063_D22R0102_00010" index="10">
 		<attribute name="window_context_name">garbage</attribute>
@@ -56,7 +56,7 @@
 	</row>
 	<row id="msg_0063_D22R0102_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">William: I’m not\nconcerned about\fwinning.\rI’m just looking\nfor rare Pokémon.</language>
+		<language name="English">William: Nie zależy\nmi na\fwygranej.\rSzukam po prostu\nrzadkich Pokémonów.</language>
 	</row>
 	<row id="msg_0063_D22R0102_00013" index="13">
 		<attribute name="window_context_name">garbage</attribute>
@@ -70,7 +70,7 @@
 	</row>
 	<row id="msg_0063_D22R0102_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Benny: Ssh! You’ll\nscare off Pokémon.\rI’ll talk to you\nlater.</language>
+		<language name="English">Benny: Ciii! Spłoszysz\nPokémony.\rPogadam z tobą\npóźniej.</language>
 	</row>
 	<row id="msg_0063_D22R0102_00016" index="16">
 		<attribute name="window_context_name">garbage</attribute>
@@ -84,7 +84,7 @@
 	</row>
 	<row id="msg_0063_D22R0102_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Barry: You should\nweaken bug Pokémon\ffirst, then throw\fa Ball.</language>
+		<language name="English">Barry: Powinieneś/aś\nnajpierw osłabić\fPokémona typu\fRobaczego, a potem\frzucić Ballem.</language>
 	</row>
 	<row id="msg_0063_D22R0102_00019" index="19">
 		<attribute name="window_context_name">garbage</attribute>
@@ -98,7 +98,7 @@
 	</row>
 	<row id="msg_0063_D22R0102_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cindy: I really love Bug-type\nPokémon!</language>
+		<language name="English">Cindy: Naprawdę uwielbiam Pokémony\ntypu Robaczego!</language>
 	</row>
 	<row id="msg_0063_D22R0102_00022" index="22">
 		<attribute name="window_context_name">garbage</attribute>
@@ -112,7 +112,7 @@
 	</row>
 	<row id="msg_0063_D22R0102_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Josh: I’ve been collecting Bug-type\nPokémon since I was just a baby.\rThere’s no way I’m going to lose!</language>
+		<language name="English">Josh: Zbieram Pokémony typu\nRobaczego, odkąd byłem małym\fdzieckiem.\rNie ma mowy, żebym przegrał!</language>
 	</row>
 	<row id="msg_0063_D22R0102_00025" index="25">
 		<attribute name="window_context_name">garbage</attribute>
@@ -126,7 +126,7 @@
 	</row>
 	<row id="msg_0063_D22R0102_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Samuel: If you’ve got the time to\nchat, go find some bug Pokémon.</language>
+		<language name="English">Samuel: Jeśli masz czas na pogawędki,\nlepiej idź poszukać jakichś\fPokémonów typu Robaczego.</language>
 	</row>
 	<row id="msg_0063_D22R0102_00028" index="28">
 		<attribute name="window_context_name">garbage</attribute>
@@ -140,7 +140,7 @@
 	</row>
 	<row id="msg_0063_D22R0102_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kipp: I’ve studied about bug Pokémon\na lot. I’m going to win for sure.</language>
+		<language name="English">Kipp: Dużo uczyłem się o Pokémonach\ntypu Robaczego. Na pewno wygram.</language>
 	</row>
 	<row id="msg_0063_D22R0102_00031" index="31">
 		<attribute name="window_context_name">garbage</attribute>
