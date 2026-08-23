@@ -2,19 +2,19 @@
 <body language="English">
 	<row id="msg_0537_T11R0701_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome. This is Silph Co.’s\nhead office building.</language>
+		<language name="English">Witamy. To budynek głównej\nsiedziby Silph Co.</language>
 	</row>
 	<row id="msg_0537_T11R0701_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, you! The elevator there is out of\norder now.\rSomething is wrong with the electricity,\nand it won’t work right.\rI feel sorry that you wasted a trip,\nso here is a gift for you!\r</language>
+		<language name="English">Hej, ty! Ta winda jest teraz\nzepsuta.\rCoś jest nie tak z prądem\ni nie działa poprawnie.\rPrzykro mi, że zmarnowałeś/aś\npodróż, więc oto prezent dla ciebie!\r</language>
 	</row>
 	<row id="msg_0537_T11R0701_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s Silph Co.’s latest product.\nIt’s not for sale anywhere yet.</language>
+		<language name="English">To najnowszy produkt Silph Co.\nNigdzie nie jest jeszcze na sprzedaż.</language>
 	</row>
 	<row id="msg_0537_T11R0701_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This elevator is out of order.\rIt may electrocute you. Stay away.</language>
+		<language name="English">Ta winda jest zepsuta.\rMoże cię porazić prądem. Trzymaj się\nz dala.</language>
 	</row>
 	<row id="msg_0537_T11R0701_00004" index="4">
 		<attribute name="window_context_name">garbage</attribute>
@@ -33,91 +33,91 @@
 	</row>
 	<row id="msg_0537_T11R0701_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Steven: We meet again!\nHave you been to Hoenn before?\rIt’s such a beautiful place, with the\nclearest ocean you can imagine.\rYou should visit sometime.\fHey!\rWhy don’t we trade Pokémon?\rI’ve been looking for FORRETRESS.\nI can trade my BELDUM for it. {YESNO 0}</language>
+		<language name="English">Steven: Znów się spotykamy!\nByłeś/aś już kiedyś w Hoenn?\rTo takie piękne miejsce, z\nnajczystszym oceanem, jaki możesz\fsobie wyobrazić.\rPowinieneś/aś tam kiedyś pojechać.\fHej!\rMoże wymienimy się Pokémonami?\rSzukam FORRETRESSA.\nMogę wymienić za niego mojego\fBELDUMA. {YESNO 0}</language>
 	</row>
 	<row id="msg_0537_T11R0701_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Steven: Will you trade FORRETRESS\nfor my BELDUM? {YESNO 0}</language>
+		<language name="English">Steven: Wymienisz FORRETRESSA\nna mojego BELDUMA? {YESNO 0}</language>
 	</row>
 	<row id="msg_0537_T11R0701_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Steven: OK, let’s trade!\r</language>
+		<language name="English">Steven: Dobrze, wymieniamy się!\r</language>
 	</row>
 	<row id="msg_0537_T11R0701_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Steven: That’s too bad.</language>
+		<language name="English">Steven: Szkoda.</language>
 	</row>
 	<row id="msg_0537_T11R0701_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Steven: Are you telling me that\nyou think that’s a FORRETRESS?</language>
+		<language name="English">Steven: Mówisz mi, że myślisz,\nże to jest FORRETRESS?</language>
 	</row>
 	<row id="msg_0537_T11R0701_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Steven: You don’t see FORRETRESS in\nthe Hoenn region.\rIt’s my first time to actually see one.\nThank you so much!\rOh, look at the time. I really must go.\r</language>
+		<language name="English">Steven: W regionie Hoenn nie widuje\nsię FORRETRESSA.\rTo pierwszy raz, kiedy naprawdę\njakiegoś widzę. Bardzo dziękuję!\rOch, spójrz na godzinę. Naprawdę\nmuszę już iść.\r</language>
 	</row>
 	<row id="msg_0537_T11R0701_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Steven: This Pokémon seems to like\nyou a lot. Do you happen to like\fSteel-type Pokémon?\rI had a feeling.\nThat particular texture!\rThe cool and glowing bodies!\nSuch uniquenesses are only for\fSteel-type Pokémon!\rWhen it comes to the solitariness and\nnobleness you sense through the \frugged body, which is almost rebuffing\fwhen you hug, nothing comes close to\fBELDUM, I must say...\rIn short, my METAGROSS is\ntruly strong and cool!\r...\nOh, it seems that I got carried away.\rIt was a pleasure talking to you.\nBye!\r</language>
+		<language name="English">Steven: Ten Pokémon wydaje się\nbardzo cię lubić. Czy przypadkiem\flubisz Pokémony typu Stalowego?\rMiałem takie przeczucie.\nTa szczególna faktura!\rChłodne, lśniące ciała!\nTakie osobliwości mają tylko\fPokémony typu Stalowego!\rJeśli chodzi o samotność i szlachetność,\nktórą wyczuwasz w tym surowym ciele,\fniemal odpychającym, gdy je\fprzytulisz, nic nie umywa się do\fBELDUMA, muszę przyznać...\rKrótko mówiąc, mój METAGROSS jest\nnaprawdę silny i wspaniały!\r...\nOch, chyba się zapędziłem.\rMiło było z tobą porozmawiać.\nDo zobaczenia!\r</language>
 	</row>
 	<row id="msg_0537_T11R0701_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello...\nYou’re breaking up...\fI think it depends on how my dad feels.\rI see...\nI’ll be on my way. See you soon.\r</language>
+		<language name="English">Halo...\nZanika sygnał...\fMyślę, że to zależy od tego, jak\fczuje się mój tata.\rRozumiem...\nZaraz jadę. Do zobaczenia wkrótce.\r</language>
 	</row>
 	<row id="msg_0537_T11R0701_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Steven: You are...\nI remember your eyes.\rWhen I see a Trainer whose eyes\ntwinkle, I always remember.\r</language>
+		<language name="English">Steven: Ty jesteś...\nPamiętam twoje oczy.\rGdy widzę Trenera, którego oczy\nlśnią, zawsze to zapamiętuję.\r</language>
 	</row>
 	<row id="msg_0537_T11R0701_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Steven: You have a Pokédex!\nSo you are also in search of Pokémon.\fLet me see...\rI think I can help you with that.\rLet’s say that you have stones in\nfront of you.\fWhich color would you pick? {YESNO 0}</language>
+		<language name="English">Steven: Masz Pokédex!\nWięc ty też poszukujesz Pokémonów.\fPozwól, że zobaczę...\rMyślę, że mogę ci w tym pomóc.\rWyobraź sobie, że masz przed sobą\nkamienie.\fKtóry kolor byś wybrał/a? {YESNO 0}</language>
 	</row>
 	<row id="msg_0537_T11R0701_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GREEN STONE</language>
+		<language name="English">ZIELONY KAMIEŃ</language>
 	</row>
 	<row id="msg_0537_T11R0701_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RED STONE</language>
+		<language name="English">CZERWONY KAMIEŃ</language>
 	</row>
 	<row id="msg_0537_T11R0701_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BLUE STONE</language>
+		<language name="English">NIEBIESKI KAMIEŃ</language>
 	</row>
 	<row id="msg_0537_T11R0701_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Steven: You chose correctly!\nI will give you {STRVAR_1 0, 1, 0}!\r</language>
+		<language name="English">Steven: Wybrałeś/aś poprawnie!\nDam ci {STRVAR_1 0, 1, 0}!\r</language>
 	</row>
 	<row id="msg_0537_T11R0701_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe {STRVAR_1 0, 1, 0} from Steven!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\n{STRVAR_1 0, 1, 0} od Stevena!</language>
 	</row>
 	<row id="msg_0537_T11R0701_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Steven: Take good care of it.\nYour caring for it will make me\fvery happy.\r</language>
+		<language name="English">Steven: Zaopiekuj się nim dobrze.\nTwoja troska o niego bardzo\fmnie ucieszy.\r</language>
 	</row>
 	<row id="msg_0537_T11R0701_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Steven: I see...\nFor the choice you’ve made,\fI’d like to give you this Pokémon.\rExcept your party is full.\rWhy don’t you go to the PC to make\nsome room? I’ll be waiting here.</language>
+		<language name="English">Steven: Rozumiem...\nZa wybór, którego dokonałeś/aś,\fchciałbym dać ci tego Pokémona.\rTylko że twoja drużyna jest pełna.\rMoże pójdziesz do PC, żeby zrobić\nmiejsce? Będę tu czekał.</language>
 	</row>
 	<row id="msg_0537_T11R0701_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Steven: I will ask again.\nWhich color do you choose? {YESNO 0}</language>
+		<language name="English">Steven: Zapytam ponownie.\nKtóry kolor wybierasz? {YESNO 0}</language>
 	</row>
 	<row id="msg_0537_T11R0701_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to give a nickname\nto {STRVAR_1 0, 1, 0}? {YESNO 0}</language>
+		<language name="English">Czy chciałbyś(-abyś) nadać\nprzezwisko {STRVAR_1 0, 1, 0}? {YESNO 0}</language>
 	</row>
 	<row id="msg_0537_T11R0701_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Steven: You did a great job naming it!\r</language>
+		<language name="English">Steven: Świetnie mu wymyśliłeś/aś\nimię!\r</language>
 	</row>
 	<row id="msg_0537_T11R0701_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">QUIT</language>
+		<language name="English">ANULUJ</language>
 	</row>
 	<row id="msg_0537_T11R0701_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Steven: You seem to be quite cautious.\rAre you avoiding any chance when a\nperson might trick you?\fYou really are better than I thought.</language>
+		<language name="English">Steven: Wydajesz się być dość\nostrożny/a.\rUnikasz każdej okazji, w której\nktoś mógłby cię oszukać?\fNaprawdę jesteś lepszy/a, niż\fmyślałem.</language>
 	</row>
 	<row id="msg_0537_T11R0701_00029" index="29">
 		<attribute name="window_context_name">garbage</attribute>
