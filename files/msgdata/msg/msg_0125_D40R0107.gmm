@@ -2,19 +2,19 @@
 <body language="English">
 	<row id="msg_0125_D40R0107_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zuki: That’s right.\nThis is where we welcome LUGIA.\rWhen the dance we practiced many days\nbecomes one with the sound of the\fTidal Bell we entrusted with you, then\fLUGIA shall come out from deep within\fthe waterfall basin once again!\r</language>
+		<language name="English">Zuki: Zgadza się.\nTo tutaj witamy LUGIĘ.\rGdy taniec, który ćwiczyłyśmy przez\nwiele dni, połączy się z dźwiękiem\fTidal Bell, który powierzyłyśmy\ftobie, wtedy LUGIA ponownie wyłoni\fsię z głębi zbiornika wodospadu!\r</language>
 	</row>
 	<row id="msg_0125_D40R0107_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is all we can do for you...\nWhat you do now is entirely up to you...</language>
+		<language name="English">To wszystko, co możemy dla ciebie\nzrobić...\nTo, co zrobisz teraz, zależy\ncałkowicie od ciebie...</language>
 	</row>
 	<row id="msg_0125_D40R0107_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That is indeed LUGIA...\nThe guardian of these islands from\fancient times...\rSo many have tried again and again,\nonly to fail...\r{STRVAR_1 3, 0, 0}, your heart in complete\nharmony with the Tidal Bell has finally\fallowed it to appear...\r</language>
+		<language name="English">To rzeczywiście LUGIA...\nStrażnik tych wysp od czasów\fstarożytnych...\rTak wielu próbowało raz za razem,\nby tylko ponieść porażkę...\r{STRVAR_1 3, 0, 0}, twoje serce\nw pełnej harmonii z Tidal Bell\fw końcu pozwoliło mu się pojawić...\r</language>
 	</row>
 	<row id="msg_0125_D40R0107_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, don’t you see?\rLUGIA... It must have been waiting for\nsomeone like you all this time.\fWouldn’t you agree...?</language>
+		<language name="English">{STRVAR_1 3, 0, 0}, czy nie rozumiesz?\rLUGIA... Musiał czekać na kogoś\ntakiego jak ty przez cały ten czas.\fCzy się nie zgadzasz...?</language>
 	</row>
 	<row id="msg_0125_D40R0107_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,18 +22,18 @@
 	</row>
 	<row id="msg_0125_D40R0107_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’ve done a great job. Say hello to\nProfessor Elm for us.</language>
+		<language name="English">Wykonałeś/aś świetną robotę.\nPozdrów od nas Profesora Elma.</language>
 	</row>
 	<row id="msg_0125_D40R0107_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have not only made LUGIA appear,\nbut you also caught it...\rYou are so wonderful.\nThere is nothing more for us to say.\rTake good care of yourself in\nyour journey...</language>
+		<language name="English">Nie tylko sprawiłeś/aś, że LUGIA\nsię pojawił, ale też go złapałeś/aś...\rJesteś tak wspaniały/a.\nNie mamy już nic więcej do dodania.\rDbaj o siebie w swojej podróży...</language>
 	</row>
 	<row id="msg_0125_D40R0107_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If that is what you believe, we will not\ntry to convince you otherwise.\rStill, if you wish to see LUGIA once\nmore, perhaps you can come back here\fafter all has been settled...</language>
+		<language name="English">Jeśli w to wierzysz, nie będziemy\npróbować cię przekonać inaczej.\rMimo to, jeśli chcesz zobaczyć LUGIĘ\njeszcze raz, może wrócisz tutaj,\fgdy wszystko się już ułoży...</language>
 	</row>
 	<row id="msg_0125_D40R0107_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I think once you turn your back to it,\nLUGIA will not come back for\fsome time...\rIf you want to see LUGIA, perhaps you\ncan come back here after all\fhas been settled...</language>
+		<language name="English">Myślę, że gdy się do niego odwrócisz\nplecami, LUGIA przez jakiś czas\fnie wróci...\rJeśli chcesz zobaczyć LUGIĘ, może\nwrócisz tutaj, gdy wszystko się\fjuż ułoży...</language>
 	</row>
 </body>
