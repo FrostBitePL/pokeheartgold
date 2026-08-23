@@ -2,15 +2,15 @@
 <body language="English">
 	<row id="msg_0540_T11R0801_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My daughter likes to mimic people.\nHer mimicry has earned her the\fnickname Copycat around here.</language>
+		<language name="English">Moja córka lubi naśladować ludzi.\nJej naśladownictwo przyniosło jej\fprzezwisko Naśladowczyni.</language>
 	</row>
 	<row id="msg_0540_T11R0801_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My daughter is unique...\rShe would make friends, then her mimicry\nwould scare them away...\fShe only has a few friends.</language>
+		<language name="English">Moja córka jest wyjątkowa...\rZawierała przyjaźnie, a potem jej\nnaśladownictwo je odstraszało...\fMa tylko kilkoro przyjaciół.</language>
 	</row>
 	<row id="msg_0540_T11R0801_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">She recently lost the Poké Doll that\na boy gave her three years ago.\rEver since then, she’s gotten even\nbetter at mimicry...</language>
+		<language name="English">Ostatnio zgubiła Poké Doll, którą\ntrzy lata temu dał jej pewien chłopiec.\rOd tego czasu jest jeszcze lepsza\nw naśladownictwie...</language>
 	</row>
 	<row id="msg_0540_T11R0801_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
