@@ -2,31 +2,31 @@
 <body language="English">
 	<row id="msg_0341_R10_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: Oh, yay!\nYou have the Pokémon I love best:\fPIKACHU!\rExcellent!\nI’ll give you my telephone number! {YESNO 0}</language>
+		<language name="English">Porucznik Surge: Och, juhu!\nMasz Pokémona, którego kocham\fnajbardziej: PIKACHU!\rWspaniale!\nDam ci swój numer telefonu! {YESNO 0}</language>
 	</row>
 	<row id="msg_0341_R10_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered Lt. Surge\nin the Pokégear!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} zarejestrował(a)\nPorucznika Surge w Pokégearze!</language>
 	</row>
 	<row id="msg_0341_R10_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: Give me a call on Friday\nmorning!\rWe can have an electrifying battle!</language>
+		<language name="English">Porucznik Surge: Zadzwoń do mnie\nw piątek rano!\rMożemy stoczyć elektryzującą walkę!</language>
 	</row>
 	<row id="msg_0341_R10_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: Oh no!\nHow disappointing!</language>
+		<language name="English">Porucznik Surge: Och nie!\nJakie to rozczarowujące!</language>
 	</row>
 	<row id="msg_0341_R10_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: Aha!\nNow you want to know my telephone\fnumber, don’t you? {YESNO 0}</language>
+		<language name="English">Porucznik Surge: Aha!\nTeraz chcesz poznać mój numer\ftelefonu, prawda? {YESNO 0}</language>
 	</row>
 	<row id="msg_0341_R10_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: Oh! What are the chances\nof seeing you at a place like this?\rI can feel electric power around\nthe Power Plant.\rYou may want to catch a PIKACHU in\nthe Viridian Forest and bring it here!</language>
+		<language name="English">Porucznik Surge: Och! Jakie są szanse,\nże spotkam cię w takim miejscu?\rCzuję moc elektryczną wokół\nPower Plant.\rMoże złap jakiegoś PIKACHU\nw Viridian Forest i przynieś go tutaj!</language>
 	</row>
 	<row id="msg_0341_R10_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a large Pokémon staring\nat you...!\r</language>
+		<language name="English">Jakiś wielki Pokémon się na ciebie\ngapi...!\r</language>
 	</row>
 	<row id="msg_0341_R10_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
