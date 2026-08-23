@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0553_T21R0301_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re trying to see how good you\nare as a Pokémon Trainer?\rYou better visit the Pokémon Gyms\nall over Johto and collect Badges.</language>
+		<language name="English">Próbujesz sprawdzić, jak dobrym\njesteś Trenerem Pokémonów?\rLepiej odwiedź Sale Pokémon\nw całym Johto i zbierz Odznaki.</language>
 	</row>
 	<row id="msg_0553_T21R0301_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When I get older, I’m going to be a\nGym Leader!\rI make my Pokémon battle with my\nfriends’ to make them tougher!</language>
+		<language name="English">Gdy będę starszy/a, zostanę\nLiderem Sali!\rSprawiam, że mój Pokémon walczy\nz Pokémonami moich przyjaciół,\fżeby stał się twardszy!</language>
 	</row>
 </body>
