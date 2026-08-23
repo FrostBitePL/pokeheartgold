@@ -2,38 +2,38 @@
 <body language="English">
 	<row id="msg_0480_T05R0401_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, there!\nI am the official Name Rater!\rWant me to rate the nicknames\nof your Pokémon? {YESNO 0}</language>
+		<language name="English">Witaj!\nJestem oficjalnym Ekspertem od Imion!\rChcesz, żebym ocenił przydomki\ntwoich Pokémonów? {YESNO 0}</language>
 	</row>
 	<row id="msg_0480_T05R0401_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which Pokémon nickname should\nI critique, kid?</language>
+		<language name="English">Który przydomek Pokémona mam\nskrytykować, dzieciaku?</language>
 	</row>
 	<row id="msg_0480_T05R0401_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}, is it?\nThat is a decent nickname!\rBut, would you like me to give it\na much better name?\fHow about it? {YESNO 0}</language>
+		<language name="English">{STRVAR_1 1, 0, 0}, tak?\nTo przyzwoity przydomek!\rAle czy chcesz, żebym nadał mu\nznacznie lepsze imię?\fCo ty na to? {YESNO 0}</language>
 	</row>
 	<row id="msg_0480_T05R0401_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All right! Then, what shall the new\nnickname be?\r</language>
+		<language name="English">Dobrze! A więc, jaki będzie\nnowy przydomek?\r</language>
 	</row>
 	<row id="msg_0480_T05R0401_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There! From now on, this Pokémon\nshall be known as {STRVAR_1 1, 0, 0}!\rIt is a much better name than before!\nDon’t you agree?</language>
+		<language name="English">Gotowe! Od teraz ten Pokémon\nbędzie znany jako {STRVAR_1 1, 0, 0}!\rTo znacznie lepsze imię niż wcześniej!\nNie zgadzasz się?</language>
 	</row>
 	<row id="msg_0480_T05R0401_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK.\nSuit yourself.\rDo come visit again if you’ve changed\nyour mind.</language>
+		<language name="English">Dobrze.\nJak wolisz.\rWpadnij ponownie, jeśli zmienisz\nzdanie.</language>
 	</row>
 	<row id="msg_0480_T05R0401_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There! From now on, this Pokémon\nshall be known as {STRVAR_1 1, 0, 0}!\rNot so different from before?\nYour eyes are tricking you!\rThis one is better.\nHow fortunate for you!</language>
+		<language name="English">Gotowe! Od teraz ten Pokémon\nbędzie znany jako {STRVAR_1 1, 0, 0}!\rNiewiele się różni od poprzedniego?\nTwoje oczy cię zwodzą!\rTo imię jest lepsze.\nMasz szczęście!</language>
 	</row>
 	<row id="msg_0480_T05R0401_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm.\n{STRVAR_1 1, 0, 0}, is it?\rThat is a truly impeccable name!\rTake good care of {STRVAR_1 1, 0, 0}!</language>
+		<language name="English">Hmm.\n{STRVAR_1 1, 0, 0}, tak?\rTo naprawdę nienaganne imię!\rZaopiekuj się dobrze {STRVAR_1 1, 0, 0}!</language>
 	</row>
 	<row id="msg_0480_T05R0401_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh...\nThat is merely an Egg!</language>
+		<language name="English">Huh...\nToż to tylko Jajko!</language>
 	</row>
 </body>
