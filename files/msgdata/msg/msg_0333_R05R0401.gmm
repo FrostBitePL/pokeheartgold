@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0333_R05R0401_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eeyaaaah!\rI sense a sinister shadow hovering\nover you.\fTake this to ward it off!\r</language>
+		<language name="English">Eeyaaaach!\rWyczuwam nad tobą złowieszczy\ncień.\fWeź to, żeby go odpędzić!\r</language>
 	</row>
 	<row id="msg_0333_R05R0401_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You were in mortal danger, but you’re\nprotected now.</language>
+		<language name="English">Byłeś/aś w śmiertelnym\nniebezpieczeństwie, ale teraz jesteś\fchroniony/a.</language>
 	</row>
 	<row id="msg_0333_R05R0401_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My grandma is into warding off what she\nbelieves to be evil spirits.\fI’m sorry that she startled you.</language>
+		<language name="English">Moja babcia lubi odpędzać to, co\nuważa za złe duchy.\fPrzepraszam, że cię wystraszyła.</language>
 	</row>
 </body>
