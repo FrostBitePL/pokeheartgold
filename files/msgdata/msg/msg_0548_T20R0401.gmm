@@ -2,27 +2,27 @@
 <body language="English">
 	<row id="msg_0548_T20R0401_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, {STRVAR_1 3, 0, 0}!\nLyra is upstairs.\rShe’s playing games with her Pokémon\nas usual.\rYou didn’t bring your...Pokémon?\n...Oh, I should’ve known.\rYou don’t have your own Pokémon yet.\rWell, I hope I didn’t hurt your\nfeelings, {STRVAR_1 3, 0, 0}.</language>
+		<language name="English">Cześć, {STRVAR_1 3, 0, 0}!\nLyra jest na górze.\rJak zwykle bawi się ze swoim\nPokémonem.\rNie wziąłeś/aś swojego...Pokémona?\n...Och, powinnam była wiedzieć.\rNie masz jeszcze własnego Pokémona.\rCóż, mam nadzieję, że nie zraniłam\ntwoich uczuć, {STRVAR_1 3, 0, 0}.</language>
 	</row>
 	<row id="msg_0548_T20R0401_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, {STRVAR_1 3, 0, 0}!\nEthan is upstairs.\rHe’s having fun with his Pokémon\nas usual.\rYou didn’t bring your...Pokémon?\n...Oh, I should’ve known.\rYou don’t have your own Pokémon yet.\rWell, I hope I didn’t hurt your\nfeelings, {STRVAR_1 3, 0, 0}.</language>
+		<language name="English">Cześć, {STRVAR_1 3, 0, 0}!\nEthan jest na górze.\rJak zwykle dobrze się bawi ze\nswoim Pokémonem.\rNie wziąłeś/aś swojego...Pokémona?\n...Och, powinnam była wiedzieć.\rNie masz jeszcze własnego Pokémona.\rCóż, mam nadzieję, że nie zraniłam\ntwoich uczuć, {STRVAR_1 3, 0, 0}.</language>
 	</row>
 	<row id="msg_0548_T20R0401_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, {STRVAR_1 3, 0, 0}!\nLyra is not here.\rShe’s been keeping herself busy\nhelping the professor.\fShe’s busier than I am!</language>
+		<language name="English">Cześć, {STRVAR_1 3, 0, 0}!\nLyry tu nie ma.\rCiągle jest zajęta, pomagając\nprofesorowi.\fJest bardziej zajęta niż ja!</language>
 	</row>
 	<row id="msg_0548_T20R0401_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, {STRVAR_1 3, 0, 0}!\nEthan is not here.\rHe’s been keeping himself busy\nhelping the professor.\fHe’s busier than I am!</language>
+		<language name="English">Cześć, {STRVAR_1 3, 0, 0}!\nEthana tu nie ma.\rCiągle jest zajęty, pomagając\nprofesorowi.\fJest bardziej zajęty niż ja!</language>
 	</row>
 	<row id="msg_0548_T20R0401_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, {STRVAR_1 3, 0, 0}!\nLyra is upstairs.\rShe’s playing games with her Pokémon\nas usual.</language>
+		<language name="English">Cześć, {STRVAR_1 3, 0, 0}!\nLyra jest na górze.\rJak zwykle bawi się ze swoim\nPokémonem.</language>
 	</row>
 	<row id="msg_0548_T20R0401_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, {STRVAR_1 3, 0, 0}!\nEthan is upstairs.\rHe’s having fun with his Pokémon\nas usual.</language>
+		<language name="English">Cześć, {STRVAR_1 3, 0, 0}!\nEthan jest na górze.\rJak zwykle dobrze się bawi ze\nswoim Pokémonem.</language>
 	</row>
 	<row id="msg_0548_T20R0401_00006" index="6">
 		<attribute name="window_context_name">garbage</attribute>
