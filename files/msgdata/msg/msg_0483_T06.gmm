@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0483_T06_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vermilion Port is Kanto’s\nseaside gateway.\rLuxury liners from around the world\ndock here.</language>
+		<language name="English">Vermilion Port to nadmorska\nbrama Kanto.\rLuksusowe liniowce z całego\nświata cumują tutaj.</language>
 	</row>
 	<row id="msg_0483_T06_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My Pokémon is preparing the land\nfor construction.\rBut I have no money to start\nthe project.</language>
+		<language name="English">Mój Pokémon przygotowuje teren\npod budowę.\rAle nie mam pieniędzy, żeby\nrozpocząć ten projekt.</language>
 	</row>
 	<row id="msg_0483_T06_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,86 +14,86 @@
 	</row>
 	<row id="msg_0483_T06_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are eight Gyms in Kanto.\rThat big building is Vermilion’s\nPokémon Gym.</language>
+		<language name="English">W Kanto jest osiem Sal.\rTen duży budynek to Sala Pokémon\nw Vermilion.</language>
 	</row>
 	<row id="msg_0483_T06_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Skilled Trainers gather in Kanto.\nGym Leaders are especially strong.\rThey won’t be easy to defeat.</language>
+		<language name="English">W Kanto zbierają się uzdolnieni\nTrenerzy. Liderzy Sal są szczególnie\fsilni.\rNiełatwo ich będzie pokonać.</language>
 	</row>
 	<row id="msg_0483_T06_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’ve started to collect Kanto\nGym Badges?\rDon’t you agree that the Trainers\nhere are tough?</language>
+		<language name="English">Zacząłeś/aś zbierać Odznaki\nz Sal Kanto?\rNie zgadzasz się, że Trenerzy\ntutaj są twardzi?</language>
 	</row>
 	<row id="msg_0483_T06_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I guess you’ll be finished with your\nconquest of Kanto Gyms soon.\rLet me know if you get all\neight Badges.</language>
+		<language name="English">Domyślam się, że wkrótce skończysz\npodbój Sal Kanto.\rDaj mi znać, jak zdobędziesz\nwszystkie osiem Odznak.</language>
 	</row>
 	<row id="msg_0483_T06_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Congratulations!\nYou got all the Kanto Gym Badges.\rI’ve got a reward for your efforts.\r</language>
+		<language name="English">Gratulacje!\nZdobyłeś/aś wszystkie Odznaki z Sal\fKanto.\rMam nagrodę za twoje wysiłki.\r</language>
 	</row>
 	<row id="msg_0483_T06_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PP Max is a powerful item that\nraises a move’s top PP to its maximum.\fIt can change the way you battle!</language>
+		<language name="English">PP Max to potężny przedmiot,\nktóry podnosi maksymalne PP ataku\fdo jego górnej granicy. Może\fzmienić sposób, w jaki walczysz!</language>
 	</row>
 	<row id="msg_0483_T06_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PP Max is a powerful item that\nraises a move’s top PP to its maximum.\fIt can change the way you battle!</language>
+		<language name="English">PP Max to potężny przedmiot,\nktóry podnosi maksymalne PP ataku\fdo jego górnej granicy. Może\fzmienić sposób, w jaki walczysz!</language>
 	</row>
 	<row id="msg_0483_T06_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vermilion City\nThe Port of Exquisite Sunsets</language>
+		<language name="English">Vermilion City\nPort Przepięknych Zachodów Słońca</language>
 	</row>
 	<row id="msg_0483_T06_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vermilion City Pokémon Gym\nLeader: Lt. Surge\fThe Lightning American</language>
+		<language name="English">Sala Pokémon w Vermilion City\nLider: Porucznik Surge\fPiorunujący Amerykanin</language>
 	</row>
 	<row id="msg_0483_T06_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Fan Club\nAll Pokémon Fans Welcome!</language>
+		<language name="English">Klub Fanów Pokémonów\nWitamy Wszystkich Fanów Pokémonów!</language>
 	</row>
 	<row id="msg_0483_T06_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vermilion Port Entrance</language>
+		<language name="English">Wejście do Vermilion Port</language>
 	</row>
 	<row id="msg_0483_T06_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eusine: That was so close!\nI thought I could corner it by\fambushing it here...\rBut running on the water...\nis beyond me.\rStill, I am starting to see a pattern.\fSUICUNE prefers water!\fThat means...\r</language>
+		<language name="English">Eusine: To było tak blisko!\nMyślałem, że uda mi się je\fzapędzić w kozi róg, urządzając tu\fzasadzkę...\rAle bieganie po wodzie...\njest ponad moje możliwości.\rMimo to zaczynam dostrzegać\nwzorzec. SUICUNE preferuje wodę!\fTo znaczy...\r</language>
 	</row>
 	<row id="msg_0483_T06_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sorry, {STRVAR_1 3, 0, 0}!\nI’ve got to go!\r</language>
+		<language name="English">Przepraszam, {STRVAR_1 3, 0, 0}!\nMuszę już iść!\r</language>
 	</row>
 	<row id="msg_0483_T06_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi!\nMy name is Steven.\fThe Champion from the Hoenn region.\rHave we met...before?\rThat’s not possible.\nAll the Trainers I have battled\fseem to have the same look, anyway.\rEspecially the ones who gave me\ntough battles...\r</language>
+		<language name="English">Cześć!\nNazywam się Steven.\fMistrz z regionu Hoenn.\rCzy my się już...spotkaliśmy?\rTo niemożliwe.\nWszyscy Trenerzy, z którymi\fwalczyłem, i tak wyglądają jakoś\fpodobnie.\rZwłaszcza ci, którzy dali mi\ntrudne walki...\r</language>
 	</row>
 	<row id="msg_0483_T06_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Steven: By the way, have you heard of\na Pokémon called LATIAS?\rI am investigating why LATIAS,\na Pokémon from Hoenn, decided to\fleave Hoenn to come here.\r</language>
+		<language name="English">Steven: Swoją drogą, słyszałeś/aś\no Pokémonie zwanym LATIAS?\rBadam, dlaczego LATIAS, Pokémon\nz Hoenn, postanowiła opuścić Hoenn\fi przybyć tutaj.\r</language>
 	</row>
 	<row id="msg_0483_T06_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Steven: By the way, have you heard of\na Pokémon called LATIOS?\rI am investigating why LATIOS,\na Pokémon from Hoenn, decided to\fleave Hoenn to come here.\r</language>
+		<language name="English">Steven: Swoją drogą, słyszałeś/aś\no Pokémonie zwanym LATIOS?\rBadam, dlaczego LATIOS, Pokémon\nz Hoenn, postanowił opuścić Hoenn\fi przybyć tutaj.\r</language>
 	</row>
 	<row id="msg_0483_T06_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LATIAS is a Pokémon that has a lot\nto do with Soul Dew, a gemlike Orb.\rConsidering the fact that LATIAS is now\nin Kanto, it is possible to assume that\fthis has to do with the Soul Dew.\r</language>
+		<language name="English">LATIAS to Pokémon mający wiele\nwspólnego z Soul Dew, klejnotopodobną\fOrbką.\rBiorąc pod uwagę fakt, że LATIAS jest\nteraz w Kanto, można przypuszczać,\fże ma to związek z Soul Dew.\r</language>
 	</row>
 	<row id="msg_0483_T06_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LATIOS is a Pokémon that has a lot\nto do with Soul Dew, a gemlike Orb.\rConsidering the fact that LATIOS is now\nin Kanto, it is possible to assume that\fthis has to do with Soul Dew.\r</language>
+		<language name="English">LATIOS to Pokémon mający wiele\nwspólnego z Soul Dew, klejnotopodobną\fOrbką.\rBiorąc pod uwagę fakt, że LATIOS jest\nteraz w Kanto, można przypuszczać,\fże ma to związek z Soul Dew.\r</language>
 	</row>
 	<row id="msg_0483_T06_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LATIAS is a Pokémon that travels\na great distance.\rIt’ll be difficult to find without any\nmachine to track it with.\rBut any Trainer will be drawn to it,\nwon’t they?\r</language>
+		<language name="English">LATIAS to Pokémon, który pokonuje\nogromne odległości.\rBędzie trudno ją znaleźć bez żadnej\nmaszyny do jej śledzenia.\rAle każdy Trener będzie do niej\nprzyciągany, prawda?\r</language>
 	</row>
 	<row id="msg_0483_T06_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LATIOS is a Pokémon that travels\na great distance.\rIt’ll be difficult to find without any\nmachine to track it with.\rBut any Trainer will be drawn to it,\nwon’t they?\r</language>
+		<language name="English">LATIOS to Pokémon, który pokonuje\nogromne odległości.\rBędzie trudno go znaleźć bez żadnej\nmaszyny do jego śledzenia.\rAle każdy Trener będzie do niego\nprzyciągany, prawda?\r</language>
 	</row>
 	<row id="msg_0483_T06_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Steven: I must go.\nMay our journeys cross again.\r</language>
+		<language name="English">Steven: Muszę już iść.\nOby nasze drogi znów się skrzyżowały.\r</language>
 	</row>
 </body>
