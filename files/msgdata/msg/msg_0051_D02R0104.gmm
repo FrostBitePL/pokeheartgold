@@ -6,22 +6,22 @@
 	</row>
 	<row id="msg_0051_D02R0104_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is Mt. Moon Square.\rPlease don’t litter. Put trash\nwhere it belongs!</language>
+		<language name="English">To Mt. Moon Square.\rProszę, nie śmieć. Wyrzucaj\nśmieci tam, gdzie ich miejsce!</language>
 	</row>
 	<row id="msg_0051_D02R0104_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} found\n{STRVAR_1 8, 1, 0}!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} znalazł(a)\n{STRVAR_1 8, 1, 0}!</language>
 	</row>
 	<row id="msg_0051_D02R0104_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} put the {STRVAR_1 8, 1, 0}\nin the {COLOR 2}{STRVAR_1 31, 2, 0}{COLOR 0} Pocket.</language>
+		<language name="English">{STRVAR_1 3, 0, 0} umieścił(a)\n{STRVAR_1 8, 1, 0} w kieszeni\f{COLOR 2}{STRVAR_1 31, 2, 0}{COLOR 0}.</language>
 	</row>
 	<row id="msg_0051_D02R0104_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Obtained the {STRVAR_1 8, 0, 0}!\rToo bad!\nThe Bag is full...</language>
+		<language name="English">Zdobyto {STRVAR_1 8, 0, 0}!\rSzkoda!\nTorba jest pełna...</language>
 	</row>
 	<row id="msg_0051_D02R0104_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We are closed for the day.</language>
+		<language name="English">Jesteśmy dziś zamknięci.</language>
 	</row>
 </body>
