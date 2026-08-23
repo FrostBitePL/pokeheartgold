@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0501_T07R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you need anything?\nI am the manager of the condominiums.\rIt’s pretty safe around here, so I\ndon’t have much to do.\rI like to take my Pokémon out to\noccupy myself.\r...By the way, we have two\nelevators here.\fDon’t get confused.</language>
+		<language name="English">Czegoś potrzebujesz?\nJestem zarządcą tych apartamentów.\rJest tu dość bezpiecznie, więc\nnie mam za wiele do roboty.\rLubię wyprowadzać swojego Pokémona,\nżeby czymś się zająć.\r...Swoją drogą, mamy tu dwie\nwindy.\fNie pomyl się.</language>
 	</row>
 	<row id="msg_0501_T07R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -18,6 +18,6 @@
 	</row>
 	<row id="msg_0501_T07R0201_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please take this elevator\nto go to the third floor.</language>
+		<language name="English">Proszę, skorzystaj z tej windy,\nby dostać się na trzecie piętro.</language>
 	</row>
 </body>
