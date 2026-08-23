@@ -2,186 +2,186 @@
 <body language="English">
 	<row id="msg_0516_T08R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Pal Park!\rThis is where top-notch Trainers who\naren’t satisfied with the Safari Zone\fcome to show their Pokémon-catching\ftechniques to their peers.\r...Oh?\rAre you maybe...\nAh, you are {STRVAR_1 3, 0, 0}!\rMy dad told me about you!\nWord is, you’re a hotshot Trainer!\rWe’d be honored if you would\nparticipate in our Catching Shows. {YESNO 0}</language>
+		<language name="English">Witaj w Pal Park!\rTo tutaj najlepsi Trenerzy, którym\nnie wystarcza Safari Zone,\fprzychodzą pokazać swoim rówieśnikom\ftechniki łapania Pokémonów.\r...Och?\rCzy ty przypadkiem...\nAch, jesteś {STRVAR_1 3, 0, 0}!\rMój tata mi o tobie opowiadał!\nMówią, że jesteś świetnym Trenerem!\rBylibyśmy zaszczyceni, gdybyś\nwziął(-ęła) udział w naszych Pokazach\fŁapania. {YESNO 0}</language>
 	</row>
 	<row id="msg_0516_T08R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Pal Park!\rThis is where top-notch Trainers who\naren’t satisfied with the Safari Zone\fcome to show their Pokémon-catching\ftechniques to their peers.\r...Oh?\rAre you maybe...\nAh, you are {STRVAR_1 3, 0, 0}!\rMy dad told me about you!\nWord is, you’re a hotshot Trainer!\rWe’d be honored if you would\nparticipate in our Catching Shows. {YESNO 0}</language>
+		<language name="English">Witaj w Pal Park!\rTo tutaj najlepsi Trenerzy, którym\nnie wystarcza Safari Zone,\fprzychodzą pokazać swoim rówieśnikom\ftechniki łapania Pokémonów.\r...Och?\rCzy ty przypadkiem...\nAch, jesteś {STRVAR_1 3, 0, 0}!\rMój tata mi o tobie opowiadał!\nMówią, że jesteś świetnym Trenerem!\rBylibyśmy zaszczyceni, gdybyś\nwziął(-ęła) udział w naszych Pokazach\fŁapania. {YESNO 0}</language>
 	</row>
 	<row id="msg_0516_T08R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yes! You agreed to participate!\nLet’s not waste any time!\rLet me explain how Pal Park works.\nWhat should I explain? {YESNO 0}</language>
+		<language name="English">Świetnie! Zgodziłeś(-aś) się\nwziąć udział!\nNie traćmy więc czasu!\rWyjaśnię ci, jak działa Pal Park.\nCo powinienem/-am wyjaśnić? {YESNO 0}</language>
 	</row>
 	<row id="msg_0516_T08R0201_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pal Park is a place where you are\ntimed on the catching of six Pokémon.\rYou are provided with six special\nPoké Balls for the challenge.\rParticipating Trainers are required to\nsupply the six Pokémon that are to\fbe caught.\rIf you do not supply the stock of six\nPokémon, you may not participate in\fthe Catching Show.\r...Would you like to know\nanything else? {YESNO 0}</language>
+		<language name="English">Pal Park to miejsce, gdzie mierzony\njest twój czas łapania sześciu\fPokémonów.\rNa to wyzwanie otrzymujesz sześć\nspecjalnych Poké Ballów.\rBiorący udział Trenerzy muszą\ndostarczyć sześć Pokémonów,\fktóre mają zostać złapane.\rJeśli nie dostarczysz zapasu\nsześciu Pokémonów, nie będziesz\fmógł/mogła wziąć udziału w Pokazie\fŁapania.\r...Chciałbyś(-abyś) dowiedzieć się\njeszcze czegoś? {YESNO 0}</language>
 	</row>
 	<row id="msg_0516_T08R0201_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">At the start of the Catching Show,\nyou will be given six Park Balls.\rUse the Park Balls to catch the\nsix Pokémon you provide.\r...Would you like to know\nanything else? {YESNO 0}</language>
+		<language name="English">Na początku Pokazu Łapania\notrzymasz sześć Park Ballów.\rUżyj Park Ballów, żeby złapać\nsześć dostarczonych Pokémonów.\r...Chciałbyś(-abyś) dowiedzieć się\njeszcze czegoś? {YESNO 0}</language>
 	</row>
 	<row id="msg_0516_T08R0201_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Insert a Game Boy Advance Pokémon\nRuby, Sapphire, Emerald, FireRed,\for LeafGreen in the Game Pak slot.\rSix of the currently caught Pokémon\ncan migrate from the Game Pak to the\fDS Game Card when your DS is turned on\fand you select “MIGRATE FROM...”\rPlease note that you cannot insert a\nGBA Game Pak into a Nintendo DSi\fto migrate.\r...Would you like to know\nanything else? {YESNO 0}</language>
+		<language name="English">Włóż grę Pokémon Ruby, Sapphire,\nEmerald, FireRed lub LeafGreen na\fGame Boy Advance do gniazda Game Pak.\rSześć aktualnie złapanych Pokémonów\nmoże zostać przeniesionych z Game\fPaka na kartę gry DS, gdy włączysz\fswoje DS i wybierzesz\f„PRZENIEŚ Z...”\rPamiętaj, że nie możesz włożyć\nkartridża GBA do Nintendo DSi,\fżeby przenosić Pokémony.\r...Chciałbyś(-abyś) dowiedzieć się\njeszcze czegoś? {YESNO 0}</language>
 	</row>
 	<row id="msg_0516_T08R0201_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to take part in\na Catching Show now? {YESNO 0}</language>
+		<language name="English">Czy chciałbyś(-abyś) wziąć teraz\nudział w Pokazie Łapania? {YESNO 0}</language>
 	</row>
 	<row id="msg_0516_T08R0201_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aww, that’s too bad.\rWell, just give me a shout again\nif you’d like to participate.</language>
+		<language name="English">Ojej, szkoda.\rNo cóż, daj mi znać ponownie,\njeśli będziesz chciał(a) wziąć udział.</language>
 	</row>
 	<row id="msg_0516_T08R0201_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi there, {STRVAR_1 3, 0, 0}!\rDid you come to participate in\na Catching Show? {YESNO 0}</language>
+		<language name="English">Cześć, {STRVAR_1 3, 0, 0}!\rPrzyszedłeś(-aś), żeby wziąć udział\nw Pokazie Łapania? {YESNO 0}</language>
 	</row>
 	<row id="msg_0516_T08R0201_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi there, {STRVAR_1 3, 0, 0}!\rDid you come to participate in\na Catching Show? {YESNO 0}</language>
+		<language name="English">Cześć, {STRVAR_1 3, 0, 0}!\rPrzyszedłeś(-aś), żeby wziąć udział\nw Pokazie Łapania? {YESNO 0}</language>
 	</row>
 	<row id="msg_0516_T08R0201_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK, here are your Park Balls!\r{STRVAR_1 3, 0, 0} received\nsix Park Balls.\rThe current record holder is\n{STRVAR_1 3, 1, 0} with {STRVAR_1 53, 2, 0} points.\rOK, off you go, {STRVAR_1 3, 0, 0}.\rDazzle us with a masterful display\nof Pokémon catching!\r</language>
+		<language name="English">Dobrze, oto twoje Park Balle!\r{STRVAR_1 3, 0, 0} otrzymał(a)\nsześć Park Ballów.\rObecny rekordzista to\n{STRVAR_1 3, 1, 0} z {STRVAR_1 53, 2, 0} punktami.\rDobrze, ruszaj, {STRVAR_1 3, 0, 0}.\rOlśnij nas mistrzowskim pokazem\nłapania Pokémonów!\r</language>
 	</row>
 	<row id="msg_0516_T08R0201_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK, here are your Park Balls!\r{STRVAR_1 3, 0, 0} received\nsix Park Balls.\rThe current record holder is\n{STRVAR_1 3, 1, 0} with {STRVAR_1 53, 2, 0} points.\rOK, off you go, {STRVAR_1 3, 0, 0}.\rDazzle us with a masterful display\nof Pokémon catching!\r</language>
+		<language name="English">Dobrze, oto twoje Park Balle!\r{STRVAR_1 3, 0, 0} otrzymał(a)\nsześć Park Ballów.\rObecny rekordzista to\n{STRVAR_1 3, 1, 0} z {STRVAR_1 53, 2, 0} punktami.\rDobrze, ruszaj, {STRVAR_1 3, 0, 0}.\rOlśnij nas mistrzowskim pokazem\nłapania Pokémonów!\r</language>
 	</row>
 	<row id="msg_0516_T08R0201_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, hold on. You don’t have enough\nPokémon for a Catching Show.\rYou’ll need to stock us with six\nPokémon to participate.\rYou should make some Pokémon migrate\nfrom Hoenn or another region!</language>
+		<language name="English">Och, poczekaj. Nie masz wystarczająco\nPokémonów na Pokaz Łapania.\rMusisz dostarczyć nam sześć\nPokémonów, żeby wziąć udział.\rPowinieneś(-aś) przenieść jakieś\nPokémony z Hoenn lub innego regionu!</language>
 	</row>
 	<row id="msg_0516_T08R0201_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yes! You agreed to participate!\nLet’s not waste any time!\rLet me explain how Pal Park works.\nWhat should I explain? {YESNO 0}</language>
+		<language name="English">Świetnie! Zgodziłeś(-aś) się\nwziąć udział!\nNie traćmy więc czasu!\rWyjaśnię ci, jak działa Pal Park.\nCo powinienem/-am wyjaśnić? {YESNO 0}</language>
 	</row>
 	<row id="msg_0516_T08R0201_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m sorry you had to retire.\nI’ll take what Park Balls you\fhave left.\rNext time, please do stay to catch\nall six Pokémon.</language>
+		<language name="English">Przykro mi, że musiałeś(-aś)\nzrezygnować.\nWezmę te Park Balle, które\fci zostały.\rNastępnym razem zostań, żeby złapać\nwszystkie sześć Pokémonów.</language>
 	</row>
 	<row id="msg_0516_T08R0201_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, your PC Boxes are filled. You\nhave no room for six more Pokémon.\rYou won’t be able to accept them,\neven if you do catch them.\rMake enough room in a PC Box and\ncome back for your Catching Show.</language>
+		<language name="English">Och, twoje Skrzynki PC są pełne.\nNie masz miejsca na sześć kolejnych\fPokémonów.\rNie będziesz mógł(mogła) ich przyjąć,\nnawet jeśli je złapiesz.\rZrób wystarczająco dużo miejsca\nw Skrzynce PC i wróć na swój\fPokaz Łapania.</language>
 	</row>
 	<row id="msg_0516_T08R0201_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Congratulations!\nThat’s all six Pokémon caught!\rThe audience sure enjoyed watching\nyour Catching Show.\rAll right, let’s see your all-important\nscore from this show!\r...\n...\rCatching Points: {STRVAR_1 53, 0, 0}!\rTime Points: {STRVAR_1 53, 1, 0}!\rType Points: {STRVAR_1 53, 2, 0}!\rThe total is...\r...\n...\r{STRVAR_1 53, 3, 0} points!\r</language>
+		<language name="English">Gratulacje!\nWszystkie sześć Pokémonów złapane!\rWidownia z pewnością cieszyła się\ntwoim Pokazem Łapania.\rDobrze, zobaczmy twój bardzo ważny\nwynik z tego pokazu!\r...\n...\rPunkty za Łapanie: {STRVAR_1 53, 0, 0}!\rPunkty za Czas: {STRVAR_1 53, 1, 0}!\rPunkty za Typ: {STRVAR_1 53, 2, 0}!\rŁącznie to...\r...\n...\r{STRVAR_1 53, 3, 0} punktów!\r</language>
 	</row>
 	<row id="msg_0516_T08R0201_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow! That’s an outstanding record!\nKudos to you!\r</language>
+		<language name="English">Wow! To wybitny rekord!\nBrawo dla ciebie!\r</language>
 	</row>
 	<row id="msg_0516_T08R0201_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good! That’s a decent record.\nProps to you!\r</language>
+		<language name="English">Dobrze! To przyzwoity rekord.\nGratulacje!\r</language>
 	</row>
 	<row id="msg_0516_T08R0201_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to put all caught\nPokémon in PC Boxes? {YESNO 0}</language>
+		<language name="English">Czy chciałbyś(-abyś) umieścić wszystkie\nzłapane Pokémony w Skrzynkach PC? {YESNO 0}</language>
 	</row>
 	<row id="msg_0516_T08R0201_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Done!\nYour Pokémon have been boxed away.\rYou’ll now have to save the game.\r</language>
+		<language name="English">Gotowe!\nTwoje Pokémony zostały umieszczone\nw skrzynce.\rMusisz teraz zapisać grę.\r</language>
 	</row>
 	<row id="msg_0516_T08R0201_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, then it might be fun for you to\ngo for an even better score by\ftrying to catch these six again.\rIf you want to do another Catching\nShow, just come see us!</language>
+		<language name="English">Och, w takim razie może być fajnie\nspróbować uzyskać jeszcze lepszy\fwynik, próbując znów złapać\ftę szóstkę.\rJeśli chcesz zrobić kolejny Pokaz\nŁapania, po prostu do nas przyjdź!</language>
 	</row>
 	<row id="msg_0516_T08R0201_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you want to do another Catching\nShow, come see us again, please!\r</language>
+		<language name="English">Jeśli chcesz zrobić kolejny Pokaz\nŁapania, przyjdź do nas ponownie!\r</language>
 	</row>
 	<row id="msg_0516_T08R0201_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s time for your prize!\nHere you are!\r</language>
+		<language name="English">Czas na twoją nagrodę!\nProszę bardzo!\r</language>
 	</row>
 	<row id="msg_0516_T08R0201_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do another Catching Show\nwith the same Pokémon? {YESNO 0}</language>
+		<language name="English">Zrobić kolejny Pokaz Łapania\nz tymi samymi Pokémonami? {YESNO 0}</language>
 	</row>
 	<row id="msg_0516_T08R0201_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The current record holder is\n{STRVAR_1 3, 1, 0} with {STRVAR_1 53, 2, 0} points.\fCan you top that?</language>
+		<language name="English">Obecny rekordzista to\n{STRVAR_1 3, 1, 0} z {STRVAR_1 53, 2, 0} punktami.\fCzy zdołasz go pobić?</language>
 	</row>
 	<row id="msg_0516_T08R0201_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh! You’ve topped 2,000 points!\nYou’ve earned this, then!\r</language>
+		<language name="English">Och! Przekroczyłeś(-aś) 2000 punktów!\nZasłużyłeś(-aś) więc na to!\r</language>
 	</row>
 	<row id="msg_0516_T08R0201_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Keep working on getting a higher\nscore!</language>
+		<language name="English">Ćwicz dalej, żeby uzyskać\nwyższy wynik!</language>
 	</row>
 	<row id="msg_0516_T08R0201_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh! You’ve topped 2,500 points!\nYou’ve earned this, then!\r</language>
+		<language name="English">Och! Przekroczyłeś(-aś) 2500 punktów!\nZasłużyłeś(-aś) więc na to!\r</language>
 	</row>
 	<row id="msg_0516_T08R0201_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh! You’ve topped 3,000 points!\nYou’ve earned this, then!\r</language>
+		<language name="English">Och! Przekroczyłeś(-aś) 3000 punktów!\nZasłużyłeś(-aś) więc na to!\r</language>
 	</row>
 	<row id="msg_0516_T08R0201_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh! You’ve earned 3,500 points!\nYou’ve earned this, then!\r</language>
+		<language name="English">Och! Zdobyłeś(-aś) 3500 punktów!\nZasłużyłeś(-aś) więc na to!\r</language>
 	</row>
 	<row id="msg_0516_T08R0201_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’ve set an incredible record!\nThere’s nothing left to say!</language>
+		<language name="English">Ustanowiłeś(-aś) niesamowity rekord!\nNie ma już nic więcej do powiedzenia!</language>
 	</row>
 	<row id="msg_0516_T08R0201_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Bag is full.\nYou should come back later.</language>
+		<language name="English">Twoja Torba jest pełna.\nPowinieneś(-aś) wrócić później.</language>
 	</row>
 	<row id="msg_0516_T08R0201_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ve heard Trainers complain that\nrare Pokémon take longer to appear.\rIs it easier to start with common\nPokémon?</language>
+		<language name="English">Słyszałem/-am, jak Trenerzy narzekają,\nże rzadkie Pokémony pojawiają się\fdłużej.\rCzy łatwiej jest zacząć od\npospolitych Pokémonów?</language>
 	</row>
 	<row id="msg_0516_T08R0201_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, me?\nNo, I never catch Pokémon myself.\fBut I enjoy Catching Shows a lot.\rI love to see Johto and Hoenn Pokémon,\nespecially.\rThe regions I’ve never been to\nare so mysterious.</language>
+		<language name="English">Och, ja?\nNie, sam(a) nigdy nie łapię\fPokémonów. Ale bardzo lubię\fPokazy Łapania.\rUwielbiam oglądać zwłaszcza\nPokémony z Johto i Hoenn.\rRegiony, w których nigdy nie byłem/am,\nsą takie tajemnicze.</language>
 	</row>
 	<row id="msg_0516_T08R0201_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I feel so happy that I’d like to share\nmy happiness with you today.\rI must crown you with this...\nCrown.\rOh, before you get the wrong idea,\nit’s an Accessory for Pokémon.\r</language>
+		<language name="English">Jestem dziś tak szczęśliwy/a, że\nchciałbym(-abym) podzielić się\ftym z tobą.\rMuszę cię ukoronować tym...\nKoroną.\rOch, zanim pomyślisz coś złego,\nto Akcesorium dla Pokémona.\r</language>
 	</row>
 	<row id="msg_0516_T08R0201_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I feel so happy that I’d like to share\nmy happiness with you today.\rI feel compelled to give you this\nTiara.\rOh, before you get the wrong idea,\nit’s an Accessory for Pokémon.\r</language>
+		<language name="English">Jestem dziś tak szczęśliwy/a, że\nchciałbym(-abym) podzielić się\ftym z tobą.\rCzuję, że muszę dać ci tę\nTiarę.\rOch, zanim pomyślisz coś złego,\nto Akcesorium dla Pokémona.\r</language>
 	</row>
 	<row id="msg_0516_T08R0201_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I feel so happy that I’d like to share\nmy happiness with you today.\rI wish you would take this\n“Seafloor” Backdrop.\rPlease try using it when dressing up\nyour Pokémon with Accessories.\r</language>
+		<language name="English">Jestem dziś tak szczęśliwy/a, że\nchciałbym(-abym) podzielić się\ftym z tobą.\rChciałbym(-abym), żebyś wziął(ęła)\nto Tło „Dno Morskie”.\rSpróbuj go użyć, przystrajając\nswojego Pokémona Akcesoriami.\r</language>
 	</row>
 	<row id="msg_0516_T08R0201_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I feel so happy that I’d like to share\nmy happiness with you today.\rI wish you would take this\n“Underground” Backdrop.\rPlease try using it when dressing up\nyour Pokémon with Accessories.\r</language>
+		<language name="English">Jestem dziś tak szczęśliwy/a, że\nchciałbym(-abym) podzielić się\ftym z tobą.\rChciałbym(-abym), żebyś wziął(ęła)\nto Tło „Podziemia”.\rSpróbuj go użyć, przystrajając\nswojego Pokémona Akcesoriami.\r</language>
 	</row>
 	<row id="msg_0516_T08R0201_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I feel so happy that I’d like to share\nmy happiness with you today.\rI wish you would take this\n“Sky” Backdrop.\rPlease try using it when dressing up\nyour Pokémon with Accessories.\r</language>
+		<language name="English">Jestem dziś tak szczęśliwy/a, że\nchciałbym(-abym) podzielić się\ftym z tobą.\rChciałbym(-abym), żebyś wziął(ęła)\nto Tło „Niebo”.\rSpróbuj go użyć, przystrajając\nswojego Pokémona Akcesoriami.\r</language>
 	</row>
 	<row id="msg_0516_T08R0201_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Not only is there the Pokéathlon and\nthe Safari Zone, but also the\fBattle Frontier and the Pal Park...\rPeople other than me are working\nso hard... How dreamy...\fThis region sets my heart aflutter.</language>
+		<language name="English">Jest nie tylko Pokéathlon i\nSafari Zone, ale też\fBattle Frontier i Pal Park...\rInni ludzie pracują tak ciężko...\nJakie to marzycielskie...\fTen region sprawia, że serce mi bije\nszybciej.</language>
 	</row>
 	<row id="msg_0516_T08R0201_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I came to see {STRVAR_1 3, 0, 0}’s\nCatching Show...\rWow, {STRVAR_1 3, 0, 0}! Are you for real?</language>
+		<language name="English">Przyszedłem/-am zobaczyć Pokaz\nŁapania {STRVAR_1 3, 0, 0}...\rWow, {STRVAR_1 3, 0, 0}! To naprawdę ty?</language>
 	</row>
 	<row id="msg_0516_T08R0201_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, {STRVAR_1 3, 0, 0}!\nYour Catching Show was awesome!\fI’ll become a Trainer like you!</language>
+		<language name="English">Cześć, {STRVAR_1 3, 0, 0}!\nTwój Pokaz Łapania był niesamowity!\fZostanę Trenerem takim jak ty!</language>
 	</row>
 	<row id="msg_0516_T08R0201_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0},\nthere’s always a next time!</language>
+		<language name="English">{STRVAR_1 3, 0, 0},\nzawsze jest następny raz!</language>
 	</row>
 	<row id="msg_0516_T08R0201_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My son is a big fan of yours,\n{STRVAR_1 3, 0, 0}.\fAre you...that famous?</language>
+		<language name="English">Mój syn jest twoim wielkim fanem,\n{STRVAR_1 3, 0, 0}.\fCzy ty...jesteś aż tak sławny/a?</language>
 	</row>
 	<row id="msg_0516_T08R0201_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you want to see rare Pokémon,\nCatching Shows at the Pal Park are\fthe best!</language>
+		<language name="English">Jeśli chcesz zobaczyć rzadkie\nPokémony, Pokazy Łapania w Pal Park\fsą najlepsze!</language>
 	</row>
 </body>
