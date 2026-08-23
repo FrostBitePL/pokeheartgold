@@ -2,18 +2,18 @@
 <body language="English">
 	<row id="msg_0370_R27R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where are you off to with Pokémon?\rThe Pokémon League?\rAre your Pokémon loyal enough for\nyou to win?\rLet me see...\r</language>
+		<language name="English">Dokąd zmierzasz ze swoimi\nPokémonami?\rDo Ligi Pokémon?\rCzy twoje Pokémony są wystarczająco\nlojalne, żebyś mógł/mogła wygrać?\rDaj mi zobaczyć...\r</language>
 	</row>
 	<row id="msg_0370_R27R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah! Your Pokémon trusts you\nvery much.\rIt’s nice to see a good Trainer.\rHere. A gift for your journey.\r</language>
+		<language name="English">Ach! Twój Pokémon bardzo\nci ufa.\rMiło zobaczyć dobrego Trenera.\rProszę. Prezent na twoją podróż.\r</language>
 	</row>
 	<row id="msg_0370_R27R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TM37 happens to be Sandstorm.\rIt’s a move that inflicts damage on\nboth your and your foe’s Pokémon.\rHowever, some Pokémon, such as Rock-\nand Ground- and Steel-type\fPokémon, take no damage.\rThere are other ways to avoid taking\ndamage. I’ll let you figure it out.</language>
+		<language name="English">TM37 to akurat Piaskowa Burza.\rTo atak, który zadaje obrażenia\nzarówno twojemu, jak i wrogiemu\fPokémonowi.\rJednak niektóre Pokémony, takie jak\nte typu Skalnego, Ziemnego i\fStalowego, nie odnoszą obrażeń.\rSą też inne sposoby, żeby uniknąć\nobrażeń. Pozwolę ci to odkryć samemu/-ej.</language>
 	</row>
 	<row id="msg_0370_R27R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If it doesn’t come to trust you some\nmore, it could be tough going.\rTrust is the tie that binds Pokémon\nand Trainers.</language>
+		<language name="English">Jeśli nie zacznie ufać ci trochę\nbardziej, może być ciężko.\rZaufanie to więź, która łączy\nPokémony i Trenerów.</language>
 	</row>
 </body>
