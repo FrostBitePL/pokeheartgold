@@ -2,22 +2,22 @@
 <body language="English">
 	<row id="msg_0060_D18R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: ..................\r......Oh, it’s you.\rYou must be here to catch the\nlegendary Pokémon to make yourself\flook strong.\rThat is only a dream.\rYou see, the legendary Pokémon suits a\nTrainer like me who has sworn to become\fthe strongest Trainer.\rA battle with Team Rocket Grunts\nis just right for you!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}: ..................\r......Och, to ty.\rMusisz tu być, żeby złapać\nlegendarnego Pokémona i uchodzić\fza silnego/ą.\rTo tylko marzenie.\rWidzisz, legendarny Pokémon pasuje\ndo Trenera takiego jak ja, który\fprzysiągł zostać najsilniejszym\fTrenerem.\rWalka z Grunciarzami Team Rocket\njest w sam raz dla ciebie!\r</language>
 	</row>
 	<row id="msg_0060_D18R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: ...Aw, whatever.\rYou would never be able to catch a\nlegendary Pokémon anyway.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}: ...Ech, nieważne.\rI tak nigdy nie zdołałbyś/abyś złapać\nlegendarnego Pokémona.\r</language>
 	</row>
 	<row id="msg_0060_D18R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eusine: My name is Eusine.\rI’m on the trail of a Pokémon named\nSUICUNE.\rAnd you are...?\n{STRVAR_1 3, 0, 0}? Glad to meet you.\rI heard rumors that SUICUNE is here,\nso I came to look.\rTake a look at the basement through\nthe hole in the floor.\rThere. SUICUNE is down there.\rI could go downstairs, but I know it\nwould run away in no time.\rI know.\nI have tried it many times...</language>
+		<language name="English">Eusine: Nazywam się Eusine.\rJestem na tropie Pokémona\nzwanego SUICUNE.\rA ty jesteś...?\n{STRVAR_1 3, 0, 0}? Miło cię poznać.\rSłyszałem plotki, że SUICUNE jest\ntutaj, więc przyszedłem sprawdzić.\rSpójrz na piwnicę przez dziurę\nw podłodze.\rProszę. SUICUNE jest tam na dole.\rMógłbym zejść na dół, ale wiem,\nże w mig by uciekło.\rWiem.\nPróbowałem wiele razy...</language>
 	</row>
 	<row id="msg_0060_D18R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eusine: There seems to be more than\nmeets the eye with you...</language>
+		<language name="English">Eusine: Wygląda na to, że kryjesz\nw sobie więcej, niż widać na\fpierwszy rzut oka...</language>
 	</row>
 	<row id="msg_0060_D18R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: My name is Morty.\nI am Ecruteak’s Gym Leader.\rBecause my old friend Eusine is here\non the trail of SUICUNE, I decided to\finvestigate the Burned Tower.\rEcruteak has a legend about these\nlegendary Pokémon:\fSUICUNE, ENTEI, and RAIKOU.\rAs the Gym Leader of Ecruteak, I must\nhave a proper understanding of it.</language>
+		<language name="English">Morty: Nazywam się Morty.\nJestem Liderem Sali w Ecruteak.\rPonieważ mój stary przyjaciel Eusine\njest tutaj na tropie SUICUNE,\fpostanowiłem zbadać Burned Tower.\rEcruteak ma legendę o tych\nlegendarnych Pokémonach:\fSUICUNE, ENTEI i RAIKOU.\rJako Lider Sali w Ecruteak, muszę\nmieć jej właściwe zrozumienie.</language>
 	</row>
 </body>
