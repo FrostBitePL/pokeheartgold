@@ -2,22 +2,22 @@
 <body language="English">
 	<row id="msg_0745_W40R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What? I’m the first to arrive!\rThere will soon be a Battle Frontier\npast here.\rI’m in line to be the first one there.\nI haven’t slept for days.\rGet in line if you want to be the second\none in!\r</language>
+		<language name="English">Co? Jestem pierwszy!\rWkrótce będzie tu Battle Frontier.\rStoję w kolejce, żeby być tam\npierwszym. Nie spałem od kilku dni.\rStań w kolejce, jeśli chcesz być\ndrugi!\r</language>
 	</row>
 	<row id="msg_0745_W40R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zzz...\n...\rHe is standing...but asleep!\r</language>
+		<language name="English">Zzz...\n...\rStoi...ale śpi!\r</language>
 	</row>
 	<row id="msg_0745_W40R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zzz... Zzz...\n...\rHe doesn’t seem like he’ll wake up\nanytime soon!</language>
+		<language name="English">Zzz... Zzz...\n...\rNie wygląda na to, żeby miał się\nwkrótce obudzić!</language>
 	</row>
 	<row id="msg_0745_W40R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is the entrance to the\nBattle Frontier.\fYou shouldn’t make a line here.</language>
+		<language name="English">To wejście do Battle Frontier.\fNie powinieneś/aś tu stać\fw kolejce.</language>
 	</row>
 	<row id="msg_0745_W40R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Frontier is open!\rPlease go ahead.</language>
+		<language name="English">Battle Frontier jest otwarte!\rProszę, przejdź dalej.</language>
 	</row>
 </body>
