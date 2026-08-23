@@ -2,70 +2,70 @@
 <body language="English">
 	<row id="msg_0361_R22R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Only Trainers who have proven\nthemselves may pass.\rOh! The eight Badges of Johto!\nPlease, go right on through!</language>
+		<language name="English">Tylko Trenerzy, którzy się udowodnili,\nmogą przejść.\rOch! Osiem Odznak z Johto!\nProszę, śmiało przechodź!</language>
 	</row>
 	<row id="msg_0361_R22R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This way leads to\nMt. Silver.\rYou’ll see scary-strong Pokémon\nout there.\fYou’re not ready for it.</language>
+		<language name="English">Ta droga prowadzi na\nMt. Silver.\rZobaczysz tam przerażająco silne\nPokémony.\fNie jesteś na to gotowy/a.</language>
 	</row>
 	<row id="msg_0361_R22R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This way leads to\nMt. Silver.\rYou’ll see scary-strong Pokémon\nout there.\fYou’re not ready for it.\r</language>
+		<language name="English">Ta droga prowadzi na\nMt. Silver.\rZobaczysz tam przerażająco silne\nPokémony.\fNie jesteś na to gotowy/a.\r</language>
 	</row>
 	<row id="msg_0361_R22R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This way leads to\nMt. Silver.\rYou’ll see scary-strong Pokémon\nout there.\rBut you should be all right.\nJust watch out for yourself.</language>
+		<language name="English">Ta droga prowadzi na\nMt. Silver.\rZobaczysz tam przerażająco silne\nPokémony.\rAle powinno ci nic nie grozić.\nTylko uważaj na siebie.</language>
 	</row>
 	<row id="msg_0361_R22R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\nThis way leads to Kanto...\fBut this path’s blocked for\fthe time being, I’m afraid.</language>
+		<language name="English">Hę?\nTa droga prowadzi do Kanto...\fAle obawiam się, że ta ścieżka\fjest na razie zablokowana.</language>
 	</row>
 	<row id="msg_0361_R22R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hold there!\rThis way leads to Kanto...\nBut this path’s blocked for\fthe time being, I’m afraid.\r</language>
+		<language name="English">Stój tam!\rTa droga prowadzi do Kanto...\nAle obawiam się, że ta ścieżka\fjest na razie zablokowana.\r</language>
 	</row>
 	<row id="msg_0361_R22R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">West to Mt. Silver.\nEast to the Kanto region.\rGo north for the Elite Four!\nBut you should know that already,\fsince you defeated the Champion!</language>
+		<language name="English">Na zachód do Mt. Silver.\nNa wschód do regionu Kanto.\rNa północ do Elitarnej Czwórki!\nAle to już powinieneś/aś wiedzieć,\fskoro pokonałeś/aś Mistrza!</language>
 	</row>
 	<row id="msg_0361_R22R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: I’m on the way to my dad’s\nhouse to give him his lunch.\rThe Elite Four has no time to rest,\nday or night. It’s such hard work,\fyou know?\rSay!\nDo you want to exchange numbers? {YESNO 0}</language>
+		<language name="English">Janine: Jestem w drodze do domu\nmojego taty, żeby dać mu lunch.\rElitarna Czwórka nie ma czasu na\nodpoczynek, dniem ani nocą. To\fciężka praca, wiesz?\rPowiedz mi!\nChcesz wymienić się numerami? {YESNO 0}</language>
 	</row>
 	<row id="msg_0361_R22R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered Janine\nin the Pokégear!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} zarejestrował(a)\nJanine w Pokégearze!</language>
 	</row>
 	<row id="msg_0361_R22R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: Call me on Monday around noon\nif you want to battle!</language>
+		<language name="English">Janine: Zadzwoń do mnie w poniedziałek\nokoło południa, jeśli chcesz walczyć!</language>
 	</row>
 	<row id="msg_0361_R22R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: You don’t look like you’re\nscared, but you are, aren’t you?</language>
+		<language name="English">Janine: Nie wyglądasz na\nprzestraszonego/ą, ale jesteś, prawda?</language>
 	</row>
 	<row id="msg_0361_R22R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: Now you want to know\nmy number, don’t you? {YESNO 0}</language>
+		<language name="English">Janine: Teraz chcesz poznać mój\nnumer, prawda? {YESNO 0}</language>
 	</row>
 	<row id="msg_0361_R22R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: I’m done taking lunch to\nmy dad, and now I’m on my way home.\rDo you want to take a picture\nwith me? {YESNO 0}</language>
+		<language name="English">Janine: Skończyłam zanosić lunch\nmojemu tacie i teraz wracam do domu.\rChcesz zrobić sobie ze mną zdjęcie? {YESNO 0}</language>
 	</row>
 	<row id="msg_0361_R22R0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: Can you look as cool as me\nfor the picture?\r</language>
+		<language name="English">Janine: Możesz wyglądać tak fajnie\njak ja na tym zdjęciu?\r</language>
 	</row>
 	<row id="msg_0361_R22R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: Don’t you think we look\ngood in the picture?</language>
+		<language name="English">Janine: Nie sądzisz, że dobrze\nwyglądamy na tym zdjęciu?</language>
 	</row>
 	<row id="msg_0361_R22R0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: That’s a pity!</language>
+		<language name="English">Janine: Szkoda!</language>
 	</row>
 	<row id="msg_0361_R22R0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Photo Album is full.\rAccess your PC and delete\nsome pictures.</language>
+		<language name="English">Twój Album ze Zdjęciami jest pełny.\rUzyskaj dostęp do swojego PC\ni usuń jakieś zdjęcia.</language>
 	</row>
 </body>
