@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0322_R02R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh my good nuggets!\nYou’re the first visitor I’ve had in a\flong time.\rI’m going crazy with joy!\nSince you look as bright as a Nugget,\flet me give you a little present.\r</language>
+		<language name="English">Ojej, moje ty złote bryłki!\nJesteś pierwszym gościem, jakiego\fmiałem od dawna.\rOszalałem z radości!\nSkoro wyglądasz na tak lśniącego/ą\fjak Nugget, pozwól, że dam ci mały\fprezent.\r</language>
 	</row>
 	<row id="msg_0322_R02R0201_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>
@@ -11,6 +11,6 @@
 	</row>
 	<row id="msg_0322_R02R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s a Nugget.\rI can’t give you any nuggets of wisdom,\nso that’ll have to do!</language>
+		<language name="English">To Nugget.\rNie mogę dać ci żadnej złotej myśli,\nwięc to musi wystarczyć!</language>
 	</row>
 </body>
