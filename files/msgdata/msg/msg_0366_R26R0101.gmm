@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0366_R26R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you think you were lucky to find\na place to rest right where you\fneeded it?\rDon’t be reserved!\nI look forward to people’s smiles.\fLet your Pokémon rest here!\r</language>
+		<language name="English">Pomyślałeś/aś, że masz szczęście,\nznajdując miejsce do odpoczynku\fdokładnie tam, gdzie go\fpotrzebowałeś/aś?\rNie krępuj się!\nCzekam z niecierpliwością na uśmiechy\fludzi. Niech twój Pokémon odpocznie\ftutaj!\r</language>
 	</row>
 	<row id="msg_0366_R26R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There!\nYour Pokémon are looking good!\fKeep at it!</language>
+		<language name="English">Proszę!\nTwoje Pokémony wyglądają\fświetnie!\fTak trzymaj!</language>
 	</row>
 	<row id="msg_0366_R26R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
