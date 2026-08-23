@@ -2,147 +2,147 @@
 <body language="English">
 	<row id="msg_0538_T11R0702_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0} entered the motor.\r{STRVAR_1 0, 0, 0} is trying to\nlearn {STRVAR_1 6, 1, 0}.\rBut {STRVAR_1 0, 0, 0} can’t learn\nmore than four moves.\rDelete a move to make\nroom for {STRVAR_1 6, 1, 0}? {YESNO 0}</language>
+		<language name="English">{STRVAR_1 0, 0, 0} wszedł(-a) do silnika.\r{STRVAR_1 0, 0, 0} próbuje nauczyć\nsię ataku {STRVAR_1 6, 1, 0}.\rAle {STRVAR_1 0, 0, 0} nie może\nznać więcej niż cztery ataki.\rUsunąć jakiś atak, żeby zrobić\nmiejsce dla {STRVAR_1 6, 1, 0}? {YESNO 0}</language>
 	</row>
 	<row id="msg_0538_T11R0702_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Give up on learning the move\n{STRVAR_1 6, 1, 0}? {YESNO 0}</language>
+		<language name="English">Zrezygnować z nauki ataku\n{STRVAR_1 6, 1, 0}? {YESNO 0}</language>
 	</row>
 	<row id="msg_0538_T11R0702_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0} did not learn\n{STRVAR_1 6, 1, 0}.\r{STRVAR_1 0, 0, 0} emerged from the motor.</language>
+		<language name="English">{STRVAR_1 0, 0, 0} nie nauczył(a)\nsię {STRVAR_1 6, 1, 0}.\r{STRVAR_1 0, 0, 0} wyszedł(-a) z silnika.</language>
 	</row>
 	<row id="msg_0538_T11R0702_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The move {STRVAR_1 6, 1, 0} will be\nforgotten. Is that OK? {YESNO 0}</language>
+		<language name="English">Atak {STRVAR_1 6, 1, 0} zostanie\nzapomniany. Czy to w porządku? {YESNO 0}</language>
 	</row>
 	<row id="msg_0538_T11R0702_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">1,{PAUSE 20} 2,{PAUSE 20} and...{PAUSE 20} ...{PAUSE 20} Poof!</language>
+		<language name="English">1,{PAUSE 20} 2,{PAUSE 20} i...{PAUSE 20} ...{PAUSE 20} Puf!</language>
 	</row>
 	<row id="msg_0538_T11R0702_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} forgot how to\nuse {STRVAR_1 6, 1, 0}.\rAnd...</language>
+		<language name="English">{STRVAR_1 1, 0, 0} zapomniał(a),\njak używać {STRVAR_1 6, 1, 0}.\rI...</language>
 	</row>
 	<row id="msg_0538_T11R0702_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} learned\n{STRVAR_1 6, 1, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} nauczył(a) się\n{STRVAR_1 6, 1, 0}!</language>
 	</row>
 	<row id="msg_0538_T11R0702_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which ROTOM are you choosing?\r</language>
+		<language name="English">Które ROTOM wybierasz?\r</language>
 	</row>
 	<row id="msg_0538_T11R0702_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An Egg can’t enter a motor.</language>
+		<language name="English">Jajko nie może wejść do silnika.</language>
 	</row>
 	<row id="msg_0538_T11R0702_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That Pokémon can’t enter a motor.</language>
+		<language name="English">Ten Pokémon nie może wejść do silnika.</language>
 	</row>
 	<row id="msg_0538_T11R0702_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0} entered the motor.\r</language>
+		<language name="English">{STRVAR_1 0, 0, 0} wszedł(-a) do silnika.\r</language>
 	</row>
 	<row id="msg_0538_T11R0702_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0} emerged from the motor.\r</language>
+		<language name="English">{STRVAR_1 0, 0, 0} wyszedł(-a) z silnika.\r</language>
 	</row>
 	<row id="msg_0538_T11R0702_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Return which ROTOM to its\noriginal form? {YESNO 0}</language>
+		<language name="English">Które ROTOM przywrócić do\njego pierwotnej formy? {YESNO 0}</language>
 	</row>
 	<row id="msg_0538_T11R0702_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh? ROTOM appears as if it wants to\nrevert to its original form.\rWould you like to recall it from\nthe motor? {YESNO 0}</language>
+		<language name="English">Och? ROTOM wygląda, jakby chciał\npowrócić do swojej pierwotnej formy.\rChcesz przywołać go z silnika? {YESNO 0}</language>
 	</row>
 	<row id="msg_0538_T11R0702_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RECALL</language>
+		<language name="English">PRZYWOŁAJ</language>
 	</row>
 	<row id="msg_0538_T11R0702_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">YES</language>
+		<language name="English">TAK</language>
 	</row>
 	<row id="msg_0538_T11R0702_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO</language>
+		<language name="English">NIE</language>
 	</row>
 	<row id="msg_0538_T11R0702_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That ROTOM hasn’t entered a motor.</language>
+		<language name="English">To ROTOM nie weszło do silnika.</language>
 	</row>
 	<row id="msg_0538_T11R0702_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There was an appliance here.\nThe one with the oddly shaped motor.</language>
+		<language name="English">Było tu jakieś urządzenie.\nTo z dziwnie ukształtowanym silnikiem.</language>
 	</row>
 	<row id="msg_0538_T11R0702_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">ANULUJ</language>
 	</row>
 	<row id="msg_0538_T11R0702_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a microwave oven.\nIt has an odd-shaped motor on it.\r</language>
+		<language name="English">To kuchenka mikrofalowa.\nMa dziwnie ukształtowany silnik.\r</language>
 	</row>
 	<row id="msg_0538_T11R0702_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a microwave oven.\nIt has an odd-shaped motor on it.\rOh? ROTOM appears as if it wants\nto go into the motor.\rAllow it to enter the motor? {YESNO 0}</language>
+		<language name="English">To kuchenka mikrofalowa.\nMa dziwnie ukształtowany silnik.\rOch? ROTOM wygląda, jakby chciało\nwejść do silnika.\rPozwolić mu wejść do silnika? {YESNO 0}</language>
 	</row>
 	<row id="msg_0538_T11R0702_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ROTOM reluctantly gave up on entering\nthe microwave oven’s motor...</language>
+		<language name="English">ROTOM niechętnie zrezygnowało z\nwejścia do silnika kuchenki\fmikrofalowej...</language>
 	</row>
 	<row id="msg_0538_T11R0702_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a refrigerator.\nIt has an odd-shaped motor on it.\r</language>
+		<language name="English">To lodówka.\nMa dziwnie ukształtowany silnik.\r</language>
 	</row>
 	<row id="msg_0538_T11R0702_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a refrigerator.\nIt has an odd-shaped motor on it.\rOh? ROTOM appears as if it wants\nto go into the motor.\rAllow it to enter the motor? {YESNO 0}</language>
+		<language name="English">To lodówka.\nMa dziwnie ukształtowany silnik.\rOch? ROTOM wygląda, jakby chciało\nwejść do silnika.\rPozwolić mu wejść do silnika? {YESNO 0}</language>
 	</row>
 	<row id="msg_0538_T11R0702_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ROTOM reluctantly gave up on entering\nthe refrigerator’s motor...</language>
+		<language name="English">ROTOM niechętnie zrezygnowało z\nwejścia do silnika lodówki...</language>
 	</row>
 	<row id="msg_0538_T11R0702_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a washing machine.\nIt has an odd-shaped motor on it.\r</language>
+		<language name="English">To pralka.\nMa dziwnie ukształtowany silnik.\r</language>
 	</row>
 	<row id="msg_0538_T11R0702_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a washing machine.\nIt has an odd-shaped motor on it.\rOh? ROTOM appears as if it wants\nto go into the motor.\rAllow it to enter the motor? {YESNO 0}</language>
+		<language name="English">To pralka.\nMa dziwnie ukształtowany silnik.\rOch? ROTOM wygląda, jakby chciało\nwejść do silnika.\rPozwolić mu wejść do silnika? {YESNO 0}</language>
 	</row>
 	<row id="msg_0538_T11R0702_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ROTOM reluctantly gave up on entering\nthe washing machine’s motor...</language>
+		<language name="English">ROTOM niechętnie zrezygnowało z\nwejścia do silnika pralki...</language>
 	</row>
 	<row id="msg_0538_T11R0702_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a rotary fan.\nIt has an odd-shaped motor on it.\r</language>
+		<language name="English">To wentylator.\nMa dziwnie ukształtowany silnik.\r</language>
 	</row>
 	<row id="msg_0538_T11R0702_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a rotary fan.\nIt has an odd-shaped motor on it.\rOh? ROTOM appears as if it wants\nto go into the motor.\rAllow it to enter the motor? {YESNO 0}</language>
+		<language name="English">To wentylator.\nMa dziwnie ukształtowany silnik.\rOch? ROTOM wygląda, jakby chciało\nwejść do silnika.\rPozwolić mu wejść do silnika? {YESNO 0}</language>
 	</row>
 	<row id="msg_0538_T11R0702_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ROTOM reluctantly gave up on entering\nthe rotary fan’s motor...</language>
+		<language name="English">ROTOM niechętnie zrezygnowało z\nwejścia do silnika wentylatora...</language>
 	</row>
 	<row id="msg_0538_T11R0702_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a lawn mower.\nIt has an odd-shaped motor on it.\r</language>
+		<language name="English">To kosiarka do trawy.\nMa dziwnie ukształtowany silnik.\r</language>
 	</row>
 	<row id="msg_0538_T11R0702_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a lawn mower.\nIt has an odd-shaped motor on it.\rOh? ROTOM appears as if it wants\nto go into the motor.\rAllow it to enter the motor? {YESNO 0}</language>
+		<language name="English">To kosiarka do trawy.\nMa dziwnie ukształtowany silnik.\rOch? ROTOM wygląda, jakby chciało\nwejść do silnika.\rPozwolić mu wejść do silnika? {YESNO 0}</language>
 	</row>
 	<row id="msg_0538_T11R0702_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ROTOM reluctantly gave up on entering\nthe lawn mower’s motor...</language>
+		<language name="English">ROTOM niechętnie zrezygnowało z\nwejścia do silnika kosiarki...</language>
 	</row>
 	<row id="msg_0538_T11R0702_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a mysterious notebook here.\nIts age is impossible to tell.\r“It was by pure chance that I obtained\ninformation about the Pokémon ROTOM.\r“Remarkably, ROTOM has the ability to\nenter and merge with special motors.\r“It’s now known that ROTOM can stay\ninside a motor almost indefinitely.\r“However, it will emerge if it enters a\nUnion Room or a Wi-Fi Club.\r“ROTOM will also emerge from the motor\nif it is left at the Day Care.\r“ROTOM may also forget certain moves\nwhen it leaves a motor.\r“This Pokémon requires\nexhaustive observation and analysis.\r“To ensure I get all the credit,\nmy ROTOM research must be kept secret.\r“They will come to revere me as the\nscientific genius Char...”\rThe rest of the notebook is blank.</language>
+		<language name="English">Jest tu tajemniczy notatnik.\nNie da się określić jego wieku.\r„Czystym przypadkiem zdobyłem\ninformacje o Pokémonie ROTOM.\r„Co niezwykłe, ROTOM ma zdolność\nwchodzenia i łączenia się ze\fspecjalnymi silnikami.\r„Wiadomo teraz, że ROTOM może\npozostawać wewnątrz silnika\fniemal w nieskończoność.\r„Jednak wyjdzie, jeśli wejdzie do\nUnion Room lub Klubu Wi-Fi.\r„ROTOM wyjdzie też z silnika,\njeśli zostanie zostawiony w Żłobku.\r„ROTOM może też zapomnieć pewne\nataki, gdy opuszcza silnik.\r„Ten Pokémon wymaga wyczerpującej\nobserwacji i analizy.\r„Aby zapewnić sobie całą chwałę,\nmoje badania nad ROTOM muszą\fpozostać tajne.\r„Będą czcić mnie jako naukowego\ngeniusza, Char...”\rReszta notatnika jest pusta.</language>
 	</row>
 	<row id="msg_0538_T11R0702_00036" index="36">
 		<attribute name="window_context_name">garbage</attribute>
