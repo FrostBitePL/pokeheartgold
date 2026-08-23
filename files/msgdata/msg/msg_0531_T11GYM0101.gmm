@@ -2,42 +2,42 @@
 <body language="English">
 	<row id="msg_0531_T11GYM0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: I knew you were coming...\rThree years ago I had a vision of\nyour arrival. You’re after my Badge.\rI don’t enjoy battling, but it’s my\nduty as a Gym Leader to confer\fBadges on anyone who has proven\fhim- or herself worthy.\rSince you wish it, I will show you my\npsychic powers!\r</language>
+		<language name="English">Sabrina: Wiedziałam, że przyjdziesz...\rTrzy lata temu miałam wizję twojego\nprzybycia. Chcesz mojej Odznaki.\rNie lubię walczyć, ale to mój\nobowiązek jako Liderki Sali, by\fprzyznawać Odznaki każdemu, kto\fudowodnił, że jest ich godny/a.\rSkoro tego pragniesz, pokażę ci\nswoje psychiczne moce!\r</language>
 	</row>
 	<row id="msg_0531_T11GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: Your power...\nIt far exceeds what I foresaw...\rMaybe it isn’t possible to fully\npredict what the future holds...\rOK, you win. You earned yourself\nthe Marsh Badge.\r</language>
+		<language name="English">Sabrina: Twoja moc...\nZnacznie przewyższa to, co\fprzewidziałam...\rMoże nie da się w pełni przewidzieć,\nco kryje przyszłość...\rDobrze, wygrywasz. Zasłużyłeś/aś\nna Odznakę Bagienną.\r</language>
 	</row>
 	<row id="msg_0531_T11GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Marsh Badge!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Bagienną!</language>
 	</row>
 	<row id="msg_0531_T11GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: I failed to accurately predict\nyour power. That means that your\fpower is beyond my psychic ability.\rYou deserve this.\nPlease take this TM, too!\r</language>
+		<language name="English">Sabrina: Nie zdołałam dokładnie\nprzewidzieć twojej mocy. To znaczy,\fże twoja moc przewyższa moje\fzdolności psychiczne.\rZasługujesz na to.\nProszę, weź też tę TM!\r</language>
 	</row>
 	<row id="msg_0531_T11GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: It contains Skill Swap!\nIt swaps Abilities between the user\fand the target.\rYou will become a celebrated and\nbeloved Champion!</language>
+		<language name="English">Sabrina: Zawiera Zamianę Umiejętności!\nWymienia Umiejętności między\fużytkownikiem a celem.\rStaniesz się sławnym i uwielbianym\nMistrzem!</language>
 	</row>
 	<row id="msg_0531_T11GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: Your love for your Pokémon\nsmashed my psychic abilities...\rThe ability to love, I think, is some\nkind of psychic ability...</language>
+		<language name="English">Sabrina: Twoja miłość do Pokémonów\nzmiażdżyła moje zdolności\fpsychiczne...\rZdolność do kochania to, jak sądzę,\npewnego rodzaju zdolność psychiczna...</language>
 	</row>
 	<row id="msg_0531_T11GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo, legend in the making!\rA Trainer as skilled as you doesn’t\nneed to be told how to deal\fwith Psychic-type Pokémon, right?\rI expect great things from you!\rGood luck!</language>
+		<language name="English">Yo, przyszła legendo!\rTak wprawnemu Trenerowi jak ty\nnie trzeba mówić, jak radzić sobie\fz Pokémonami typu Psychicznego,\fprawda?\rSpodziewam się po tobie\nwielkich rzeczy!\rPowodzenia!</language>
 	</row>
 	<row id="msg_0531_T11GYM0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That was another fantastic battle!</language>
+		<language name="English">To była kolejna fantastyczna walka!</language>
 	</row>
 	<row id="msg_0531_T11GYM0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saffron City Pokémon Gym</language>
+		<language name="English">Sala Pokémon w Saffron City</language>
 	</row>
 	<row id="msg_0531_T11GYM0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saffron City Pokémon Gym\rLeader: Sabrina\nCertified Trainer!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Sala Pokémon w Saffron City\rLiderka: Sabrina\nCertyfikowany Trener!\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 </body>
