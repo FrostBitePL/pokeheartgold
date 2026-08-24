@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0150_D52R0103_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RAYQUAZA disappeared...</language>
+		<language name="English">RAYQUAZA zniknął...</language>
 	</row>
 	<row id="msg_0150_D52R0103_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
