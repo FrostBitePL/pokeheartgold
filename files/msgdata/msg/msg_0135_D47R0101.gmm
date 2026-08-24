@@ -2,363 +2,363 @@
 <body language="English">
 	<row id="msg_0135_D47R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Safari Zone!\rFor just ${STRVAR_1 52, 1, 0}, you can play the\nSafari Game.\rYou can roam the wide-open Safari Zone\nand catch whatever you like.\fWould you like to play? {YESNO 0}</language>
+		<language name="English">Witaj w Safari Zone!\rZa jedyne ${STRVAR_1 52, 1, 0} możesz zagrać\nw Grę Safari.\rMożesz wędrować po rozległej Safari\nZone i łapać, co tylko chcesz.\fChcesz zagrać? {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Owner!\nWelcome to the Safari Zone!\rFor just ${STRVAR_1 52, 1, 0}, you can play the\nSafari Game.\rYou can roam the wide-open Safari Zone\nand catch what you like.\fWould you like to play? {YESNO 0}\n</language>
+		<language name="English">Właścicielu!\nWitaj w Safari Zone!\rZa jedyne ${STRVAR_1 52, 1, 0} możesz zagrać\nw Grę Safari.\rMożesz wędrować po rozległej Safari\nZone i łapać, co tylko chcesz.\fChcesz zagrać? {YESNO 0}\n</language>
 	</row>
 	<row id="msg_0135_D47R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’ll be ${STRVAR_1 52, 1, 0}, please!\r</language>
+		<language name="English">To będzie ${STRVAR_1 52, 1, 0}, proszę!\r</language>
 	</row>
 	<row id="msg_0135_D47R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK.\nPlease come again!</language>
+		<language name="English">Dobrze.\nZapraszamy ponownie!</language>
 	</row>
 	<row id="msg_0135_D47R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Here are your Safari Balls!\r</language>
+		<language name="English">Oto twoje Safari Balle!\r</language>
 	</row>
 	<row id="msg_0135_D47R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received {STRVAR_1 51, 1, 0} Safari Balls\nfrom the attendant.</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a) {STRVAR_1 51, 1, 0}\nSafari Balli od pracownika.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We’ll call for you when you run out of\nSafari Balls.\fWell, I hope you enjoy it!\rGo, and have fun!\r</language>
+		<language name="English">Zawołamy cię, gdy skończą ci się\nSafari Balle.\fCóż, mam nadzieję, że dobrze się\fpobawisz!\rIdź i baw się dobrze!\r</language>
 	</row>
 	<row id="msg_0135_D47R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You still have Safari Balls left.\nLeave the Safari Zone? {YESNO 0}</language>
+		<language name="English">Wciąż masz Safari Balle.\nOpuścić Safari Zone? {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Certainly.\rPlease return any Safari Balls you may\nhave remaining.\r</language>
+		<language name="English">Oczywiście.\rProszę zwróć wszystkie pozostałe\nSafari Balle.\r</language>
 	</row>
 	<row id="msg_0135_D47R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you have fun?\nPlease come again!</language>
+		<language name="English">Dobrze się bawiłeś/aś?\nZapraszamy ponownie!</language>
 	</row>
 	<row id="msg_0135_D47R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am sorry.\nYou don’t have enough money.\rI hope you will drop by again.</language>
+		<language name="English">Przykro mi.\nNie masz wystarczająco pieniędzy.\rMam nadzieję, że wpadniesz jeszcze.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Owner!\nYou don’t have enough money.\rI hope you drop by again.</language>
+		<language name="English">Właścicielu!\nNie masz wystarczająco pieniędzy.\rMam nadzieję, że wpadniesz jeszcze.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am sorry.\nThere is no room left in the PC!\rPlease come back after you have made\nsome room.</language>
+		<language name="English">Przykro mi.\nNie ma już miejsca w PC!\rProszę wróć, gdy zrobisz jakieś\nmiejsce.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Owner!\nThere is no room left in the PC!\rPlease come back after you have made\nsome room.</language>
+		<language name="English">Właścicielu!\nNie ma już miejsca w PC!\rProszę wróć, gdy zrobisz jakieś\nmiejsce.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi! Is it your first time here at\nthe Safari Zone? {YESNO 0}</language>
+		<language name="English">Cześć! Jesteś tu w Safari Zone\npo raz pierwszy? {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome, Owner!\nShould I explain the Safari Zone? {YESNO 0}</language>
+		<language name="English">Witaj, Właścicielu!\nCzy mam wyjaśnić Safari Zone? {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">At the Safari Zone, you can enjoy a\nSafari Game where you are given {STRVAR_1 51, 1, 0}\fSafari Balls to try to catch Pokémon.\rWhen you have run out of Safari Balls,\nthe game is over.\rWhen you see a Pokémon, you can choose\nto throw Bait or Mud.\rIf you throw Bait, Pokémon tend to stay\nbut will become more difficult to catch.\rIf you throw Mud, it will become easier\nto catch, but the Pokémon may flee.\rHave fun at the Safari Zone!</language>
+		<language name="English">W Safari Zone możesz cieszyć się\nGrą Safari, w której dostajesz\f{STRVAR_1 51, 1, 0} Safari Balli, żeby spróbować\fzłapać Pokémony.\rGdy skończą ci się Safari Balle,\ngra się kończy.\rGdy zobaczysz Pokémona, możesz\nrzucić Przynętę lub Błoto.\rJeśli rzucisz Przynętę, Pokémon\nzwykle zostaje, ale trudniej go złapać.\rJeśli rzucisz Błoto, łatwiej go\nzłapać, ale Pokémon może uciec.\rBaw się dobrze w Safari Zone!</language>
 	</row>
 	<row id="msg_0135_D47R0101_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have fun at the Safari Zone!</language>
+		<language name="English">Baw się dobrze w Safari Zone!</language>
 	</row>
 	<row id="msg_0135_D47R0101_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Warden Baoba has something important\nto share with you!</language>
+		<language name="English">Strażnik Baoba ma coś ważnego,\nczym chce się z tobą podzielić!</language>
 	</row>
 	<row id="msg_0135_D47R0101_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is the Area Customizer.\nWhat would you like to know about? {YESNO 0}</language>
+		<language name="English">To jest Area Customizer.\nCo chciałbyś(-abyś) wiedzieć? {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Safari Zone has six Areas.\rPlains Area...\nPeak Area...\fand so on.\rThe Area Customizer allows you to\nchange the combination of these Areas.\rWhat would you like to know? {YESNO 0}</language>
+		<language name="English">Safari Zone ma sześć Obszarów.\rObszar Równinny...\nObszar Szczytowy...\fi tak dalej.\rArea Customizer pozwala ci\nzmieniać kombinację tych Obszarów.\rCo chciałbyś(-abyś) wiedzieć? {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Check out the machine, and you’ll see\nthe Area Customizer screen.\rThe lower window shows the current\nSafari Zone setting.\rSelect an Area with the A Button to\nswap it with another.\rWhat would you like to know? {YESNO 0}</language>
+		<language name="English">Sprawdź maszynę, a zobaczysz ekran\nArea Customizer.\rDolne okno pokazuje aktualne\nustawienie Safari Zone.\rWybierz Obszar przyciskiem A,\nżeby zamienić go na inny.\rCo chciałbyś(-abyś) wiedzieć? {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When you select an Area, then select\nSwap, you will see 12 new Areas.\rSelect one of them by highlighting it and\npressing the A Button.\rWhat would you like to know? {YESNO 0}</language>
+		<language name="English">Gdy wybierzesz Obszar, a potem\nwybierzesz Zamień, zobaczysz\f12 nowych Obszarów.\rWybierz jeden z nich, podświetlając\ngo i naciskając przycisk A.\rCo chciałbyś(-abyś) wiedzieć? {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When you select an Area, then select\nOrder, the Area type will not change,\fbut the location can now be changed.\rWhat would you like to know? {YESNO 0}</language>
+		<language name="English">Gdy wybierzesz Obszar, a potem\nwybierzesz Kolejność, typ Obszaru\fsię nie zmieni, ale lokalizację\fmożna teraz zmienić.\rCo chciałbyś(-abyś) wiedzieć? {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Different Areas have different Pokémon\nliving in them, so when you change\fAreas, you will see different Pokémon.\rPlease do try the different Areas!\nWhat would you like to know? {YESNO 0}</language>
+		<language name="English">W różnych Obszarach mieszkają różne\nPokémony, więc gdy zmienisz Obszary,\fzobaczysz inne Pokémony.\rSpróbuj wypróbować różne Obszary!\nCo chciałbyś(-abyś) wiedzieć? {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am sorry, but this can’t be used yet.\nWarden Baoba has a great plan for this\fmachine...or so he says. But even we\fdon’t know what it is. It’s a secret.</language>
+		<language name="English">Przykro mi, ale tego nie da się\njeszcze użyć. Strażnik Baoba ma\fwielki plan dla tej maszyny...a\ftak przynajmniej mówi. Ale nawet\fmy nie wiemy, o co chodzi. To\ftajemnica.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please enjoy the Area Customizer!</language>
+		<language name="English">Zapraszamy do korzystania z Area\nCustomizer!</language>
 	</row>
 	<row id="msg_0135_D47R0101_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} turned on\nthe Area Customizer!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0} włączył(a)\nArea Customizer!\r</language>
 	</row>
 	<row id="msg_0135_D47R0101_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is still under development.</language>
+		<language name="English">Wciąż jest w fazie rozwoju.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, I have been waiting for you!\nWhat do you think?\rThis is a brand-new Safari Zone.\nBy the way...\rI just had an idea.\nWould you like to take the Owner\fAptitude Test? {YESNO 0}</language>
+		<language name="English">Cześć, czekałem na ciebie!\nCo o tym myślisz?\rTo jest zupełnie nowa Safari Zone.\nSwoją drogą...\rWłaśnie wpadłem na pomysł.\nChciałbyś(-abyś) podejść do Testu\fPredyspozycji Właściciela? {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Right on!\nLet me explain how the test works.\fIt’s very easy.\rAll you have to do is to catch one\nGEODUDE at the Safari and show it to me.\rThey are in the grass closest to the\nentrance. It shouldn’t take long\fbefore you catch one.\rGood luck!</language>
+		<language name="English">Świetnie!\nPozwól, że wyjaśnię, jak działa\ftest. To bardzo proste.\rWystarczy, że złapiesz jednego\nGEODUDE w Safari i pokażesz mi go.\rSą w trawie najbliżej wejścia.\nZłapanie jednego nie powinno\fzająć długo.\rPowodzenia!</language>
 	</row>
 	<row id="msg_0135_D47R0101_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow, I never thought anyone\nwould decline!\rYou can become the Safari Zone Owner,\ndon’t you see?\rOwner...\nIt’s got a nice ring to it, doesn’t it?\rYou should try the test! {YESNO 0}</language>
+		<language name="English">Wow, nigdy nie myślałem, że ktoś\nodmówi!\rMożesz zostać Właścicielem Safari\nZone, czy tego nie widzisz?\rWłaściciel...\nNieźle to brzmi, prawda?\rPowinieneś/aś spróbować testu! {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, wonderful!\nYou’ve caught a GEODUDE!\fYou’ve passed the first test.\r..................\rHuh? Didn’t I tell you that there are\ntwo tests?\rThat’s right!\nBecoming an owner is not that easy.\rThe second test is...\nWell, I am still preparing for it.\rI will let you know once it’s ready.\nYou need to wait just a little.\fI will call you with the Pokégear.</language>
+		<language name="English">Och, wspaniale!\nZłapałeś/aś GEODUDE!\fZdałeś/aś pierwszy test.\r..................\rHę? Czy nie mówiłem ci, że są\ndwa testy?\rZgadza się!\nZostanie właścicielem nie jest\ftakie łatwe.\rDrugi test to...\nCóż, wciąż go przygotowuję.\rDam ci znać, gdy będzie gotowy.\nMusisz jeszcze trochę poczekać.\fZadzwonię do ciebie przez Pokégear.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Show me the GEODUDE once you’ve\ncaught one.\rThey are in the grass closest to the\nentrance. It shouldn’t take long.\rGood luck!</language>
+		<language name="English">Pokaż mi GEODUDE, gdy już go\nzłapiesz.\rSą w trawie najbliżej wejścia.\nNie powinno to zająć długo.\rPowodzenia!</language>
 	</row>
 	<row id="msg_0135_D47R0101_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ve been waiting for you!\nThe test is ready.\rThis time can you catch a SANDSHREW\nand show it to me?\rSounds easy, right? Not really!\nSANDSHREW will not appear with the\fcurrent Safari Zone setting.\rAnd that’s where this comes in handy!\r</language>
+		<language name="English">Czekałem na ciebie!\nTest jest gotowy.\rTym razem złap SANDSHREW\ni pokaż mi go, dobrze?\rBrzmi łatwo, prawda? Wcale nie!\nSANDSHREW nie pojawi się przy\fobecnym ustawieniu Safari Zone.\rI właśnie tutaj przydaje się to!\r</language>
 	</row>
 	<row id="msg_0135_D47R0101_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This sophisticated, high-tech machine\nlets you customize Safari Zone Areas.\fI call it the Area Customizer!\rYou want to know how it works,\ndon’t you?\fIt’s a...secret!\rWell, you shouldn’t have trouble\noperating it. Just talk to the staff\fnext to me!\r</language>
+		<language name="English">Ta wyrafinowana, zaawansowana\ntechnologicznie maszyna pozwala\fdostosowywać Obszary Safari Zone.\fNazywam ją Area Customizer!\rChcesz wiedzieć, jak działa,\nprawda?\fTo...tajemnica!\rCóż, nie powinieneś/aś mieć\nproblemu z jej obsługą. Po prostu\fporozmawiaj z pracownikiem obok\fmnie!\r</language>
 	</row>
 	<row id="msg_0135_D47R0101_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I almost forgot!\rI was in the middle of explaining\nthe second test, wasn’t I?\rYou will not see SANDSHREW\nwith the current Safari Zone Areas,\rso you have to use the Area Customizer\nto change them.\rSANDSHREW live in the desert!\nGood luck!</language>
+		<language name="English">Prawie zapomniałem!\rByłem w trakcie wyjaśniania\ndrugiego testu, prawda?\rNie zobaczysz SANDSHREW przy\nobecnych Obszarach Safari Zone,\rwięc musisz użyć Area Customizer,\nżeby je zmienić.\rSANDSHREW mieszkają na pustyni!\nPowodzenia!</language>
 	</row>
 	<row id="msg_0135_D47R0101_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You did it!\rYou caught a SANDSHREW!\nI knew you could do it.\rYou’ve passed the test!\nYou are now the Safari Zone Owner!\r</language>
+		<language name="English">Udało ci się!\rZłapałeś/aś SANDSHREW!\nWiedziałem, że dasz radę.\rZdałeś/aś test!\nTeraz jesteś Właścicielem Safari\fZone!\r</language>
 	</row>
 	<row id="msg_0135_D47R0101_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ve always wanted to see young people\nplaying at the safari!\rI thought I might get some new ideas.\nThat should help you complete your\fPokédex.\rThat’s what I have been thinking.\r</language>
+		<language name="English">Zawsze chciałem zobaczyć, jak młodzi\nludzie bawią się w safari!\rPomyślałem, że mogę zdobyć jakieś\nnowe pomysły. To powinno pomóc\fci ukończyć Pokédex.\rWłaśnie tak myślałem.\r</language>
 	</row>
 	<row id="msg_0135_D47R0101_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">By the way, though you are now the\nSafari Zone Owner, would you kindly\fcontinue to pay admission?\fWe have our reasons.\rDon’t be upset. I’ll keep thinking about\nhow I can create new fun ways to\fhelp you complete your Pokédex.\rGo have fun at the Safari Zone!</language>
+		<language name="English">Nawiasem mówiąc, chociaż jesteś\nteraz Właścicielem Safari Zone,\fczy mógłbyś nadal płacić za wstęp?\fMamy swoje powody.\rNie denerwuj się. Będę wciąż\nmyślał, jak stworzyć nowe, zabawne\fsposoby, żeby pomóc ci ukończyć\fPokédex.\rIdź i baw się dobrze w Safari Zone!</language>
 	</row>
 	<row id="msg_0135_D47R0101_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I will let you know as soon as I come up\nwith something new, using the Pokégear!</language>
+		<language name="English">Dam ci znać przez Pokégear, gdy\ntylko wymyślę coś nowego!</language>
 	</row>
 	<row id="msg_0135_D47R0101_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Show me the SANDSHREW once you’ve\ncaught one. SANDSHREW live in the\fdesert! Good luck!</language>
+		<language name="English">Pokaż mi SANDSHREW, gdy już go\nzłapiesz. SANDSHREW mieszkają na\fpustyni! Powodzenia!</language>
 	</row>
 	<row id="msg_0135_D47R0101_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Slow down.\rOnce the next test is ready, I will call\nyou using the Pokégear.\rGive me some time, OK?</language>
+		<language name="English">Zwolnij trochę.\rGdy kolejny test będzie gotowy,\nzadzwonię do ciebie przez Pokégear.\rDaj mi trochę czasu, dobrze?</language>
 	</row>
 	<row id="msg_0135_D47R0101_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, I have been waiting for you!\rI had an epiphany!\nA new attraction!\rI’ve decided to call it...\nObject Arrangement!\rThis is going to be fun!\nYou can place objects on the field as\fyou play at the Safari Zone!\r</language>
+		<language name="English">Cześć, czekałem na ciebie!\rMiałem olśnienie!\nNowa atrakcja!\rPostanowiłem nazwać ją...\nAranżacja Obiektów!\rBędzie super fajnie!\nMożesz umieszczać obiekty na polu,\fbawiąc się w Safari Zone!\r</language>
 	</row>
 	<row id="msg_0135_D47R0101_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Not only that, but the types of\nPokémon you see will change depending\fon the types of objects you place.\rIsn’t it amazing?\nI will call you using the Pokégear if\fsomething else comes up!\r</language>
+		<language name="English">Co więcej, rodzaje Pokémonów, które\nzobaczysz, zmienią się w zależności\fod rodzajów umieszczonych obiektów.\rCzy to nie niesamowite?\nZadzwonię do ciebie przez Pokégear,\fjeśli pojawi się coś jeszcze!\r</language>
 	</row>
 	<row id="msg_0135_D47R0101_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I will explain Object Arrangement.\nWould you like to know anything? {YESNO 0}</language>
+		<language name="English">Wyjaśnię Aranżację Obiektów.\nCzy chciałbyś(-abyś) coś wiedzieć? {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I will explain Object Arrangement.\nFeel free to ask me any questions.\r</language>
+		<language name="English">Wyjaśnię Aranżację Obiektów.\nŚmiało zadawaj mi dowolne pytania.\r</language>
 	</row>
 	<row id="msg_0135_D47R0101_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are many objects you can place\nanywhere as you walk around the Safari\fZone, except on stairs and grass where\fPokémon appear!\rYou also want to remember that you can\nplace up to 30 objects in an Area.\rWould you like to know anything\nelse? {YESNO 0}</language>
+		<language name="English">Jest wiele obiektów, które możesz\numieszczać wszędzie, chodząc po\fSafari Zone, poza schodami i trawą,\fw której pojawiają się Pokémony!\rPamiętaj też, że możesz umieścić\ndo 30 obiektów w jednym Obszarze.\rCzy chciałbyś(-abyś) wiedzieć\njeszcze coś? {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is easy to place objects. All you\nhave to do is make sure that the spot\fin front of you is clear.\rIf it’s empty, you can select\nan object.\rSome objects are large and may need a\nlarge space.\rWould you like to know anything\nelse? {YESNO 0}</language>
+		<language name="English">Umieszczanie obiektów jest łatwe.\nWystarczy upewnić się, że miejsce\fprzed tobą jest wolne.\rJeśli jest puste, możesz wybrać\nobiekt.\rNiektóre obiekty są duże i mogą\npotrzebować sporo miejsca.\rCzy chciałbyś(-abyś) wiedzieć\njeszcze coś? {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you want to remove an object, just\nwalk up to it and check it. The objects\fyou have placed will glow in the dark.\fIt should help you at night.\rWould you like to know anything\nelse? {YESNO 0}</language>
+		<language name="English">Jeśli chcesz usunąć obiekt, po\nprostu podejdź do niego i sprawdź\fgo. Umieszczone obiekty będą\fświecić w ciemności.\fPowinno to pomóc ci nocą.\rCzy chciałbyś(-abyś) wiedzieć\njeszcze coś? {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are many different objects.\nOnes that look like grass, like trees,\flike boulders, like water, and other\ftypes of objects...\rTry placing different objects. The\nnumber of objects placed in an Area\fis shown in the Area Customizer\fon the top screen.\rThere will be more objects to come,\nas I’ll keep adding more.\rWould you like to know anything\nelse? {YESNO 0}</language>
+		<language name="English">Jest wiele różnych obiektów.\nTakie, które wyglądają jak trawa,\fjak drzewa, jak głazy, jak woda,\fi inne rodzaje obiektów...\rSpróbuj umieścić różne obiekty.\nLiczba obiektów umieszczonych\fw Obszarze jest pokazana w Area\fCustomizer na górnym ekranie.\rBędzie coraz więcej obiektów, bo\nbędę ciągle dodawać nowe.\rCzy chciałbyś(-abyś) wiedzieć\njeszcze coś? {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The types of Pokémon you see will\nchange depending on the types\fof objects you place.\rThe Safari Zone is also changed\nat that point. Try placing different\ftypes of objects.\rWould you like to know anything\nelse? {YESNO 0}</language>
+		<language name="English">Rodzaje Pokémonów, które zobaczysz,\nzmienią się w zależności od rodzajów\fumieszczonych obiektów.\rSafari Zone również się wtedy\nzmienia. Spróbuj umieścić różne\frodzaje obiektów.\rCzy chciałbyś(-abyś) wiedzieć\njeszcze coś? {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Beware!\rOnce you’ve swapped Areas, the\nobjects you placed will all be removed.\rWould you like to know\nanything else? {YESNO 0}</language>
+		<language name="English">Uważaj!\rGdy zamienisz Obszary, wszystkie\numieszczone przez ciebie obiekty\fzostaną usunięte.\rCzy chciałbyś(-abyś) wiedzieć\njeszcze coś? {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I hope you enjoy it!\nGo, and have fun!</language>
+		<language name="English">Mam nadzieję, że ci się spodoba!\nIdź i baw się dobrze!</language>
 	</row>
 	<row id="msg_0135_D47R0101_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to {STRVAR_1 3, 0, 0}’s Safari Zone!\rFor just $500, you can play the\nSafari Game.\rYou can roam the wide-open Safari Zone\nand catch what you like.\fWould you like to play? {YESNO 0}</language>
+		<language name="English">Witaj w Safari Zone {STRVAR_1 3, 0, 0}!\rZa jedyne $500 możesz zagrać\nw Grę Safari.\rMożesz wędrować po rozległej Safari\nZone i łapać, co tylko chcesz.\fChcesz zagrać? {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’ll be ${STRVAR_1 52, 1, 0}, please!\r</language>
+		<language name="English">To będzie ${STRVAR_1 52, 1, 0}, proszę!\r</language>
 	</row>
 	<row id="msg_0135_D47R0101_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK.\nPlease come again!</language>
+		<language name="English">Dobrze.\nZapraszamy ponownie!</language>
 	</row>
 	<row id="msg_0135_D47R0101_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Here are your Safari Balls.\r</language>
+		<language name="English">Oto twoje Safari Balle.\r</language>
 	</row>
 	<row id="msg_0135_D47R0101_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received {STRVAR_1 51, 1, 0} Safari Balls.</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a) {STRVAR_1 51, 1, 0}\nSafari Balli.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We’ll call you when you run out of\nSafari Balls.\rWell, I’ll wish you the best of luck!\r</language>
+		<language name="English">Zawołamy cię, gdy skończą ci się\nSafari Balle.\rCóż, życzę ci powodzenia!\r</language>
 	</row>
 	<row id="msg_0135_D47R0101_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t have your friend’s\nSafari Zone.\fSorry, but you cannot enter here.\rPlease talk to the attendant next\nto me.</language>
+		<language name="English">Nie masz Safari Zone swojego\nznajomego.\fPrzykro mi, ale nie możesz tu wejść.\rProszę porozmawiaj z pracownikiem\nobok mnie.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You still have time left. Are you sure\nyou want to leave the Safari Zone?</language>
+		<language name="English">Wciąż masz czas. Na pewno chcesz\nopuścić Safari Zone?</language>
 	</row>
 	<row id="msg_0135_D47R0101_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Certainly.\rPlease return any Safari Balls\nyou may have remaining.\r</language>
+		<language name="English">Oczywiście.\rProszę zwróć wszystkie pozostałe\nSafari Balle.\r</language>
 	</row>
 	<row id="msg_0135_D47R0101_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you have fun?\nPlease come again!</language>
+		<language name="English">Dobrze się bawiłeś/aś?\nZapraszamy ponownie!</language>
 	</row>
 	<row id="msg_0135_D47R0101_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am sorry.\nYou don’t have enough money.\rI hope you drop by again.</language>
+		<language name="English">Przykro mi.\nNie masz wystarczająco pieniędzy.\rMam nadzieję, że wpadniesz jeszcze.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Owner!\rThis is the Safari Zone Link\nreception counter.\rYou can exchange Safari Zones here.\rWould you like to link with your\nfriends to exchange Safari Zones? {YESNO 0}</language>
+		<language name="English">Właścicielu!\rTo jest recepcja Safari Zone Link.\rMożesz tutaj wymieniać Safari Zone.\rChcesz połączyć się ze znajomymi,\nżeby wymienić Safari Zone? {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is the Safari Zone Link\nreception counter.\rYou can exchange Safari Zones here.\rWould you like to link with your\nfriends to exchange Safari Zones? {YESNO 0}</language>
+		<language name="English">To jest recepcja Safari Zone Link.\rMożesz tutaj wymieniać Safari Zone.\rChcesz połączyć się ze znajomymi,\nżeby wymienić Safari Zone? {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to save the game?</language>
+		<language name="English">Czy chciałbyś(-abyś) zapisać grę?</language>
 	</row>
 	<row id="msg_0135_D47R0101_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is already a saved file.\nIs it OK to overwrite it?</language>
+		<language name="English">Jest już zapisany plik.\nCzy można go nadpisać?</language>
 	</row>
 	<row id="msg_0135_D47R0101_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving...\nDon’t turn off the power.</language>
+		<language name="English">Zapisywanie...\nNie wyłączaj zasilania.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} saved the game.</language>
+		<language name="English">{STRVAR_1 3, 0, 0} zapisał(a) grę.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please decide which of you two\nwill become the group leader.\rThe other player must then choose\n“JOIN GROUP.” {YESNO 0}</language>
+		<language name="English">Proszę zdecydujcie, które z was\ndwojga zostanie liderem grupy.\rDrugi gracz musi wtedy wybrać\n„DOŁĄCZ DO GRUPY”. {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Choose the player to exchange\nSafari Zones with. {YESNO 0}</language>
+		<language name="English">Wybierz gracza, z którym chcesz\nwymienić Safari Zone. {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Awaiting {STRVAR_1 3, 0, 0}’s response...</language>
+		<language name="English">Oczekiwanie na odpowiedź\n{STRVAR_1 3, 0, 0}...</language>
 	</row>
 	<row id="msg_0135_D47R0101_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} sent back an “OK”!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} odpowiedział(a)\n„OK”!</language>
 	</row>
 	<row id="msg_0135_D47R0101_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} replied, “No”...</language>
+		<language name="English">{STRVAR_1 3, 0, 0} odpowiedział(a):\n„Nie”...</language>
 	</row>
 	<row id="msg_0135_D47R0101_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you want to leave the group?</language>
+		<language name="English">Czy chcesz opuścić grupę?</language>
 	</row>
 	<row id="msg_0135_D47R0101_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have left the group.</language>
+		<language name="English">Opuściłeś/aś grupę.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Awaiting contact from your friend.</language>
+		<language name="English">Oczekiwanie na kontakt od znajomego.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} has responded!\rWould you like to exchange Safari\nZones with {STRVAR_1 3, 0, 0}? {YESNO 0}</language>
+		<language name="English">{STRVAR_1 3, 0, 0} odpowiedział(a)!\rCzy chciałbyś(-abyś) wymienić Safari\nZone z {STRVAR_1 3, 0, 0}? {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An “OK” was sent\nto {STRVAR_1 3, 0, 0}.</language>
+		<language name="English">Wysłano „OK”\ndo {STRVAR_1 3, 0, 0}.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are about to receive a Safari Zone.\nPlease wait.</language>
+		<language name="English">Zaraz otrzymasz Safari Zone.\nProszę czekaj.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have received\n{STRVAR_1 3, 0, 0}’s Safari Zone!\r</language>
+		<language name="English">Otrzymałeś/aś Safari Zone\n{STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0135_D47R0101_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Safari Zone Link is finished!\rPlease come to the reception counter\nnext to you.</language>
+		<language name="English">Safari Zone Link zostało zakończone!\rProszę podejdź do recepcji obok\nciebie.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m sorry but this cannot be used yet.</language>
+		<language name="English">Przykro mi, ale tego nie da się\njeszcze użyć.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please come again.</language>
+		<language name="English">Zapraszamy ponownie.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DS Wireless Communications will be\nlaunched. {YESNO 0}</language>
+		<language name="English">DS Wireless Communications zostanie\nuruchomione. {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Communication error.\rPlease repeat the registration\nprocess from the beginning.</language>
+		<language name="English">Błąd komunikacji.\rProszę powtórz proces rejestracji\nod początku.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving...\nDon’t turn off the power.</language>
+		<language name="English">Zapisywanie...\nNie wyłączaj zasilania.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} saved the game.</language>
+		<language name="English">{STRVAR_1 3, 0, 0} zapisał(a) grę.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00090" index="90">
 		<attribute name="window_context_name">garbage</attribute>
@@ -367,26 +367,26 @@
 	</row>
 	<row id="msg_0135_D47R0101_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Safari Zone Areas have\nbeen swapped.</language>
+		<language name="English">Obszary Safari Zone zostały\nzamienione.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is the reception for the\nSafari Zone Link.\r...Or should I say...is going to be.\rWe’re still not ready.\nPlease come back later.</language>
+		<language name="English">To recepcja Safari Zone Link.\r...A raczej powinienem powiedzieć...\nbędzie recepcją.\rWciąż nie jesteśmy gotowi.\nProszę wróć później.</language>
 	</row>
 	<row id="msg_0135_D47R0101_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Owner!\nThis is the Safari Zone Link reception.\rWould you like to know about the\nSafari Zone Link? {YESNO 0}</language>
+		<language name="English">Właścicielu!\nTo jest recepcja Safari Zone Link.\rCzy chciałbyś(-abyś) dowiedzieć się\no Safari Zone Link? {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is the Safari Zone Link reception.\rWould you like to know about\nthe Safari Zone Link? {YESNO 0}</language>
+		<language name="English">To jest recepcja Safari Zone Link.\rCzy chciałbyś(-abyś) dowiedzieć się\no Safari Zone Link? {YESNO 0}</language>
 	</row>
 	<row id="msg_0135_D47R0101_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can exchange Safari Zones with your\nfriends using the Safari Zone Link.\rYou will be able to play in their\nSafari Zone!\rAreas and Pokémon will be different.\nBeware!\rThe Safari Zone you receive will \ndisappear after 24 hours or if you\freceive another Safari Zone.\rTo your right is the reception for the\nSafari Zone Link.\rTo your left is the reception to play in\nyour friend’s Safari Zone.\rEnjoy the Safari Zone Link!</language>
+		<language name="English">Możesz wymieniać Safari Zone ze\nznajomymi za pomocą Safari Zone Link.\rBędziesz mógł/mogła zagrać w ich\nSafari Zone!\rObszary i Pokémony będą inne.\nUważaj!\rSafari Zone, którą otrzymasz,\nzniknie po 24 godzinach lub jeśli\fotrzymasz kolejną Safari Zone.\rPo twojej prawej stronie jest\nrecepcja Safari Zone Link.\rPo twojej lewej stronie jest recepcja,\nżeby zagrać w Safari Zone znajomego.\rMiłej zabawy z Safari Zone Link!</language>
 	</row>
 	<row id="msg_0135_D47R0101_00096" index="96">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK! Enjoy the Safari Zone Link!</language>
+		<language name="English">Dobrze! Miłej zabawy z Safari Zone\nLink!</language>
 	</row>
 </body>
