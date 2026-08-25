@@ -92,11 +92,11 @@
 	</row>
 	<row id="msg_0384_R34_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m on patrol for suspicious individuals.</language>
+		<language name="English">Patroluję w poszukiwaniu\npodejrzanych osób.</language>
 	</row>
 	<row id="msg_0384_R34_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Irene: Who are you?!\r</language>
+		<language name="English">Irene: Kim ty jesteś?!\r</language>
 	</row>
 	<row id="msg_0384_R34_00020" index="20">
 		<attribute name="window_context_name">garbage</attribute>
@@ -105,19 +105,19 @@
 	</row>
 	<row id="msg_0384_R34_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Irene: I’ll tell my sister about you!\r</language>
+		<language name="English">Irene: Opowiem o tobie mojej\nsiostrze!\r</language>
 	</row>
 	<row id="msg_0384_R34_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Irene: I’ll tell my sister about you!</language>
+		<language name="English">Irene: Opowiem o tobie mojej\nsiostrze!</language>
 	</row>
 	<row id="msg_0384_R34_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Irene: How did you find this place?\fThis is our hideout!</language>
+		<language name="English">Irene: Jak znalazłeś/aś to miejsce?\fTo nasza kryjówka!</language>
 	</row>
 	<row id="msg_0384_R34_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jenn: What the...?\nWhat are you doing?\r</language>
+		<language name="English">Jenn: Co do...?\nCo ty wyprawiasz?\r</language>
 	</row>
 	<row id="msg_0384_R34_00025" index="25">
 		<attribute name="window_context_name">garbage</attribute>
@@ -126,15 +126,15 @@
 	</row>
 	<row id="msg_0384_R34_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jenn: Better not laugh yet.\nMy sister is really strong!</language>
+		<language name="English">Jenn: Lepiej się jeszcze nie śmiej.\nMoja siostra jest naprawdę silna!</language>
 	</row>
 	<row id="msg_0384_R34_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jenn: You and us... We might as well\nbecome friends!</language>
+		<language name="English">Jenn: Ty i my... Równie dobrze\nmożemy zostać przyjaciółmi!</language>
 	</row>
 	<row id="msg_0384_R34_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kate: I must pay you back for taking\ncare of my sisters!\r</language>
+		<language name="English">Kate: Muszę ci się odwdzięczyć za\nzajęcie się moimi siostrami!\r</language>
 	</row>
 	<row id="msg_0384_R34_00029" index="29">
 		<attribute name="window_context_name">garbage</attribute>
@@ -143,7 +143,7 @@
 	</row>
 	<row id="msg_0384_R34_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kate: You are so strong.\nWe lost with no excuses...\rHere, take this!\r</language>
+		<language name="English">Kate: Jesteś taki/a silny/a.\nPrzegrałyśmy bez żadnych wymówek...\rProszę, weź to!\r</language>
 	</row>
 	<row id="msg_0384_R34_00031" index="31">
 		<attribute name="window_context_name">garbage</attribute>
@@ -152,74 +152,74 @@
 	</row>
 	<row id="msg_0384_R34_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kate: I’m sorry we jumped you.\rWe never expected anyone to find \nus here.\fYou sure startled us.</language>
+		<language name="English">Kate: Przepraszamy, że cię\nzaatakowałyśmy.\rNigdy nie spodziewałyśmy się, że\nktoś nas tu znajdzie.\fNa pewno nas przestraszyłeś/aś.</language>
 	</row>
 	<row id="msg_0384_R34_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rt. 34\nSouth to Azalea Town</language>
+		<language name="English">Trasa 34\nNa południe do Azalea Town</language>
 	</row>
 	<row id="msg_0384_R34_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer Tips\rNorth to Goldenrod City\nThe Radio Tower at Goldenrod is giving\faway Radio Cards.\rAnswer their questions and receive a\nRadio Card!</language>
+		<language name="English">Porady dla Trenera\rNa północ do Goldenrod City\nWieża Radiowa w Goldenrod rozdaje\fRadio Cards.\rOdpowiedz na ich pytania i otrzymaj\nRadio Card!</language>
 	</row>
 	<row id="msg_0384_R34_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Day Care\nLet us raise your Pokémon for you!</language>
+		<language name="English">Żłobek Pokémon\nPozwól nam wychować twojego\fPokémona!</language>
 	</row>
 	<row id="msg_0384_R34_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Grandpa!\r</language>
+		<language name="English">Lyra: Dziadku!\r</language>
 	</row>
 	<row id="msg_0384_R34_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Good work, Grandpa!\nThe Pokémon you raised for me has\fbeen as healthy as can be!\rYou look fit, too!\r</language>
+		<language name="English">Lyra: Świetna robota, dziadku!\nPokémon, którego dla mnie wychowałeś,\fjest w jak najlepszym zdrowiu!\rTy też wyglądasz na w formie!\r</language>
 	</row>
 	<row id="msg_0384_R34_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Hi, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Lyra: Cześć, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0384_R34_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let me introduce you.\nThis is {STRVAR_1 3, 0, 0}. He’s a Trainer.\rHe seems to be getting better at\nraising Pokémon.\rWell, not as good as you, Grandpa,\nof course!\r</language>
+		<language name="English">Pozwól, że cię przedstawię.\nTo {STRVAR_1 3, 0, 0}. To Trener.\rWygląda na to, że coraz lepiej\nwychowuje Pokémony.\rCóż, oczywiście nie tak dobrze\njak ty, dziadku!\r</language>
 	</row>
 	<row id="msg_0384_R34_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Follow me, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Chodź za mną, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0384_R34_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Grandpa!\r</language>
+		<language name="English">Ethan: Dziadku!\r</language>
 	</row>
 	<row id="msg_0384_R34_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Good work, Grandpa!\nThe Pokémon you raised for me has\fbeen as healthy as can be!\rYou look fit, too!\r</language>
+		<language name="English">Ethan: Świetna robota, dziadku!\nPokémon, którego dla mnie wychowałeś,\fjest w jak najlepszym zdrowiu!\rTy też wyglądasz na w formie!\r</language>
 	</row>
 	<row id="msg_0384_R34_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Hey, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Ethan: Hej, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0384_R34_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let me introduce you.\nThis is {STRVAR_1 3, 0, 0}. She’s a Trainer.\rShe seems to be getting better at\nraising Pokémon.\rWell, not as good as you, Grandpa,\nof course!\r</language>
+		<language name="English">Pozwól, że cię przedstawię.\nTo {STRVAR_1 3, 0, 0}. To Trenerka.\rWygląda na to, że coraz lepiej\nwychowuje Pokémony.\rCóż, oczywiście nie tak dobrze\njak ty, dziadku!\r</language>
 	</row>
 	<row id="msg_0384_R34_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Follow me, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Chodź za mną, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0384_R34_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I have an idea!\nI’ll give you our numbers.\rThen you can check on the Pokémon\nwe raise for you.\r</language>
+		<language name="English">Mam pomysł!\nDam ci nasze numery.\rWtedy będziesz mógł/mogła sprawdzać\nPokémona, którego dla ciebie\fwychowujemy.\r</language>
 	</row>
 	<row id="msg_0384_R34_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered the\nDay-Care Man in the Pokégear!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} zarejestrował(a)\nOpiekuna ze Żłobka w Pokégearze!</language>
 	</row>
 	<row id="msg_0384_R34_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered the\nDay-Care Lady in the Pokégear!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} zarejestrował(a)\nOpiekunkę ze Żłobka w Pokégearze!</language>
 	</row>
 	<row id="msg_0384_R34_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Call us from time to time when you\ngive us your Pokémon to raise.\rI’ll be happy to have a use for this\nPokégear my grandchild gave me.\r</language>
+		<language name="English">Zadzwoń do nas od czasu do czasu,\ngdy zostawisz nam Pokémona do\fwychowania.\rBędę szczęśliwy, że mogę wreszcie\nużyć tego Pokégearu, który dał mi\fmój wnuk/moja wnuczka.\r</language>
 	</row>
 </body>
