@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0386_R34R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, honey. You’re making a Pokédex?\rYou must be battling all kinds\nof Pokémon.\rTry using this TM for a change.</language>
+		<language name="English">Och, kochanie. Robisz Pokédex?\rMusisz walczyć ze wszystkimi\nrodzajami Pokémonów.\rSpróbuj dla odmiany użyć tej TM.</language>
 	</row>
 	<row id="msg_0386_R34R0201_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>
@@ -11,7 +11,7 @@
 	</row>
 	<row id="msg_0386_R34R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s Taunt.\rUse it and the target Pokémon\ncan only use moves that do damage\fto your Pokémon for a while.</language>
+		<language name="English">To Drwina.\rUżyj jej, a atakowany Pokémon\nbędzie mógł przez chwilę używać\ftylko ataków, które zadają\fobrażenia twojemu Pokémonowi.</language>
 	</row>
 	<row id="msg_0386_R34R0201_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -19,6 +19,6 @@
 	</row>
 	<row id="msg_0386_R34R0201_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you see the shrine that pays homage\nto the protector?\rThis protector watches over the forest\nfrom across time.\rI think that it must be a\nGrass-type Pokémon.</language>
+		<language name="English">Widziałeś/aś świątynię, która oddaje\ncześć strażnikowi?\rTen strażnik obserwuje las na\nprzestrzeni czasu.\rMyślę, że to musi być Pokémon\ntypu Trawiastego.</language>
 	</row>
 </body>
