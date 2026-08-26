@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0405_R45_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you heard of a place called\nthe Battle Frontier?\rIt’s a huge place with many battle\nfacilities, and it’s located west of\fOlivine City!\rLet’s see...\rIf you manage to win all the way up\nthrough the Pokémon League,\fyou might want to try it.</language>
+		<language name="English">Słyszałeś/aś o miejscu zwanym\nBattle Frontier?\rTo ogromne miejsce z wieloma\nobiektami do walki, znajdujące się\fna zachód od Olivine City!\rZobaczmy...\rJeśli uda ci się wygrać całą drogę\nprzez Ligę Pokémon, może zechcesz\ftego spróbować.</language>
 	</row>
 	<row id="msg_0405_R45_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rt. 45\nMountain Road ahead</language>
+		<language name="English">Trasa 45\nGórska Droga przed tobą</language>
 	</row>
 	<row id="msg_0405_R45_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
