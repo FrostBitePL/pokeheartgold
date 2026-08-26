@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0402_R43R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I heard that you can find a\nRed Scale occasionally.\rSpeaking of which, I know a person\nwho’d appreciate a Red Scale.\fWho?\rI can’t remember...</language>
+		<language name="English">Słyszałem, że czasami można znaleźć\nRed Scale.\rSkoro o tym mowa, znam osobę,\nktóra doceniłaby Red Scale.\fKto?\rNie pamiętam...</language>
 	</row>
 	<row id="msg_0402_R43R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I heard that you can find a\nRed Scale occasionally.\rSpeaking of which, I know a person\nwho’d appreciate a Red Scale.\fWho?\rI think he’s called Mr. something\nor other...\rWhat was his name...?</language>
+		<language name="English">Słyszałem, że czasami można znaleźć\nRed Scale.\rSkoro o tym mowa, znam osobę,\nktóra doceniłaby Red Scale.\fKto?\rChyba nazywa się Pan Ktoś-tam...\rJak on się nazywał...?</language>
 	</row>
 </body>
