@@ -92,14 +92,14 @@
 	</row>
 	<row id="msg_0401_R43_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rt. 43\nNorth to Lake of Rage</language>
+		<language name="English">Trasa 43\nNa północ do Lake of Rage</language>
 	</row>
 	<row id="msg_0401_R43_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer Tips\rAll Pokémon have pros and cons\ndepending on their types.\rIf their types differ, even a higher-\nlevel Pokémon may lose in battle.\rLearn which types are strong or\nweak against your Pokémon’s type.</language>
+		<language name="English">Porady dla Trenera\rWszystkie Pokémony mają zalety\ni wady zależne od swojego typu.\rJeśli typy się różnią, nawet\nPokémon na wyższym poziomie może\fprzegrać walkę.\rDowiedz się, które typy są silne\nlub słabe wobec typu twojego\fPokémona.</language>
 	</row>
 	<row id="msg_0401_R43_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">North to Lake of Rage\nSouth to Mahogany Town</language>
+		<language name="English">Na północ do Lake of Rage\nNa południe do Mahogany Town</language>
 	</row>
 </body>
