@@ -1060,7 +1060,7 @@
 	</row>
 	<row id="msg_0221_00259" index="259">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Przedmiot do trzymania przez\nFARFETCH'D. To bardzo długi i sztywny\nporucznik pora, który zwiększa szansę na trafienie krytyczne.</language>
+		<language name="English">Przedmiot do trzymania przez\nFARFETCH’D. To bardzo długi i sztywny\nporucznik pora, który zwiększa szansę na trafienie krytyczne.</language>
 	</row>
 	<row id="msg_0221_00260" index="260">
 		<attribute name="window_context_name">used</attribute>
@@ -1913,7 +1913,7 @@
 	</row>
 	<row id="msg_0221_00472" index="472">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Karta do zapisywania punktów\nprogramu Buena's Password.</language>
+		<language name="English">Karta do zapisywania punktów\nprogramu Buena’s Password.</language>
 	</row>
 	<row id="msg_0221_00473" index="473">
 		<attribute name="window_context_name">used</attribute>
