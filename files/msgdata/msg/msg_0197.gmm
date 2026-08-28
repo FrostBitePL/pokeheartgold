@@ -203,15 +203,15 @@
 	</row>
 	<row id="msg_0197_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nuśpił/a {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nuśpił/a {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nuśpił/a dziki {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nuśpił/a dziki {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nuśpił/a {STRVAR_1 1, 2, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nuśpił/a {STRVAR_1 1, 2, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
@@ -223,11 +223,11 @@
 	</row>
 	<row id="msg_0197_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0} przeciwnika\nuśpił/a {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0} przeciwnika\nuśpił/a {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0} przeciwnika\nuśpił/a {STRVAR_1 1, 2, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0} przeciwnika\nuśpił/a {STRVAR_1 1, 2, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
@@ -267,15 +267,15 @@
 	</row>
 	<row id="msg_0197_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nzatruł/a {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nzatruł/a {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nzatruł/a dziki {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nzatruł/a dziki {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nzatruł/a {STRVAR_1 1, 2, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nzatruł/a {STRVAR_1 1, 2, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
@@ -287,11 +287,11 @@
 	</row>
 	<row id="msg_0197_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika zatruł/a\n{STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika zatruł/a\n{STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika zatruł/a\n{STRVAR_1 1, 2, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika zatruł/a\n{STRVAR_1 1, 2, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
@@ -355,15 +355,15 @@
 	</row>
 	<row id="msg_0197_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\npoparzył/a {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\npoparzył/a {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\npoparzył/a dziki {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\npoparzył/a dziki {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\npoparzył/a {STRVAR_1 1, 2, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\npoparzył/a {STRVAR_1 1, 2, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
@@ -375,11 +375,11 @@
 	</row>
 	<row id="msg_0197_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika poparzył/a\n{STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika poparzył/a\n{STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika poparzył/a\n{STRVAR_1 1, 2, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika poparzył/a\n{STRVAR_1 1, 2, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
@@ -419,15 +419,15 @@
 	</row>
 	<row id="msg_0197_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nzamroził/a {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nzamroził/a {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00105" index="105">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nzamroził/a dziki {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nzamroził/a dziki {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nzamroził/a {STRVAR_1 1, 2, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nzamroził/a {STRVAR_1 1, 2, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00107" index="107">
 		<attribute name="window_context_name">used</attribute>
@@ -439,11 +439,11 @@
 	</row>
 	<row id="msg_0197_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika zamroził/a\n{STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika zamroził/a\n{STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika zamroził/a\n{STRVAR_1 1, 2, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika zamroził/a\n{STRVAR_1 1, 2, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
@@ -495,15 +495,15 @@
 	</row>
 	<row id="msg_0197_00123" index="123">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nsparaliżował/a {STRVAR_1 1, 2, 0}!\fMoże nie być w stanie się ruszyć!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nsparaliżował/a {STRVAR_1 1, 2, 0}!\fMoże nie być w stanie się ruszyć!</language>
 	</row>
 	<row id="msg_0197_00124" index="124">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nsparaliżował/a dziki {STRVAR_1 1, 2, 0}!\fMoże nie być w stanie się ruszyć!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nsparaliżował/a dziki {STRVAR_1 1, 2, 0}!\fMoże nie być w stanie się ruszyć!</language>
 	</row>
 	<row id="msg_0197_00125" index="125">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nsparaliżował/a {STRVAR_1 1, 2, 0} przeciwnika!\fMoże nie być w stanie się ruszyć!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nsparaliżował/a {STRVAR_1 1, 2, 0} przeciwnika!\fMoże nie być w stanie się ruszyć!</language>
 	</row>
 	<row id="msg_0197_00126" index="126">
 		<attribute name="window_context_name">used</attribute>
@@ -515,11 +515,11 @@
 	</row>
 	<row id="msg_0197_00128" index="128">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika sparaliżował/a\n{STRVAR_1 1, 2, 0}!\fMoże nie być w stanie się ruszyć!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika sparaliżował/a\n{STRVAR_1 1, 2, 0}!\fMoże nie być w stanie się ruszyć!</language>
 	</row>
 	<row id="msg_0197_00129" index="129">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika sparaliżował/a\n{STRVAR_1 1, 2, 0} przeciwnika!\fMoże nie być w stanie się ruszyć!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika sparaliżował/a\n{STRVAR_1 1, 2, 0} przeciwnika!\fMoże nie być w stanie się ruszyć!</language>
 	</row>
 	<row id="msg_0197_00130" index="130">
 		<attribute name="window_context_name">used</attribute>
@@ -571,7 +571,7 @@
 	</row>
 	<row id="msg_0197_00142" index="142">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 13, 1, 0} gracza {STRVAR_1 1, 0, 0}\nnie może się już podnieść!</language>
+		<language name="English">{STRVAR_1 13, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nnie może się już podnieść!</language>
 	</row>
 	<row id="msg_0197_00143" index="143">
 		<attribute name="window_context_name">used</attribute>
@@ -579,11 +579,11 @@
 	</row>
 	<row id="msg_0197_00144" index="144">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 13, 1, 0} gracza {STRVAR_1 1, 0, 0} przeciwnika\nnie może się już podnieść!</language>
+		<language name="English">{STRVAR_1 13, 1, 0} Pokémona {STRVAR_1 1, 0, 0} przeciwnika\nnie może się już podnieść!</language>
 	</row>
 	<row id="msg_0197_00145" index="145">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 13, 1, 0} gracza {STRVAR_1 1, 0, 0}\nnie może się już obniżyć!</language>
+		<language name="English">{STRVAR_1 13, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nnie może się już obniżyć!</language>
 	</row>
 	<row id="msg_0197_00146" index="146">
 		<attribute name="window_context_name">used</attribute>
@@ -591,7 +591,7 @@
 	</row>
 	<row id="msg_0197_00147" index="147">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 13, 1, 0} gracza {STRVAR_1 1, 0, 0} przeciwnika\nnie może się już obniżyć!</language>
+		<language name="English">{STRVAR_1 13, 1, 0} Pokémona {STRVAR_1 1, 0, 0} przeciwnika\nnie może się już obniżyć!</language>
 	</row>
 	<row id="msg_0197_00148" index="148">
 		<attribute name="window_context_name">used</attribute>
@@ -751,7 +751,7 @@
 	</row>
 	<row id="msg_0197_00187" index="187">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">HP gracza {STRVAR_1 1, 0, 0}\njest pełne!</language>
+		<language name="English">HP Pokémona {STRVAR_1 1, 0, 0}\njest pełne!</language>
 	</row>
 	<row id="msg_0197_00188" index="188">
 		<attribute name="window_context_name">used</attribute>
@@ -759,7 +759,7 @@
 	</row>
 	<row id="msg_0197_00189" index="189">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">HP gracza {STRVAR_1 1, 0, 0} przeciwnika\njest pełne!</language>
+		<language name="English">HP Pokémona {STRVAR_1 1, 0, 0} przeciwnika\njest pełne!</language>
 	</row>
 	<row id="msg_0197_00190" index="190">
 		<attribute name="window_context_name">used</attribute>
@@ -1187,7 +1187,7 @@
 	</row>
 	<row id="msg_0197_00296" index="296">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zdrowie gracza {STRVAR_1 1, 0, 0}\njest wysysane przez Pijawcze Ziarno!</language>
+		<language name="English">Zdrowie Pokémona {STRVAR_1 1, 0, 0}\njest wysysane przez Pijawcze Ziarno!</language>
 	</row>
 	<row id="msg_0197_00297" index="297">
 		<attribute name="window_context_name">used</attribute>
@@ -1195,7 +1195,7 @@
 	</row>
 	<row id="msg_0197_00298" index="298">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zdrowie gracza {STRVAR_1 1, 0, 0} przeciwnika\njest wysysane przez Pijawcze Ziarno!</language>
+		<language name="English">Zdrowie Pokémona {STRVAR_1 1, 0, 0} przeciwnika\njest wysysane przez Pijawcze Ziarno!</language>
 	</row>
 	<row id="msg_0197_00299" index="299">
 		<attribute name="window_context_name">used</attribute>
@@ -1431,7 +1431,7 @@
 	</row>
 	<row id="msg_0197_00357" index="357">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Substytut gracza\n{STRVAR_1 1, 0, 0} zniknął!\r</language>
+		<language name="English">Substytut Pokémona\n{STRVAR_1 1, 0, 0} zniknął!\r</language>
 	</row>
 	<row id="msg_0197_00358" index="358">
 		<attribute name="window_context_name">used</attribute>
@@ -1439,7 +1439,7 @@
 	</row>
 	<row id="msg_0197_00359" index="359">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Substytut gracza\n{STRVAR_1 1, 0, 0} przeciwnika zniknął!\r</language>
+		<language name="English">Substytut Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika zniknął!\r</language>
 	</row>
 	<row id="msg_0197_00360" index="360">
 		<attribute name="window_context_name">used</attribute>
@@ -1455,7 +1455,7 @@
 	</row>
 	<row id="msg_0197_00363" index="363">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Furia gracza {STRVAR_1 1, 0, 0}\nnarasta!</language>
+		<language name="English">Furia Pokémona {STRVAR_1 1, 0, 0}\nnarasta!</language>
 	</row>
 	<row id="msg_0197_00364" index="364">
 		<attribute name="window_context_name">used</attribute>
@@ -1463,11 +1463,11 @@
 	</row>
 	<row id="msg_0197_00365" index="365">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Furia gracza {STRVAR_1 1, 0, 0} przeciwnika\nnarasta!</language>
+		<language name="English">Furia Pokémona {STRVAR_1 1, 0, 0} przeciwnika\nnarasta!</language>
 	</row>
 	<row id="msg_0197_00366" index="366">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 6, 1, 0} gracza\n{STRVAR_1 1, 0, 0} został zablokowany!</language>
+		<language name="English">{STRVAR_1 6, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} został zablokowany!</language>
 	</row>
 	<row id="msg_0197_00367" index="367">
 		<attribute name="window_context_name">used</attribute>
@@ -1475,7 +1475,7 @@
 	</row>
 	<row id="msg_0197_00368" index="368">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 6, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika został zablokowany!</language>
+		<language name="English">{STRVAR_1 6, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika został zablokowany!</language>
 	</row>
 	<row id="msg_0197_00369" index="369">
 		<attribute name="window_context_name">used</attribute>
@@ -1503,7 +1503,7 @@
 	</row>
 	<row id="msg_0197_00375" index="375">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bis gracza {STRVAR_1 1, 0, 0}\nsię skończył!</language>
+		<language name="English">Bis Pokémona {STRVAR_1 1, 0, 0}\nsię skończył!</language>
 	</row>
 	<row id="msg_0197_00376" index="376">
 		<attribute name="window_context_name">used</attribute>
@@ -1511,7 +1511,7 @@
 	</row>
 	<row id="msg_0197_00377" index="377">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bis gracza {STRVAR_1 1, 0, 0} przeciwnika\nsię skończył!</language>
+		<language name="English">Bis Pokémona {STRVAR_1 1, 0, 0} przeciwnika\nsię skończył!</language>
 	</row>
 	<row id="msg_0197_00378" index="378">
 		<attribute name="window_context_name">used</attribute>
@@ -1595,7 +1595,7 @@
 	</row>
 	<row id="msg_0197_00398" index="398">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To obniżyło PP ruchu {STRVAR_1 6, 1, 0}\ngracza {STRVAR_1 1, 0, 0} o {STRVAR_1 50, 2, 0}!</language>
+		<language name="English">To obniżyło PP ruchu {STRVAR_1 6, 1, 0}\nPokémona {STRVAR_1 1, 0, 0} o {STRVAR_1 50, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00399" index="399">
 		<attribute name="window_context_name">used</attribute>
@@ -1603,11 +1603,11 @@
 	</row>
 	<row id="msg_0197_00400" index="400">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To obniżyło PP ruchu {STRVAR_1 6, 1, 0} gracza {STRVAR_1 1, 0, 0} przeciwnika o {STRVAR_1 50, 2, 0}!</language>
+		<language name="English">To obniżyło PP ruchu {STRVAR_1 6, 1, 0} Pokémona {STRVAR_1 1, 0, 0} przeciwnika o {STRVAR_1 50, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00401" index="401">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} ukradł/a\n{STRVAR_1 8, 2, 0} gracza {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} ukradł/a\n{STRVAR_1 8, 2, 0} Pokémona {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00402" index="402">
 		<attribute name="window_context_name">used</attribute>
@@ -1615,11 +1615,11 @@
 	</row>
 	<row id="msg_0197_00403" index="403">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} ukradł/a {STRVAR_1 8, 2, 0} gracza {STRVAR_1 1, 1, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} ukradł/a {STRVAR_1 8, 2, 0} Pokémona {STRVAR_1 1, 1, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00404" index="404">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dziki {STRVAR_1 1, 0, 0} ukradł/a\n{STRVAR_1 8, 2, 0} gracza {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">Dziki {STRVAR_1 1, 0, 0} ukradł/a\n{STRVAR_1 8, 2, 0} Pokémona {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00405" index="405">
 		<attribute name="window_context_name">used</attribute>
@@ -1627,11 +1627,11 @@
 	</row>
 	<row id="msg_0197_00406" index="406">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} przeciwnika ukradł/a\n{STRVAR_1 8, 2, 0} gracza {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} przeciwnika ukradł/a\n{STRVAR_1 8, 2, 0} Pokémona {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00407" index="407">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} przeciwnika ukradł/a\n{STRVAR_1 8, 2, 0} gracza {STRVAR_1 1, 1, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} przeciwnika ukradł/a\n{STRVAR_1 8, 2, 0} Pokémona {STRVAR_1 1, 1, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00408" index="408">
 		<attribute name="window_context_name">used</attribute>
@@ -1759,7 +1759,7 @@
 	</row>
 	<row id="msg_0197_00439" index="439">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Licznik zagłady gracza {STRVAR_1 1, 0, 0}\nspadł do {STRVAR_1 50, 1, 0}!</language>
+		<language name="English">Licznik zagłady Pokémona {STRVAR_1 1, 0, 0}\nspadł do {STRVAR_1 50, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00440" index="440">
 		<attribute name="window_context_name">used</attribute>
@@ -1767,7 +1767,7 @@
 	</row>
 	<row id="msg_0197_00441" index="441">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Licznik zagłady gracza {STRVAR_1 1, 0, 0} przeciwnika\nspadł do {STRVAR_1 50, 1, 0}!</language>
+		<language name="English">Licznik zagłady Pokémona {STRVAR_1 1, 0, 0} przeciwnika\nspadł do {STRVAR_1 50, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00442" index="442">
 		<attribute name="window_context_name">used</attribute>
@@ -1811,7 +1811,7 @@
 	</row>
 	<row id="msg_0197_00452" index="452">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} skopiował/a\nzmiany statystyk gracza {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} skopiował/a\nzmiany statystyk Pokémona {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00453" index="453">
 		<attribute name="window_context_name">used</attribute>
@@ -1819,11 +1819,11 @@
 	</row>
 	<row id="msg_0197_00454" index="454">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} skopiował/a zmiany statystyk gracza {STRVAR_1 1, 1, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} skopiował/a zmiany statystyk Pokémona {STRVAR_1 1, 1, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00455" index="455">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dziki {STRVAR_1 1, 0, 0} skopiował/a\nzmiany statystyk gracza {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">Dziki {STRVAR_1 1, 0, 0} skopiował/a\nzmiany statystyk Pokémona {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00456" index="456">
 		<attribute name="window_context_name">used</attribute>
@@ -1831,15 +1831,15 @@
 	</row>
 	<row id="msg_0197_00457" index="457">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} przeciwnika skopiował/a\nzmiany statystyk gracza {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} przeciwnika skopiował/a\nzmiany statystyk Pokémona {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00458" index="458">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} przeciwnika skopiował/a\nzmiany statystyk gracza {STRVAR_1 1, 1, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} przeciwnika skopiował/a\nzmiany statystyk Pokémona {STRVAR_1 1, 1, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00459" index="459">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} uwolnił/a się\nod {STRVAR_1 6, 2, 0} gracza {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} uwolnił/a się\nod {STRVAR_1 6, 2, 0} Pokémona {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00460" index="460">
 		<attribute name="window_context_name">used</attribute>
@@ -1847,11 +1847,11 @@
 	</row>
 	<row id="msg_0197_00461" index="461">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} uwolnił/a się od {STRVAR_1 6, 2, 0} gracza {STRVAR_1 1, 1, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} uwolnił/a się od {STRVAR_1 6, 2, 0} Pokémona {STRVAR_1 1, 1, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00462" index="462">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dziki {STRVAR_1 1, 0, 0} uwolnił/a się\nod {STRVAR_1 6, 2, 0} gracza {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">Dziki {STRVAR_1 1, 0, 0} uwolnił/a się\nod {STRVAR_1 6, 2, 0} Pokémona {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00463" index="463">
 		<attribute name="window_context_name">used</attribute>
@@ -1859,11 +1859,11 @@
 	</row>
 	<row id="msg_0197_00464" index="464">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} przeciwnika uwolnił/a się\nod {STRVAR_1 6, 2, 0} gracza {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} przeciwnika uwolnił/a się\nod {STRVAR_1 6, 2, 0} Pokémona {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00465" index="465">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} przeciwnika uwolnił/a się\nod {STRVAR_1 6, 2, 0} gracza {STRVAR_1 1, 1, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} przeciwnika uwolnił/a się\nod {STRVAR_1 6, 2, 0} Pokémona {STRVAR_1 1, 1, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00466" index="466">
 		<attribute name="window_context_name">used</attribute>
@@ -1927,7 +1927,7 @@
 	</row>
 	<row id="msg_0197_00481" index="481">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Atak gracza {STRVAR_1 1, 0, 0}!</language>
+		<language name="English">Atak Pokémona {STRVAR_1 1, 0, 0}!</language>
 	</row>
 	<row id="msg_0197_00482" index="482">
 		<attribute name="window_context_name">used</attribute>
@@ -1935,7 +1935,7 @@
 	</row>
 	<row id="msg_0197_00483" index="483">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Atak gracza {STRVAR_1 1, 0, 0} przeciwnika!</language>
+		<language name="English">Atak Pokémona {STRVAR_1 1, 0, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00484" index="484">
 		<attribute name="window_context_name">used</attribute>
@@ -1967,7 +1967,7 @@
 	</row>
 	<row id="msg_0197_00491" index="491">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Status gracza {STRVAR_1 1, 0, 0}\nwrócił do normy!</language>
+		<language name="English">Status Pokémona {STRVAR_1 1, 0, 0}\nwrócił do normy!</language>
 	</row>
 	<row id="msg_0197_00492" index="492">
 		<attribute name="window_context_name">used</attribute>
@@ -1975,7 +1975,7 @@
 	</row>
 	<row id="msg_0197_00493" index="493">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Status gracza {STRVAR_1 1, 0, 0} przeciwnika\nwrócił do normy!</language>
+		<language name="English">Status Pokémona {STRVAR_1 1, 0, 0} przeciwnika\nwrócił do normy!</language>
 	</row>
 	<row id="msg_0197_00494" index="494">
 		<attribute name="window_context_name">used</attribute>
@@ -2095,7 +2095,7 @@
 	</row>
 	<row id="msg_0197_00523" index="523">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} skopiował/a\n{STRVAR_1 5, 2, 0} gracza {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} skopiował/a\n{STRVAR_1 5, 2, 0} Pokémona {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00524" index="524">
 		<attribute name="window_context_name">used</attribute>
@@ -2103,11 +2103,11 @@
 	</row>
 	<row id="msg_0197_00525" index="525">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} skopiował/a {STRVAR_1 5, 2, 0} gracza {STRVAR_1 1, 1, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} skopiował/a {STRVAR_1 5, 2, 0} Pokémona {STRVAR_1 1, 1, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00526" index="526">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dziki {STRVAR_1 1, 0, 0} skopiował/a\n{STRVAR_1 5, 2, 0} gracza {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">Dziki {STRVAR_1 1, 0, 0} skopiował/a\n{STRVAR_1 5, 2, 0} Pokémona {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00527" index="527">
 		<attribute name="window_context_name">used</attribute>
@@ -2115,11 +2115,11 @@
 	</row>
 	<row id="msg_0197_00528" index="528">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} przeciwnika skopiował/a\n{STRVAR_1 5, 2, 0} gracza {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} przeciwnika skopiował/a\n{STRVAR_1 5, 2, 0} Pokémona {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00529" index="529">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} przeciwnika skopiował/a\n{STRVAR_1 5, 2, 0} gracza {STRVAR_1 1, 1, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} przeciwnika skopiował/a\n{STRVAR_1 5, 2, 0} Pokémona {STRVAR_1 1, 1, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00530" index="530">
 		<attribute name="window_context_name">used</attribute>
@@ -2135,7 +2135,7 @@
 	</row>
 	<row id="msg_0197_00533" index="533">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Życzenie gracza {STRVAR_1 1, 0, 0}\nsię spełniło!</language>
+		<language name="English">Życzenie Pokémona {STRVAR_1 1, 0, 0}\nsię spełniło!</language>
 	</row>
 	<row id="msg_0197_00534" index="534">
 		<attribute name="window_context_name">used</attribute>
@@ -2143,7 +2143,7 @@
 	</row>
 	<row id="msg_0197_00535" index="535">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Życzenie gracza {STRVAR_1 1, 0, 0} przeciwnika\nsię spełniło!</language>
+		<language name="English">Życzenie Pokémona {STRVAR_1 1, 0, 0} przeciwnika\nsię spełniło!</language>
 	</row>
 	<row id="msg_0197_00536" index="536">
 		<attribute name="window_context_name">used</attribute>
@@ -2211,7 +2211,7 @@
 	</row>
 	<row id="msg_0197_00552" index="552">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} strącił/a\n{STRVAR_1 8, 2, 0} gracza {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} strącił/a\n{STRVAR_1 8, 2, 0} Pokémona {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00553" index="553">
 		<attribute name="window_context_name">used</attribute>
@@ -2219,11 +2219,11 @@
 	</row>
 	<row id="msg_0197_00554" index="554">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} strącił/a {STRVAR_1 8, 2, 0} gracza {STRVAR_1 1, 1, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} strącił/a {STRVAR_1 8, 2, 0} Pokémona {STRVAR_1 1, 1, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00555" index="555">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dziki {STRVAR_1 1, 0, 0} strącił/a\n{STRVAR_1 8, 2, 0} gracza {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">Dziki {STRVAR_1 1, 0, 0} strącił/a\n{STRVAR_1 8, 2, 0} Pokémona {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00556" index="556">
 		<attribute name="window_context_name">used</attribute>
@@ -2231,11 +2231,11 @@
 	</row>
 	<row id="msg_0197_00557" index="557">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} przeciwnika strącił/a\n{STRVAR_1 8, 2, 0} gracza {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} przeciwnika strącił/a\n{STRVAR_1 8, 2, 0} Pokémona {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00558" index="558">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} przeciwnika strącił/a\n{STRVAR_1 8, 2, 0} gracza {STRVAR_1 1, 1, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} przeciwnika strącił/a\n{STRVAR_1 8, 2, 0} Pokémona {STRVAR_1 1, 1, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00559" index="559">
 		<attribute name="window_context_name">used</attribute>
@@ -2275,7 +2275,7 @@
 	</row>
 	<row id="msg_0197_00568" index="568">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 6, 1, 0} gracza {STRVAR_1 1, 0, 0}\nstracił wszystkie PP z powodu urazy!</language>
+		<language name="English">{STRVAR_1 6, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nstracił wszystkie PP z powodu urazy!</language>
 	</row>
 	<row id="msg_0197_00569" index="569">
 		<attribute name="window_context_name">used</attribute>
@@ -2283,7 +2283,7 @@
 	</row>
 	<row id="msg_0197_00570" index="570">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 6, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika stracił wszystkie PP\fz powodu urazy!</language>
+		<language name="English">{STRVAR_1 6, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika stracił wszystkie PP\fz powodu urazy!</language>
 	</row>
 	<row id="msg_0197_00571" index="571">
 		<attribute name="window_context_name">used</attribute>
@@ -2299,7 +2299,7 @@
 	</row>
 	<row id="msg_0197_00574" index="574">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 6, 1, 0} gracza {STRVAR_1 1, 0, 0}\nzostał odbity przez Magiczną Powłokę!</language>
+		<language name="English">{STRVAR_1 6, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nzostał odbity przez Magiczną Powłokę!</language>
 	</row>
 	<row id="msg_0197_00575" index="575">
 		<attribute name="window_context_name">used</attribute>
@@ -2307,7 +2307,7 @@
 	</row>
 	<row id="msg_0197_00576" index="576">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 6, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika został odbity przez\fMagiczną Powłokę!</language>
+		<language name="English">{STRVAR_1 6, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika został odbity przez\fMagiczną Powłokę!</language>
 	</row>
 	<row id="msg_0197_00577" index="577">
 		<attribute name="window_context_name">used</attribute>
@@ -2323,7 +2323,7 @@
 	</row>
 	<row id="msg_0197_00580" index="580">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} porwał/a\nruch gracza {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} porwał/a\nruch Pokémona {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00581" index="581">
 		<attribute name="window_context_name">used</attribute>
@@ -2331,11 +2331,11 @@
 	</row>
 	<row id="msg_0197_00582" index="582">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} porwał/a ruch gracza {STRVAR_1 1, 1, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} porwał/a ruch Pokémona {STRVAR_1 1, 1, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00583" index="583">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dziki {STRVAR_1 1, 0, 0} porwał/a\nruch gracza {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">Dziki {STRVAR_1 1, 0, 0} porwał/a\nruch Pokémona {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00584" index="584">
 		<attribute name="window_context_name">used</attribute>
@@ -2343,11 +2343,11 @@
 	</row>
 	<row id="msg_0197_00585" index="585">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} przeciwnika porwał/a\nruch gracza {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} przeciwnika porwał/a\nruch Pokémona {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00586" index="586">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} przeciwnika porwał/a\nruch gracza {STRVAR_1 1, 1, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} przeciwnika porwał/a\nruch Pokémona {STRVAR_1 1, 1, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00587" index="587">
 		<attribute name="window_context_name">used</attribute>
@@ -2379,7 +2379,7 @@
 	</row>
 	<row id="msg_0197_00594" index="594">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dla gracza {STRVAR_1 1, 1, 0}, {STRVAR_1 8, 0, 0}\nbył/a {STRVAR_1 16, 2, 0}!</language>
+		<language name="English">Dla Pokémona {STRVAR_1 1, 1, 0}, {STRVAR_1 8, 0, 0}\nbył/a {STRVAR_1 16, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00595" index="595">
 		<attribute name="window_context_name">used</attribute>
@@ -2387,7 +2387,7 @@
 	</row>
 	<row id="msg_0197_00596" index="596">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dla gracza {STRVAR_1 1, 1, 0} przeciwnika, {STRVAR_1 8, 0, 0}\nbył/a {STRVAR_1 16, 2, 0}!</language>
+		<language name="English">Dla Pokémona {STRVAR_1 1, 1, 0} przeciwnika, {STRVAR_1 8, 0, 0}\nbył/a {STRVAR_1 16, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00597" index="597">
 		<attribute name="window_context_name">used</attribute>
@@ -2439,7 +2439,7 @@
 	</row>
 	<row id="msg_0197_00609" index="609">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 6, 1, 0} gracza {STRVAR_1 1, 0, 0}\njest zablokowany!\r</language>
+		<language name="English">{STRVAR_1 6, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\njest zablokowany!\r</language>
 	</row>
 	<row id="msg_0197_00610" index="610">
 		<attribute name="window_context_name">used</attribute>
@@ -2447,7 +2447,7 @@
 	</row>
 	<row id="msg_0197_00611" index="611">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 6, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika jest zablokowany!\r</language>
+		<language name="English">{STRVAR_1 6, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika jest zablokowany!\r</language>
 	</row>
 	<row id="msg_0197_00612" index="612">
 		<attribute name="window_context_name">used</attribute>
@@ -2479,7 +2479,7 @@
 	</row>
 	<row id="msg_0197_00619" index="619">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nsprowadził/a deszcz!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nsprowadził/a deszcz!</language>
 	</row>
 	<row id="msg_0197_00620" index="620">
 		<attribute name="window_context_name">used</attribute>
@@ -2487,11 +2487,11 @@
 	</row>
 	<row id="msg_0197_00621" index="621">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika sprowadził/a deszcz!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika sprowadził/a deszcz!</language>
 	</row>
 	<row id="msg_0197_00622" index="622">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\npodniósł/podniosła {STRVAR_1 13, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\npodniósł/podniosła {STRVAR_1 13, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00623" index="623">
 		<attribute name="window_context_name">used</attribute>
@@ -2499,7 +2499,7 @@
 	</row>
 	<row id="msg_0197_00624" index="624">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika podniósł/podniosła {STRVAR_1 13, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika podniósł/podniosła {STRVAR_1 13, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00625" index="625">
 		<attribute name="window_context_name">used</attribute>
@@ -2515,15 +2515,15 @@
 	</row>
 	<row id="msg_0197_00628" index="628">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nuniemożliwia {STRVAR_1 1, 2, 0}\fużycie {STRVAR_1 6, 3, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nuniemożliwia {STRVAR_1 1, 2, 0}\fużycie {STRVAR_1 6, 3, 0}!</language>
 	</row>
 	<row id="msg_0197_00629" index="629">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nuniemożliwia dziki {STRVAR_1 1, 2, 0}\fużycie {STRVAR_1 6, 3, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nuniemożliwia dziki {STRVAR_1 1, 2, 0}\fużycie {STRVAR_1 6, 3, 0}!</language>
 	</row>
 	<row id="msg_0197_00630" index="630">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nuniemożliwia {STRVAR_1 1, 2, 0} przeciwnika\fużycie {STRVAR_1 6, 3, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nuniemożliwia {STRVAR_1 1, 2, 0} przeciwnika\fużycie {STRVAR_1 6, 3, 0}!</language>
 	</row>
 	<row id="msg_0197_00631" index="631">
 		<attribute name="window_context_name">used</attribute>
@@ -2535,11 +2535,11 @@
 	</row>
 	<row id="msg_0197_00633" index="633">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika uniemożliwia {STRVAR_1 1, 2, 0}\fużycie {STRVAR_1 6, 3, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika uniemożliwia {STRVAR_1 1, 2, 0}\fużycie {STRVAR_1 6, 3, 0}!</language>
 	</row>
 	<row id="msg_0197_00634" index="634">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika uniemożliwia\n{STRVAR_1 1, 2, 0} przeciwnika\fużycie {STRVAR_1 6, 3, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika uniemożliwia\n{STRVAR_1 1, 2, 0} przeciwnika\fużycie {STRVAR_1 6, 3, 0}!</language>
 	</row>
 	<row id="msg_0197_00635" index="635">
 		<attribute name="window_context_name">used</attribute>
@@ -2555,7 +2555,7 @@
 	</row>
 	<row id="msg_0197_00638" index="638">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nsprawił/a, że {STRVAR_1 6, 2, 0} jest bezużyteczny!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nsprawił/a, że {STRVAR_1 6, 2, 0} jest bezużyteczny!</language>
 	</row>
 	<row id="msg_0197_00639" index="639">
 		<attribute name="window_context_name">used</attribute>
@@ -2563,11 +2563,11 @@
 	</row>
 	<row id="msg_0197_00640" index="640">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika sprawił/a, że\f{STRVAR_1 6, 2, 0} jest bezużyteczny!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika sprawił/a, że\f{STRVAR_1 6, 2, 0} jest bezużyteczny!</language>
 	</row>
 	<row id="msg_0197_00641" index="641">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nzmienił/a go w typ {STRVAR_1 15, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nzmienił/a go w typ {STRVAR_1 15, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00642" index="642">
 		<attribute name="window_context_name">used</attribute>
@@ -2575,11 +2575,11 @@
 	</row>
 	<row id="msg_0197_00643" index="643">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika zmienił/a go w\ftyp {STRVAR_1 15, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika zmienił/a go w\ftyp {STRVAR_1 15, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00644" index="644">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nzapobiega paraliżowi!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nzapobiega paraliżowi!</language>
 	</row>
 	<row id="msg_0197_00645" index="645">
 		<attribute name="window_context_name">used</attribute>
@@ -2587,11 +2587,11 @@
 	</row>
 	<row id="msg_0197_00646" index="646">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika zapobiega paraliżowi!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika zapobiega paraliżowi!</language>
 	</row>
 	<row id="msg_0197_00647" index="647">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nzapobiega zauroczeniu!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nzapobiega zauroczeniu!</language>
 	</row>
 	<row id="msg_0197_00648" index="648">
 		<attribute name="window_context_name">used</attribute>
@@ -2599,11 +2599,11 @@
 	</row>
 	<row id="msg_0197_00649" index="649">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika zapobiega zauroczeniu!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika zapobiega zauroczeniu!</language>
 	</row>
 	<row id="msg_0197_00650" index="650">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nzapobiega zatruciu!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nzapobiega zatruciu!</language>
 	</row>
 	<row id="msg_0197_00651" index="651">
 		<attribute name="window_context_name">used</attribute>
@@ -2611,11 +2611,11 @@
 	</row>
 	<row id="msg_0197_00652" index="652">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika zapobiega zatruciu!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika zapobiega zatruciu!</language>
 	</row>
 	<row id="msg_0197_00653" index="653">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nzapobiega dezorientacji!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nzapobiega dezorientacji!</language>
 	</row>
 	<row id="msg_0197_00654" index="654">
 		<attribute name="window_context_name">used</attribute>
@@ -2623,11 +2623,11 @@
 	</row>
 	<row id="msg_0197_00655" index="655">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika zapobiega dezorientacji!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika zapobiega dezorientacji!</language>
 	</row>
 	<row id="msg_0197_00656" index="656">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\npodniósł/podniosła moc jego ruchów typu Fire!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\npodniósł/podniosła moc jego ruchów typu Fire!</language>
 	</row>
 	<row id="msg_0197_00657" index="657">
 		<attribute name="window_context_name">used</attribute>
@@ -2635,7 +2635,7 @@
 	</row>
 	<row id="msg_0197_00658" index="658">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika podniósł/podniosła\fmoc jego ruchów typu Fire!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika podniósł/podniosła\fmoc jego ruchów typu Fire!</language>
 	</row>
 	<row id="msg_0197_00659" index="659">
 		<attribute name="window_context_name">used</attribute>
@@ -2651,19 +2651,19 @@
 	</row>
 	<row id="msg_0197_00662" index="662">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nobniża {STRVAR_1 13, 3, 0} gracza {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nobniża {STRVAR_1 13, 3, 0} Pokémona {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00663" index="663">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nobniża {STRVAR_1 13, 3, 0} gracza\fdziki {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nobniża {STRVAR_1 13, 3, 0} gracza\fdziki {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00664" index="664">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nobniża {STRVAR_1 13, 3, 0} gracza\f{STRVAR_1 1, 2, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nobniża {STRVAR_1 13, 3, 0} Pokémona\f{STRVAR_1 1, 2, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00665" index="665">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\nDziki {STRVAR_1 1, 0, 0} obniża\f{STRVAR_1 13, 3, 0} gracza {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} gracza\nDziki {STRVAR_1 1, 0, 0} obniża\f{STRVAR_1 13, 3, 0} Pokémona {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00666" index="666">
 		<attribute name="window_context_name">used</attribute>
@@ -2671,15 +2671,15 @@
 	</row>
 	<row id="msg_0197_00667" index="667">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika obniża\f{STRVAR_1 13, 3, 0} gracza {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika obniża\f{STRVAR_1 13, 3, 0} Pokémona {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00668" index="668">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika obniża {STRVAR_1 13, 3, 0}\fgracza {STRVAR_1 1, 2, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika obniża {STRVAR_1 13, 3, 0}\fPokémona {STRVAR_1 1, 2, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00669" index="669">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nzapobiega utracie statystyk!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nzapobiega utracie statystyk!</language>
 	</row>
 	<row id="msg_0197_00670" index="670">
 		<attribute name="window_context_name">used</attribute>
@@ -2687,19 +2687,19 @@
 	</row>
 	<row id="msg_0197_00671" index="671">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika zapobiega utracie statystyk!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika zapobiega utracie statystyk!</language>
 	</row>
 	<row id="msg_0197_00672" index="672">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nzranił/a {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nzranił/a {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00673" index="673">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nzranił/a dziki {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nzranił/a dziki {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00674" index="674">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nzranił/a {STRVAR_1 1, 2, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nzranił/a {STRVAR_1 1, 2, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00675" index="675">
 		<attribute name="window_context_name">used</attribute>
@@ -2711,15 +2711,15 @@
 	</row>
 	<row id="msg_0197_00677" index="677">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika zranił/a {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika zranił/a {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00678" index="678">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika zranił/a {STRVAR_1 1, 2, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika zranił/a {STRVAR_1 1, 2, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00679" index="679">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} skopiował/a\n{STRVAR_1 5, 2, 0} gracza {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} skopiował/a\n{STRVAR_1 5, 2, 0} Pokémona {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00680" index="680">
 		<attribute name="window_context_name">used</attribute>
@@ -2727,11 +2727,11 @@
 	</row>
 	<row id="msg_0197_00681" index="681">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} skopiował/a {STRVAR_1 5, 2, 0} gracza {STRVAR_1 1, 1, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} skopiował/a {STRVAR_1 5, 2, 0} Pokémona {STRVAR_1 1, 1, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00682" index="682">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dziki {STRVAR_1 1, 0, 0} skopiował/a\n{STRVAR_1 5, 2, 0} gracza {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">Dziki {STRVAR_1 1, 0, 0} skopiował/a\n{STRVAR_1 5, 2, 0} Pokémona {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00683" index="683">
 		<attribute name="window_context_name">used</attribute>
@@ -2739,15 +2739,15 @@
 	</row>
 	<row id="msg_0197_00684" index="684">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} przeciwnika skopiował/a\n{STRVAR_1 5, 2, 0} gracza {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} przeciwnika skopiował/a\n{STRVAR_1 5, 2, 0} Pokémona {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_00685" index="685">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} przeciwnika skopiował/a\n{STRVAR_1 5, 2, 0} gracza {STRVAR_1 1, 1, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} przeciwnika skopiował/a\n{STRVAR_1 5, 2, 0} Pokémona {STRVAR_1 1, 1, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00686" index="686">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nzapobiega poparzeniom!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nzapobiega poparzeniom!</language>
 	</row>
 	<row id="msg_0197_00687" index="687">
 		<attribute name="window_context_name">used</attribute>
@@ -2755,11 +2755,11 @@
 	</row>
 	<row id="msg_0197_00688" index="688">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika zapobiega poparzeniom!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika zapobiega poparzeniom!</language>
 	</row>
 	<row id="msg_0197_00689" index="689">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nblokuje {STRVAR_1 6, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nblokuje {STRVAR_1 6, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00690" index="690">
 		<attribute name="window_context_name">used</attribute>
@@ -2767,7 +2767,7 @@
 	</row>
 	<row id="msg_0197_00691" index="691">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika blokuje\f{STRVAR_1 6, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika blokuje\f{STRVAR_1 6, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00692" index="692">
 		<attribute name="window_context_name">used</attribute>
@@ -2783,7 +2783,7 @@
 	</row>
 	<row id="msg_0197_00695" index="695">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nwywołał/a piaskową burzę!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nwywołał/a piaskową burzę!</language>
 	</row>
 	<row id="msg_0197_00696" index="696">
 		<attribute name="window_context_name">used</attribute>
@@ -2791,11 +2791,11 @@
 	</row>
 	<row id="msg_0197_00697" index="697">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika wywołał/a\fpiaskową burzę!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika wywołał/a\fpiaskową burzę!</language>
 	</row>
 	<row id="msg_0197_00698" index="698">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nwzmocnił/a promienie słońca!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nwzmocnił/a promienie słońca!</language>
 	</row>
 	<row id="msg_0197_00699" index="699">
 		<attribute name="window_context_name">used</attribute>
@@ -2803,11 +2803,11 @@
 	</row>
 	<row id="msg_0197_00700" index="700">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika wzmocnił/a\fpromienie słońca!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika wzmocnił/a\fpromienie słońca!</language>
 	</row>
 	<row id="msg_0197_00701" index="701">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nwywołał/a burzę gradową!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nwywołał/a burzę gradową!</language>
 	</row>
 	<row id="msg_0197_00702" index="702">
 		<attribute name="window_context_name">used</attribute>
@@ -2815,11 +2815,11 @@
 	</row>
 	<row id="msg_0197_00703" index="703">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika wywołał/a\fburzę gradową!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika wywołał/a\fburzę gradową!</language>
 	</row>
 	<row id="msg_0197_00704" index="704">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nzapobiega utracie {STRVAR_1 13, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nzapobiega utracie {STRVAR_1 13, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00705" index="705">
 		<attribute name="window_context_name">used</attribute>
@@ -2827,19 +2827,19 @@
 	</row>
 	<row id="msg_0197_00706" index="706">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika zapobiega\futracie {STRVAR_1 13, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika zapobiega\futracie {STRVAR_1 13, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00707" index="707">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nzauroczył/a {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nzauroczył/a {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00708" index="708">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nzauroczył/a dziki {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nzauroczył/a dziki {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00709" index="709">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nzauroczył/a {STRVAR_1 1, 2, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nzauroczył/a {STRVAR_1 1, 2, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00710" index="710">
 		<attribute name="window_context_name">used</attribute>
@@ -2851,15 +2851,15 @@
 	</row>
 	<row id="msg_0197_00712" index="712">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika zauroczył/a\f{STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika zauroczył/a\f{STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00713" index="713">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika zauroczył/a {STRVAR_1 1, 2, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika zauroczył/a {STRVAR_1 1, 2, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00714" index="714">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nsprawił/a, że {STRVAR_1 6, 2, 0} był/a nieskuteczny/a!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nsprawił/a, że {STRVAR_1 6, 2, 0} był/a nieskuteczny/a!</language>
 	</row>
 	<row id="msg_0197_00715" index="715">
 		<attribute name="window_context_name">used</attribute>
@@ -2867,11 +2867,11 @@
 	</row>
 	<row id="msg_0197_00716" index="716">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika sprawił/a, że\f{STRVAR_1 6, 2, 0} był/a nieskuteczny/a!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika sprawił/a, że\f{STRVAR_1 6, 2, 0} był/a nieskuteczny/a!</language>
 	</row>
 	<row id="msg_0197_00717" index="717">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nwyleczył/a jego status {STRVAR_1 17, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nwyleczył/a jego status {STRVAR_1 17, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00718" index="718">
 		<attribute name="window_context_name">used</attribute>
@@ -2879,7 +2879,7 @@
 	</row>
 	<row id="msg_0197_00719" index="719">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika wyleczył/a jego\fstatus {STRVAR_1 17, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika wyleczył/a jego\fstatus {STRVAR_1 17, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00720" index="720">
 		<attribute name="window_context_name">used</attribute>
@@ -2899,7 +2899,7 @@
 	</row>
 	<row id="msg_0197_00724" index="724">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nprzyjął/przyjęła atak!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nprzyjął/przyjęła atak!</language>
 	</row>
 	<row id="msg_0197_00725" index="725">
 		<attribute name="window_context_name">used</attribute>
@@ -2907,23 +2907,23 @@
 	</row>
 	<row id="msg_0197_00726" index="726">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika przyjął/przyjęła atak!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika przyjął/przyjęła atak!</language>
 	</row>
 	<row id="msg_0197_00727" index="727">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nstłumił/a {STRVAR_1 5, 3, 0} gracza\f{STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nstłumił/a {STRVAR_1 5, 3, 0} Pokémona\f{STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00728" index="728">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nstłumił/a {STRVAR_1 5, 3, 0} gracza\fdziki {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nstłumił/a {STRVAR_1 5, 3, 0} gracza\fdziki {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00729" index="729">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nstłumił/a {STRVAR_1 5, 3, 0} gracza\f{STRVAR_1 1, 2, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nstłumił/a {STRVAR_1 5, 3, 0} Pokémona\f{STRVAR_1 1, 2, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00730" index="730">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\nDziki {STRVAR_1 1, 0, 0} stłumił/a\f{STRVAR_1 5, 3, 0} gracza {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} gracza\nDziki {STRVAR_1 1, 0, 0} stłumił/a\f{STRVAR_1 5, 3, 0} Pokémona {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00731" index="731">
 		<attribute name="window_context_name">used</attribute>
@@ -2931,15 +2931,15 @@
 	</row>
 	<row id="msg_0197_00732" index="732">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika stłumił/a\f{STRVAR_1 5, 3, 0} gracza {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika stłumił/a\f{STRVAR_1 5, 3, 0} Pokémona {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00733" index="733">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika stłumił/a {STRVAR_1 5, 3, 0} gracza {STRVAR_1 1, 2, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika stłumił/a {STRVAR_1 5, 3, 0} Pokémona {STRVAR_1 1, 2, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00734" index="734">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nsprawił/a, że to nieskuteczne!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nsprawił/a, że to nieskuteczne!</language>
 	</row>
 	<row id="msg_0197_00735" index="735">
 		<attribute name="window_context_name">used</attribute>
@@ -2947,7 +2947,7 @@
 	</row>
 	<row id="msg_0197_00736" index="736">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika sprawił/a, że to nieskuteczne!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika sprawił/a, że to nieskuteczne!</language>
 	</row>
 	<row id="msg_0197_00737" index="737">
 		<attribute name="window_context_name">used</attribute>
@@ -2975,15 +2975,15 @@
 	</row>
 	<row id="msg_0197_00743" index="743">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nnie miał/a efektu na {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nnie miał/a efektu na {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00744" index="744">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nnie miał/a efektu na dziki {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nnie miał/a efektu na dziki {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00745" index="745">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nnie miał/a efektu na {STRVAR_1 1, 2, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nnie miał/a efektu na {STRVAR_1 1, 2, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00746" index="746">
 		<attribute name="window_context_name">used</attribute>
@@ -2995,15 +2995,15 @@
 	</row>
 	<row id="msg_0197_00748" index="748">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika nie miał/a efektu\fna {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika nie miał/a efektu\fna {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_00749" index="749">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika nie miał/a efektu\fna {STRVAR_1 1, 2, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika nie miał/a efektu\fna {STRVAR_1 1, 2, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00750" index="750">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 13, 1, 0} gracza {STRVAR_1 1, 0, 0}\nwzrósł/wzrosła!</language>
+		<language name="English">{STRVAR_1 13, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nwzrósł/wzrosła!</language>
 	</row>
 	<row id="msg_0197_00751" index="751">
 		<attribute name="window_context_name">used</attribute>
@@ -3011,11 +3011,11 @@
 	</row>
 	<row id="msg_0197_00752" index="752">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 13, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika wzrósł/wzrosła!</language>
+		<language name="English">{STRVAR_1 13, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika wzrósł/wzrosła!</language>
 	</row>
 	<row id="msg_0197_00753" index="753">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 13, 1, 0} gracza {STRVAR_1 1, 0, 0}\nmocno wzrósł/wzrosła!</language>
+		<language name="English">{STRVAR_1 13, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nmocno wzrósł/wzrosła!</language>
 	</row>
 	<row id="msg_0197_00754" index="754">
 		<attribute name="window_context_name">used</attribute>
@@ -3023,11 +3023,11 @@
 	</row>
 	<row id="msg_0197_00755" index="755">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 13, 1, 0} gracza {STRVAR_1 1, 0, 0} przeciwnika\nmocno wzrósł/wzrosła!</language>
+		<language name="English">{STRVAR_1 13, 1, 0} Pokémona {STRVAR_1 1, 0, 0} przeciwnika\nmocno wzrósł/wzrosła!</language>
 	</row>
 	<row id="msg_0197_00756" index="756">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 1, 0} podniósł/podniosła\n{STRVAR_1 13, 2, 0} gracza {STRVAR_1 1, 0, 0}!</language>
+		<language name="English">{STRVAR_1 8, 1, 0} podniósł/podniosła\n{STRVAR_1 13, 2, 0} Pokémona {STRVAR_1 1, 0, 0}!</language>
 	</row>
 	<row id="msg_0197_00757" index="757">
 		<attribute name="window_context_name">used</attribute>
@@ -3035,11 +3035,11 @@
 	</row>
 	<row id="msg_0197_00758" index="758">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 1, 0} podniósł/podniosła {STRVAR_1 13, 2, 0} gracza {STRVAR_1 1, 0, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 8, 1, 0} podniósł/podniosła {STRVAR_1 13, 2, 0} Pokémona {STRVAR_1 1, 0, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00759" index="759">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 1, 0} mocno podniósł/podniosła\n{STRVAR_1 13, 2, 0} gracza {STRVAR_1 1, 0, 0}!</language>
+		<language name="English">{STRVAR_1 8, 1, 0} mocno podniósł/podniosła\n{STRVAR_1 13, 2, 0} Pokémona {STRVAR_1 1, 0, 0}!</language>
 	</row>
 	<row id="msg_0197_00760" index="760">
 		<attribute name="window_context_name">used</attribute>
@@ -3047,11 +3047,11 @@
 	</row>
 	<row id="msg_0197_00761" index="761">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 1, 0} mocno podniósł/podniosła\n{STRVAR_1 13, 2, 0} gracza {STRVAR_1 1, 0, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 8, 1, 0} mocno podniósł/podniosła\n{STRVAR_1 13, 2, 0} Pokémona {STRVAR_1 1, 0, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_00762" index="762">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 13, 1, 0} gracza {STRVAR_1 1, 0, 0}\nspadł/spadła!</language>
+		<language name="English">{STRVAR_1 13, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nspadł/spadła!</language>
 	</row>
 	<row id="msg_0197_00763" index="763">
 		<attribute name="window_context_name">used</attribute>
@@ -3059,11 +3059,11 @@
 	</row>
 	<row id="msg_0197_00764" index="764">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 13, 1, 0} gracza {STRVAR_1 1, 0, 0} przeciwnika\nspadł/spadła!</language>
+		<language name="English">{STRVAR_1 13, 1, 0} Pokémona {STRVAR_1 1, 0, 0} przeciwnika\nspadł/spadła!</language>
 	</row>
 	<row id="msg_0197_00765" index="765">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 13, 1, 0} gracza {STRVAR_1 1, 0, 0}\nmocno spadł/spadła!</language>
+		<language name="English">{STRVAR_1 13, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nmocno spadł/spadła!</language>
 	</row>
 	<row id="msg_0197_00766" index="766">
 		<attribute name="window_context_name">used</attribute>
@@ -3071,11 +3071,11 @@
 	</row>
 	<row id="msg_0197_00767" index="767">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 13, 1, 0} gracza {STRVAR_1 1, 0, 0} przeciwnika\nmocno spadł/spadła!</language>
+		<language name="English">{STRVAR_1 13, 1, 0} Pokémona {STRVAR_1 1, 0, 0} przeciwnika\nmocno spadł/spadła!</language>
 	</row>
 	<row id="msg_0197_00768" index="768">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Statystyki gracza {STRVAR_1 1, 0, 0}\nnie mogą się już podnieść!</language>
+		<language name="English">Statystyki Pokémona {STRVAR_1 1, 0, 0}\nnie mogą się już podnieść!</language>
 	</row>
 	<row id="msg_0197_00769" index="769">
 		<attribute name="window_context_name">used</attribute>
@@ -3083,11 +3083,11 @@
 	</row>
 	<row id="msg_0197_00770" index="770">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Statystyki gracza\n{STRVAR_1 1, 0, 0} przeciwnika nie mogą się\fjuż podnieść!</language>
+		<language name="English">Statystyki Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika nie mogą się\fjuż podnieść!</language>
 	</row>
 	<row id="msg_0197_00771" index="771">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Statystyki gracza {STRVAR_1 1, 0, 0}\nnie mogą się już obniżyć!</language>
+		<language name="English">Statystyki Pokémona {STRVAR_1 1, 0, 0}\nnie mogą się już obniżyć!</language>
 	</row>
 	<row id="msg_0197_00772" index="772">
 		<attribute name="window_context_name">used</attribute>
@@ -3095,7 +3095,7 @@
 	</row>
 	<row id="msg_0197_00773" index="773">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Statystyki gracza\n{STRVAR_1 1, 0, 0} przeciwnika nie mogą się\fjuż obniżyć!</language>
+		<language name="English">Statystyki Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika nie mogą się\fjuż obniżyć!</language>
 	</row>
 	<row id="msg_0197_00774" index="774">
 		<attribute name="window_context_name">used</attribute>
@@ -3491,7 +3491,7 @@
 	</row>
 	<row id="msg_0197_00871" index="871">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dane gracza {STRVAR_1 1, 0, 0}\nzostały dodane do Pokédexu.\r</language>
+		<language name="English">Dane Pokémona {STRVAR_1 1, 0, 0}\nzostały dodane do Pokédexu.\r</language>
 	</row>
 	<row id="msg_0197_00872" index="872">
 		<attribute name="window_context_name">used</attribute>
@@ -3507,7 +3507,7 @@
 	</row>
 	<row id="msg_0197_00875" index="875">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 1, 0} gracza {STRVAR_1 1, 0, 0}\nwyleczył/a jego paraliż!</language>
+		<language name="English">{STRVAR_1 8, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nwyleczył/a jego paraliż!</language>
 	</row>
 	<row id="msg_0197_00876" index="876">
 		<attribute name="window_context_name">used</attribute>
@@ -3515,11 +3515,11 @@
 	</row>
 	<row id="msg_0197_00877" index="877">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika wyleczył/a jego paraliż!</language>
+		<language name="English">{STRVAR_1 8, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika wyleczył/a jego paraliż!</language>
 	</row>
 	<row id="msg_0197_00878" index="878">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 1, 0} gracza {STRVAR_1 1, 0, 0}\nwyleczył/a jego zatrucie!</language>
+		<language name="English">{STRVAR_1 8, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nwyleczył/a jego zatrucie!</language>
 	</row>
 	<row id="msg_0197_00879" index="879">
 		<attribute name="window_context_name">used</attribute>
@@ -3527,11 +3527,11 @@
 	</row>
 	<row id="msg_0197_00880" index="880">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika wyleczył/a jego zatrucie!</language>
+		<language name="English">{STRVAR_1 8, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika wyleczył/a jego zatrucie!</language>
 	</row>
 	<row id="msg_0197_00881" index="881">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 1, 0} gracza {STRVAR_1 1, 0, 0}\nwyleczył/a jego poparzenie!</language>
+		<language name="English">{STRVAR_1 8, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nwyleczył/a jego poparzenie!</language>
 	</row>
 	<row id="msg_0197_00882" index="882">
 		<attribute name="window_context_name">used</attribute>
@@ -3539,11 +3539,11 @@
 	</row>
 	<row id="msg_0197_00883" index="883">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika wyleczył/a jego poparzenie!</language>
+		<language name="English">{STRVAR_1 8, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika wyleczył/a jego poparzenie!</language>
 	</row>
 	<row id="msg_0197_00884" index="884">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 1, 0} gracza {STRVAR_1 1, 0, 0}\nrozmroził/a go!</language>
+		<language name="English">{STRVAR_1 8, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nrozmroził/a go!</language>
 	</row>
 	<row id="msg_0197_00885" index="885">
 		<attribute name="window_context_name">used</attribute>
@@ -3551,11 +3551,11 @@
 	</row>
 	<row id="msg_0197_00886" index="886">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika rozmroził/a go!</language>
+		<language name="English">{STRVAR_1 8, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika rozmroził/a go!</language>
 	</row>
 	<row id="msg_0197_00887" index="887">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 1, 0} gracza {STRVAR_1 1, 0, 0}\nobudził/a go!</language>
+		<language name="English">{STRVAR_1 8, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nobudził/a go!</language>
 	</row>
 	<row id="msg_0197_00888" index="888">
 		<attribute name="window_context_name">used</attribute>
@@ -3563,11 +3563,11 @@
 	</row>
 	<row id="msg_0197_00889" index="889">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika obudził/a go!</language>
+		<language name="English">{STRVAR_1 8, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika obudził/a go!</language>
 	</row>
 	<row id="msg_0197_00890" index="890">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 1, 0} gracza {STRVAR_1 1, 0, 0}\nwyrwał/a go z dezorientacji!</language>
+		<language name="English">{STRVAR_1 8, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nwyrwał/a go z dezorientacji!</language>
 	</row>
 	<row id="msg_0197_00891" index="891">
 		<attribute name="window_context_name">used</attribute>
@@ -3575,7 +3575,7 @@
 	</row>
 	<row id="msg_0197_00892" index="892">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika wyrwał/a go z\fdezorientacji!</language>
+		<language name="English">{STRVAR_1 8, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika wyrwał/a go z\fdezorientacji!</language>
 	</row>
 	<row id="msg_0197_00893" index="893">
 		<attribute name="window_context_name">used</attribute>
@@ -3990,7 +3990,7 @@
 	</row>
 	<row id="msg_0197_00994" index="994">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Efekt zapasów gracza\n{STRVAR_1 1, 0, 0} się skończył!</language>
+		<language name="English">Efekt zapasów Pokémona\n{STRVAR_1 1, 0, 0} się skończył!</language>
 	</row>
 	<row id="msg_0197_00995" index="995">
 		<attribute name="window_context_name">used</attribute>
@@ -3998,7 +3998,7 @@
 	</row>
 	<row id="msg_0197_00996" index="996">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Efekt zapasów gracza\n{STRVAR_1 1, 0, 0} przeciwnika się skończył!</language>
+		<language name="English">Efekt zapasów Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika się skończył!</language>
 	</row>
 	<row id="msg_0197_00997" index="997">
 		<attribute name="window_context_name">used</attribute>
@@ -4062,7 +4062,7 @@
 	</row>
 	<row id="msg_0197_01012" index="1012">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zdolność gracza {STRVAR_1 1, 0, 0}\nzostała stłumiona!</language>
+		<language name="English">Zdolność Pokémona {STRVAR_1 1, 0, 0}\nzostała stłumiona!</language>
 	</row>
 	<row id="msg_0197_01013" index="1013">
 		<attribute name="window_context_name">used</attribute>
@@ -4070,7 +4070,7 @@
 	</row>
 	<row id="msg_0197_01014" index="1014">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zdolność gracza {STRVAR_1 1, 0, 0} przeciwnika\nzostała stłumiona!</language>
+		<language name="English">Zdolność Pokémona {STRVAR_1 1, 0, 0} przeciwnika\nzostała stłumiona!</language>
 	</row>
 	<row id="msg_0197_01015" index="1015">
 		<attribute name="window_context_name">used</attribute>
@@ -4134,7 +4134,7 @@
 	</row>
 	<row id="msg_0197_01030" index="1030">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 6, 1, 0} przywrócił/a HP\ngracza {STRVAR_1 1, 0, 0}!</language>
+		<language name="English">{STRVAR_1 6, 1, 0} przywrócił/a HP\nPokémona {STRVAR_1 1, 0, 0}!</language>
 	</row>
 	<row id="msg_0197_01031" index="1031">
 		<attribute name="window_context_name">used</attribute>
@@ -4142,7 +4142,7 @@
 	</row>
 	<row id="msg_0197_01032" index="1032">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 6, 1, 0} przywrócił/a HP\ngracza {STRVAR_1 1, 0, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 6, 1, 0} przywrócił/a HP\nPokémona {STRVAR_1 1, 0, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_01033" index="1033">
 		<attribute name="window_context_name">used</attribute>
@@ -4170,7 +4170,7 @@
 	</row>
 	<row id="msg_0197_01039" index="1039">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Elektromagnetyzm gracza\n{STRVAR_1 1, 0, 0} przestał działać!</language>
+		<language name="English">Elektromagnetyzm Pokémona\n{STRVAR_1 1, 0, 0} przestał działać!</language>
 	</row>
 	<row id="msg_0197_01040" index="1040">
 		<attribute name="window_context_name">used</attribute>
@@ -4178,7 +4178,7 @@
 	</row>
 	<row id="msg_0197_01041" index="1041">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Elektromagnetyzm gracza {STRVAR_1 1, 0, 0} przeciwnika\nprzestał działać!</language>
+		<language name="English">Elektromagnetyzm Pokémona {STRVAR_1 1, 0, 0} przeciwnika\nprzestał działać!</language>
 	</row>
 	<row id="msg_0197_01042" index="1042">
 		<attribute name="window_context_name">used</attribute>
@@ -4254,7 +4254,7 @@
 	</row>
 	<row id="msg_0197_01060" index="1060">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 6, 1, 0} gracza {STRVAR_1 1, 0, 0}\nprzestał działać!</language>
+		<language name="English">{STRVAR_1 6, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nprzestał działać!</language>
 	</row>
 	<row id="msg_0197_01061" index="1061">
 		<attribute name="window_context_name">used</attribute>
@@ -4262,7 +4262,7 @@
 	</row>
 	<row id="msg_0197_01062" index="1062">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 6, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika przestał działać!</language>
+		<language name="English">{STRVAR_1 6, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika przestał działać!</language>
 	</row>
 	<row id="msg_0197_01063" index="1063">
 		<attribute name="window_context_name">used</attribute>
@@ -4410,15 +4410,15 @@
 	</row>
 	<row id="msg_0197_01099" index="1099">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 2, 0} został/a zraniony/a\nprzez {STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}!</language>
+		<language name="English">{STRVAR_1 1, 2, 0} został/a zraniony/a\nprzez {STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}!</language>
 	</row>
 	<row id="msg_0197_01100" index="1100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dziki {STRVAR_1 1, 2, 0} został/a zraniony/a\nprzez {STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}!</language>
+		<language name="English">Dziki {STRVAR_1 1, 2, 0} został/a zraniony/a\nprzez {STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}!</language>
 	</row>
 	<row id="msg_0197_01101" index="1101">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 2, 0} przeciwnika został/a zraniony/a\nprzez {STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}!</language>
+		<language name="English">{STRVAR_1 1, 2, 0} przeciwnika został/a zraniony/a\nprzez {STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}!</language>
 	</row>
 	<row id="msg_0197_01102" index="1102">
 		<attribute name="window_context_name">used</attribute>
@@ -4430,15 +4430,15 @@
 	</row>
 	<row id="msg_0197_01104" index="1104">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 2, 0} został/a zraniony/a przez {STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 1, 2, 0} został/a zraniony/a przez {STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_01105" index="1105">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 2, 0} przeciwnika został/a zraniony/a\nprzez {STRVAR_1 5, 1, 0} gracza\f{STRVAR_1 1, 0, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 1, 2, 0} przeciwnika został/a zraniony/a\nprzez {STRVAR_1 5, 1, 0} Pokémona\f{STRVAR_1 1, 0, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_01106" index="1106">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 0, 0} gracza {STRVAR_1 1, 1, 0}\nsprawił/a, że się wzdrygnął/wzdrygnęła!</language>
+		<language name="English">{STRVAR_1 5, 0, 0} Pokémona {STRVAR_1 1, 1, 0}\nsprawił/a, że się wzdrygnął/wzdrygnęła!</language>
 	</row>
 	<row id="msg_0197_01107" index="1107">
 		<attribute name="window_context_name">used</attribute>
@@ -4446,11 +4446,11 @@
 	</row>
 	<row id="msg_0197_01108" index="1108">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 0, 0} gracza\n{STRVAR_1 1, 1, 0} przeciwnika sprawił/a, że\fsię wzdrygnął/wzdrygnęła!</language>
+		<language name="English">{STRVAR_1 5, 0, 0} Pokémona\n{STRVAR_1 1, 1, 0} przeciwnika sprawił/a, że\fsię wzdrygnął/wzdrygnęła!</language>
 	</row>
 	<row id="msg_0197_01109" index="1109">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nostrzegł/a go przed {STRVAR_1 6, 2, 0}!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nostrzegł/a go przed {STRVAR_1 6, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_01110" index="1110">
 		<attribute name="window_context_name">used</attribute>
@@ -4458,7 +4458,7 @@
 	</row>
 	<row id="msg_0197_01111" index="1111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Przeczucie gracza\n{STRVAR_1 1, 0, 0} przeciwnika ostrzegło go przed {STRVAR_1 6, 2, 0}!</language>
+		<language name="English">Przeczucie Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika ostrzegło go przed {STRVAR_1 6, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_01112" index="1112">
 		<attribute name="window_context_name">used</attribute>
@@ -4498,15 +4498,15 @@
 	</row>
 	<row id="msg_0197_01121" index="1121">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 2, 0} jest dręczony/a\nprzez {STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}!</language>
+		<language name="English">{STRVAR_1 1, 2, 0} jest dręczony/a\nprzez {STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}!</language>
 	</row>
 	<row id="msg_0197_01122" index="1122">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dziki {STRVAR_1 1, 2, 0} jest dręczony/a\nprzez {STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}!</language>
+		<language name="English">Dziki {STRVAR_1 1, 2, 0} jest dręczony/a\nprzez {STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}!</language>
 	</row>
 	<row id="msg_0197_01123" index="1123">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 2, 0} przeciwnika jest dręczony/a\nprzez {STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}!</language>
+		<language name="English">{STRVAR_1 1, 2, 0} przeciwnika jest dręczony/a\nprzez {STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}!</language>
 	</row>
 	<row id="msg_0197_01124" index="1124">
 		<attribute name="window_context_name">used</attribute>
@@ -4518,11 +4518,11 @@
 	</row>
 	<row id="msg_0197_01126" index="1126">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 2, 0} jest dręczony/a\nprzez {STRVAR_1 5, 1, 0} gracza\f{STRVAR_1 1, 0, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 1, 2, 0} jest dręczony/a\nprzez {STRVAR_1 5, 1, 0} Pokémona\f{STRVAR_1 1, 0, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_01127" index="1127">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 2, 0} przeciwnika jest dręczony/a\nprzez {STRVAR_1 5, 1, 0} gracza\f{STRVAR_1 1, 0, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 1, 2, 0} przeciwnika jest dręczony/a\nprzez {STRVAR_1 5, 1, 0} Pokémona\f{STRVAR_1 1, 0, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_01128" index="1128">
 		<attribute name="window_context_name">used</attribute>
@@ -4602,7 +4602,7 @@
 	</row>
 	<row id="msg_0197_01147" index="1147">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza {STRVAR_1 1, 0, 0}\nsprawił/a, że {STRVAR_1 8, 2, 0} był/a nieskuteczny/a!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nsprawił/a, że {STRVAR_1 8, 2, 0} był/a nieskuteczny/a!</language>
 	</row>
 	<row id="msg_0197_01148" index="1148">
 		<attribute name="window_context_name">used</attribute>
@@ -4610,19 +4610,19 @@
 	</row>
 	<row id="msg_0197_01149" index="1149">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 5, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika sprawił/a, że\f{STRVAR_1 8, 2, 0} był/a nieskuteczny/a!</language>
+		<language name="English">{STRVAR_1 5, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika sprawił/a, że\f{STRVAR_1 8, 2, 0} był/a nieskuteczny/a!</language>
 	</row>
 	<row id="msg_0197_01150" index="1150">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 1, 0} gracza {STRVAR_1 1, 0, 0}\nzauroczył/a {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 8, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nzauroczył/a {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_01151" index="1151">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 1, 0} gracza {STRVAR_1 1, 0, 0}\nzauroczył/a dziki {STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 8, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nzauroczył/a dziki {STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_01152" index="1152">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 1, 0} gracza {STRVAR_1 1, 0, 0}\nzauroczył/a {STRVAR_1 1, 2, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 8, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nzauroczył/a {STRVAR_1 1, 2, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_01153" index="1153">
 		<attribute name="window_context_name">used</attribute>
@@ -4634,11 +4634,11 @@
 	</row>
 	<row id="msg_0197_01155" index="1155">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika zauroczył/a\f{STRVAR_1 1, 2, 0}!</language>
+		<language name="English">{STRVAR_1 8, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika zauroczył/a\f{STRVAR_1 1, 2, 0}!</language>
 	</row>
 	<row id="msg_0197_01156" index="1156">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika zauroczył/a {STRVAR_1 1, 2, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 8, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika zauroczył/a {STRVAR_1 1, 2, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_01157" index="1157">
 		<attribute name="window_context_name">used</attribute>
@@ -4654,7 +4654,7 @@
 	</row>
 	<row id="msg_0197_01160" index="1160">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} cierpi z powodu\n{STRVAR_1 8, 2, 0} gracza {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} cierpi z powodu\n{STRVAR_1 8, 2, 0} Pokémona {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01161" index="1161">
 		<attribute name="window_context_name">used</attribute>
@@ -4662,11 +4662,11 @@
 	</row>
 	<row id="msg_0197_01162" index="1162">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} cierpi z powodu {STRVAR_1 8, 2, 0} gracza {STRVAR_1 1, 1, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} cierpi z powodu {STRVAR_1 8, 2, 0} Pokémona {STRVAR_1 1, 1, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_01163" index="1163">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dziki {STRVAR_1 1, 0, 0} cierpi z powodu\n{STRVAR_1 8, 2, 0} gracza {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">Dziki {STRVAR_1 1, 0, 0} cierpi z powodu\n{STRVAR_1 8, 2, 0} Pokémona {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01164" index="1164">
 		<attribute name="window_context_name">used</attribute>
@@ -4674,11 +4674,11 @@
 	</row>
 	<row id="msg_0197_01165" index="1165">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} przeciwnika cierpi z powodu\n{STRVAR_1 8, 2, 0} gracza {STRVAR_1 1, 1, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} przeciwnika cierpi z powodu\n{STRVAR_1 8, 2, 0} Pokémona {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0197_01166" index="1166">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} przeciwnika cierpi z powodu\n{STRVAR_1 8, 2, 0} gracza\f{STRVAR_1 1, 1, 0} przeciwnika!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} przeciwnika cierpi z powodu\n{STRVAR_1 8, 2, 0} Pokémona\f{STRVAR_1 1, 1, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_01167" index="1167">
 		<attribute name="window_context_name">used</attribute>
@@ -4826,7 +4826,7 @@
 	</row>
 	<row id="msg_0197_01203" index="1203">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 13, 1, 0} gracza\n{STRVAR_1 1, 0, 0} wzrósł/wzrosła!</language>
+		<language name="English">{STRVAR_1 13, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} wzrósł/wzrosła!</language>
 	</row>
 	<row id="msg_0197_01204" index="1204">
 		<attribute name="window_context_name">used</attribute>
@@ -4850,7 +4850,7 @@
 	</row>
 	<row id="msg_0197_01209" index="1209">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Poparzenie gracza {STRVAR_1 1, 0, 0}\nzostało wyleczone.</language>
+		<language name="English">Poparzenie Pokémona {STRVAR_1 1, 0, 0}\nzostało wyleczone.</language>
 	</row>
 	<row id="msg_0197_01210" index="1210">
 		<attribute name="window_context_name">used</attribute>
@@ -4870,7 +4870,7 @@
 	</row>
 	<row id="msg_0197_01214" index="1214">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">HP gracza {STRVAR_1 1, 0, 0} zostało\nprzywrócone o {STRVAR_1 52, 1, 0} pkt.</language>
+		<language name="English">HP Pokémona {STRVAR_1 1, 0, 0} zostało\nprzywrócone o {STRVAR_1 52, 1, 0} pkt.</language>
 	</row>
 	<row id="msg_0197_01215" index="1215">
 		<attribute name="window_context_name">used</attribute>
@@ -4986,7 +4986,7 @@
 	</row>
 	<row id="msg_0197_01243" index="1243">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To przełamało obronę\ngracza {STRVAR_1 1, 0, 0}!</language>
+		<language name="English">To przełamało obronę\nPokémona {STRVAR_1 1, 0, 0}!</language>
 	</row>
 	<row id="msg_0197_01244" index="1244">
 		<attribute name="window_context_name">used</attribute>
@@ -4994,7 +4994,7 @@
 	</row>
 	<row id="msg_0197_01245" index="1245">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To przełamało obronę gracza {STRVAR_1 1, 0, 0} przeciwnika!</language>
+		<language name="English">To przełamało obronę Pokémona {STRVAR_1 1, 0, 0} przeciwnika!</language>
 	</row>
 	<row id="msg_0197_01246" index="1246">
 		<attribute name="window_context_name">used</attribute>
@@ -5030,7 +5030,7 @@
 	</row>
 	<row id="msg_0197_01254" index="1254">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 1, 0} gracza {STRVAR_1 1, 0, 0}\npozwolił/a mu ruszyć się pierwszemu!</language>
+		<language name="English">{STRVAR_1 8, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\npozwolił/a mu ruszyć się pierwszemu!</language>
 	</row>
 	<row id="msg_0197_01255" index="1255">
 		<attribute name="window_context_name">used</attribute>
@@ -5038,11 +5038,11 @@
 	</row>
 	<row id="msg_0197_01256" index="1256">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika pozwolił/a mu\fruszyć się pierwszemu!</language>
+		<language name="English">{STRVAR_1 8, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika pozwolił/a mu\fruszyć się pierwszemu!</language>
 	</row>
 	<row id="msg_0197_01257" index="1257">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 6, 1, 0} gracza {STRVAR_1 1, 0, 0}\nprzestał działać!</language>
+		<language name="English">{STRVAR_1 6, 1, 0} Pokémona {STRVAR_1 1, 0, 0}\nprzestał działać!</language>
 	</row>
 	<row id="msg_0197_01258" index="1258">
 		<attribute name="window_context_name">used</attribute>
@@ -5050,7 +5050,7 @@
 	</row>
 	<row id="msg_0197_01259" index="1259">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 6, 1, 0} gracza\n{STRVAR_1 1, 0, 0} przeciwnika przestał działać!</language>
+		<language name="English">{STRVAR_1 6, 1, 0} Pokémona\n{STRVAR_1 1, 0, 0} przeciwnika przestał działać!</language>
 	</row>
 	<row id="msg_0197_01260" index="1260">
 		<attribute name="window_context_name">used</attribute>
