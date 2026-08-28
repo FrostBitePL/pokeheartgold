@@ -18,23 +18,23 @@
 	</row>
 	<row id="msg_0273_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Choose your destination.</language>
+		<language name="English">Wybierz swój cel.</language>
 	</row>
 	<row id="msg_0273_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fly to {STRVAR_1 4, 0, 0}?</language>
+		<language name="English">Polecieć do {STRVAR_1 4, 0, 0}?</language>
 	</row>
 	<row id="msg_0273_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Close</language>
+		<language name="English">Zamknij</language>
 	</row>
 	<row id="msg_0273_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fly</language>
+		<language name="English">Leć</language>
 	</row>
 	<row id="msg_0273_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Quit</language>
+		<language name="English">Wyjdź</language>
 	</row>
 	<row id="msg_0273_00009" index="9">
 		<attribute name="window_context_name">garbage</attribute>
@@ -43,167 +43,167 @@
 	</row>
 	<row id="msg_0273_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A fairly new and quiet town.\nIt’s a small and pretty place.</language>
+		<language name="English">Dość nowe i ciche miasteczko.\nTo małe i urokliwe miejsce.</language>
 	</row>
 	<row id="msg_0273_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A beautiful city that is enveloped\nin green year-round.</language>
+		<language name="English">Piękne miasto spowite zielenią\nprzez cały rok.</language>
 	</row>
 	<row id="msg_0273_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A quiet city nestled between\nrugged mountains and rocks.</language>
+		<language name="English">Ciche miasto zagnieżdżone wśród\nsurowych gór i skał.</language>
 	</row>
 	<row id="msg_0273_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A beautiful city with flowing\nwater and blooming flowers.</language>
+		<language name="English">Piękne miasto z płynącą wodą\ni kwitnącymi kwiatami.</language>
 	</row>
 	<row id="msg_0273_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A small town covered in a\nbeautiful hue of purple.</language>
+		<language name="English">Małe miasteczko spowite pięknym\nodcieniem fioletu.</language>
 	</row>
 	<row id="msg_0273_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A southern city that is bathed\nin orange by the setting sun.</language>
+		<language name="English">Południowe miasto skąpane\nw pomarańczy zachodzącego słońca.</language>
 	</row>
 	<row id="msg_0273_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A rich, rainbow-colored city where\npeople and Pokémon gather.</language>
+		<language name="English">Bogate, mieniące się tęczą miasto,\ngdzie gromadzą się ludzie i Pokémony.</language>
 	</row>
 	<row id="msg_0273_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A historic village that has\nbecome new.</language>
+		<language name="English">Historyczna wioska, która\nstała się nowa na nowo.</language>
 	</row>
 	<row id="msg_0273_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A town used to be here until it\nwas swept away by an eruption.</language>
+		<language name="English">Miasteczko istniało tutaj, dopóki\nnie zmiotła go erupcja.</language>
 	</row>
 	<row id="msg_0273_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The fate of many Trainers aiming for\nthe top rests here.</language>
+		<language name="English">Los wielu Trenerów dążących do\nszczytu rozstrzyga się właśnie tutaj.</language>
 	</row>
 	<row id="msg_0273_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The biggest city in Kanto, shining\nwith a golden light.</language>
+		<language name="English">Największe miasto w Kanto, lśniące\nzłotym blaskiem.</language>
 	</row>
 	<row id="msg_0273_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A town where the wind blows and\ntells of impending change.</language>
+		<language name="English">Miasteczko, gdzie wiatr wieje\ni zwiastuje nadchodzącą zmianę.</language>
 	</row>
 	<row id="msg_0273_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A city where you can smell small\nflowers and a sea breeze.</language>
+		<language name="English">Miasto, gdzie poczujesz zapach\nmałych kwiatów i morskiej bryzy.</language>
 	</row>
 	<row id="msg_0273_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This old village is still surrounded\nby trees and other scenery.</language>
+		<language name="English">Ta stara wioska wciąż otoczona jest\ndrzewami i innymi malowniczymi widokami.</language>
 	</row>
 	<row id="msg_0273_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A town where people and Pokémon\nlive together in simple harmony.</language>
+		<language name="English">Miasteczko, gdzie ludzie i Pokémony\nżyją razem w prostej harmonii.</language>
 	</row>
 	<row id="msg_0273_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A beachside city that has\nbenefitted greatly from the sea.</language>
+		<language name="English">Nadmorskie miasto, które wiele\nzawdzięcza morzu.</language>
 	</row>
 	<row id="msg_0273_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A developing city where people and\nPokémon come and go as they like.</language>
+		<language name="English">Rozwijające się miasto, gdzie ludzie\ni Pokémony przychodzą i odchodzą wedle woli.</language>
 	</row>
 	<row id="msg_0273_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A city where you can hear the\nmelody of the sea.</language>
+		<language name="English">Miasto, w którym możesz usłyszeć\nmelodię morza.</language>
 	</row>
 	<row id="msg_0273_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A city that even now bears the\nmarks of its history.</language>
+		<language name="English">Miasto, które do dziś nosi\nślady swojej historii.</language>
 	</row>
 	<row id="msg_0273_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A town with a suspicious air to it.\nIt’s a hiding place for ninjas.</language>
+		<language name="English">Miasteczko o podejrzanej atmosferze.\nTo kryjówka ninja.</language>
 	</row>
 	<row id="msg_0273_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A huge lake full of clear, blue water.</language>
+		<language name="English">Ogromne jezioro pełne czystej,\nbłękitnej wody.</language>
 	</row>
 	<row id="msg_0273_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A mysterious mountain village cut\ninto a rock face.</language>
+		<language name="English">Tajemnicza górska wioska wykuta\nw ścianie skalnej.</language>
 	</row>
 	<row id="msg_0273_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A mountain where something mysterious\nawaits you underfoot.</language>
+		<language name="English">Góra, gdzie coś tajemniczego\nczeka pod ziemią.</language>
 	</row>
 	<row id="msg_0273_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A tunnel dug by DIGLETT connecting\nVermilion City to Pewter City.</language>
+		<language name="English">Tunel wykopany przez DIGLETTY,\nłączący Vermilion City z Pewter City.</language>
 	</row>
 	<row id="msg_0273_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A mountain where a star fell.\nIt now holds a mysterious power.</language>
+		<language name="English">Góra, na którą spadła gwiazda.\nTeraz kryje w sobie tajemniczą moc.</language>
 	</row>
 	<row id="msg_0273_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A cave that had collapsed once.\nIt has been reconstructed.</language>
+		<language name="English">Jaskinia, która niegdyś się zawaliła.\nZostała odbudowana.</language>
 	</row>
 	<row id="msg_0273_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A dark tunnel that begins in Lavender\nTown and comes out in Cerulean City.</language>
+		<language name="English">Mroczny tunel, który zaczyna się\nw Lavender Town i wychodzi w Cerulean City.</language>
 	</row>
 	<row id="msg_0273_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This used to be the location of the\nSafari Zone, but is now the Pal Park.</language>
+		<language name="English">To dawna lokalizacja Strefy Safari,\nktóra teraz jest Pal Parkiem.</language>
 	</row>
 	<row id="msg_0273_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Two small islands lightly floating in\nthe ocean.</language>
+		<language name="English">Dwie małe wysepki lekko unoszące\nsię na oceanie.</language>
 	</row>
 	<row id="msg_0273_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A tower where they study diligently\nto learn to live with Pokémon.</language>
+		<language name="English">Wieża, gdzie pilnie studiują,\naby nauczyć się żyć z Pokémonami.</language>
 	</row>
 	<row id="msg_0273_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A tower that’s said to have a\nlegendary Pokémon that lands there.</language>
+		<language name="English">Wieża, na którą podobno ląduje\nlegendarny Pokémon.</language>
 	</row>
 	<row id="msg_0273_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A path said to always be bathed in\nsunset, no matter what the season.</language>
+		<language name="English">Ścieżka, o której mówi się, że zawsze\njest skąpana w zachodzie słońca, bez\nwzględu na porę roku.</language>
 	</row>
 	<row id="msg_0273_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A tower that was hit by lightning, and\nsubsequently caught fire and burned.</language>
+		<language name="English">Wieża, w którą uderzył piorun,\na następnie zajęła się ogniem i spłonęła.</language>
 	</row>
 	<row id="msg_0273_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A spacious and beautiful park. It’s\nconnected to the Pokéathlon Dome.</language>
+		<language name="English">Przestronny i piękny park.\nPołączony jest z Pokéathlon Dome.</language>
 	</row>
 	<row id="msg_0273_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An old building that has been reused\nas a radio broadcasting tower.</language>
+		<language name="English">Stary budynek, który został\nprzerobiony na wieżę radiową.</language>
 	</row>
 	<row id="msg_0273_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A place where you can find a\nformer adventure.</language>
+		<language name="English">Miejsce, gdzie możesz odnaleźć\ndawną przygodę.</language>
 	</row>
 	<row id="msg_0273_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Deep underground, it’s connected to\nthe ocean. The water flows here.</language>
+		<language name="English">Głęboko pod ziemią, połączona\nz oceanem. Tutaj płynie woda.</language>
 	</row>
 	<row id="msg_0273_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When SLOWPOKE are thirsty, they come\nhere to drink.</language>
+		<language name="English">Gdy SLOWPOKE są spragnione,\nprzychodzą się tu napić.</language>
 	</row>
 	<row id="msg_0273_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It shines brightly over the ocean with\nthe power of AMPHAROS.</language>
+		<language name="English">Jaśnieje jasno nad oceanem dzięki\nmocy AMPHAROSA.</language>
 	</row>
 	<row id="msg_0273_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Battle Stadium with five different\nsets of rules to enjoy.</language>
+		<language name="English">Battle Stadium z pięcioma różnymi\nzestawami zasad do wypróbowania.</language>
 	</row>
 	<row id="msg_0273_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A place where people from all over\ncome to show off their strength.</language>
+		<language name="English">Miejsce, gdzie ludzie z całego świata\nprzybywają, by pochwalić się siłą.</language>
 	</row>
 	<row id="msg_0273_00051" index="51">
 		<attribute name="window_context_name">garbage</attribute>
@@ -212,7 +212,7 @@
 	</row>
 	<row id="msg_0273_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A large forest full of trees that are\nused to make charcoal.</language>
+		<language name="English">Wielki las pełen drzew\nużywanych do produkcji węgla drzewnego.</language>
 	</row>
 	<row id="msg_0273_00053" index="53">
 		<attribute name="window_context_name">garbage</attribute>
@@ -221,27 +221,27 @@
 	</row>
 	<row id="msg_0273_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A naturally large cavern that is\nincredibly spacious.</language>
+		<language name="English">Naturalna, ogromna jaskinia,\nniezwykle przestronna.</language>
 	</row>
 	<row id="msg_0273_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A cave that connects Route 44 to\nBlackthorn City.</language>
+		<language name="English">Jaskinia łącząca Route 44\nz Blackthorn City.</language>
 	</row>
 	<row id="msg_0273_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Four islands that are protected by\nwhirlpools and are difficult to reach.</language>
+		<language name="English">Cztery wyspy chronione przez wiry\nwodne i trudne do osiągnięcia.</language>
 	</row>
 	<row id="msg_0273_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A hallowed mountain that rises\nbetween the Johto and Kanto regions.</language>
+		<language name="English">Uświęcona góra, wznosząca się\npomiędzy regionami Johto i Kanto.</language>
 	</row>
 	<row id="msg_0273_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A dark, difficult-to-navigate tunnel\nthat runs beneath the Johto region.</language>
+		<language name="English">Mroczny, trudny do przemierzenia tunel,\nktóry biegnie pod regionem Johto.</language>
 	</row>
 	<row id="msg_0273_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A road that tests Trainers\naiming at the Pokémon League.</language>
+		<language name="English">Droga, która sprawdza Trenerów\ndążących do Ligi Pokémon.</language>
 	</row>
 	<row id="msg_0273_00060" index="60">
 		<attribute name="window_context_name">garbage</attribute>
@@ -250,15 +250,15 @@
 	</row>
 	<row id="msg_0273_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Tohjo waterfall that links the\nKanto and Johto regions.</language>
+		<language name="English">Wodospad Tohjo, który łączy\nregiony Kanto i Johto.</language>
 	</row>
 	<row id="msg_0273_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A forest filled with nature and\nBug-type Pokémon.</language>
+		<language name="English">Las pełen natury i Pokémonów\ntypu Bug.</language>
 	</row>
 	<row id="msg_0273_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A place where Pokémon can compete\nagainst each other’s strengths.</language>
+		<language name="English">Miejsce, gdzie Pokémony mogą\nrywalizować, mierząc swoje siły.</language>
 	</row>
 	<row id="msg_0273_00064" index="64">
 		<attribute name="window_context_name">garbage</attribute>
@@ -267,7 +267,7 @@
 	</row>
 	<row id="msg_0273_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A snow-covered area of old legends,\nsurrounded by a wall of snow.</language>
+		<language name="English">Pokryty śniegiem obszar dawnych legend,\notoczony ścianą śniegu.</language>
 	</row>
 	<row id="msg_0273_00066" index="66">
 		<attribute name="window_context_name">garbage</attribute>
@@ -276,103 +276,103 @@
 	</row>
 	<row id="msg_0273_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The plant that generates all the\nenergy for the Kanto region.</language>
+		<language name="English">Elektrownia zasilająca cały\nregion Kanto.</language>
 	</row>
 	<row id="msg_0273_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A place where you can experience\nwild thrills safely.</language>
+		<language name="English">Miejsce, gdzie możesz bezpiecznie\ndoświadczyć dzikich emocji.</language>
 	</row>
 	<row id="msg_0273_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A boat that traverses ocean paths\nusing hydraulic power.</language>
+		<language name="English">Łódź, która przemierza morskie szlaki\nza pomocą napędu hydraulicznego.</language>
 	</row>
 	<row id="msg_0273_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A country road full of greenery and\nrough paths.</language>
+		<language name="English">Wiejska droga pełna zieleni\ni wyboistych ścieżek.</language>
 	</row>
 	<row id="msg_0273_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A path that winds and bends from the\nforest’s entrance.</language>
+		<language name="English">Ścieżka, która wije się i skręca\nod wejścia do lasu.</language>
 	</row>
 	<row id="msg_0273_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A road where many rocks have fallen\nfrom the sky to create craters.</language>
+		<language name="English">Droga, na którą spadło z nieba wiele\nskał, tworząc kratery.</language>
 	</row>
 	<row id="msg_0273_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A one-way road down a hill that has\na gentle slope and is fun to traverse.</language>
+		<language name="English">Jednokierunkowa droga w dół wzgórza\no łagodnym nachyleniu, przyjemna do przejścia.</language>
 	</row>
 	<row id="msg_0273_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A road running north of Saffron City\nconnecting to the Underground Path.</language>
+		<language name="English">Droga biegnąca na północ od Saffron\nCity, łącząca się z Podziemnym Przejściem.</language>
 	</row>
 	<row id="msg_0273_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A road running south of Saffron City\nconnecting to the Underground Path.</language>
+		<language name="English">Droga biegnąca na południe od Saffron\nCity, łącząca się z Podziemnym Przejściem.</language>
 	</row>
 	<row id="msg_0273_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A short road that leads to the\nblocked-off Underground Path.</language>
+		<language name="English">Krótka droga prowadząca do\nzablokowanego Podziemnego Przejścia.</language>
 	</row>
 	<row id="msg_0273_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A short road that leads to the\nblocked-off Underground Path.</language>
+		<language name="English">Krótka droga prowadząca do\nzablokowanego Podziemnego Przejścia.</language>
 	</row>
 	<row id="msg_0273_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A road that forms a maze crossing a\nsmall, rocky mountain.</language>
+		<language name="English">Droga tworząca labirynt przecinający\nmałą, skalistą górę.</language>
 	</row>
 	<row id="msg_0273_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A road that passes along the canal\nand comes out at the Power Plant.</language>
+		<language name="English">Droga biegnąca wzdłuż kanału\ni wychodząca przy Elektrowni.</language>
 	</row>
 	<row id="msg_0273_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A grassy path with a gentle,\nrefreshing breeze.</language>
+		<language name="English">Trawiasta ścieżka z łagodną,\norzeźwiającą bryzą.</language>
 	</row>
 	<row id="msg_0273_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A bridge known for its fishing.\nIt’s also called “Silence Bridge.”</language>
+		<language name="English">Most znany z wędkarstwa.\nNazywany jest też „Mostem Ciszy”.</language>
 	</row>
 	<row id="msg_0273_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A difficult, narrow path where many\nTrainers await you.</language>
+		<language name="English">Trudna, wąska ścieżka, na której\nczeka wielu Trenerów.</language>
 	</row>
 	<row id="msg_0273_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A pleasant coastal road where the\nbreeze blows and waves roar.</language>
+		<language name="English">Przyjemna nadmorska droga, gdzie\nwieje bryza i huczą fale.</language>
 	</row>
 	<row id="msg_0273_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A path that cuts through the row of\ntrees to come out on the coastline.</language>
+		<language name="English">Ścieżka, która przecina rząd drzew\ni wychodzi na wybrzeże.</language>
 	</row>
 	<row id="msg_0273_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The northern starting point of\nCycling Road.</language>
+		<language name="English">Północny punkt startowy\nCycling Road.</language>
 	</row>
 	<row id="msg_0273_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An easy path of Cycling Road running\nabove the sea.</language>
+		<language name="English">Łatwy odcinek Cycling Road,\nbiegnący nad morzem.</language>
 	</row>
 	<row id="msg_0273_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The southern ending point of\nCycling Road.</language>
+		<language name="English">Południowy punkt końcowy\nCycling Road.</language>
 	</row>
 	<row id="msg_0273_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A coastal road littered with rocks due\nto Cinnabar Island’s volcano eruption.</language>
+		<language name="English">Nadmorska droga zaśmiecona skałami\nz powodu erupcji wulkanu na Cinnabar Island.</language>
 	</row>
 	<row id="msg_0273_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A popular path with swimmers.\nThe Seafoam Islands are also here.</language>
+		<language name="English">Popularna wśród pływaków ścieżka.\nZnajdują się tu również Seafoam Islands.</language>
 	</row>
 	<row id="msg_0273_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A coastal road where the only threat\nmight be the volcano on the horizon.</language>
+		<language name="English">Nadmorska droga, gdzie jedynym\nzagrożeniem może być wulkan na horyzoncie.</language>
 	</row>
 	<row id="msg_0273_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A path to Victory Road that\neventually becomes impassable.</language>
+		<language name="English">Droga do Victory Road, która\nw końcu staje się nieprzejezdna.</language>
 	</row>
 	<row id="msg_0273_00092" index="92">
 		<attribute name="window_context_name">garbage</attribute>
@@ -381,102 +381,102 @@
 	</row>
 	<row id="msg_0273_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A beautiful bridge that stretches\nacross a river.</language>
+		<language name="English">Piękny most rozciągający się\nnad rzeką.</language>
 	</row>
 	<row id="msg_0273_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A path that winds through the forest\nand comes out overlooking the sea.</language>
+		<language name="English">Ścieżka, która wije się przez las\ni wychodzi z widokiem na morze.</language>
 	</row>
 	<row id="msg_0273_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An unimaginably difficult mountain road\nthat gives the impression of a test.</language>
+		<language name="English">Niewyobrażalnie trudna górska droga,\nktóra sprawia wrażenie próby.</language>
 	</row>
 	<row id="msg_0273_00096" index="96">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A road that crosses from Johto to\nthe Kanto region, like a new journey.</language>
+		<language name="English">Droga prowadząca z Johto do\nregionu Kanto, jak nowa podróż.</language>
 	</row>
 	<row id="msg_0273_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A vacant and hidden mountain road\nthat continues to Mt. Silver.</language>
+		<language name="English">Pusta i ukryta górska droga,\nktóra prowadzi dalej na Mt. Silver.</language>
 	</row>
 	<row id="msg_0273_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A road that begins a journey. The\nroad smells like freshly cut grass.</language>
+		<language name="English">Droga, która zaczyna podróż. Ta droga\npachnie świeżo skoszoną trawą.</language>
 	</row>
 	<row id="msg_0273_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A grassy path where you can battle\nother young Trainers.</language>
+		<language name="English">Trawiasta ścieżka, gdzie możesz\nwalczyć z innymi młodymi Trenerami.</language>
 	</row>
 	<row id="msg_0273_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A short, nostalgic path winding\nthrough nature.</language>
+		<language name="English">Krótka, nostalgiczna ścieżka\nwijąca się przez naturę.</language>
 	</row>
 	<row id="msg_0273_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A path crossed by the Magnet Train\nbridge--nature meets technology.</language>
+		<language name="English">Ścieżka przecięta mostem Magnetycznego\nPociągu -- natura spotyka technologię.</language>
 	</row>
 	<row id="msg_0273_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A difficult and always rainy path\nthat comes out in a cave.</language>
+		<language name="English">Trudna i wiecznie deszczowa ścieżka,\nktóra wychodzi w jaskini.</language>
 	</row>
 	<row id="msg_0273_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A lush, green path, even though it’s\nright next to a city.</language>
+		<language name="English">Bujna, zielona ścieżka, mimo że\nznajduje się tuż obok miasta.</language>
 	</row>
 	<row id="msg_0273_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A bright path with a lake that’s easy\non the eyes and easy to traverse.</language>
+		<language name="English">Jasna ścieżka z jeziorem, przyjemna\ndla oka i łatwa do przejścia.</language>
 	</row>
 	<row id="msg_0273_00105" index="105">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A green and densely overgrown path\nthat forks in two directions.</language>
+		<language name="English">Zielona i gęsto zarośnięta ścieżka,\nktóra rozdziela się na dwa kierunki.</language>
 	</row>
 	<row id="msg_0273_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A popular route for Trainers, marked\nby three Apricorn trees.</language>
+		<language name="English">Popularna wśród Trenerów trasa,\noznaczona trzema drzewami Owoców Jagodnych.</language>
 	</row>
 	<row id="msg_0273_00107" index="107">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A path that weaves through trees\nand comes out at a farm.</language>
+		<language name="English">Ścieżka, która wije się między\ndrzewami i wychodzi przy farmie.</language>
 	</row>
 	<row id="msg_0273_00108" index="108">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A downhill path that passes through a\ngrassy and breezy plain.</language>
+		<language name="English">Droga w dół, przechodząca przez\ntrawiastą i wietrzną równinę.</language>
 	</row>
 	<row id="msg_0273_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can hear the waves on this path\nfrom west Olivine City to the sea.</language>
+		<language name="English">Na tej ścieżce słychać fale, od\nzachodniej Olivine City aż po morze.</language>
 	</row>
 	<row id="msg_0273_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A rough spot in the sea where\nwhirlpools block your path.</language>
+		<language name="English">Wzburzony fragment morza, gdzie\nwiry blokują drogę.</language>
 	</row>
 	<row id="msg_0273_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A small path opened at the base of\nchallenging Mt. Mortar.</language>
+		<language name="English">Mała ścieżka otwarta u podnóża\nwymagającej Mt. Mortar.</language>
 	</row>
 	<row id="msg_0273_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A woodland path that comes out at a\nlake. Beware the greedy gate.</language>
+		<language name="English">Leśna ścieżka, wychodząca nad jezioro.\nStrzeż się chciwej bramy.</language>
 	</row>
 	<row id="msg_0273_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A wonderful path with a few pleasant\nsprings and abundant greenery.</language>
+		<language name="English">Cudowna ścieżka z kilkoma miłymi\nźródłami i obfitą zielenią.</language>
 	</row>
 	<row id="msg_0273_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A winding road by a river, but called\n“Mountain Road.”</language>
+		<language name="English">Kręta droga nad rzeką, nazywana\njednak „Górską Drogą”.</language>
 	</row>
 	<row id="msg_0273_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A way home that runs from the base of\nthe mountain to the plains.</language>
+		<language name="English">Droga do domu, biegnąca od podnóża\ngóry aż po równiny.</language>
 	</row>
 	<row id="msg_0273_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A road on a cliff that strikes fear in\nthe hearts of those who dare to pass.</language>
+		<language name="English">Droga na klifie, budząca strach\nw sercach tych, którzy ważą się nią przejść.</language>
 	</row>
 	<row id="msg_0273_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A pleasant path from the base of the\nmountain to the Safari Zone.</language>
+		<language name="English">Przyjemna ścieżka od podnóża góry\naż do Strefy Safari.</language>
 	</row>
 </body>
