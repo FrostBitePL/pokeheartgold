@@ -2,47 +2,47 @@
 <body language="English">
 	<row id="msg_0191_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POISONED</language>
+		<language name="English">ZATRUTY</language>
 	</row>
 	<row id="msg_0191_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PARALYZED</language>
+		<language name="English">SPARALIŻOWANY</language>
 	</row>
 	<row id="msg_0191_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ASLEEP</language>
+		<language name="English">ŚPI</language>
 	</row>
 	<row id="msg_0191_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BURNED</language>
+		<language name="English">POPARZONY</language>
 	</row>
 	<row id="msg_0191_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FROZEN</language>
+		<language name="English">ZAMROŻONY</language>
 	</row>
 	<row id="msg_0191_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">WYJŚCIE</language>
 	</row>
 	<row id="msg_0191_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SINGLE BATTLE</language>
+		<language name="English">WALKA POJEDYNCZA</language>
 	</row>
 	<row id="msg_0191_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DOUBLE BATTLE</language>
+		<language name="English">WALKA PODWÓJNA</language>
 	</row>
 	<row id="msg_0191_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MIX BATTLE</language>
+		<language name="English">WALKA MIESZANA</language>
 	</row>
 	<row id="msg_0191_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MULTI BATTLE</language>
+		<language name="English">WALKA GRUPOWA</language>
 	</row>
 	<row id="msg_0191_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FLAT BATTLE</language>
+		<language name="English">WALKA WYRÓWNANA</language>
 	</row>
 	<row id="msg_0191_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -50,23 +50,23 @@
 	</row>
 	<row id="msg_0191_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">WYJŚCIE</language>
 	</row>
 	<row id="msg_0191_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">WYJŚCIE</language>
 	</row>
 	<row id="msg_0191_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">JOIN GROUP</language>
+		<language name="English">DOŁĄCZ DO GRUPY</language>
 	</row>
 	<row id="msg_0191_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BECOME LEADER</language>
+		<language name="English">ZOSTAŃ LIDEREM</language>
 	</row>
 	<row id="msg_0191_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Current Floor</language>
+		<language name="English">Obecne Piętro</language>
 	</row>
 	<row id="msg_0191_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
@@ -99,11 +99,11 @@
 	</row>
 	<row id="msg_0191_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TRADE</language>
+		<language name="English">WYMIANA</language>
 	</row>
 	<row id="msg_0191_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">ANULUJ</language>
 	</row>
 	<row id="msg_0191_00025" index="25">
 		<attribute name="window_context_name">garbage</attribute>
@@ -182,35 +182,35 @@
 	</row>
 	<row id="msg_0191_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CONFIRM</language>
+		<language name="English">POTWIERDŹ</language>
 	</row>
 	<row id="msg_0191_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RULES</language>
+		<language name="English">ZASADY</language>
 	</row>
 	<row id="msg_0191_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">YES</language>
+		<language name="English">TAK</language>
 	</row>
 	<row id="msg_0191_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO</language>
+		<language name="English">NIE</language>
 	</row>
 	<row id="msg_0191_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">WYJŚCIE</language>
 	</row>
 	<row id="msg_0191_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">ANULUJ</language>
 	</row>
 	<row id="msg_0191_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}YES</language>
+		<language name="English">{ALN_CENTER}TAK</language>
 	</row>
 	<row id="msg_0191_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}NO</language>
+		<language name="English">{ALN_CENTER}NIE</language>
 	</row>
 	<row id="msg_0191_00048" index="48">
 		<attribute name="window_context_name">garbage</attribute>
@@ -234,7 +234,7 @@
 	</row>
 	<row id="msg_0191_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BATTLE</language>
+		<language name="English">WALKA</language>
 	</row>
 	<row id="msg_0191_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
@@ -264,7 +264,7 @@
 	</row>
 	<row id="msg_0191_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DRAW</language>
+		<language name="English">REMIS</language>
 	</row>
 	<row id="msg_0191_00060" index="60">
 		<attribute name="window_context_name">garbage</attribute>
@@ -273,43 +273,43 @@
 	</row>
 	<row id="msg_0191_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SOMEONE’S PC</language>
+		<language name="English">CZYJŚ PC</language>
 	</row>
 	<row id="msg_0191_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BILL’S PC</language>
+		<language name="English">PC BILLA</language>
 	</row>
 	<row id="msg_0191_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’s PC</language>
+		<language name="English">PC GRACZA {STRVAR_1 3, 0, 0}</language>
 	</row>
 	<row id="msg_0191_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">HALL OF FAME</language>
+		<language name="English">GALERIA SŁAWY</language>
 	</row>
 	<row id="msg_0191_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PHOTO ALBUM</language>
+		<language name="English">ALBUM ZDJĘĆ</language>
 	</row>
 	<row id="msg_0191_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SWITCH OFF</language>
+		<language name="English">WYŁĄCZ</language>
 	</row>
 	<row id="msg_0191_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DEPOSIT\nPOKéMON</language>
+		<language name="English">ZDEPONUJ\nPOKéMONA</language>
 	</row>
 	<row id="msg_0191_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WITHDRAW\nPOKéMON</language>
+		<language name="English">WYPŁAĆ\nPOKéMONA</language>
 	</row>
 	<row id="msg_0191_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MOVE\nPOKéMON</language>
+		<language name="English">PRZENIEŚ\nPOKéMONA</language>
 	</row>
 	<row id="msg_0191_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MOVE\nITEMS</language>
+		<language name="English">PRZENIEŚ\nPRZEDMIOTY</language>
 	</row>
 	<row id="msg_0191_00071" index="71">
 		<attribute name="window_context_name">garbage</attribute>
@@ -318,35 +318,35 @@
 	</row>
 	<row id="msg_0191_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SEE YA!</language>
+		<language name="English">DO ZOBACZENIA!</language>
 	</row>
 	<row id="msg_0191_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MAILBOX</language>
+		<language name="English">SKRZYNKA POCZTOWA</language>
 	</row>
 	<row id="msg_0191_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BALL CAPSULES</language>
+		<language name="English">KAPSUŁY BALLI</language>
 	</row>
 	<row id="msg_0191_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LOG OUT</language>
+		<language name="English">WYLOGUJ</language>
 	</row>
 	<row id="msg_0191_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon in your party may be stored\nin the storage system’s Boxes.</language>
+		<language name="English">Pokémony z twojej drużyny mogą być\nprzechowywane w Pudełkach systemu\fprzechowywania.</language>
 	</row>
 	<row id="msg_0191_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon stored in Boxes may be added\nto your party.</language>
+		<language name="English">Pokémony przechowywane w Pudełkach\nmogą zostać dodane do twojej drużyny.</language>
 	</row>
 	<row id="msg_0191_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You may sort the Pokémon in Boxes\nand in your party.</language>
+		<language name="English">Możesz uporządkować Pokémony\nw Pudełkach i w swojej drużynie.</language>
 	</row>
 	<row id="msg_0191_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You may sort the items held by your\nPokémon in Boxes and in your party.</language>
+		<language name="English">Możesz uporządkować przedmioty\ntrzymane przez Pokémony w Pudełkach\fi w drużynie.</language>
 	</row>
 	<row id="msg_0191_00080" index="80">
 		<attribute name="window_context_name">garbage</attribute>
@@ -355,23 +355,23 @@
 	</row>
 	<row id="msg_0191_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Log out of the Pokémon Storage\nSystem.</language>
+		<language name="English">Wyloguj się z Systemu\nPrzechowywania Pokémonów.</language>
 	</row>
 	<row id="msg_0191_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Up to 20 pieces of Mail can be\nstored.</language>
+		<language name="English">Można przechować do 20 sztuk\nPoczty.</language>
 	</row>
 	<row id="msg_0191_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You may set or edit Capsules for\ndecorating Poké Balls.</language>
+		<language name="English">Możesz ustawiać lub edytować Kapsuły\ndo ozdabiania Poké Balli.</language>
 	</row>
 	<row id="msg_0191_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Log out of your PC.</language>
+		<language name="English">Wyloguj się ze swojego PC.</language>
 	</row>
 	<row id="msg_0191_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You may look at pictures you\nhave taken on your adventure.</language>
+		<language name="English">Możesz obejrzeć zdjęcia zrobione\npodczas swojej przygody.</language>
 	</row>
 	<row id="msg_0191_00086" index="86">
 		<attribute name="window_context_name">garbage</attribute>
@@ -415,7 +415,7 @@
 	</row>
 	<row id="msg_0191_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">ANULUJ</language>
 	</row>
 	<row id="msg_0191_00095" index="95">
 		<attribute name="window_context_name">garbage</attribute>
@@ -524,31 +524,31 @@
 	</row>
 	<row id="msg_0191_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">1F</language>
+		<language name="English">1P</language>
 	</row>
 	<row id="msg_0191_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">2F</language>
+		<language name="English">2P</language>
 	</row>
 	<row id="msg_0191_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">3F</language>
+		<language name="English">3P</language>
 	</row>
 	<row id="msg_0191_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">4F</language>
+		<language name="English">4P</language>
 	</row>
 	<row id="msg_0191_00120" index="120">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">5F</language>
+		<language name="English">5P</language>
 	</row>
 	<row id="msg_0191_00121" index="121">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">6F</language>
+		<language name="English">6P</language>
 	</row>
 	<row id="msg_0191_00122" index="122">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">B1F</language>
+		<language name="English">P1</language>
 	</row>
 	<row id="msg_0191_00123" index="123">
 		<attribute name="window_context_name">garbage</attribute>
@@ -562,23 +562,23 @@
 	</row>
 	<row id="msg_0191_00125" index="125">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ROOF</language>
+		<language name="English">DACH</language>
 	</row>
 	<row id="msg_0191_00126" index="126">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">WYJŚCIE</language>
 	</row>
 	<row id="msg_0191_00127" index="127">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">50 Coins{CURSOR_X 60}$1,000</language>
+		<language name="English">50 Żetonów{CURSOR_X 60}$1000</language>
 	</row>
 	<row id="msg_0191_00128" index="128">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">500 Coins{CURSOR_X 60}$10,000</language>
+		<language name="English">500 Żetonów{CURSOR_X 60}$10 000</language>
 	</row>
 	<row id="msg_0191_00129" index="129">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO THANKS</language>
+		<language name="English">NIE, DZIĘKI</language>
 	</row>
 	<row id="msg_0191_00130" index="130">
 		<attribute name="window_context_name">used</attribute>
@@ -586,35 +586,35 @@
 	</row>
 	<row id="msg_0191_00131" index="131">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TRADE</language>
+		<language name="English">WYMIANA</language>
 	</row>
 	<row id="msg_0191_00132" index="132">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">WYJŚCIE</language>
 	</row>
 	<row id="msg_0191_00133" index="133">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OFFER POKéMON?</language>
+		<language name="English">OFERUJESZ POKÉMONA?</language>
 	</row>
 	<row id="msg_0191_00134" index="134">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SEEK POKéMON?</language>
+		<language name="English">SZUKASZ POKÉMONA?</language>
 	</row>
 	<row id="msg_0191_00135" index="135">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">UNDERSTOOD!</language>
+		<language name="English">ZROZUMIANO!</language>
 	</row>
 	<row id="msg_0191_00136" index="136">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0}{STRVAR_1 2, 2, 0}{CURSOR_X 90}Lv. {STRVAR_1 52, 1, 0}</language>
+		<language name="English">{STRVAR_1 0, 0, 0}{STRVAR_1 2, 2, 0}{CURSOR_X 90}Poz. {STRVAR_1 52, 1, 0}</language>
 	</row>
 	<row id="msg_0191_00137" index="137">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0}{STRVAR_1 2, 2, 0}{CURSOR_X 90}Lv. {STRVAR_1 52, 1, 0}</language>
+		<language name="English">{STRVAR_1 0, 0, 0}{STRVAR_1 2, 2, 0}{CURSOR_X 90}Poz. {STRVAR_1 52, 1, 0}</language>
 	</row>
 	<row id="msg_0191_00138" index="138">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">ANULUJ</language>
 	</row>
 	<row id="msg_0191_00139" index="139">
 		<attribute name="window_context_name">garbage</attribute>
@@ -628,15 +628,15 @@
 	</row>
 	<row id="msg_0191_00141" index="141">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SPIN</language>
+		<language name="English">OBRÓT</language>
 	</row>
 	<row id="msg_0191_00142" index="142">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RECORDS</language>
+		<language name="English">REKORDY</language>
 	</row>
 	<row id="msg_0191_00143" index="143">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHALLENGE</language>
+		<language name="English">WYZWANIE</language>
 	</row>
 	<row id="msg_0191_00144" index="144">
 		<attribute name="window_context_name">used</attribute>
@@ -644,29 +644,29 @@
 	</row>
 	<row id="msg_0191_00145" index="145">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">WYJŚCIE</language>
 	</row>
 	<row id="msg_0191_00146" index="146">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English">KONTYNUUJ</language>
 		<language name="日本語">XXXX</language>
 	</row>
 	<row id="msg_0191_00147" index="147">
 		<attribute name="window_context_name">garbage</attribute>
-		<language name="English"></language>
+		<language name="English">ODPOCZNIJ</language>
 		<language name="日本語">XXX</language>
 	</row>
 	<row id="msg_0191_00148" index="148">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">KEEP GOING</language>
+		<language name="English">KONTYNUUJ</language>
 	</row>
 	<row id="msg_0191_00149" index="149">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">REST</language>
+		<language name="English">ODPOCZNIJ</language>
 	</row>
 	<row id="msg_0191_00150" index="150">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RETIRE</language>
+		<language name="English">WYCOFAJ SIĘ</language>
 	</row>
 	<row id="msg_0191_00151" index="151">
 		<attribute name="window_context_name">garbage</attribute>
@@ -680,75 +680,75 @@
 	</row>
 	<row id="msg_0191_00153" index="153">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHECK LEADERS</language>
+		<language name="English">SPRAWDŹ LIDERÓW</language>
 	</row>
 	<row id="msg_0191_00154" index="154">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHALLENGE\nEARLIER ROOM</language>
+		<language name="English">WYZWIJ\nWCZEŚNIEJSZĄ SALĘ</language>
 	</row>
 	<row id="msg_0191_00155" index="155">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHECK LEADERS</language>
+		<language name="English">SPRAWDŹ LIDERÓW</language>
 	</row>
 	<row id="msg_0191_00156" index="156">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">REGISTER A FRIEND?</language>
+		<language name="English">ZAREJESTROWAĆ PRZYJACIELA?</language>
 	</row>
 	<row id="msg_0191_00157" index="157">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">UNDERSTOOD!</language>
+		<language name="English">ZROZUMIANO!</language>
 	</row>
 	<row id="msg_0191_00158" index="158">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TELL ME AGAIN</language>
+		<language name="English">POWIEDZ JESZCZE RAZ</language>
 	</row>
 	<row id="msg_0191_00159" index="159">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OLD AMBER</language>
+		<language name="English">STARY BURSZTYN</language>
 	</row>
 	<row id="msg_0191_00160" index="160">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">HELIX FOSSIL</language>
+		<language name="English">SKAMIELINA HELISY</language>
 	</row>
 	<row id="msg_0191_00161" index="161">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DOME FOSSIL</language>
+		<language name="English">SKAMIELINA KOPUŁY</language>
 	</row>
 	<row id="msg_0191_00162" index="162">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ROOT FOSSIL</language>
+		<language name="English">SKAMIELINA KORZENIA</language>
 	</row>
 	<row id="msg_0191_00163" index="163">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CLAW FOSSIL</language>
+		<language name="English">SKAMIELINA PAZURA</language>
 	</row>
 	<row id="msg_0191_00164" index="164">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ARMOR FOSSIL</language>
+		<language name="English">SKAMIELINA PANCERZA</language>
 	</row>
 	<row id="msg_0191_00165" index="165">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SKULL FOSSIL</language>
+		<language name="English">SKAMIELINA CZASZKI</language>
 	</row>
 	<row id="msg_0191_00166" index="166">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BATTLES FOR TWO</language>
+		<language name="English">WALKI DLA DWÓCH</language>
 	</row>
 	<row id="msg_0191_00167" index="167">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BATTLES FOR FOUR</language>
+		<language name="English">WALKI DLA CZTERECH</language>
 	</row>
 	<row id="msg_0191_00168" index="168">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GREET</language>
+		<language name="English">POWITAJ</language>
 	</row>
 	<row id="msg_0191_00169" index="169">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CONVERSE</language>
+		<language name="English">ROZMAWIAJ</language>
 	</row>
 	<row id="msg_0191_00170" index="170">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHAT</language>
+		<language name="English">CZAT</language>
 	</row>
 	<row id="msg_0191_00171" index="171">
 		<attribute name="window_context_name">garbage</attribute>
@@ -862,19 +862,19 @@
 	</row>
 	<row id="msg_0191_00193" index="193">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 54, 0, 0} Coins</language>
+		<language name="English">{STRVAR_1 54, 0, 0} Żetonów</language>
 	</row>
 	<row id="msg_0191_00194" index="194">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BASIC RULES</language>
+		<language name="English">PODSTAWOWE ZASADY</language>
 	</row>
 	<row id="msg_0191_00195" index="195">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CATCHING SHOW</language>
+		<language name="English">POKAZ ŁAPANIA</language>
 	</row>
 	<row id="msg_0191_00196" index="196">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">STOCKING POKéMON</language>
+		<language name="English">ZAOPATRZENIE W POKÉMONY</language>
 	</row>
 	<row id="msg_0191_00197" index="197">
 		<attribute name="window_context_name">garbage</attribute>
@@ -883,11 +883,11 @@
 	</row>
 	<row id="msg_0191_00198" index="198">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">UNDERSTOOD!</language>
+		<language name="English">ZROZUMIANO!</language>
 	</row>
 	<row id="msg_0191_00199" index="199">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ENTER</language>
+		<language name="English">WEJDŹ</language>
 	</row>
 	<row id="msg_0191_00200" index="200">
 		<attribute name="window_context_name">used</attribute>
@@ -895,7 +895,7 @@
 	</row>
 	<row id="msg_0191_00201" index="201">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">WYJŚCIE</language>
 	</row>
 	<row id="msg_0191_00202" index="202">
 		<attribute name="window_context_name">garbage</attribute>
@@ -914,55 +914,55 @@
 	</row>
 	<row id="msg_0191_00205" index="205">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RED SHARD</language>
+		<language name="English">CZERWONY ODŁAMEK</language>
 	</row>
 	<row id="msg_0191_00206" index="206">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BLUE SHARD</language>
+		<language name="English">NIEBIESKI ODŁAMEK</language>
 	</row>
 	<row id="msg_0191_00207" index="207">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">YELLOW SHARD</language>
+		<language name="English">ŻÓŁTY ODŁAMEK</language>
 	</row>
 	<row id="msg_0191_00208" index="208">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GREEN SHARD</language>
+		<language name="English">ZIELONY ODŁAMEK</language>
 	</row>
 	<row id="msg_0191_00209" index="209">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FRESH WATER{CURSOR_X 80}$200</language>
+		<language name="English">ŚWIEŻA WODA{CURSOR_X 80}$200</language>
 	</row>
 	<row id="msg_0191_00210" index="210">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SODA POP{CURSOR_X 80}$300</language>
+		<language name="English">NAPÓJ GAZOWANY{CURSOR_X 80}$300</language>
 	</row>
 	<row id="msg_0191_00211" index="211">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LEMONADE{CURSOR_X 80}$350</language>
+		<language name="English">LEMONIADA{CURSOR_X 80}$350</language>
 	</row>
 	<row id="msg_0191_00212" index="212">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO THANKS</language>
+		<language name="English">NIE, DZIĘKI</language>
 	</row>
 	<row id="msg_0191_00213" index="213">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GROWTH MULCH{CURSOR_X 90}\n$200</language>
+		<language name="English">ŚCIÓŁKA WZROSTU{CURSOR_X 90}\n$200</language>
 	</row>
 	<row id="msg_0191_00214" index="214">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DAMP MULCH{CURSOR_X 90}\n$200</language>
+		<language name="English">WILGOTNA ŚCIÓŁKA{CURSOR_X 90}\n$200</language>
 	</row>
 	<row id="msg_0191_00215" index="215">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">STABLE MULCH{CURSOR_X 90}\n$200</language>
+		<language name="English">STABILNA ŚCIÓŁKA{CURSOR_X 90}\n$200</language>
 	</row>
 	<row id="msg_0191_00216" index="216">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GOOEY MULCH{CURSOR_X 90}\n$200</language>
+		<language name="English">LEPKA ŚCIÓŁKA{CURSOR_X 90}\n$200</language>
 	</row>
 	<row id="msg_0191_00217" index="217">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">WYJŚCIE</language>
 	</row>
 	<row id="msg_0191_00218" index="218">
 		<attribute name="window_context_name">garbage</attribute>
@@ -1189,7 +1189,7 @@
 	</row>
 	<row id="msg_0191_00263" index="263">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RECORD</language>
+		<language name="English">REKORD</language>
 	</row>
 	<row id="msg_0191_00264" index="264">
 		<attribute name="window_context_name">garbage</attribute>
@@ -1228,99 +1228,99 @@
 	</row>
 	<row id="msg_0191_00271" index="271">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">JOIN</language>
+		<language name="English">DOŁĄCZ</language>
 	</row>
 	<row id="msg_0191_00272" index="272">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POKéATHLON</language>
+		<language name="English">POKÉATHLON</language>
 	</row>
 	<row id="msg_0191_00273" index="273">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SPEED COURSE</language>
+		<language name="English">KONKURENCJE SPEED</language>
 	</row>
 	<row id="msg_0191_00274" index="274">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POWER COURSE</language>
+		<language name="English">KONKURENCJE POWER</language>
 	</row>
 	<row id="msg_0191_00275" index="275">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">STAMINA COURSE</language>
+		<language name="English">KONKURENCJE STAMINA</language>
 	</row>
 	<row id="msg_0191_00276" index="276">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">JUMP COURSE</language>
+		<language name="English">KONKURENCJE JUMP</language>
 	</row>
 	<row id="msg_0191_00277" index="277">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SKILL COURSE</language>
+		<language name="English">KONKURENCJE SKILL</language>
 	</row>
 	<row id="msg_0191_00278" index="278">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ABOUT SUPREME</language>
+		<language name="English">O SUPREME</language>
 	</row>
 	<row id="msg_0191_00279" index="279">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">F. MASTER\nCOURSE</language>
+		<language name="English">KONKURENCJA\nF. MASTER</language>
 	</row>
 	<row id="msg_0191_00280" index="280">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ALLY</language>
+		<language name="English">SOJUSZNIK</language>
 	</row>
 	<row id="msg_0191_00281" index="281">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">JUNIOR</language>
+		<language name="English">MŁODZIK</language>
 	</row>
 	<row id="msg_0191_00282" index="282">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FRIEND</language>
+		<language name="English">PRZYJACIEL</language>
 	</row>
 	<row id="msg_0191_00283" index="283">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">STRATEGY</language>
+		<language name="English">STRATEGIA</language>
 	</row>
 	<row id="msg_0191_00284" index="284">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TRAINING</language>
+		<language name="English">TRENING</language>
 	</row>
 	<row id="msg_0191_00285" index="285">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHEATING</language>
+		<language name="English">OSZUSTWO</language>
 	</row>
 	<row id="msg_0191_00286" index="286">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WEAK</language>
+		<language name="English">SŁABY</language>
 	</row>
 	<row id="msg_0191_00287" index="287">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">STRONG</language>
+		<language name="English">SILNY</language>
 	</row>
 	<row id="msg_0191_00288" index="288">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ANYONE</language>
+		<language name="English">KTOKOLWIEK</language>
 	</row>
 	<row id="msg_0191_00289" index="289">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LOVE</language>
+		<language name="English">MIŁOŚĆ</language>
 	</row>
 	<row id="msg_0191_00290" index="290">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">VIOLENCE</language>
+		<language name="English">PRZEMOC</language>
 	</row>
 	<row id="msg_0191_00291" index="291">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">KNOWLEDGE</language>
+		<language name="English">WIEDZA</language>
 	</row>
 	<row id="msg_0191_00292" index="292">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">STRENGTH</language>
+		<language name="English">SIŁA</language>
 	</row>
 	<row id="msg_0191_00293" index="293">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BOTH</language>
+		<language name="English">OBOJE</language>
 	</row>
 	<row id="msg_0191_00294" index="294">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WEAKNESS</language>
+		<language name="English">SŁABOŚĆ</language>
 	</row>
 	<row id="msg_0191_00295" index="295">
 		<attribute name="window_context_name">garbage</attribute>
@@ -1329,11 +1329,11 @@
 	</row>
 	<row id="msg_0191_00296" index="296">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ABOUT EVENTS</language>
+		<language name="English">O WYDARZENIACH</language>
 	</row>
 	<row id="msg_0191_00297" index="297">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ABOUT MAXIMO</language>
+		<language name="English">O MAXIMO</language>
 	</row>
 	<row id="msg_0191_00298" index="298">
 		<attribute name="window_context_name">used</attribute>
@@ -1377,23 +1377,23 @@
 	</row>
 	<row id="msg_0191_00308" index="308">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SPEED COURSE</language>
+		<language name="English">KONKURENCJE SPEED</language>
 	</row>
 	<row id="msg_0191_00309" index="309">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POWER COURSE</language>
+		<language name="English">KONKURENCJE POWER</language>
 	</row>
 	<row id="msg_0191_00310" index="310">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SKILL COURSE</language>
+		<language name="English">KONKURENCJE SKILL</language>
 	</row>
 	<row id="msg_0191_00311" index="311">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">STAMINA COURSE</language>
+		<language name="English">KONKURENCJE STAMINA</language>
 	</row>
 	<row id="msg_0191_00312" index="312">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">JUMP COURSE</language>
+		<language name="English">KONKURENCJE JUMP</language>
 	</row>
 	<row id="msg_0191_00313" index="313">
 		<attribute name="window_context_name">garbage</attribute>
@@ -1437,15 +1437,15 @@
 	</row>
 	<row id="msg_0191_00321" index="321">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BUY</language>
+		<language name="English">KUP</language>
 	</row>
 	<row id="msg_0191_00322" index="322">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SELL</language>
+		<language name="English">SPRZEDAJ</language>
 	</row>
 	<row id="msg_0191_00323" index="323">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SEE YA!</language>
+		<language name="English">DO ZOBACZENIA!</language>
 	</row>
 	<row id="msg_0191_00324" index="324">
 		<attribute name="window_context_name">used</attribute>
@@ -1453,31 +1453,31 @@
 	</row>
 	<row id="msg_0191_00325" index="325">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PRIZE EXCHANGE</language>
+		<language name="English">WYMIANA NA NAGRODY</language>
 	</row>
 	<row id="msg_0191_00326" index="326">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WHAT’S APRIJUICE?</language>
+		<language name="English">CZYM JEST APRIJUICE?</language>
 	</row>
 	<row id="msg_0191_00327" index="327">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">APRIJUICE KNOW-HOW!</language>
+		<language name="English">WIEDZA O APRIJUICE!</language>
 	</row>
 	<row id="msg_0191_00328" index="328">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BUY</language>
+		<language name="English">KUP</language>
 	</row>
 	<row id="msg_0191_00329" index="329">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">VIEW LABEL</language>
+		<language name="English">ZOBACZ ETYKIETĘ</language>
 	</row>
 	<row id="msg_0191_00330" index="330">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DEPOSITED MONEY</language>
+		<language name="English">PIENIĄDZE ZDEPONOWANE</language>
 	</row>
 	<row id="msg_0191_00331" index="331">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">HELD MONEY</language>
+		<language name="English">PIENIĄDZE PRZY SOBIE</language>
 	</row>
 	<row id="msg_0191_00332" index="332">
 		<attribute name="window_context_name">used</attribute>
@@ -1485,107 +1485,107 @@
 	</row>
 	<row id="msg_0191_00333" index="333">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A BUTTON: JOIN THIS GROUP</language>
+		<language name="English">PRZYCISK A: DOŁĄCZ DO GRUPY</language>
 	</row>
 	<row id="msg_0191_00334" index="334">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">B BUTTON: QUIT</language>
+		<language name="English">PRZYCISK B: WYJDŹ</language>
 	</row>
 	<row id="msg_0191_00335" index="335">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">B BUTTON: REMOVE FROM MEMBERS</language>
+		<language name="English">PRZYCISK B: USUŃ Z CZŁONKÓW</language>
 	</row>
 	<row id="msg_0191_00336" index="336">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A BUTTON: START WITH MEMBERS</language>
+		<language name="English">PRZYCISK A: ROZPOCZNIJ Z CZŁONKAMI</language>
 	</row>
 	<row id="msg_0191_00337" index="337">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BUY WITH MONEY</language>
+		<language name="English">KUP ZA PIENIĄDZE</language>
 	</row>
 	<row id="msg_0191_00338" index="338">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BUY WITH POINTS</language>
+		<language name="English">KUP ZA PUNKTY</language>
 	</row>
 	<row id="msg_0191_00339" index="339">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FRESH WATER {CURSOR_X 80}50 Points</language>
+		<language name="English">ŚWIEŻA WODA {CURSOR_X 80}50 Punktów</language>
 	</row>
 	<row id="msg_0191_00340" index="340">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SODA POP {CURSOR_X 80}80 Points</language>
+		<language name="English">NAPÓJ GAZOWANY {CURSOR_X 80}80 Punktów</language>
 	</row>
 	<row id="msg_0191_00341" index="341">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LEMONADE {CURSOR_X 80}100 Points</language>
+		<language name="English">LEMONIADA {CURSOR_X 80}100 Punktów</language>
 	</row>
 	<row id="msg_0191_00342" index="342">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A. SPEED &amp;\nJUMP COURSE</language>
+		<language name="English">A. SPEED I\nJUMP</language>
 	</row>
 	<row id="msg_0191_00343" index="343">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">B. JUMP &amp;\nSKILL COURSE</language>
+		<language name="English">B. JUMP I\nSKILL</language>
 	</row>
 	<row id="msg_0191_00344" index="344">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">C. SKILL &amp;\nPOWER COURSE</language>
+		<language name="English">C. SKILL I\nPOWER</language>
 	</row>
 	<row id="msg_0191_00345" index="345">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">D. POWER &amp;\nSTAMINA COURSE</language>
+		<language name="English">D. POWER I\nSTAMINA</language>
 	</row>
 	<row id="msg_0191_00346" index="346">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">E. STAMINA &amp;\nSPEED COURSE</language>
+		<language name="English">E. STAMINA I\nSPEED</language>
 	</row>
 	<row id="msg_0191_00347" index="347">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TRAINING\nITEMS #1</language>
+		<language name="English">PRZEDMIOTY\nTRENINGOWE #1</language>
 	</row>
 	<row id="msg_0191_00348" index="348">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TRAINING\nITEMS #2</language>
+		<language name="English">PRZEDMIOTY\nTRENINGOWE #2</language>
 	</row>
 	<row id="msg_0191_00349" index="349">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FIGHTING\nITEMS #1</language>
+		<language name="English">PRZEDMIOTY\nBOJOWE #1</language>
 	</row>
 	<row id="msg_0191_00350" index="350">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FIGHTING\nITEMS #2</language>
+		<language name="English">PRZEDMIOTY\nBOJOWE #2</language>
 	</row>
 	<row id="msg_0191_00351" index="351">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PHYSICAL ATTACKS</language>
+		<language name="English">ATAKI FIZYCZNE</language>
 	</row>
 	<row id="msg_0191_00352" index="352">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SPECIAL ATTACKS</language>
+		<language name="English">ATAKI SPECJALNE</language>
 	</row>
 	<row id="msg_0191_00353" index="353">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHANGING ATTACKS</language>
+		<language name="English">ATAKI ZMIENIAJĄCE</language>
 	</row>
 	<row id="msg_0191_00354" index="354">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PROTEIN\n1 BP</language>
+		<language name="English">PROTEINA\n1 BP</language>
 	</row>
 	<row id="msg_0191_00355" index="355">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CALCIUM\n1 BP</language>
+		<language name="English">WAPŃ\n1 BP</language>
 	</row>
 	<row id="msg_0191_00356" index="356">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">IRON\n1 BP</language>
+		<language name="English">ŻELAZO\n1 BP</language>
 	</row>
 	<row id="msg_0191_00357" index="357">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ZINC\n1 BP</language>
+		<language name="English">CYNK\n1 BP</language>
 	</row>
 	<row id="msg_0191_00358" index="358">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CARBOS\n1 BP</language>
+		<language name="English">KARBOS\n1 BP</language>
 	</row>
 	<row id="msg_0191_00359" index="359">
 		<attribute name="window_context_name">used</attribute>
@@ -1593,327 +1593,327 @@
 	</row>
 	<row id="msg_0191_00360" index="360">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POWER BRACER\n16 BP</language>
+		<language name="English">OPASKA MOCY\n16 BP</language>
 	</row>
 	<row id="msg_0191_00361" index="361">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POWER BELT\n16 BP</language>
+		<language name="English">PAS MOCY\n16 BP</language>
 	</row>
 	<row id="msg_0191_00362" index="362">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POWER LENS\n16 BP</language>
+		<language name="English">SOCZEWKA MOCY\n16 BP</language>
 	</row>
 	<row id="msg_0191_00363" index="363">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POWER BAND\n16 BP</language>
+		<language name="English">BANDAŻ MOCY\n16 BP</language>
 	</row>
 	<row id="msg_0191_00364" index="364">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POWER ANKLET\n16 BP</language>
+		<language name="English">KOSTKA MOCY\n16 BP</language>
 	</row>
 	<row id="msg_0191_00365" index="365">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POWER WEIGHT\n16 BP</language>
+		<language name="English">OBCIĄŻNIK MOCY\n16 BP</language>
 	</row>
 	<row id="msg_0191_00366" index="366">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TOXIC ORB\n16 BP</language>
+		<language name="English">TOKSYCZNA KULA\n16 BP</language>
 	</row>
 	<row id="msg_0191_00367" index="367">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FLAME ORB\n16 BP</language>
+		<language name="English">OGNISTA KULA\n16 BP</language>
 	</row>
 	<row id="msg_0191_00368" index="368">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WHITE HERB\n32 BP</language>
+		<language name="English">BIAŁE ZIOŁO\n32 BP</language>
 	</row>
 	<row id="msg_0191_00369" index="369">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POWER HERB\n32 BP</language>
+		<language name="English">ZIOŁO MOCY\n32 BP</language>
 	</row>
 	<row id="msg_0191_00370" index="370">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BRIGHTPOWDER\n48 BP</language>
+		<language name="English">BŁYSZCZĄCY PROSZEK\n48 BP</language>
 	</row>
 	<row id="msg_0191_00371" index="371">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHOICE BAND\n48 BP</language>
+		<language name="English">OPASKA WYBORU\n48 BP</language>
 	</row>
 	<row id="msg_0191_00372" index="372">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FOCUS BAND\n48 BP</language>
+		<language name="English">OPASKA SKUPIENIA\n48 BP</language>
 	</row>
 	<row id="msg_0191_00373" index="373">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SCOPE LENS\n48 BP</language>
+		<language name="English">SOCZEWKA CELOWNICZA\n48 BP</language>
 	</row>
 	<row id="msg_0191_00374" index="374">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MUSCLE BAND\n48 BP</language>
+		<language name="English">OPASKA MIĘŚNI\n48 BP</language>
 	</row>
 	<row id="msg_0191_00375" index="375">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FOCUS SASH\n48 BP</language>
+		<language name="English">SZARFA SKUPIENIA\n48 BP</language>
 	</row>
 	<row id="msg_0191_00376" index="376">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHOICE SCARF\n48 BP</language>
+		<language name="English">SZALIK WYBORU\n48 BP</language>
 	</row>
 	<row id="msg_0191_00377" index="377">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RAZOR CLAW\n48 BP</language>
+		<language name="English">OSTRY PAZUR\n48 BP</language>
 	</row>
 	<row id="msg_0191_00378" index="378">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RAZOR FANG\n48 BP</language>
+		<language name="English">OSTRY KIEŁ\n48 BP</language>
 	</row>
 	<row id="msg_0191_00379" index="379">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RARE CANDY\n48 BP</language>
+		<language name="English">RZADKI CUKIEREK\n48 BP</language>
 	</row>
 	<row id="msg_0191_00380" index="380">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">AERIAL ACE\n40 BP</language>
+		<language name="English">AS POWIETRZA\n40 BP</language>
 	</row>
 	<row id="msg_0191_00381" index="381">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BRICK BREAK\n40 BP</language>
+		<language name="English">ROZBICIE CEGŁY\n40 BP</language>
 	</row>
 	<row id="msg_0191_00382" index="382">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">U-TURN\n40 BP</language>
+		<language name="English">ZWROT\n40 BP</language>
 	</row>
 	<row id="msg_0191_00383" index="383">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">X-SCISSOR\n64 BP</language>
+		<language name="English">CIĘCIE X\n64 BP</language>
 	</row>
 	<row id="msg_0191_00384" index="384">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">STONE EDGE\n80 BP</language>
+		<language name="English">KAMIENNA KRAWĘDŹ\n80 BP</language>
 	</row>
 	<row id="msg_0191_00385" index="385">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EARTHQUAKE\n80 BP</language>
+		<language name="English">TRZĘSIENIE ZIEMI\n80 BP</language>
 	</row>
 	<row id="msg_0191_00386" index="386">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SHADOW BALL\n64 BP</language>
+		<language name="English">CIENISTA KULA\n64 BP</language>
 	</row>
 	<row id="msg_0191_00387" index="387">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ENERGY BALL\n64 BP</language>
+		<language name="English">ENERGETYCZNA KULA\n64 BP</language>
 	</row>
 	<row id="msg_0191_00388" index="388">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SLUDGE BOMB\n80 BP</language>
+		<language name="English">BOMBA MUŁOWA\n80 BP</language>
 	</row>
 	<row id="msg_0191_00389" index="389">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DRAGON PULSE\n80 BP</language>
+		<language name="English">FALA SMOKA\n80 BP</language>
 	</row>
 	<row id="msg_0191_00390" index="390">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TOXIC\n32 BP</language>
+		<language name="English">TOKSYNA\n32 BP</language>
 	</row>
 	<row id="msg_0191_00391" index="391">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">THUNDER WAVE\n32 BP</language>
+		<language name="English">FALA PIORUNOWA\n32 BP</language>
 	</row>
 	<row id="msg_0191_00392" index="392">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WILL-O-WISP\n32 BP</language>
+		<language name="English">BŁĘDNY OGNIK\n32 BP</language>
 	</row>
 	<row id="msg_0191_00393" index="393">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ATTRACT\n32 BP</language>
+		<language name="English">URok\n32 BP</language>
 	</row>
 	<row id="msg_0191_00394" index="394">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BULK UP\n48 BP</language>
+		<language name="English">NABRANIE MASY\n48 BP</language>
 	</row>
 	<row id="msg_0191_00395" index="395">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CALM MIND\n48 BP</language>
+		<language name="English">SPOKÓJ UMYSŁU\n48 BP</language>
 	</row>
 	<row id="msg_0191_00396" index="396">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It raises the base Attack stat of a\nsingle Pokémon.</language>
+		<language name="English">Podnosi bazowy Atak jednego\nPokémona.</language>
 	</row>
 	<row id="msg_0191_00397" index="397">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It raises the base Sp. Atk (Special\nAttack) stat of a single Pokémon.</language>
+		<language name="English">Podnosi bazowy Atak Specjalny\njednego Pokémona.</language>
 	</row>
 	<row id="msg_0191_00398" index="398">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It raises the base Defense stat of a\nsingle Pokémon.</language>
+		<language name="English">Podnosi bazową Obronę jednego\nPokémona.</language>
 	</row>
 	<row id="msg_0191_00399" index="399">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It raises the base Sp. Def (Special\nDefense) stat of a single Pokémon.</language>
+		<language name="English">Podnosi bazową Obronę Specjalną\njednego Pokémona.</language>
 	</row>
 	<row id="msg_0191_00400" index="400">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It raises the base Speed stat of a\nsingle Pokémon.</language>
+		<language name="English">Podnosi bazową Szybkość jednego\nPokémona.</language>
 	</row>
 	<row id="msg_0191_00401" index="401">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It raises the base HP of a single\nPokémon.</language>
+		<language name="English">Podnosi bazowe HP jednego\nPokémona.</language>
 	</row>
 	<row id="msg_0191_00402" index="402">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It raises the level of a single Pokémon\nby one.</language>
+		<language name="English">Podnosi poziom jednego Pokémona\no jeden.</language>
 	</row>
 	<row id="msg_0191_00403" index="403">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Promotes Attack gain on leveling, but\nreduces the Speed stat.</language>
+		<language name="English">Wspomaga wzrost Ataku przy awansie\npoziomu, ale obniża Szybkość.</language>
 	</row>
 	<row id="msg_0191_00404" index="404">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Promotes Defense gain on leveling, but\nreduces the Speed stat.</language>
+		<language name="English">Wspomaga wzrost Obrony przy awansie\npoziomu, ale obniża Szybkość.</language>
 	</row>
 	<row id="msg_0191_00405" index="405">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Promotes Sp. Atk gain on leveling, but\nreduces the Speed stat.</language>
+		<language name="English">Wspomaga wzrost Ataku Specjalnego przy\nawansie poziomu, ale obniża Szybkość.</language>
 	</row>
 	<row id="msg_0191_00406" index="406">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Promotes Sp. Def gain on leveling, but\nreduces the Speed stat.</language>
+		<language name="English">Wspomaga wzrost Obrony Specjalnej przy\nawansie poziomu, ale obniża Szybkość.</language>
 	</row>
 	<row id="msg_0191_00407" index="407">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Promotes Speed gain on leveling, but\nreduces the Speed stat.</language>
+		<language name="English">Wspomaga wzrost Szybkości przy awansie\npoziomu, ale obniża Szybkość.</language>
 	</row>
 	<row id="msg_0191_00408" index="408">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Promotes HP gain on leveling, but\nreduces the Speed stat.</language>
+		<language name="English">Wspomaga wzrost HP przy awansie\npoziomu, ale obniża Szybkość.</language>
 	</row>
 	<row id="msg_0191_00409" index="409">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is a bizarre orb that badly poisons\nthe holder in battle.</language>
+		<language name="English">To osobliwa kula, która ciężko zatruwa\nposiadacza w walce.</language>
 	</row>
 	<row id="msg_0191_00410" index="410">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is a bizarre orb that inflicts a\nburn on the holder in battle.</language>
+		<language name="English">To osobliwa kula, która zadaje\nposiadaczowi poparzenie w walce.</language>
 	</row>
 	<row id="msg_0191_00411" index="411">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It restores any lowered stat in\nbattle. It can be used only once.</language>
+		<language name="English">Przywraca dowolną obniżoną statystykę\nw walce. Można użyć tylko raz.</language>
 	</row>
 	<row id="msg_0191_00412" index="412">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It allows the immediate use of a move\nthat charges on the first turn.</language>
+		<language name="English">Pozwala na natychmiastowe użycie\nruchu, który ładuje się w pierwszej turze.</language>
 	</row>
 	<row id="msg_0191_00413" index="413">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The tricky aroma of this incense lowers\nthe foe’s accuracy.</language>
+		<language name="English">Podstępny aromat tego kadzidła obniża\ncelność przeciwnika.</language>
 	</row>
 	<row id="msg_0191_00414" index="414">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This headband ups Attack but allows\nthe use of only one kind of move.</language>
+		<language name="English">Ta opaska podnosi Atak, ale pozwala\nna użycie tylko jednego rodzaju ruchu.</language>
 	</row>
 	<row id="msg_0191_00415" index="415">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The holder may endure a potential KO\nattack, leaving it with just 1 HP.</language>
+		<language name="English">Posiadacz może przetrwać potencjalnie\nnokautujący atak, zostając z 1 HP.</language>
 	</row>
 	<row id="msg_0191_00416" index="416">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is a lens that boosts the holder’s\ncritical-hit ratio.</language>
+		<language name="English">To soczewka, która zwiększa szansę\nposiadacza na trafienie krytyczne.</language>
 	</row>
 	<row id="msg_0191_00417" index="417">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is a headband that slightly boosts\nthe power of physical moves.</language>
+		<language name="English">To opaska, która lekko wzmacnia moc\nruchów fizycznych.</language>
 	</row>
 	<row id="msg_0191_00418" index="418">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">With full HP, the holder will endure\none potential KO attack, leaving 1 HP.</language>
+		<language name="English">Przy pełnym HP posiadacz przetrwa\njeden potencjalnie nokautujący atak.</language>
 	</row>
 	<row id="msg_0191_00419" index="419">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boosts Speed, but allows the use of\nonly one kind of move.</language>
+		<language name="English">Wzmacnia Szybkość, ale pozwala\nna użycie tylko jednego rodzaju ruchu.</language>
 	</row>
 	<row id="msg_0191_00420" index="420">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It ups the holder’s critical-hit ratio.</language>
+		<language name="English">Zwiększa szansę posiadacza\nna trafienie krytyczne.</language>
 	</row>
 	<row id="msg_0191_00421" index="421">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It may cause the foe to flinch when\nthe holder inflicts damage.</language>
+		<language name="English">Może sprawić, że przeciwnik wzdrygnie\nsię, gdy posiadacz zada obrażenia.</language>
 	</row>
 	<row id="msg_0191_00422" index="422">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Attacks become so fast, they land\nwithout fail.</language>
+		<language name="English">Ataki stają się tak szybkie, że trafiają\nbez pudła.</language>
 	</row>
 	<row id="msg_0191_00423" index="423">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It can break any barrier, such as Light\nScreen and Reflect.</language>
+		<language name="English">Może przełamać dowolną barierę, jak\nLight Screen i Reflect.</language>
 	</row>
 	<row id="msg_0191_00424" index="424">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">After attacking, the user rushes back\nto switch places with a party Pokémon.</language>
+		<language name="English">Po ataku użytkownik wraca, by zamienić\nsię miejscem z Pokémonem z drużyny.</language>
 	</row>
 	<row id="msg_0191_00425" index="425">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The user slashes at the foe by crossing\nits claws as if they were scissors.</language>
+		<language name="English">Użytkownik tnie przeciwnika, krzyżując\nswoje pazury jak nożyce.</language>
 	</row>
 	<row id="msg_0191_00426" index="426">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stabs the foe with a sharpened stone.\nIt has a high critical-hit ratio.</language>
+		<language name="English">Dźga przeciwnika zaostrzonym kamieniem.\nMa wysoką szansę na trafienie krytyczne.</language>
 	</row>
 	<row id="msg_0191_00427" index="427">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The user sets off an earthquake that\nhits all other Pokémon in the battle.</language>
+		<language name="English">Użytkownik wywołuje trzęsienie ziemi,\nktóre trafia wszystkie inne Pokémony.</language>
 	</row>
 	<row id="msg_0191_00428" index="428">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gathers all shadows and attacks. It\nmay also lower the foe’s Sp. Def stat.</language>
+		<language name="English">Zbiera wszystkie cienie i atakuje. Może\ntakże obniżyć Obronę Specjalną przeciwnika.</language>
 	</row>
 	<row id="msg_0191_00429" index="429">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gathers all energy and attacks. It may\nalso lower the foe’s Sp. Def stat.</language>
+		<language name="English">Zbiera całą energię i atakuje. Może\ntakże obniżyć Obronę Specjalną przeciwnika.</language>
 	</row>
 	<row id="msg_0191_00430" index="430">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe is hit with sludge steeped with\npoison. It may also poison the foe.</language>
+		<language name="English">Przeciwnik jest trafiony szlamem\nnasączonym trucizną. Może też zatruć.</language>
 	</row>
 	<row id="msg_0191_00431" index="431">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foe is attacked with a shock wave\ngenerated by the user’s gaping mouth.</language>
+		<language name="English">Przeciwnik jest atakowany falą uderzeniową\nz rozwartej paszczy użytkownika.</language>
 	</row>
 	<row id="msg_0191_00432" index="432">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hits the foe with a powerful poison that\nleaves them badly poisoned.</language>
+		<language name="English">Trafia przeciwnika potężną trucizną,\nktóra powoduje ciężkie zatrucie.</language>
 	</row>
 	<row id="msg_0191_00433" index="433">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A weak electric charge is launched at\nthe foe. It causes paralysis if it hits.</language>
+		<language name="English">Słaby ładunek elektryczny zostaje\nwypuszczony w przeciwnika. Powoduje paraliż.</language>
 	</row>
 	<row id="msg_0191_00434" index="434">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Shoots a sinister, bluish-white flame at\nthe foe to inflict a burn.</language>
+		<language name="English">Strzela złowrogim, niebiesko-białym\npłomieniem, zadając poparzenie.</language>
 	</row>
 	<row id="msg_0191_00435" index="435">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If the opposite gender, the foe becomes\ninfatuated and less likely to attack.</language>
+		<language name="English">Jeśli płeć przeciwna, przeciwnik zostaje\nzauroczony i mniej skłonny do ataku.</language>
 	</row>
 	<row id="msg_0191_00436" index="436">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The user tenses up its body, boosting\nboth its Attack and Defense stats.</language>
+		<language name="English">Użytkownik napina ciało, podnosząc\nzarówno Atak, jak i Obronę.</language>
 	</row>
 	<row id="msg_0191_00437" index="437">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The user focuses its mind and spirit\nto raise its Sp. Atk and Sp. Def stats.</language>
+		<language name="English">Użytkownik skupia umysł i ducha,\nby podnieść Atak Specjalny i Obronę Specjalną.</language>
 	</row>
 	<row id="msg_0191_00438" index="438">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Return to the selection screen.</language>
+		<language name="English">Wróć do ekranu wyboru.</language>
 	</row>
 	<row id="msg_0191_00439" index="439">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">WYJŚCIE</language>
 	</row>
 	<row id="msg_0191_00440" index="440">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">ANULUJ</language>
 	</row>
 	<row id="msg_0191_00441" index="441">
 		<attribute name="window_context_name">garbage</attribute>
@@ -1937,27 +1937,27 @@
 	</row>
 	<row id="msg_0191_00445" index="445">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NUGGET\n$4,500</language>
+		<language name="English">BRYŁKA ZŁOTA\n$4500</language>
 	</row>
 	<row id="msg_0191_00446" index="446">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PEARL\n$650</language>
+		<language name="English">PERŁA\n$650</language>
 	</row>
 	<row id="msg_0191_00447" index="447">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BIG PEARL\n$3,500</language>
+		<language name="English">DUŻA PERŁA\n$3500</language>
 	</row>
 	<row id="msg_0191_00448" index="448">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">STARDUST\n$900</language>
+		<language name="English">GWIEZDNY PYŁ\n$900</language>
 	</row>
 	<row id="msg_0191_00449" index="449">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">STAR PIECE\n$4,600</language>
+		<language name="English">KAWAŁEK GWIAZDY\n$4600</language>
 	</row>
 	<row id="msg_0191_00450" index="450">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">WYJŚCIE</language>
 	</row>
 	<row id="msg_0191_00451" index="451">
 		<attribute name="window_context_name">used</attribute>
@@ -1965,23 +1965,23 @@
 	</row>
 	<row id="msg_0191_00452" index="452">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BASIC RULES</language>
+		<language name="English">PODSTAWOWE ZASADY</language>
 	</row>
 	<row id="msg_0191_00453" index="453">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BATTLE POINTS</language>
+		<language name="English">PUNKTY WALKI</language>
 	</row>
 	<row id="msg_0191_00454" index="454">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXCHANGE\nSERVICE CORNER</language>
+		<language name="English">PUNKT\nWYMIANY</language>
 	</row>
 	<row id="msg_0191_00455" index="455">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PERFORMANCE\nMONITOR</language>
+		<language name="English">MONITOR\nWYNIKÓW</language>
 	</row>
 	<row id="msg_0191_00456" index="456">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DONE</language>
+		<language name="English">GOTOWE</language>
 	</row>
 	<row id="msg_0191_00457" index="457">
 		<attribute name="window_context_name">used</attribute>
@@ -1989,78 +1989,78 @@
 	</row>
 	<row id="msg_0191_00458" index="458">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">USING THE AREA\nCUSTOMIZER</language>
+		<language name="English">UŻYWANIE AREA\nCUSTOMIZER</language>
 	</row>
 	<row id="msg_0191_00459" index="459">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SWAPPING AREAS</language>
+		<language name="English">ZAMIANA OBSZARÓW</language>
 	</row>
 	<row id="msg_0191_00460" index="460">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SWITCHING\nAREAS</language>
+		<language name="English">PRZEŁĄCZANIE\nOBSZARÓW</language>
 	</row>
 	<row id="msg_0191_00461" index="461">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">APPEARING\nPOKéMON</language>
+		<language name="English">POJAWIAJĄCE SIĘ\nPOKÉMONY</language>
 	</row>
 	<row id="msg_0191_00462" index="462">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">WYJŚCIE</language>
 	</row>
 	<row id="msg_0191_00463" index="463">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OBJECTS</language>
+		<language name="English">OBIEKTY</language>
 	</row>
 	<row id="msg_0191_00464" index="464">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ARRANGING\nOBJECTS</language>
+		<language name="English">ROZMIESZCZANIE\nOBIEKTÓW</language>
 	</row>
 	<row id="msg_0191_00465" index="465">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">REMOVING\nOBJECTS</language>
+		<language name="English">USUWANIE\nOBIEKTÓW</language>
 	</row>
 	<row id="msg_0191_00466" index="466">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OBJECT TYPES</language>
+		<language name="English">TYPY OBIEKTÓW</language>
 	</row>
 	<row id="msg_0191_00467" index="467">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">APPEARING\nPOKéMON</language>
+		<language name="English">POJAWIAJĄCE SIĘ\nPOKÉMONY</language>
 	</row>
 	<row id="msg_0191_00468" index="468">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CLEARING\nOBJECTS</language>
+		<language name="English">CZYSZCZENIE\nOBIEKTÓW</language>
 	</row>
 	<row id="msg_0191_00469" index="469">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">WYJŚCIE</language>
 	</row>
 	<row id="msg_0191_00470" index="470">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It speeds up the growth of Berries.\nHowever, it also dries the soil faster.</language>
+		<language name="English">Przyspiesza wzrost Jagód.\nJednak też szybciej wysusza glebę.</language>
 	</row>
 	<row id="msg_0191_00471" index="471">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It extends the time ripened Berries\nremain on their plants before falling.</language>
+		<language name="English">Wydłuża czas, przez jaki dojrzałe Jagody\npozostają na roślinie.</language>
 	</row>
 	<row id="msg_0191_00472" index="472">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It slows the growth of Berries and\ncauses the soil to dry more slowly.</language>
+		<language name="English">Spowalnia wzrost Jagód i sprawia,\nże gleba wysycha wolniej.</language>
 	</row>
 	<row id="msg_0191_00473" index="473">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It ups the number of times new plants\ngrow where mature plants withered.</language>
+		<language name="English">Zwiększa liczbę nowych roślin rosnących\ntam, gdzie uschły dojrzałe rośliny.</language>
 	</row>
 	<row id="msg_0191_00474" index="474">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Don’t buy.</language>
+		<language name="English">Nie kupuj.</language>
 	</row>
 	<row id="msg_0191_00475" index="475">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SINGLE BATTLE</language>
+		<language name="English">WALKA POJEDYNCZA</language>
 	</row>
 	<row id="msg_0191_00476" index="476">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DOUBLE BATTLE</language>
+		<language name="English">WALKA PODWÓJNA</language>
 	</row>
 </body>
