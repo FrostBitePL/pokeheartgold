@@ -6,162 +6,162 @@
 	</row>
 	<row id="msg_0691_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re the best I’ve ever battled!\rHuh? You’re the one who saved all\nthe SLOWPOKE?\rWell, no wonder I couldn’t beat you!\nWould it be OK to get your number?\rI don’t want to miss anything you\ndo from now on! {YESNO 0}</language>
+		<language name="English">Jesteś najlepszy, z kim kiedykolwiek\nwalczyłem!\rHę? To ty uratowałeś wszystkie\nSLOWPOKE?\rCóż, nic dziwnego, że nie mogłem cię\npokonać! Czy mógłbym dostać twój numer?\rNie chcę przegapić niczego, co\nzrobisz od teraz! {YESNO 0}</language>
 	</row>
 	<row id="msg_0691_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow! Gee, thanks!\rNow I can call you anytime, whether\nanything’s up or not.\rYou know, just to chat!</language>
+		<language name="English">Wow! Ojej, dzięki!\rTeraz mogę dzwonić do ciebie kiedy\nchcę, czy coś się dzieje, czy nie.\rWiesz, żeby po prostu pogadać!</language>
 	</row>
 	<row id="msg_0691_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, but...\nI’m not dangerous!\rI just want to call and chat about\neverything and nothing!</language>
+		<language name="English">Och, ale...\nJa nie jestem niebezpieczny!\rJa tylko chcę dzwonić i gadać\no wszystkim i o niczym!</language>
 	</row>
 	<row id="msg_0691_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You will tell me your phone number?{YESNO 0}</language>
+		<language name="English">Powiesz mi swój numer telefonu?{YESNO 0}</language>
 	</row>
 	<row id="msg_0691_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? Wait, aren’t you nearby?</language>
+		<language name="English">Hę? Czekaj, czy nie jesteś w pobliżu?</language>
 	</row>
 	<row id="msg_0691_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, have you heard?\rGoldenrod’s Radio Tower has been taken\nover by Team Rocket!\r...Um... What’s Team Rocket?</language>
+		<language name="English">{STRVAR_1 3, 0, 0}, słyszałeś?\rRadio Tower w Goldenrod zostało\nprzejęte przez Team Rocket!\r...Um... Co to jest Team Rocket?</language>
 	</row>
 	<row id="msg_0691_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, have you heard?\rGoldenrod’s Radio Tower has been taken\nover by Team Rocket!\r...Um... What’s Team Rocket?</language>
+		<language name="English">{STRVAR_1 3, 0, 0}, słyszałeś?\rRadio Tower w Goldenrod zostało\nprzejęte przez Team Rocket!\r...Um... Co to jest Team Rocket?</language>
 	</row>
 	<row id="msg_0691_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, I heard!\nYou defeated Whitney?\rIt makes me proud to be your friend!\nCall you later!</language>
+		<language name="English">{STRVAR_1 3, 0, 0}, słyszałem!\nPokonałeś Whitney?\rJestem dumny, że jestem twoim przyjacielem!\nZadzwonię później!</language>
 	</row>
 	<row id="msg_0691_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, I heard!\nYou defeated Whitney?\rIt makes me proud to be your friend!\nCall you later!</language>
+		<language name="English">{STRVAR_1 3, 0, 0}, słyszałem!\nPokonałeś Whitney?\rJestem dumny, że jestem twoim przyjacielem!\nZadzwonię później!</language>
 	</row>
 	<row id="msg_0691_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I saw, I heard!\rYou beat Morty of Ecruteak Gym!\nTh-that’s just incredible!\rI actually went to the Gym’s entrance\nto cheer you on.\rDid you know that?\nBut everyone had these candles on\ftheir heads, it was kinda creepy...\rSo I chickened out and took off for\nhome...\rCall you later!</language>
+		<language name="English">Widziałem, słyszałem!\rPokonałeś Morty’ego z Sali Ecruteak!\nT-to jest po prostu niesamowite!\rW zasadzie poszedłem do wejścia do\nSali, żeby cię dopingować.\rWiedziałeś o tym?\nAle wszyscy mieli te świece na\fgłowach, to było trochę przerażające...\rWięc się wystraszyłem i uciekłem do\ndomu...\rZadzwonię później!</language>
 	</row>
 	<row id="msg_0691_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I saw, I heard!\rYou beat Morty of Ecruteak Gym!\nTh-that’s just incredible!\rI actually went to the Gym’s entrance\nto cheer you on.\rDid you know that?\nBut everyone had these candles on\ftheir heads, it was kinda creepy...\rSo I chickened out and took off for\nhome...\rCall you later!</language>
+		<language name="English">Widziałem, słyszałem!\rPokonałeś Morty’ego z Sali Ecruteak!\nT-to jest po prostu niesamowite!\rW zasadzie poszedłem do wejścia do\nSali, żeby cię dopingować.\rWiedziałeś o tym?\nAle wszyscy mieli te świece na\fgłowach, to było trochę przerażające...\rWięc się wystraszyłem i uciekłem do\ndomu...\rZadzwonię później!</language>
 	</row>
 	<row id="msg_0691_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, I heard about you!\rYou saved that Pokémon at the\nLighthouse, didn’t you?\r{STRVAR_1 3, 0, 0}, I wish you’d come see me\nwhen I’m sick in bed with a cold!\rCall you later!</language>
+		<language name="English">Hej, słyszałem o tobie!\rUratowałeś tego Pokémona przy\nLatarni Morskiej, prawda?\r{STRVAR_1 3, 0, 0}, chciałbym, żebyś mnie\nodwiedził, gdy leżę chory w łóżku\fz przeziębieniem!\rZadzwonię później!</language>
 	</row>
 	<row id="msg_0691_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, I heard about you!\rYou saved that Pokémon at the\nLighthouse, didn’t you?\r{STRVAR_1 3, 0, 0}, I wish you’d come see me\nwhen I’m sick in bed with a cold!\rCall you later!</language>
+		<language name="English">Hej, słyszałem o tobie!\rUratowałeś tego Pokémona przy\nLatarni Morskiej, prawda?\r{STRVAR_1 3, 0, 0}, chciałbym, żebyś mnie\nodwiedził, gdy leżę chory w łóżku\fz przeziębieniem!\rZadzwonię później!</language>
 	</row>
 	<row id="msg_0691_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I heard, I heard, I heard!\rYou smashed Team Rocket’s hideout!\nYou’re like a movie hero, even!\rBut, um... What was Team Rocket?\rI’m totally out of the loop, aren’t I?</language>
+		<language name="English">Słyszałem, słyszałem, słyszałem!\rRozwaliłeś kryjówkę Team Rocket!\nJesteś jak bohater z filmu, nawet!\rAle, um... Co to był Team Rocket?\rZupełnie nie wiem, o co chodzi, prawda?</language>
 	</row>
 	<row id="msg_0691_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I heard, I heard, I heard!\rYou smashed Team Rocket’s hideout!\nYou’re like a movie hero, even!\rBut, um... What was Team Rocket?\rI’m totally out of the loop, aren’t I?</language>
+		<language name="English">Słyszałem, słyszałem, słyszałem!\rRozwaliłeś kryjówkę Team Rocket!\nJesteś jak bohater z filmu, nawet!\rAle, um... Co to był Team Rocket?\rZupełnie nie wiem, o co chodzi, prawda?</language>
 	</row>
 	<row id="msg_0691_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I heard, I heard, I heard!\rAbout your heroic liberation of the\nRadio Tower! You rock so hard!\rI just wanted to make sure you knew\nthat you’re awesome!\rCall you later!</language>
+		<language name="English">Słyszałem, słyszałem, słyszałem!\rO twoim heroicznym wyzwoleniu\nRadio Tower! Jesteś tak zajefajny!\rPo prostu chciałem się upewnić, że\nwiesz, że jesteś niesamowity!\rZadzwonię później!</language>
 	</row>
 	<row id="msg_0691_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I heard, I heard, I heard!\rAbout your heroic liberation of the\nRadio Tower! You rock so hard!\rI just wanted to make sure you knew\nthat you’re awesome!\rCall you later!</language>
+		<language name="English">Słyszałem, słyszałem, słyszałem!\rO twoim heroicznym wyzwoleniu\nRadio Tower! Jesteś tak zajefajny!\rPo prostu chciałem się upewnić, że\nwiesz, że jesteś niesamowity!\rZadzwonię później!</language>
 	</row>
 	<row id="msg_0691_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I saw, I saw, I saw you, {STRVAR_1 3, 0, 0}!\nI saw you go into the Dragon’s Den!\rI’m certain you passed! Aww, no need to\nbe modest! You can’t fail!\rCall you later!</language>
+		<language name="English">Widziałem, widziałem, widziałem cię,\n{STRVAR_1 3, 0, 0}! Widziałem, jak wchodzisz\ndo Dragon’s Den!\rJestem pewny, że zdałeś! Aww, nie musisz\nbyć skromny! Nie możesz zawieść!\rZadzwonię później!</language>
 	</row>
 	<row id="msg_0691_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I saw, I saw, I saw you, {STRVAR_1 3, 0, 0}!\nI saw you go into the Dragon’s Den!\rI’m certain you passed! Aww, no need to\nbe modest! You can’t fail!\rCall you later!</language>
+		<language name="English">Widziałem, widziałem, widziałem cię,\n{STRVAR_1 3, 0, 0}! Widziałem, jak wchodzisz\ndo Dragon’s Den!\rJestem pewny, że zdałeś! Aww, nie musisz\nbyć skromny! Nie możesz zawieść!\rZadzwonię później!</language>
 	</row>
 	<row id="msg_0691_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yesterday, I went out to Wierzbna. There was a lady who looked a lot\flike you, {STRVAR_1 3, 0, 0}.\rWhat? That lady was your mom?\nAww, I should’ve introduced myself!\rI bet your mom’s really proud of all\nthat you’ve accomplished.\rCall you later!</language>
+		<language name="English">Wczoraj wybrałem się do Wierzbnej.\nByła tam kobieta, która wyglądała\fbardzo podobnie do ciebie, {STRVAR_1 3, 0, 0}.\rCo? Ta kobieta to była twoja mama?\nAww, powinienem się był przedstawić!\rZakładam się, że twoja mama jest\nnaprawdę dumna z tego, czego dokonałeś.\rZadzwonię później!</language>
 	</row>
 	<row id="msg_0691_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yesterday, I went out to Wierzbna. There was a lady who looked a lot\flike you, {STRVAR_1 3, 0, 0}.\rWhat? That lady was your mom?\nAww, I should’ve introduced myself!\rI bet your mom’s really proud of all\nthat you’ve accomplished.\rCall you later!</language>
+		<language name="English">Wczoraj wybrałem się do Wierzbnej.\nByła tam kobieta, która wyglądała\fbardzo podobnie do ciebie, {STRVAR_1 3, 0, 0}.\rCo? Ta kobieta to była twoja mama?\nAww, powinienem się był przedstawić!\rZakładam się, że twoja mama jest\nnaprawdę dumna z tego, czego dokonałeś.\rZadzwonię później!</language>
 	</row>
 	<row id="msg_0691_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I saw, I saw, I saw!\rYou striding onto a ship, {STRVAR_1 3, 0, 0}!\rI can’t get over how good you look with\nthe sea as your backdrop!\rI hate having to hang up on you!\nCall you later!</language>
+		<language name="English">Widziałem, widziałem, widziałem!\rJak wkraczasz na pokład statku,\n{STRVAR_1 3, 0, 0}!\rNie mogę się nadziwić, jak dobrze\nwyglądasz na tle morza!\rNienawidzę tego, że muszę się rozłączyć!\nZadzwonię później!</language>
 	</row>
 	<row id="msg_0691_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I saw, I saw, I saw!\rYou striding onto a ship, {STRVAR_1 3, 0, 0}!\rI can’t get over how good you look with\nthe sea as your backdrop!\rI hate having to hang up on you!\nCall you later!</language>
+		<language name="English">Widziałem, widziałem, widziałem!\rJak wkraczasz na pokład statku,\n{STRVAR_1 3, 0, 0}!\rNie mogę się nadziwić, jak dobrze\nwyglądasz na tle morza!\rNienawidzę tego, że muszę się rozłączyć!\nZadzwonię później!</language>
 	</row>
 	<row id="msg_0691_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I heard, I heard!\rYou got a Magnet Train Pass!\rWhen I saw you departing on the ship, I\nfelt sad that I wouldn’t be able to see\fyou for a while.\rBut since you have that Pass, you can\nzip back anytime!\fThat’s reassuring!\rWhat? You can Fly back anytime?\rWhat do you mean by Fly?\rCall you later!</language>
+		<language name="English">Słyszałem, słyszałem!\rDostałeś Bilet na Magnet Train!\rGdy widziałem, jak odpływasz statkiem,\nzrobiło mi się smutno, że nie będę mógł\fzobaczyć cię przez jakiś czas.\rAle skoro masz ten Bilet, możesz\nwrócić błyskawicznie kiedy chcesz!\fTo takie uspokajające!\rCo? Możesz wrócić Lotem kiedy chcesz?\rCo masz na myśli, mówiąc Lot?\rZadzwonię później!</language>
 	</row>
 	<row id="msg_0691_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I heard, I heard!\rYou got a Magnet Train Pass!\rWhen I saw you departing on the ship, I\nfelt sad that I wouldn’t be able to see\fyou for a while.\rBut since you have that Pass, you can\nzip back anytime!\fThat’s reassuring!\rWhat? You can Fly back anytime?\rWhat do you mean by Fly?\rCall you later!</language>
+		<language name="English">Słyszałem, słyszałem!\rDostałeś Bilet na Magnet Train!\rGdy widziałem, jak odpływasz statkiem,\nzrobiło mi się smutno, że nie będę mógł\fzobaczyć cię przez jakiś czas.\rAle skoro masz ten Bilet, możesz\nwrócić błyskawicznie kiedy chcesz!\fTo takie uspokajające!\rCo? Możesz wrócić Lotem kiedy chcesz?\rCo masz na myśli, mówiąc Lot?\rZadzwonię później!</language>
 	</row>
 	<row id="msg_0691_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I saw, I saw!\rYou waking up SNORLAX!\rI was watching you from afar, so I\ncouldn’t tell what you did exactly.\rDid you play a flute to wake it?\rWow! That’s like magic!\nCall you later!</language>
+		<language name="English">Widziałem, widziałem!\rJak budzisz SNORLAXA!\rObserwowałem cię z daleka, więc\nnie mogłem dokładnie stwierdzić, co\nzrobiłeś.\rZagrałeś na flecie, żeby go obudzić?\rWow! To jak magia!\nZadzwonię później!</language>
 	</row>
 	<row id="msg_0691_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I saw, I saw!\rYou waking up SNORLAX!\rI was watching you from afar, so I\ncouldn’t tell what you did exactly.\rDid you play a flute to wake it?\rWow! That’s like magic!\nCall you later!</language>
+		<language name="English">Widziałem, widziałem!\rJak budzisz SNORLAXA!\rObserwowałem cię z daleka, więc\nnie mogłem dokładnie stwierdzić, co\nzrobiłeś.\rZagrałeś na flecie, żeby go obudzić?\rWow! To jak magia!\nZadzwonię później!</language>
 	</row>
 	<row id="msg_0691_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, I heard!\rYou’re kicking up a mighty ruckus over\nin Kanto!\rWhat a glorious rampage it must be!\nYou so rock!\rCall you later!</language>
+		<language name="English">{STRVAR_1 3, 0, 0}, słyszałem!\rRozpętujesz ogromne zamieszanie\ntam w Kanto!\rCóż to musi być za wspaniałe szaleństwo!\nJesteś tak zajefajny!\rZadzwonię później!</language>
 	</row>
 	<row id="msg_0691_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, I heard!\rYou’re kicking up a mighty ruckus over\nin Kanto!\rWhat a glorious rampage it must be!\nYou so rock!\rCall you later!</language>
+		<language name="English">{STRVAR_1 3, 0, 0}, słyszałem!\rRozpętujesz ogromne zamieszanie\ntam w Kanto!\rCóż to musi być za wspaniałe szaleństwo!\nJesteś tak zajefajny!\rZadzwonię później!</language>
 	</row>
 	<row id="msg_0691_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I hear gossip about you all over\nthe place.\rIt just makes me sigh, {STRVAR_1 3, 0, 0}.\nHow did you get so strong?\rGo for the world championship now!\nI’ll always be cheering you on!\rCall you later!\f...Is that OK?</language>
+		<language name="English">Słyszę o tobie plotki\nwszędzie dookoła.\rTo mnie po prostu zachwyca,\n{STRVAR_1 3, 0, 0}. Jak zdołałeś stać się\ntaki silny?\rIdź teraz po mistrzostwo świata!\nZawsze będę cię dopingować!\rZadzwonię później!\f...Czy to w porządku?</language>
 	</row>
 	<row id="msg_0691_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I hear gossip about you all over\nthe place.\rIt just makes me sigh, {STRVAR_1 3, 0, 0}.\nHow did you get so strong?\rGo for the world championship now!\nI’ll always be cheering you on!\rCall you later!\f...Is that OK?</language>
+		<language name="English">Słyszę o tobie plotki\nwszędzie dookoła.\rTo mnie po prostu zachwyca,\n{STRVAR_1 3, 0, 0}. Jak zdołałeś stać się\ntaki silny?\rIdź teraz po mistrzostwo świata!\nZawsze będę cię dopingować!\rZadzwonię później!\f...Czy to w porządku?</language>
 	</row>
 	<row id="msg_0691_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m always looking forward to what\nyou’ll do next, {STRVAR_1 3, 0, 0}!</language>
+		<language name="English">Zawsze z niecierpliwością czekam, co\nzrobisz następnie, {STRVAR_1 3, 0, 0}!</language>
 	</row>
 	<row id="msg_0691_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m always looking forward to what\nyou’ll do next, {STRVAR_1 3, 0, 0}!</language>
+		<language name="English">Zawsze z niecierpliwością czekam, co\nzrobisz następnie, {STRVAR_1 3, 0, 0}!</language>
 	</row>
 	<row id="msg_0691_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hearing about your escapades rocks my\nsoul! It sure does!</language>
+		<language name="English">Słysząc o twoich wyczynach, aż mnie\nporusza w duszy! Naprawdę tak jest!</language>
 	</row>
 	<row id="msg_0691_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hearing about your escapades rocks my\nsoul! It sure does!</language>
+		<language name="English">Słysząc o twoich wyczynach, aż mnie\nporusza w duszy! Naprawdę tak jest!</language>
 	</row>
 	<row id="msg_0691_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, every time I recall your\nescapades, {STRVAR_1 3, 0, 0}, I am just so\fdeeply moved by them!</language>
+		<language name="English">Wiesz, za każdym razem, gdy wspominam\ntwoje wyczyny, {STRVAR_1 3, 0, 0}, jestem\ftak głęboko poruszony!</language>
 	</row>
 	<row id="msg_0691_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, every time I recall your\nescapades, {STRVAR_1 3, 0, 0}, I am just so\fdeeply moved by them!</language>
+		<language name="English">Wiesz, za każdym razem, gdy wspominam\ntwoje wyczyny, {STRVAR_1 3, 0, 0}, jestem\ftak głęboko poruszony!</language>
 	</row>
 	<row id="msg_0691_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hearing about your escapades rocks my\nsoul! It sure does!</language>
+		<language name="English">Słysząc o twoich wyczynach, aż mnie\nporusza w duszy! Naprawdę tak jest!</language>
 	</row>
 	<row id="msg_0691_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m so glad you called!\rI was just about to call you, too!\nI guess we must be a good match!</language>
+		<language name="English">Tak się cieszę, że zadzwoniłeś!\rWłaśnie miałem do ciebie zadzwonić!\nChyba świetnie do siebie pasujemy!</language>
 	</row>
 	<row id="msg_0691_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How are you?\rWhat are you doing?\rWhere are you?\rHow many Badges do you have now?\rHow much money have you saved?\rHow’s your mom?\rHave you got lots of Pokémon?\rIs it going to be sunny tomorrow?\rArrgh, there’s so much I want to\nchat about! This is going nowhere!</language>
+		<language name="English">Jak się masz?\rCo robisz?\rGdzie jesteś?\rIle masz teraz Odznak?\rIle pieniędzy zaoszczędziłeś?\rJak się miewa twoja mama?\rMasz dużo Pokémonów?\rBędzie jutro słonecznie?\rArrgh, jest tyle rzeczy, o których\nchcę pogadać! To donikąd nie prowadzi!</language>
 	</row>
 </body>
