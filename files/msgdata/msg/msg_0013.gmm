@@ -10,31 +10,31 @@
 	</row>
 	<row id="msg_0013_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">ANULUJ</language>
 	</row>
 	<row id="msg_0013_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">WYJŚCIE</language>
 	</row>
 	<row id="msg_0013_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MY VIDEO</language>
+		<language name="English">MOJE VIDEO</language>
 	</row>
 	<row id="msg_0013_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OTHER VIDEOS</language>
+		<language name="English">INNE VIDEO</language>
 	</row>
 	<row id="msg_0013_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DELETE VIDEOS</language>
+		<language name="English">USUŃ VIDEO</language>
 	</row>
 	<row id="msg_0013_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’S VIDEO</language>
+		<language name="English">VIDEO GRACZA {STRVAR_1 3, 0, 0}</language>
 	</row>
 	<row id="msg_0013_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EMPTY</language>
+		<language name="English">PUSTE</language>
 	</row>
 	<row id="msg_0013_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -42,19 +42,19 @@
 	</row>
 	<row id="msg_0013_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle</language>
+		<language name="English">Walka</language>
 	</row>
 	<row id="msg_0013_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Video no.: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0}</language>
+		<language name="English">Nr video: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0}</language>
 	</row>
 	<row id="msg_0013_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Video no.: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0} ☆</language>
+		<language name="English">Nr video: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0} ☆</language>
 	</row>
 	<row id="msg_0013_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’S PROFILE</language>
+		<language name="English">PROFIL GRACZA {STRVAR_1 3, 0, 0}</language>
 	</row>
 	<row id="msg_0013_00014" index="14">
 		<attribute name="window_context_name">garbage</attribute>
@@ -63,15 +63,15 @@
 	</row>
 	<row id="msg_0013_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Birth month: {STRVAR_34 16, 0, 0}</language>
+		<language name="English">Miesiąc urodzenia: {STRVAR_34 16, 0, 0}</language>
 	</row>
 	<row id="msg_0013_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Location</language>
+		<language name="English">Lokalizacja</language>
 	</row>
 	<row id="msg_0013_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer’s quote</language>
+		<language name="English">Cytat trenera</language>
 	</row>
 	<row id="msg_0013_00018" index="18">
 		<attribute name="window_context_name">garbage</attribute>
@@ -90,7 +90,7 @@
 	</row>
 	<row id="msg_0013_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Unregistered</language>
+		<language name="English">Niezarejestrowany</language>
 	</row>
 	<row id="msg_0013_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
@@ -121,31 +121,31 @@
 	</row>
 	<row id="msg_0013_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’S FAVORITE PC BOX</language>
+		<language name="English">ULUBIONE PUDEŁKO PC GRACZA {STRVAR_1 3, 0, 0}</language>
 	</row>
 	<row id="msg_0013_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’S COOL PC BOX</language>
+		<language name="English">FAJNE PUDEŁKO PC GRACZA {STRVAR_1 3, 0, 0}</language>
 	</row>
 	<row id="msg_0013_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’S CUTE PC BOX</language>
+		<language name="English">SŁODKIE PUDEŁKO PC GRACZA {STRVAR_1 3, 0, 0}</language>
 	</row>
 	<row id="msg_0013_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’S SUGGESTED PC BOX</language>
+		<language name="English">SUGEROWANE PUDEŁKO PC GRACZA {STRVAR_1 3, 0, 0}</language>
 	</row>
 	<row id="msg_0013_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’S FUN PC BOX</language>
+		<language name="English">ZABAWNE PUDEŁKO PC GRACZA {STRVAR_1 3, 0, 0}</language>
 	</row>
 	<row id="msg_0013_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’S SELECT PC BOX</language>
+		<language name="English">WYBRANE PUDEŁKO PC GRACZA {STRVAR_1 3, 0, 0}</language>
 	</row>
 	<row id="msg_0013_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Next\nPokémon</language>
+		<language name="English">Następny\nPokémon</language>
 	</row>
 	<row id="msg_0013_00035" index="35">
 		<attribute name="window_context_name">garbage</attribute>
@@ -169,15 +169,15 @@
 	</row>
 	<row id="msg_0013_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DELETE MY VIDEO</language>
+		<language name="English">USUŃ MOJE VIDEO</language>
 	</row>
 	<row id="msg_0013_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DELETE OTHER VIDEOS</language>
+		<language name="English">USUŃ INNE VIDEO</language>
 	</row>
 	<row id="msg_0013_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EMPTY</language>
+		<language name="English">PUSTE</language>
 	</row>
 	<row id="msg_0013_00042" index="42">
 		<attribute name="window_context_name">garbage</attribute>
@@ -211,27 +211,27 @@
 	</row>
 	<row id="msg_0013_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SEARCH BY FACILITY</language>
+		<language name="English">SZUKAJ WEDŁUG OBIEKTU</language>
 	</row>
 	<row id="msg_0013_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SEARCH BY POKéMON</language>
+		<language name="English">SZUKAJ WEDŁUG POKÉMONA</language>
 	</row>
 	<row id="msg_0013_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SEARCH YOUR LOCATION</language>
+		<language name="English">SZUKAJ SWOJEJ LOKALIZACJI</language>
 	</row>
 	<row id="msg_0013_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SEND PHOTO</language>
+		<language name="English">WYŚLIJ ZDJĘCIE</language>
 	</row>
 	<row id="msg_0013_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">VIEW PHOTOS</language>
+		<language name="English">ZOBACZ ZDJĘCIA</language>
 	</row>
 	<row id="msg_0013_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SEND</language>
+		<language name="English">WYŚLIJ</language>
 	</row>
 	<row id="msg_0013_00054" index="54">
 		<attribute name="window_context_name">garbage</attribute>
@@ -254,35 +254,35 @@
 	</row>
 	<row id="msg_0013_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SEND BOX DATA</language>
+		<language name="English">WYŚLIJ DANE PUDEŁKA</language>
 	</row>
 	<row id="msg_0013_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">VIEW BOX DATA</language>
+		<language name="English">ZOBACZ DANE PUDEŁKA</language>
 	</row>
 	<row id="msg_0013_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FAVORITE</language>
+		<language name="English">ULUBIONE</language>
 	</row>
 	<row id="msg_0013_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">COOL</language>
+		<language name="English">FAJNE</language>
 	</row>
 	<row id="msg_0013_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CUTE</language>
+		<language name="English">SŁODKIE</language>
 	</row>
 	<row id="msg_0013_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SUGGESTED</language>
+		<language name="English">SUGEROWANE</language>
 	</row>
 	<row id="msg_0013_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FUN</language>
+		<language name="English">ZABAWNE</language>
 	</row>
 	<row id="msg_0013_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SELECT</language>
+		<language name="English">WYBRANE</language>
 	</row>
 	<row id="msg_0013_00066" index="66">
 		<attribute name="window_context_name">garbage</attribute>
@@ -337,31 +337,31 @@
 	</row>
 	<row id="msg_0013_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">THIS WEEK’S RANKINGS</language>
+		<language name="English">RANKING TEGO TYGODNIA</language>
 	</row>
 	<row id="msg_0013_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LAST WEEK’S RANKINGS</language>
+		<language name="English">RANKING ZESZŁEGO TYGODNIA</language>
 	</row>
 	<row id="msg_0013_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SWITCH RANKINGS</language>
+		<language name="English">ZMIEŃ RANKING</language>
 	</row>
 	<row id="msg_0013_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SWITCH TEAMS</language>
+		<language name="English">ZMIEŃ DRUŻYNY</language>
 	</row>
 	<row id="msg_0013_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team: Trainer type</language>
+		<language name="English">Drużyna: Typ trenera</language>
 	</row>
 	<row id="msg_0013_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team: Birth month</language>
+		<language name="English">Drużyna: Miesiąc urodzenia</language>
 	</row>
 	<row id="msg_0013_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team: Favorite Pokémon</language>
+		<language name="English">Drużyna: Ulubiony Pokémon</language>
 	</row>
 	<row id="msg_0013_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
@@ -389,7 +389,7 @@
 	</row>
 	<row id="msg_0013_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LAST WEEK’S RESULTS!</language>
+		<language name="English">WYNIKI ZESZŁEGO TYGODNIA!</language>
 	</row>
 	<row id="msg_0013_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
@@ -401,11 +401,11 @@
 	</row>
 	<row id="msg_0013_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SAVE</language>
+		<language name="English">ZAPISZ</language>
 	</row>
 	<row id="msg_0013_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">VIEW BATTLE\nVIDEO</language>
+		<language name="English">ZOBACZ VIDEO\nZ WALKI</language>
 	</row>
 	<row id="msg_0013_00096" index="96">
 		<attribute name="window_context_name">garbage</attribute>
@@ -414,11 +414,11 @@
 	</row>
 	<row id="msg_0013_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TOP-RANKED BATTLE VIDEOS\nCOLOSSEUM</language>
+		<language name="English">NAJLEPSZE BATTLE VIDEOS\nCOLOSSEUM</language>
 	</row>
 	<row id="msg_0013_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TOP-RANKED BATTLE VIDEOS\nBATTLE FRONTIER</language>
+		<language name="English">NAJLEPSZE BATTLE VIDEOS\nBATTLE FRONTIER</language>
 	</row>
 	<row id="msg_0013_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
@@ -426,7 +426,7 @@
 	</row>
 	<row id="msg_0013_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where would you like to save\n{STRVAR_1 3, 0, 0}’s Battle Video?</language>
+		<language name="English">Gdzie chcesz zapisać\nBattle Video gracza {STRVAR_1 3, 0, 0}?</language>
 	</row>
 	<row id="msg_0013_00101" index="101">
 		<attribute name="window_context_name">garbage</attribute>
@@ -435,39 +435,39 @@
 	</row>
 	<row id="msg_0013_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Is it OK to delete {STRVAR_1 3, 0, 0}’s Battle\nVideo?</language>
+		<language name="English">Czy na pewno usunąć Battle Video\ngracza {STRVAR_1 3, 0, 0}?</language>
 	</row>
 	<row id="msg_0013_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">VIEW BATTLE VIDEOS</language>
+		<language name="English">ZOBACZ BATTLE VIDEOS</language>
 	</row>
 	<row id="msg_0013_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SEND BATTLE VIDEO</language>
+		<language name="English">WYŚLIJ BATTLE VIDEO</language>
 	</row>
 	<row id="msg_0013_00105" index="105">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NEWEST 30</language>
+		<language name="English">NAJNOWSZE 30</language>
 	</row>
 	<row id="msg_0013_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SEARCH</language>
+		<language name="English">SZUKAJ</language>
 	</row>
 	<row id="msg_0013_00107" index="107">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SEARCH BY VIDEO NO.</language>
+		<language name="English">SZUKAJ WEDŁUG NR VIDEO</language>
 	</row>
 	<row id="msg_0013_00108" index="108">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SEARCH BY FACILITY</language>
+		<language name="English">SZUKAJ WEDŁUG OBIEKTU</language>
 	</row>
 	<row id="msg_0013_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SEARCH BY POKéMON</language>
+		<language name="English">SZUKAJ WEDŁUG POKÉMONA</language>
 	</row>
 	<row id="msg_0013_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SEARCH YOUR LOCATION</language>
+		<language name="English">SZUKAJ SWOJEJ LOKALIZACJI</language>
 	</row>
 	<row id="msg_0013_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
@@ -475,35 +475,35 @@
 	</row>
 	<row id="msg_0013_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please enter the Video Number.</language>
+		<language name="English">Podaj Numer Video.</language>
 	</row>
 	<row id="msg_0013_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please choose the facility.</language>
+		<language name="English">Wybierz obiekt.</language>
 	</row>
 	<row id="msg_0013_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please choose the Pokémon.</language>
+		<language name="English">Wybierz Pokémona.</language>
 	</row>
 	<row id="msg_0013_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please enter the search criteria.</language>
+		<language name="English">Podaj kryteria wyszukiwania.</language>
 	</row>
 	<row id="msg_0013_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You haven’t set any search criteria.</language>
+		<language name="English">Nie ustawiono żadnych kryteriów wyszukiwania.</language>
 	</row>
 	<row id="msg_0013_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Loading Battle Video...</language>
+		<language name="English">Wczytywanie Battle Video...</language>
 	</row>
 	<row id="msg_0013_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is no matching Battle Video...</language>
+		<language name="English">Nie znaleziono pasującego Battle Video...</language>
 	</row>
 	<row id="msg_0013_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sending the Battle Video...</language>
+		<language name="English">Wysyłanie Battle Video...</language>
 	</row>
 	<row id="msg_0013_00120" index="120">
 		<attribute name="window_context_name">garbage</attribute>
@@ -512,295 +512,295 @@
 	</row>
 	<row id="msg_0013_00121" index="121">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">VIEW PROFILE</language>
+		<language name="English">ZOBACZ PROFIL</language>
 	</row>
 	<row id="msg_0013_00122" index="122">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CLOSE PROFILE</language>
+		<language name="English">ZAMKNIJ PROFIL</language>
 	</row>
 	<row id="msg_0013_00123" index="123">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NEWEST 30 BATTLE VIDEOS</language>
+		<language name="English">NAJNOWSZE 30 BATTLE VIDEOS</language>
 	</row>
 	<row id="msg_0013_00124" index="124">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please set the search criteria.</language>
+		<language name="English">Ustaw kryteria wyszukiwania.</language>
 	</row>
 	<row id="msg_0013_00125" index="125">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Undefined</language>
+		<language name="English">Nieokreślone</language>
 	</row>
 	<row id="msg_0013_00126" index="126">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LIST OF BATTLE VIDEOS FROM\nSEARCH RESULTS</language>
+		<language name="English">LISTA BATTLE VIDEOS\nZ WYNIKÓW WYSZUKIWANIA</language>
 	</row>
 	<row id="msg_0013_00127" index="127">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The same Battle Video can’t be sent again.\nTouch the Touch Screen to continue.</language>
+		<language name="English">Nie można ponownie wysłać tego samego\nBattle Video. Dotknij ekranu, aby kontynuować.</language>
 	</row>
 	<row id="msg_0013_00128" index="128">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have not registered your location.</language>
+		<language name="English">Nie zarejestrowałeś/aś swojej lokalizacji.</language>
 	</row>
 	<row id="msg_0013_00129" index="129">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is no Battle Video to send.</language>
+		<language name="English">Nie ma Battle Video do wysłania.</language>
 	</row>
 	<row id="msg_0013_00130" index="130">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">YES</language>
+		<language name="English">TAK</language>
 	</row>
 	<row id="msg_0013_00131" index="131">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO</language>
+		<language name="English">NIE</language>
 	</row>
 	<row id="msg_0013_00132" index="132">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Colosseum\nSingle, No Restrictions</language>
+		<language name="English">Colosseum\nPojedynczo, Bez ograniczeń</language>
 	</row>
 	<row id="msg_0013_00133" index="133">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Colosseum\nSingle, Standard Cup</language>
+		<language name="English">Colosseum\nPojedynczo, Standard Cup</language>
 	</row>
 	<row id="msg_0013_00134" index="134">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Colosseum\nSingle, Fancy Cup</language>
+		<language name="English">Colosseum\nPojedynczo, Fancy Cup</language>
 	</row>
 	<row id="msg_0013_00135" index="135">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Colosseum\nSingle, Little Cup</language>
+		<language name="English">Colosseum\nPojedynczo, Little Cup</language>
 	</row>
 	<row id="msg_0013_00136" index="136">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Colosseum\nSingle, Light Cup</language>
+		<language name="English">Colosseum\nPojedynczo, Light Cup</language>
 	</row>
 	<row id="msg_0013_00137" index="137">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Colosseum\nSingle, Double Cup</language>
+		<language name="English">Colosseum\nPojedynczo, Double Cup</language>
 	</row>
 	<row id="msg_0013_00138" index="138">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Colosseum\nSingle, Other Cup</language>
+		<language name="English">Colosseum\nPojedynczo, Other Cup</language>
 	</row>
 	<row id="msg_0013_00139" index="139">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Colosseum\nDouble, No Restrictions</language>
+		<language name="English">Colosseum\nPodwójnie, Bez ograniczeń</language>
 	</row>
 	<row id="msg_0013_00140" index="140">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Colosseum\nDouble, Standard Cup</language>
+		<language name="English">Colosseum\nPodwójnie, Standard Cup</language>
 	</row>
 	<row id="msg_0013_00141" index="141">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Colosseum\nDouble, Fancy Cup</language>
+		<language name="English">Colosseum\nPodwójnie, Fancy Cup</language>
 	</row>
 	<row id="msg_0013_00142" index="142">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Colosseum\nDouble, Little Cup</language>
+		<language name="English">Colosseum\nPodwójnie, Little Cup</language>
 	</row>
 	<row id="msg_0013_00143" index="143">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Colosseum\nDouble, Light Cup</language>
+		<language name="English">Colosseum\nPodwójnie, Light Cup</language>
 	</row>
 	<row id="msg_0013_00144" index="144">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Colosseum\nDouble, Double Cup</language>
+		<language name="English">Colosseum\nPodwójnie, Double Cup</language>
 	</row>
 	<row id="msg_0013_00145" index="145">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Colosseum\nDouble, Other Cup</language>
+		<language name="English">Colosseum\nPodwójnie, Other Cup</language>
 	</row>
 	<row id="msg_0013_00146" index="146">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Colosseum\nMulti</language>
+		<language name="English">Colosseum\nGrupowo</language>
 	</row>
 	<row id="msg_0013_00147" index="147">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Tower\nSingle</language>
+		<language name="English">Battle Tower\nPojedynczo</language>
 	</row>
 	<row id="msg_0013_00148" index="148">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Tower\nDouble</language>
+		<language name="English">Battle Tower\nPodwójnie</language>
 	</row>
 	<row id="msg_0013_00149" index="149">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Tower\nMulti</language>
+		<language name="English">Battle Tower\nGrupowo</language>
 	</row>
 	<row id="msg_0013_00150" index="150">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Factory\nLevel 50 Single</language>
+		<language name="English">Battle Factory\nPoziom 50, Pojedynczo</language>
 	</row>
 	<row id="msg_0013_00151" index="151">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Factory\nLevel 50 Double</language>
+		<language name="English">Battle Factory\nPoziom 50, Podwójnie</language>
 	</row>
 	<row id="msg_0013_00152" index="152">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Factory\nLevel 50 Multi</language>
+		<language name="English">Battle Factory\nPoziom 50, Grupowo</language>
 	</row>
 	<row id="msg_0013_00153" index="153">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Factory\nOpen Level Single</language>
+		<language name="English">Battle Factory\nPoziom Otwarty, Pojedynczo</language>
 	</row>
 	<row id="msg_0013_00154" index="154">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Factory\nOpen Level Double</language>
+		<language name="English">Battle Factory\nPoziom Otwarty, Podwójnie</language>
 	</row>
 	<row id="msg_0013_00155" index="155">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Factory\nOpen Level Multi</language>
+		<language name="English">Battle Factory\nPoziom Otwarty, Grupowo</language>
 	</row>
 	<row id="msg_0013_00156" index="156">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Hall\nSingle</language>
+		<language name="English">Battle Hall\nPojedynczo</language>
 	</row>
 	<row id="msg_0013_00157" index="157">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Hall\nDouble</language>
+		<language name="English">Battle Hall\nPodwójnie</language>
 	</row>
 	<row id="msg_0013_00158" index="158">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Hall\nMulti</language>
+		<language name="English">Battle Hall\nGrupowo</language>
 	</row>
 	<row id="msg_0013_00159" index="159">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Castle\nSingle</language>
+		<language name="English">Battle Castle\nPojedynczo</language>
 	</row>
 	<row id="msg_0013_00160" index="160">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Castle\nDouble</language>
+		<language name="English">Battle Castle\nPodwójnie</language>
 	</row>
 	<row id="msg_0013_00161" index="161">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Castle\nMulti</language>
+		<language name="English">Battle Castle\nGrupowo</language>
 	</row>
 	<row id="msg_0013_00162" index="162">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Arcade\nSingle</language>
+		<language name="English">Battle Arcade\nPojedynczo</language>
 	</row>
 	<row id="msg_0013_00163" index="163">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Arcade\nDouble</language>
+		<language name="English">Battle Arcade\nPodwójnie</language>
 	</row>
 	<row id="msg_0013_00164" index="164">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Arcade\nMulti</language>
+		<language name="English">Battle Arcade\nGrupowo</language>
 	</row>
 	<row id="msg_0013_00165" index="165">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Colosseum\nSingle, No Restrictions</language>
+		<language name="English">Colosseum\nPojedynczo, Bez ograniczeń</language>
 	</row>
 	<row id="msg_0013_00166" index="166">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Colosseum\nSingle, Cup Match</language>
+		<language name="English">Colosseum\nPojedynczo, Mecz Pucharowy</language>
 	</row>
 	<row id="msg_0013_00167" index="167">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Colosseum\nDouble, No Restrictions</language>
+		<language name="English">Colosseum\nPodwójnie, Bez ograniczeń</language>
 	</row>
 	<row id="msg_0013_00168" index="168">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Colosseum\nDouble, Cup Match</language>
+		<language name="English">Colosseum\nPodwójnie, Mecz Pucharowy</language>
 	</row>
 	<row id="msg_0013_00169" index="169">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">1: Colosseum\n    Single, No Restrictions</language>
+		<language name="English">1: Colosseum\n    Pojedynczo, Bez ograniczeń</language>
 	</row>
 	<row id="msg_0013_00170" index="170">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">2: Colosseum\n    Single, Cup Match</language>
+		<language name="English">2: Colosseum\n    Pojedynczo, Mecz Pucharowy</language>
 	</row>
 	<row id="msg_0013_00171" index="171">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">3: Colosseum\n    Double, No Restrictions</language>
+		<language name="English">3: Colosseum\n    Podwójnie, Bez ograniczeń</language>
 	</row>
 	<row id="msg_0013_00172" index="172">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">4: Colosseum\n    Double, Cup Match</language>
+		<language name="English">4: Colosseum\n    Podwójnie, Mecz Pucharowy</language>
 	</row>
 	<row id="msg_0013_00173" index="173">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">5: Colosseum\n    Multi</language>
+		<language name="English">5: Colosseum\n    Grupowo</language>
 	</row>
 	<row id="msg_0013_00174" index="174">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">6: Battle Tower\n    Single</language>
+		<language name="English">6: Battle Tower\n    Pojedynczo</language>
 	</row>
 	<row id="msg_0013_00175" index="175">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">7: Battle Tower\n    Double</language>
+		<language name="English">7: Battle Tower\n    Podwójnie</language>
 	</row>
 	<row id="msg_0013_00176" index="176">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">8: Battle Tower\n    Multi</language>
+		<language name="English">8: Battle Tower\n    Grupowo</language>
 	</row>
 	<row id="msg_0013_00177" index="177">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">9: Battle Factory\n    Level 50, Single</language>
+		<language name="English">9: Battle Factory\n    Poziom 50, Pojedynczo</language>
 	</row>
 	<row id="msg_0013_00178" index="178">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">10: Battle Factory\n      Level 50, Double</language>
+		<language name="English">10: Battle Factory\n      Poziom 50, Podwójnie</language>
 	</row>
 	<row id="msg_0013_00179" index="179">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">11: Battle Factory\n      Level 50, Multi</language>
+		<language name="English">11: Battle Factory\n      Poziom 50, Grupowo</language>
 	</row>
 	<row id="msg_0013_00180" index="180">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">12: Battle Factory\n      Open Level, Single</language>
+		<language name="English">12: Battle Factory\n      Poziom Otwarty, Pojedynczo</language>
 	</row>
 	<row id="msg_0013_00181" index="181">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">13: Battle Factory\n      Open Level, Double</language>
+		<language name="English">13: Battle Factory\n      Poziom Otwarty, Podwójnie</language>
 	</row>
 	<row id="msg_0013_00182" index="182">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">14: Battle Factory\n      Open Level, Multi</language>
+		<language name="English">14: Battle Factory\n      Poziom Otwarty, Grupowo</language>
 	</row>
 	<row id="msg_0013_00183" index="183">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">15: Battle Hall\n      Single</language>
+		<language name="English">15: Battle Hall\n      Pojedynczo</language>
 	</row>
 	<row id="msg_0013_00184" index="184">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">16: Battle Hall\n      Double</language>
+		<language name="English">16: Battle Hall\n      Podwójnie</language>
 	</row>
 	<row id="msg_0013_00185" index="185">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">17: Battle Hall\n      Multi</language>
+		<language name="English">17: Battle Hall\n      Grupowo</language>
 	</row>
 	<row id="msg_0013_00186" index="186">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">18: Battle Castle\n      Single</language>
+		<language name="English">18: Battle Castle\n      Pojedynczo</language>
 	</row>
 	<row id="msg_0013_00187" index="187">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">19: Battle Castle\n      Double</language>
+		<language name="English">19: Battle Castle\n      Podwójnie</language>
 	</row>
 	<row id="msg_0013_00188" index="188">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">20: Battle Castle\n      Multi</language>
+		<language name="English">20: Battle Castle\n      Grupowo</language>
 	</row>
 	<row id="msg_0013_00189" index="189">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">21: Battle Arcade\n      Single</language>
+		<language name="English">21: Battle Arcade\n      Pojedynczo</language>
 	</row>
 	<row id="msg_0013_00190" index="190">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">22: Battle Arcade\n      Double</language>
+		<language name="English">22: Battle Arcade\n      Podwójnie</language>
 	</row>
 	<row id="msg_0013_00191" index="191">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">23: Battle Arcade\n      Multi</language>
+		<language name="English">23: Battle Arcade\n      Grupowo</language>
 	</row>
 	<row id="msg_0013_00192" index="192">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TOUCH HERE!</language>
+		<language name="English">DOTKNIJ TUTAJ!</language>
 	</row>
 	<row id="msg_0013_00193" index="193">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Is it OK to disconnect from\nNintendo Wi-Fi Connection?</language>
+		<language name="English">Czy na pewno rozłączyć się z\nNintendo Wi-Fi Connection?</language>
 	</row>
 	<row id="msg_0013_00194" index="194">
 		<attribute name="window_context_name">garbage</attribute>
@@ -809,23 +809,23 @@
 	</row>
 	<row id="msg_0013_00195" index="195">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">User authentication error.\nPlease wait a while before reconnecting.</language>
+		<language name="English">Błąd uwierzytelniania użytkownika.\nOdczekaj chwilę przed ponownym połączeniem.</language>
 	</row>
 	<row id="msg_0013_00196" index="196">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This data is already registered.\nTouch the Touch Screen to continue.</language>
+		<language name="English">Te dane są już zarejestrowane.\nDotknij ekranu, aby kontynuować.</language>
 	</row>
 	<row id="msg_0013_00197" index="197">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There appears to be a problem with the\nDress-Up Data.</language>
+		<language name="English">Wygląda na to, że wystąpił problem\nz Danymi Stylizacji.</language>
 	</row>
 	<row id="msg_0013_00198" index="198">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There appears to be a problem with the\nProfile data.</language>
+		<language name="English">Wygląda na to, że wystąpił problem\nz danymi profilu.</language>
 	</row>
 	<row id="msg_0013_00199" index="199">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An error occurred.\nTouch the Touch Screen to continue.</language>
+		<language name="English">Wystąpił błąd.\nDotknij ekranu, aby kontynuować.</language>
 	</row>
 	<row id="msg_0013_00200" index="200">
 		<attribute name="window_context_name">garbage</attribute>
@@ -834,15 +834,15 @@
 	</row>
 	<row id="msg_0013_00201" index="201">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">User authentication error.\nPlease wait a while before reconnecting.</language>
+		<language name="English">Błąd uwierzytelniania użytkownika.\nOdczekaj chwilę przed ponownym połączeniem.</language>
 	</row>
 	<row id="msg_0013_00202" index="202">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There appears to be a problem with the\nchosen Pokémon.</language>
+		<language name="English">Wygląda na to, że wystąpił problem\nz wybranym Pokémonem.</language>
 	</row>
 	<row id="msg_0013_00203" index="203">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An error occurred.\nTouch the Touch Screen to continue.</language>
+		<language name="English">Wystąpił błąd.\nDotknij ekranu, aby kontynuować.</language>
 	</row>
 	<row id="msg_0013_00204" index="204">
 		<attribute name="window_context_name">garbage</attribute>
@@ -851,27 +851,27 @@
 	</row>
 	<row id="msg_0013_00205" index="205">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">User authentication error.\nPlease wait a while before reconnecting.</language>
+		<language name="English">Błąd uwierzytelniania użytkownika.\nOdczekaj chwilę przed ponownym połączeniem.</language>
 	</row>
 	<row id="msg_0013_00206" index="206">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This data is already registered.\nTouch the Touch Screen to continue.</language>
+		<language name="English">Te dane są już zarejestrowane.\nDotknij ekranu, aby kontynuować.</language>
 	</row>
 	<row id="msg_0013_00207" index="207">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There appears to be a problem with the\nBox Data.</language>
+		<language name="English">Wygląda na to, że wystąpił problem\nz Danymi Pudełka.</language>
 	</row>
 	<row id="msg_0013_00208" index="208">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There appears to be a problem with the\nProfile data.</language>
+		<language name="English">Wygląda na to, że wystąpił problem\nz danymi profilu.</language>
 	</row>
 	<row id="msg_0013_00209" index="209">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There appears to be a problem with your\nparty.</language>
+		<language name="English">Wygląda na to, że wystąpił problem\nz twoją drużyną.</language>
 	</row>
 	<row id="msg_0013_00210" index="210">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An error occurred.\nTouch the Touch Screen to continue.</language>
+		<language name="English">Wystąpił błąd.\nDotknij ekranu, aby kontynuować.</language>
 	</row>
 	<row id="msg_0013_00211" index="211">
 		<attribute name="window_context_name">garbage</attribute>
@@ -880,15 +880,15 @@
 	</row>
 	<row id="msg_0013_00212" index="212">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">User authentication error.\nPlease wait a while before reconnecting.</language>
+		<language name="English">Błąd uwierzytelniania użytkownika.\nOdczekaj chwilę przed ponownym połączeniem.</language>
 	</row>
 	<row id="msg_0013_00213" index="213">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There appears to be a problem with your\nparty.</language>
+		<language name="English">Wygląda na to, że wystąpił problem\nz twoją drużyną.</language>
 	</row>
 	<row id="msg_0013_00214" index="214">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An error occurred.\nTouch the Touch Screen to continue.</language>
+		<language name="English">Wystąpił błąd.\nDotknij ekranu, aby kontynuować.</language>
 	</row>
 	<row id="msg_0013_00215" index="215">
 		<attribute name="window_context_name">garbage</attribute>
@@ -897,11 +897,11 @@
 	</row>
 	<row id="msg_0013_00216" index="216">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">User authentication error.\nPlease wait a while before reconnecting.</language>
+		<language name="English">Błąd uwierzytelniania użytkownika.\nOdczekaj chwilę przed ponownym połączeniem.</language>
 	</row>
 	<row id="msg_0013_00217" index="217">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An error occurred.\nTouch the Touch Screen to continue.</language>
+		<language name="English">Wystąpił błąd.\nDotknij ekranu, aby kontynuować.</language>
 	</row>
 	<row id="msg_0013_00218" index="218">
 		<attribute name="window_context_name">garbage</attribute>
@@ -910,23 +910,23 @@
 	</row>
 	<row id="msg_0013_00219" index="219">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">User authentication error.\nPlease wait a while before reconnecting.</language>
+		<language name="English">Błąd uwierzytelniania użytkownika.\nOdczekaj chwilę przed ponownym połączeniem.</language>
 	</row>
 	<row id="msg_0013_00220" index="220">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Failed to receive ranking data.\nTouch the Touch Screen to continue.</language>
+		<language name="English">Nie udało się odebrać danych rankingu.\nDotknij ekranu, aby kontynuować.</language>
 	</row>
 	<row id="msg_0013_00221" index="221">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There appears to be a problem with your\nranking record.</language>
+		<language name="English">Wygląda na to, że wystąpił problem\nz twoim wynikiem w rankingu.</language>
 	</row>
 	<row id="msg_0013_00222" index="222">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There appears to be a problem with the\nProfile data.</language>
+		<language name="English">Wygląda na to, że wystąpił problem\nz danymi profilu.</language>
 	</row>
 	<row id="msg_0013_00223" index="223">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An error occurred.\nTouch the Touch Screen to continue.</language>
+		<language name="English">Wystąpił błąd.\nDotknij ekranu, aby kontynuować.</language>
 	</row>
 	<row id="msg_0013_00224" index="224">
 		<attribute name="window_context_name">garbage</attribute>
@@ -935,31 +935,31 @@
 	</row>
 	<row id="msg_0013_00225" index="225">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">User authentication error.\nPlease wait a while before reconnecting.</language>
+		<language name="English">Błąd uwierzytelniania użytkownika.\nOdczekaj chwilę przed ponownym połączeniem.</language>
 	</row>
 	<row id="msg_0013_00226" index="226">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This data is already registered.\nTouch the Touch Screen to continue.</language>
+		<language name="English">Te dane są już zarejestrowane.\nDotknij ekranu, aby kontynuować.</language>
 	</row>
 	<row id="msg_0013_00227" index="227">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There appears to be a problem with the\nBattle Video.</language>
+		<language name="English">Wygląda na to, że wystąpił problem\nz Battle Video.</language>
 	</row>
 	<row id="msg_0013_00228" index="228">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There appears to be a problem with the\nProfile data.</language>
+		<language name="English">Wygląda na to, że wystąpił problem\nz danymi profilu.</language>
 	</row>
 	<row id="msg_0013_00229" index="229">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An error occurred.\nTouch the Touch Screen to continue.</language>
+		<language name="English">Wystąpił błąd.\nDotknij ekranu, aby kontynuować.</language>
 	</row>
 	<row id="msg_0013_00230" index="230">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There appears to be a problem with your\nPokémon. Data was not sent.</language>
+		<language name="English">Wygląda na to, że wystąpił problem\nz twoim Pokémonem. Dane nie zostały wysłane.</language>
 	</row>
 	<row id="msg_0013_00231" index="231">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There appears to be a problem with a\nplayer’s Pokémon. Data was not sent.</language>
+		<language name="English">Wygląda na to, że wystąpił problem\nz Pokémonem gracza. Dane nie zostały wysłane.</language>
 	</row>
 	<row id="msg_0013_00232" index="232">
 		<attribute name="window_context_name">garbage</attribute>
@@ -968,15 +968,15 @@
 	</row>
 	<row id="msg_0013_00233" index="233">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">User authentication error.\nPlease wait a while before reconnecting.</language>
+		<language name="English">Błąd uwierzytelniania użytkownika.\nOdczekaj chwilę przed ponownym połączeniem.</language>
 	</row>
 	<row id="msg_0013_00234" index="234">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There appears to be a problem with the\nsearch criteria.</language>
+		<language name="English">Wygląda na to, że wystąpił problem\nz kryteriami wyszukiwania.</language>
 	</row>
 	<row id="msg_0013_00235" index="235">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An error occurred.\nTouch the Touch Screen to continue.</language>
+		<language name="English">Wystąpił błąd.\nDotknij ekranu, aby kontynuować.</language>
 	</row>
 	<row id="msg_0013_00236" index="236">
 		<attribute name="window_context_name">garbage</attribute>
@@ -985,15 +985,15 @@
 	</row>
 	<row id="msg_0013_00237" index="237">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">User authentication error.\nPlease wait a while before reconnecting.</language>
+		<language name="English">Błąd uwierzytelniania użytkownika.\nOdczekaj chwilę przed ponownym połączeniem.</language>
 	</row>
 	<row id="msg_0013_00238" index="238">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No matching Battle Videos found...\nTouch the Touch Screen to continue.</language>
+		<language name="English">Nie znaleziono pasujących Battle Videos...\nDotknij ekranu, aby kontynuować.</language>
 	</row>
 	<row id="msg_0013_00239" index="239">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An error occurred.\nTouch the Touch Screen to continue.</language>
+		<language name="English">Wystąpił błąd.\nDotknij ekranu, aby kontynuować.</language>
 	</row>
 	<row id="msg_0013_00240" index="240">
 		<attribute name="window_context_name">garbage</attribute>
@@ -1022,59 +1022,59 @@
 	</row>
 	<row id="msg_0013_00245" index="245">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An error occurred.\nError Code 10601</language>
+		<language name="English">Wystąpił błąd.\nKod błędu 10601</language>
 	</row>
 	<row id="msg_0013_00246" index="246">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An error occurred.\nError Code 10602</language>
+		<language name="English">Wystąpił błąd.\nKod błędu 10602</language>
 	</row>
 	<row id="msg_0013_00247" index="247">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An error occurred.\nError Code 10603</language>
+		<language name="English">Wystąpił błąd.\nKod błędu 10603</language>
 	</row>
 	<row id="msg_0013_00248" index="248">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An error occurred.\nError Code 10604</language>
+		<language name="English">Wystąpił błąd.\nKod błędu 10604</language>
 	</row>
 	<row id="msg_0013_00249" index="249">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Unable to connect.\nError Code 10605</language>
+		<language name="English">Nie można się połączyć.\nKod błędu 10605</language>
 	</row>
 	<row id="msg_0013_00250" index="250">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An error occurred.\nError Code 10606</language>
+		<language name="English">Wystąpił błąd.\nKod błędu 10606</language>
 	</row>
 	<row id="msg_0013_00251" index="251">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Unable to connect.\nError Code 10607</language>
+		<language name="English">Nie można się połączyć.\nKod błędu 10607</language>
 	</row>
 	<row id="msg_0013_00252" index="252">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An error occurred.\nError Code 10608</language>
+		<language name="English">Wystąpił błąd.\nKod błędu 10608</language>
 	</row>
 	<row id="msg_0013_00253" index="253">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An error occurred.\nError Code 10609</language>
+		<language name="English">Wystąpił błąd.\nKod błędu 10609</language>
 	</row>
 	<row id="msg_0013_00254" index="254">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is no response.\nError Code 10610</language>
+		<language name="English">Brak odpowiedzi.\nKod błędu 10610</language>
 	</row>
 	<row id="msg_0013_00255" index="255">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is no response.\nError Code 10611</language>
+		<language name="English">Brak odpowiedzi.\nKod błędu 10611</language>
 	</row>
 	<row id="msg_0013_00256" index="256">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is no response.\nError Code 10612</language>
+		<language name="English">Brak odpowiedzi.\nKod błędu 10612</language>
 	</row>
 	<row id="msg_0013_00257" index="257">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Communication was interrupted.\nError Code 10613</language>
+		<language name="English">Połączenie zostało przerwane.\nKod błędu 10613</language>
 	</row>
 	<row id="msg_0013_00258" index="258">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Unable to connect.\nError Code 10614</language>
+		<language name="English">Nie można się połączyć.\nKod błędu 10614</language>
 	</row>
 	<row id="msg_0013_00259" index="259">
 		<attribute name="window_context_name">garbage</attribute>
@@ -1113,7 +1113,7 @@
 	</row>
 	<row id="msg_0013_00266" index="266">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The connection to the server was lost.\nTouch the Touch Screen to continue.</language>
+		<language name="English">Połączenie z serwerem zostało utracone.\nDotknij ekranu, aby kontynuować.</language>
 	</row>
 	<row id="msg_0013_00267" index="267">
 		<attribute name="window_context_name">garbage</attribute>
@@ -1127,135 +1127,135 @@
 	</row>
 	<row id="msg_0013_00269" index="269">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is nothing saved.\nTouch the Touch Screen to continue.</language>
+		<language name="English">Nie ma niczego zapisanego.\nDotknij ekranu, aby kontynuować.</language>
 	</row>
 	<row id="msg_0013_00270" index="270">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please choose a Box.</language>
+		<language name="English">Wybierz Pudełko.</language>
 	</row>
 	<row id="msg_0013_00271" index="271">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An empty Box’s Data can’t be sent.</language>
+		<language name="English">Nie można wysłać danych pustego Pudełka.</language>
 	</row>
 	<row id="msg_0013_00272" index="272">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where would you like to send this?</language>
+		<language name="English">Gdzie chcesz to wysłać?</language>
 	</row>
 	<row id="msg_0013_00273" index="273">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Only one Box Data may be sent at a time.</language>
+		<language name="English">Tylko jedno Pudełko z danymi może być wysłane naraz.</language>
 	</row>
 	<row id="msg_0013_00274" index="274">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The same Box Data can’t be sent.</language>
+		<language name="English">Nie można wysłać tych samych Danych Pudełka.</language>
 	</row>
 	<row id="msg_0013_00275" index="275">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which category would you like to see?</language>
+		<language name="English">Którą kategorię chcesz zobaczyć?</language>
 	</row>
 	<row id="msg_0013_00276" index="276">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The saved data could not be deleted...</language>
+		<language name="English">Nie udało się usunąć zapisanych danych...</language>
 	</row>
 	<row id="msg_0013_00277" index="277">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The same Battle Video can’t be saved again.\nTouch the Touch Screen to continue.</language>
+		<language name="English">Nie można ponownie zapisać tego samego\nBattle Video. Dotknij ekranu, aby kontynuować.</language>
 	</row>
 	<row id="msg_0013_00278" index="278">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving...\nDon’t turn off the power.</language>
+		<language name="English">Zapisywanie...\nNie wyłączaj zasilania.</language>
 	</row>
 	<row id="msg_0013_00279" index="279">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Receiving ranking data...</language>
+		<language name="English">Odbieranie danych rankingu...</language>
 	</row>
 	<row id="msg_0013_00280" index="280">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sending save data...</language>
+		<language name="English">Wysyłanie danych zapisu...</language>
 	</row>
 	<row id="msg_0013_00281" index="281">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Save completed.\nTouch the Touch Screen to continue.</language>
+		<language name="English">Zapisano.\nDotknij ekranu, aby kontynuować.</language>
 	</row>
 	<row id="msg_0013_00282" index="282">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you want to delete {STRVAR_1 3, 0, 0}’s\nBattle Video?</language>
+		<language name="English">Czy chcesz usunąć Battle Video\ngracza {STRVAR_1 3, 0, 0}?</language>
 	</row>
 	<row id="msg_0013_00283" index="283">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Is it really OK to delete this data?</language>
+		<language name="English">Czy na pewno chcesz usunąć te dane?</language>
 	</row>
 	<row id="msg_0013_00284" index="284">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Deleting data...\nSaving... Don’t turn off the power.</language>
+		<language name="English">Usuwanie danych...\nZapisywanie... Nie wyłączaj zasilania.</language>
 	</row>
 	<row id="msg_0013_00285" index="285">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The data was deleted.\nTouch the Touch Screen to continue.</language>
+		<language name="English">Dane zostały usunięte.\nDotknij ekranu, aby kontynuować.</language>
 	</row>
 	<row id="msg_0013_00286" index="286">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sending your Dress-Up Data...</language>
+		<language name="English">Wysyłanie Danych Stylizacji...</language>
 	</row>
 	<row id="msg_0013_00287" index="287">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Receiving Dress-Up Data...</language>
+		<language name="English">Odbieranie Danych Stylizacji...</language>
 	</row>
 	<row id="msg_0013_00288" index="288">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sending your Box Data...</language>
+		<language name="English">Wysyłanie Danych Pudełka...</language>
 	</row>
 	<row id="msg_0013_00289" index="289">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Receiving Box Data...</language>
+		<language name="English">Odbieranie Danych Pudełka...</language>
 	</row>
 	<row id="msg_0013_00290" index="290">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have no saved data to send.\nTake a photo in the Goldenrod Tunnel.</language>
+		<language name="English">Nie masz zapisanych danych do wysłania.\nZrób zdjęcie w Goldenrod Tunnel.</language>
 	</row>
 	<row id="msg_0013_00291" index="291">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The same data can’t be sent again.\nTouch the Touch Screen to continue.</language>
+		<language name="English">Nie można ponownie wysłać tych samych danych.\nDotknij ekranu, aby kontynuować.</language>
 	</row>
 	<row id="msg_0013_00292" index="292">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Receiving Battle Videos...</language>
+		<language name="English">Odbieranie Battle Videos...</language>
 	</row>
 	<row id="msg_0013_00293" index="293">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No matching data was found...\nTouch the Touch Screen to continue.</language>
+		<language name="English">Nie znaleziono pasujących danych...\nDotknij ekranu, aby kontynuować.</language>
 	</row>
 	<row id="msg_0013_00294" index="294">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No matching Box Data was found...\nTouch the Touch Screen to continue.</language>
+		<language name="English">Nie znaleziono pasujących Danych Pudełka...\nDotknij ekranu, aby kontynuować.</language>
 	</row>
 	<row id="msg_0013_00295" index="295">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Battle Video was sent.\nVideo no.: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0}\n</language>
+		<language name="English">Twoje Battle Video zostało wysłane.\nNr video: {STRVAR_1 51, 0, 0}-{STRVAR_1 54, 1, 0}-{STRVAR_1 54, 2, 0}\n</language>
 	</row>
 	<row id="msg_0013_00296" index="296">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The game will be saved before you can view\nBattle Videos.</language>
+		<language name="English">Gra zostanie zapisana, zanim będziesz mógł/mogła\noglądać Battle Videos.</language>
 	</row>
 	<row id="msg_0013_00297" index="297">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Deleting data... Saving a lot of\ndata... Don’t turn off the power.</language>
+		<language name="English">Usuwanie danych... Zapisywanie dużej\nilości danych... Nie wyłączaj zasilania.</language>
 	</row>
 	<row id="msg_0013_00298" index="298">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving a lot of data...\nDon’t turn off the power.</language>
+		<language name="English">Zapisywanie dużej ilości danych...\nNie wyłączaj zasilania.</language>
 	</row>
 	<row id="msg_0013_00299" index="299">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving...\nDon’t turn off the power.</language>
+		<language name="English">Zapisywanie...\nNie wyłączaj zasilania.</language>
 	</row>
 	<row id="msg_0013_00300" index="300">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is no ranking data...\nTouch the Touch Screen to continue.</language>
+		<language name="English">Nie ma danych rankingu...\nDotknij ekranu, aby kontynuować.</language>
 	</row>
 	<row id="msg_0013_00301" index="301">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to send your Battle Video?</language>
+		<language name="English">Czy chcesz wysłać swoje Battle Video?</language>
 	</row>
 	<row id="msg_0013_00302" index="302">
 		<attribute name="window_context_name">garbage</attribute>
@@ -1299,27 +1299,27 @@
 	</row>
 	<row id="msg_0013_00310" index="310">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LATEST 20 IN THE FAVORITE PC BOX</language>
+		<language name="English">OSTATNIE 20 W ULUBIONYM PUDEŁKU PC</language>
 	</row>
 	<row id="msg_0013_00311" index="311">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LATEST 20 IN THE COOL PC BOX</language>
+		<language name="English">OSTATNIE 20 W FAJNYM PUDEŁKU PC</language>
 	</row>
 	<row id="msg_0013_00312" index="312">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LATEST 20 IN THE CUTE PC BOX</language>
+		<language name="English">OSTATNIE 20 W SŁODKIM PUDEŁKU PC</language>
 	</row>
 	<row id="msg_0013_00313" index="313">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LATEST 20 IN THE SUGGESTED PC BOX</language>
+		<language name="English">OSTATNIE 20 W SUGEROWANYM PUDEŁKU PC</language>
 	</row>
 	<row id="msg_0013_00314" index="314">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LATEST 20 IN THE FUN PC BOX</language>
+		<language name="English">OSTATNIE 20 W ZABAWNYM PUDEŁKU PC</language>
 	</row>
 	<row id="msg_0013_00315" index="315">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LATEST 20 IN THE SELECT PC BOX</language>
+		<language name="English">OSTATNIE 20 W WYBRANYM PUDEŁKU PC</language>
 	</row>
 	<row id="msg_0013_00316" index="316">
 		<attribute name="window_context_name">used</attribute>
@@ -1391,6 +1391,6 @@
 	</row>
 	<row id="msg_0013_00333" index="333">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ignore Location</language>
+		<language name="English">Ignoruj lokalizację</language>
 	</row>
 </body>
