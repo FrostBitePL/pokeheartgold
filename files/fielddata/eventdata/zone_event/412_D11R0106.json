@@ -3,7 +3,7 @@
   "objects": [
     {
       "id": "obj_D11R0106_gsleader15",
-      "spriteId": "SPRITE_GSLEADER9",
+      "spriteId": "SPRITE_GSLEADER12",
       "movement": 15,
       "type": 0,
       "eventFlag": "FLAG_HIDE_SEAFOAM_GYM_BLAINE",

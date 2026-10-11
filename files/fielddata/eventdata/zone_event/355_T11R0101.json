@@ -55,7 +55,7 @@
     },
     {
       "id": "obj_T11R0101_gsleader13",
-      "spriteId": "SPRITE_GSLEADER12",
+      "spriteId": "SPRITE_GSLEADER16",
       "movement": 0,
       "type": 0,
       "eventFlag": "FLAG_UNK_2B6",
@@ -89,7 +89,7 @@
     },
     {
       "id": "obj_T11R0101_gsleader12",
-      "spriteId": "SPRITE_GSLEADER16",
+      "spriteId": "SPRITE_GSLEADER14",
       "movement": 0,
       "type": 0,
       "eventFlag": "FLAG_UNK_2B8",
@@ -157,7 +157,7 @@
     },
     {
       "id": "obj_T11R0101_gsleader14",
-      "spriteId": "SPRITE_GSLEADER14",
+      "spriteId": "SPRITE_GSLEADER13",
       "movement": 0,
       "type": 0,
       "eventFlag": "FLAG_UNK_2BD",
@@ -225,7 +225,7 @@
     },
     {
       "id": "obj_T11R0101_gsleader9",
-      "spriteId": "SPRITE_GSLEADER13",
+      "spriteId": "SPRITE_GSLEADER9",
       "movement": 0,
       "type": 0,
       "eventFlag": "FLAG_UNK_2C1",
@@ -293,7 +293,7 @@
     },
     {
       "id": "obj_T11R0101_gsleader15",
-      "spriteId": "SPRITE_GSLEADER9",
+      "spriteId": "SPRITE_GSLEADER12",
       "movement": 0,
       "type": 0,
       "eventFlag": "FLAG_UNK_2BA",

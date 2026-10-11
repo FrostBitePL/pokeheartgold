@@ -157,7 +157,7 @@
     },
     {
       "id": "obj_T07GYM0101_gsleader12",
-      "spriteId": "SPRITE_GSLEADER16",
+      "spriteId": "SPRITE_GSLEADER14",
       "movement": 15,
       "type": 0,
       "eventFlag": "FLAG_HIDE_CELADON_GYM_ERIKA",

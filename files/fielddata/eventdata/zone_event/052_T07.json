@@ -214,7 +214,7 @@
     },
     {
       "id": "obj_T07_gsleader12",
-      "spriteId": "SPRITE_GSLEADER16",
+      "spriteId": "SPRITE_GSLEADER14",
       "movement": 0,
       "type": 0,
       "eventFlag": "FLAG_UNK_25D",

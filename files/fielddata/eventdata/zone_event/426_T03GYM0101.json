@@ -38,7 +38,7 @@
     },
     {
       "id": "obj_T03GYM0101_gsleader14",
-      "spriteId": "SPRITE_GSLEADER14",
+      "spriteId": "SPRITE_GSLEADER13",
       "movement": 15,
       "type": 0,
       "eventFlag": "FLAG_HIDE_PEWTER_GYM_BROCK",

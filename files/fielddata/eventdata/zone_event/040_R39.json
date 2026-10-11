@@ -265,7 +265,7 @@
     },
     {
       "id": "obj_R39_gsleader9",
-      "spriteId": "SPRITE_GSLEADER13",
+      "spriteId": "SPRITE_GSLEADER9",
       "movement": 0,
       "type": 0,
       "eventFlag": "FLAG_HIDE_ROUTE_39_LT_SURGE",
