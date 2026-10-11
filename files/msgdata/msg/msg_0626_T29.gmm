@@ -22,11 +22,11 @@
 	</row>
 	<row id="msg_0626_T29_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: Doskonale!\rWygląda na to, że MAGIKARPY z\nLake of Rage są zmuszane do ewolucji.\rTajemnicza audycja radiowa nadawana\nz Mahogany jest pewnie tego przyczyną.\rI ten podejrzany sklep z pamiątkami...\rBędę czekał na ciebie w Mahogany,\n{STRVAR_1 3, 0, 0}.</language>
+		<language name="English">Lance: Doskonale!\rWygląda na to, że MAGIKARPY z\nLake of Rage są zmuszane do ewolucji.\rTajemnicza audycja radiowa nadawana\nz Imbramowic jest pewnie tego\fprzyczyną.\rI ten podejrzany sklep z pamiątkami...\rBędę czekał na ciebie w\nImbramowicach, {STRVAR_1 3, 0, 0}.</language>
 	</row>
 	<row id="msg_0626_T29_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: Doskonale!\rWygląda na to, że MAGIKARPY z\nLake of Rage są zmuszane\fdo ewolucji.\rTajemnicza audycja radiowa nadawana\nz Mahogany jest tego przyczyną.\rBędę na ciebie czekał, {STRVAR_1 3, 0, 0}.</language>
+		<language name="English">Lance: Doskonale!\rWygląda na to, że MAGIKARPY z\nLake of Rage są zmuszane\fdo ewolucji.\rTajemnicza audycja radiowa nadawana\nz Imbramowic jest tego przyczyną.\rBędę na ciebie czekał, {STRVAR_1 3, 0, 0}.</language>
 	</row>
 	<row id="msg_0626_T29_00007" index="7">
 		<attribute name="window_context_name">used</attribute>

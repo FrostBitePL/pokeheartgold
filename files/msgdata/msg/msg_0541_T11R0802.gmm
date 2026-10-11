@@ -14,11 +14,11 @@
 	</row>
 	<row id="msg_0541_T11R0802_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: Cześć! Słyszałem/-am,\nże zgubiłaś swoją ukochaną\fPoké Doll.\r{STRVAR_1 3, 0, 0}: Jeśli ją znajdę,\ndasz mi Magnet Train Pass?\r{STRVAR_1 3, 0, 0}: Pójdę jej dla ciebie\nposzukać.\r{STRVAR_1 3, 0, 0}: Myślisz, że zgubiłaś\nją, gdy pojechałaś do Vermilion City?\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}: Cześć! Słyszałem/-am,\nże zgubiłaś swoją ukochaną\fPoké Doll.\r{STRVAR_1 3, 0, 0}: Jeśli ją znajdę,\ndasz mi Magnet Train Pass?\r{STRVAR_1 3, 0, 0}: Pójdę jej dla ciebie\nposzukać.\r{STRVAR_1 3, 0, 0}: Myślisz, że zgubiłaś ją,\ngdy pojechałaś do Zagórza Śląskiego?\r</language>
 	</row>
 	<row id="msg_0541_T11R0802_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: Cześć! Słyszałem/-am,\nże zgubiłaś swoją ukochaną\fPoké Doll.\r{STRVAR_1 3, 0, 0}: Jeśli ją znajdę,\ndasz mi Magnet Train Pass?\r{STRVAR_1 3, 0, 0}: Pójdę jej dla ciebie\nposzukać.\r{STRVAR_1 3, 0, 0}: Myślisz, że zgubiłaś\nją, gdy pojechałaś do Vermilion City?\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}: Cześć! Słyszałem/-am,\nże zgubiłaś swoją ukochaną\fPoké Doll.\r{STRVAR_1 3, 0, 0}: Jeśli ją znajdę,\ndasz mi Magnet Train Pass?\r{STRVAR_1 3, 0, 0}: Pójdę jej dla ciebie\nposzukać.\r{STRVAR_1 3, 0, 0}: Myślisz, że zgubiłaś ją,\ngdy pojechałaś do Zagórza Śląskiego?\r</language>
 	</row>
 	<row id="msg_0541_T11R0802_00005" index="5">
 		<attribute name="window_context_name">used</attribute>

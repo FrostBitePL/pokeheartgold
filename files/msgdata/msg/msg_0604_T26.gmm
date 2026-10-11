@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0604_T26_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Olivine City\nPort z Morską Bryzą</language>
+		<language name="English">Siedlimowice\nMłyn nad Zalewem</language>
 	</row>
 	<row id="msg_0604_T26_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -34,6 +34,6 @@
 	</row>
 	<row id="msg_0604_T26_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Latarnia Morska w Olivine\rZnana jest też jako\nLśniąca Latarnia.</language>
+		<language name="English">Latarnia Morska w Siedlimowicach\rZnana jest też jako\nLśniąca Latarnia.</language>
 	</row>
 </body>

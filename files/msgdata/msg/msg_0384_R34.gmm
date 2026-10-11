@@ -156,11 +156,11 @@
 	</row>
 	<row id="msg_0384_R34_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trasa 34\nNa południe do Azalea Town</language>
+		<language name="English">Trasa 34\nNa południe do Kalna</language>
 	</row>
 	<row id="msg_0384_R34_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Porady dla Trenera\rNa północ do Goldenrod City\nWieża Radiowa w Goldenrod rozdaje\fRadio Cards.\rOdpowiedz na ich pytania i otrzymaj\nRadio Card!</language>
+		<language name="English">Porady dla Trenera\rNa północ do Żarowa\nWieża Radiowa w Żarowie rozdaje\fRadio Cards.\rOdpowiedz na ich pytania i otrzymaj\nRadio Card!</language>
 	</row>
 	<row id="msg_0384_R34_00035" index="35">
 		<attribute name="window_context_name">used</attribute>

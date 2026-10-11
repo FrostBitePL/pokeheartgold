@@ -62,7 +62,7 @@
 	</row>
 	<row id="msg_0413_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kroniki Żarowskie: Akta Numer Cztery\nNasza Ekipa Radiowa to widziała! Słyszała!\nW środku nocy, bezzałogowy Magnet Train\nwjechał na stację Goldenrod!\nCzy to pociąg widmo?\nCzy to po prostu odbicie pociągu?\nTen program przyjrzy się bliżej tego\nrodzaju sprawom, prowadząc dokładne\nśledztwo.\nZapraszamy do słuchania!</language>
+		<language name="English">Kroniki Żarowskie: Akta Numer Cztery\nNasza Ekipa Radiowa to widziała! Słyszała!\nW środku nocy, bezzałogowy Magnet Train\nwjechał na stację Żarów!\nCzy to pociąg widmo?\nCzy to po prostu odbicie pociągu?\nTen program przyjrzy się bliżej tego\nrodzaju sprawom, prowadząc dokładne\nśledztwo.\nZapraszamy do słuchania!</language>
 	</row>
 	<row id="msg_0413_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -82,7 +82,7 @@
 	</row>
 	<row id="msg_0413_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">East: Wiesz, West, w mieście Ecruteak\njest bardzo ładna ścieżka zwana\n„Szlakiem Dzwonów”.\nChciałbyś się tam ze mną wybrać?\nWest: Och, East...jeśli dobrze pamiętam,\nchyba trzeba mieć Odznakę Sali Ecruteak,\nby tam dotrzeć...\nEast: Co? Czy to znaczy, że najpierw\nmuszę pokonać Morty’ego? To może być\ndla mnie trochę trudne...\nNarrator: Biedny East wcale nie jest dobry\nw walkach Pokémon...!\nWłączcie się następnym razem na kolejny\nodcinek Radiowego Serialu Dramatycznego:\nFale Miłości!</language>
+		<language name="English">East: Wiesz, West, w Mrowinach jest\nbardzo ładna ścieżka zwana „Szlakiem\nDzwonów”. Chciałbyś się tam ze mną\nwybrać? West: Och, East...jeśli\ndobrze pamiętam, chyba trzeba mieć\nOdznakę Sali w Mrowinach, by tam\ndotrzeć... East: Co? Czy to znaczy,\nże najpierw muszę pokonać Morty’ego?\nTo może być dla mnie trochę\ntrudne... Narrator: Biedny East\nwcale nie jest dobry w walkach\nPokémon...! Włączcie się następnym\nrazem na kolejny odcinek Radiowego\nSerialu Dramatycznego: Fale Miłości!</language>
 	</row>
 	<row id="msg_0413_00021" index="21">
 		<attribute name="window_context_name">used</attribute>

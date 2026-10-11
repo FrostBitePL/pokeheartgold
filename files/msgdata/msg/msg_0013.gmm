@@ -1211,7 +1211,7 @@
 	</row>
 	<row id="msg_0013_00290" index="290">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nie masz zapisanych danych do wysłania.\nZrób zdjęcie w Goldenrod Tunnel.</language>
+		<language name="English">Nie masz zapisanych danych do wysłania.\nZrób zdjęcie w Tunelu pod Żarowem.</language>
 	</row>
 	<row id="msg_0013_00291" index="291">
 		<attribute name="window_context_name">used</attribute>

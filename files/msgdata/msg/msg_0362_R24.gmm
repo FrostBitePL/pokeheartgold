@@ -11,7 +11,7 @@
 	</row>
 	<row id="msg_0362_R24_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dobra. Powiem ci moją tajemnicę\nja.\rCzęść Maszyny ukradłem ja. Ukryłem\nją w Sali w Cerulean.\rBlisko nadmuchiwanej rurki położyłem\nją ja. Szukaj w Sali.\rAle mnie nie zapomnij ty!\nPokona cię na pewno Team Rocket.\rPrzyjdą z Regionu Żarów oni, moi\nsojusznicy, tak. Zemsta będzie ich.\r</language>
+		<language name="English">Dobra. Powiem ci moją tajemnicę\nja.\rCzęść Maszyny ukradłem ja. Ukryłem\nją w Sali w Burkatowie.\rBlisko nadmuchiwanej rurki położyłem\nją ja. Szukaj w Sali.\rAle mnie nie zapomnij ty!\nPokona cię na pewno Team Rocket.\rPrzyjdą z Regionu Żarów oni, moi\nsojusznicy, tak. Zemsta będzie ich.\r</language>
 	</row>
 	<row id="msg_0362_R24_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -35,7 +35,7 @@
 	</row>
 	<row id="msg_0362_R24_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Co jest nie tak z tym facetem?\n„Cerulean...blisko nadmuchiwanej\frurki” to „Część Maszyny”?\fO czym on mówił?</language>
+		<language name="English">Co jest nie tak z tym facetem?\n„Burkatów...blisko nadmuchiwanej\frurki” to „Część Maszyny”?\fO czym on mówił?</language>
 	</row>
 	<row id="msg_0362_R24_00009" index="9">
 		<attribute name="window_context_name">used</attribute>

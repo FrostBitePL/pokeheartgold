@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0494_T07R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Witaj! Zapraszamy do Celadon\nDepartment Store!\rWykaz pięter jest na ścianie obok\nwindy.</language>
+		<language name="English">Witaj! Zapraszamy do Domu Towarowego\nw Świebodzicach!\rWykaz pięter jest na ścianie obok\nwindy.</language>
 	</row>
 	<row id="msg_0494_T07R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ten dom towarowy jest częścią tej\nsamej sieci co ten w Goldenrod City.\rOba zostały odnowione w tym\nsamym czasie.</language>
+		<language name="English">Ten dom towarowy jest częścią tej\nsamej sieci co ten w Żarowie.\rOba zostały odnowione w tym\nsamym czasie.</language>
 	</row>
 	<row id="msg_0494_T07R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>

@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0491_T07_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zdradzę ci sekret!\rW Celadon Condominiums są miejsca,\ndo których można dotrzeć tylko windą\fna drugim piętrze!</language>
+		<language name="English">Zdradzę ci sekret!\rW Świebodzickich Apartamentach są\nmiejsca, do których można dotrzeć\ftylko windą na drugim piętrze!</language>
 	</row>
 	<row id="msg_0491_T07_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -30,15 +30,15 @@
 	</row>
 	<row id="msg_0491_T07_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Celadon Department Store oferuje\nnajszerszy wybór przedmiotów!\fMożesz kupić wszystko, czego\fchcesz!\r...Czy brzmię jak ich\nprzedstawiciel handlowy?</language>
+		<language name="English">Dom Towarowy w Świebodzicach oferuje\nnajszerszy wybór przedmiotów!\fMożesz kupić wszystko, czego\fchcesz!\r...Czy brzmię jak ich\nprzedstawiciel handlowy?</language>
 	</row>
 	<row id="msg_0491_T07_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Uwielbiam takie miejsca, gdzie\njest dużo budynków!\rSłyszałem, że w Regionie Żarów też\njest miasto zwane Goldenrod, gdzie\fjest wiele wysokich budynków.\fChciałbym je kiedyś odwiedzić.</language>
+		<language name="English">Uwielbiam takie miejsca, gdzie\njest dużo budynków!\rSłyszałem, że w Regionie Żarów też\njest miasto zwane Żarów, gdzie\fjest wiele wysokich budynków.\fChciałbym je kiedyś odwiedzić.</language>
 	</row>
 	<row id="msg_0491_T07_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Cześć, Jasmine. Słyszałam, że\nWhitney z Sali w Goldenrod powiedziała,\fże jesteś zbyt prosta i powinnaś\fwyglądać bardziej wystrojenie.\fCzy to prawda?\r</language>
+		<language name="English">Erika: Cześć, Jasmine. Słyszałam, że\nWhitney z Sali w Żarowie powiedziała,\fże jesteś zbyt prosta i powinnaś\fwyglądać bardziej wystrojenie.\fCzy to prawda?\r</language>
 	</row>
 	<row id="msg_0491_T07_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -70,7 +70,7 @@
 	</row>
 	<row id="msg_0491_T07_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Rozumiem.\nMyślisz, że Clair z Blackthorn jest\ftrochę żenująca...\fJa tylko notuję.\r</language>
+		<language name="English">Erika: Rozumiem.\nMyślisz, że Clair z Pożarzyska jest\ftrochę żenująca...\fJa tylko notuję.\r</language>
 	</row>
 	<row id="msg_0491_T07_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
@@ -122,15 +122,15 @@
 	</row>
 	<row id="msg_0491_T07_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Celadon City\nMiasto Barw Tęczy</language>
+		<language name="English">Świebodzice\nMiasto Zegarów</language>
 	</row>
 	<row id="msg_0491_T07_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Celadon City\nLiderka: Erika\fKsiężniczka Kochająca Naturę!</language>
+		<language name="English">Sala Pokémon w Świebodzicach\nLiderka: Erika\fKsiężniczka Kochająca Naturę!</language>
 	</row>
 	<row id="msg_0491_T07_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Znajdź to, czego potrzebujesz,\nw Celadon Dept. Store!</language>
+		<language name="English">Znajdź to, czego potrzebujesz,\nw Domu Towarowym w Świebodzicach!</language>
 	</row>
 	<row id="msg_0491_T07_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
@@ -138,10 +138,10 @@
 	</row>
 	<row id="msg_0491_T07_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Celadon Game Corner\nFajne Miejsce dla Każdego</language>
+		<language name="English">Game Corner w Świebodzicach\nFajne Miejsce dla Każdego</language>
 	</row>
 	<row id="msg_0491_T07_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Porady dla Trenerów\rGuard Spec. chroni Pokémony\nprzed atakami obniżającymi\fstatystyki podczas walki.\rZdobądź swoje przedmioty\nw Celadon Dept. Store!</language>
+		<language name="English">Porady dla Trenerów\rGuard Spec. chroni Pokémony\nprzed atakami obniżającymi\fstatystyki podczas walki.\rZdobądź swoje przedmioty\nw Domu Towarowym w Świebodzicach!</language>
 	</row>
 </body>

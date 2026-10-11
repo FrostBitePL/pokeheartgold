@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0563_T22R0701_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ostatnio nie widuję ludzi\nprzyjeżdżających z Goldenrod City.</language>
+		<language name="English">Ostatnio nie widuję ludzi\nprzyjeżdżających z Żarowa.</language>
 	</row>
 	<row id="msg_0563_T22R0701_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ostatnio jest tu ruchliwie, bo\nmamy wielu ludzi przyjeżdżających\fz Goldenrod i Ecruteak!</language>
+		<language name="English">Ostatnio jest tu ruchliwie, bo\nmamy wielu ludzi przyjeżdżających\fz Żarowa i Mrowin!</language>
 	</row>
 	<row id="msg_0563_T22R0701_00002" index="2">
 		<attribute name="window_context_name">used</attribute>

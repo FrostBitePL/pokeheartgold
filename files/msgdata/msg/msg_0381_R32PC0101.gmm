@@ -44,10 +44,10 @@
 	</row>
 	<row id="msg_0381_R32PC0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lure Ball!\nTen Poké Bal ułatwia łapanie\nPokémonów, które pojawiają się\fpodczas wędkowania!\rTak naprawdę jest zrobiony\nz Apricornów. Potraktuj te dwa\fjako drobne podarunki ode mnie.\rJeśli chcesz więcej, udaj się do\nAzalea Town. Człowiek zwany Kurt\fpotrafi robić specjalne Poké Bale\fz Apricornów.\rApricorny rządzą!</language>
+		<language name="English">Lure Ball!\nTen Poké Bal ułatwia łapanie\nPokémonów, które pojawiają się\fpodczas wędkowania!\rTak naprawdę jest zrobiony\nz Apricornów. Potraktuj te dwa\fjako drobne podarunki ode mnie.\rJeśli chcesz więcej, udaj się do\nKalna. Człowiek zwany Kurt\fpotrafi robić specjalne Poké Bale\fz Apricornów.\rApricorny rządzą!</language>
 	</row>
 	<row id="msg_0381_R32PC0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kurt jest bohaterem każdego\nkolekcjonera Apricornów.\rJeśli wybierasz się do Azalea Town,\nkoniecznie go odwiedź.\rApricorn, bardziej Apricorn,\nnajbardziej Apricorn!</language>
+		<language name="English">Kurt jest bohaterem każdego\nkolekcjonera Apricornów.\rJeśli wybierasz się do Kalna,\nkoniecznie go odwiedź.\rApricorn, bardziej Apricorn,\nnajbardziej Apricorn!</language>
 	</row>
 </body>

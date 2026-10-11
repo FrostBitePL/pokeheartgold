@@ -2,15 +2,15 @@
 <body language="English">
 	<row id="msg_0620_T28_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hej, mały/a!\rWidzę, że jesteś nowy/a w Mahogany\nTown.\rSkoro jesteś nowy/a, powinieneś/aś\nspróbować pysznego RageCandyBara!\rTeraz może być twój za jedyne\n$300! Chcesz jeden? {YESNO 0}</language>
+		<language name="English">Hej, mały/a!\rWidzę, że jesteś nowy/a w\nImbramowicach.\rSkoro jesteś nowy/a, powinieneś/aś\nspróbować pysznego RageCandyBara!\rTeraz może być twój za jedyne\n$300! Chcesz jeden? {YESNO 0}</language>
 	</row>
 	<row id="msg_0620_T28_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nie chcę cię zdenerwować, skoro już\nu mnie kupiłeś/aś, ale...\rKupno RageCandyBara nie ma nic\nwspólnego z tym, czy pozwolę ci\ftędy przejść.\r...Region Żarów ma wiele miejsc do\nodwiedzenia, takich jak Latarnia\fMorska w Olivine czy Apteka w\fCianwood.\rMoże byś zwolnił/a i cieszył/a się\nzwiedzaniem?</language>
+		<language name="English">Nie chcę cię zdenerwować, skoro już\nu mnie kupiłeś/aś, ale...\rKupno RageCandyBara nie ma nic\nwspólnego z tym, czy pozwolę ci\ftędy przejść.\r...Region Żarów ma wiele miejsc do\nodwiedzenia, takich jak Latarnia\fMorska w Siedlimowicach czy Apteka w\fDomanicach.\rMoże byś zwolnił/a i cieszył/a się\nzwiedzaniem?</language>
 	</row>
 	<row id="msg_0620_T28_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nie chcę cię zdenerwować, skoro już\nu mnie kupiłeś/aś, ale...\rKupno RageCandyBara nie ma nic\nwspólnego z tym, czy pozwolę ci\ftędy przejść.\r...Region Żarów ma wiele miejsc do\nodwiedzenia, takich jak Latarnia\fMorska w Olivine czy Apteka w\fCianwood.\rMoże byś zwolnił/a i cieszył/a się\nzwiedzaniem?\r</language>
+		<language name="English">Nie chcę cię zdenerwować, skoro już\nu mnie kupiłeś/aś, ale...\rKupno RageCandyBara nie ma nic\nwspólnego z tym, czy pozwolę ci\ftędy przejść.\r...Region Żarów ma wiele miejsc do\nodwiedzenia, takich jak Latarnia\fMorska w Siedlimowicach czy Apteka w\fDomanicach.\rMoże byś zwolnił/a i cieszył/a się\nzwiedzaniem?\r</language>
 	</row>
 	<row id="msg_0620_T28_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -80,6 +80,6 @@
 	</row>
 	<row id="msg_0620_T28_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Mahogany Town\nLider: Pryce\fNauczyciel Zimowej Srogości</language>
+		<language name="English">Sala Pokémon w Imbramowicach\nLider: Pryce\fNauczyciel Zimowej Srogości</language>
 	</row>
 </body>

@@ -6,15 +6,15 @@
 	</row>
 	<row id="msg_0345_R10R0202_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Właśnie dostałem wieści z Cerulean.\nWygląda na to, że kręci się tam\fjakiś podejrzany typ.\r</language>
+		<language name="English">Właśnie dostałem wieści z Burkatowa.\nWygląda na to, że kręci się tam\fjakiś podejrzany typ.\r</language>
 	</row>
 	<row id="msg_0345_R10R0202_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Czy mógłbym prosić o twoją współpracę?\rPodejrzany typ kręcił się w\npobliżu Sali w Cerulean...\r</language>
+		<language name="English">Czy mógłbym prosić o twoją współpracę?\rPodejrzany typ kręcił się w\npobliżu Sali w Burkatowie...\r</language>
 	</row>
 	<row id="msg_0345_R10R0202_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Czy mógłbym prosić o twoją współpracę?\rPodejrzany typ kręcił się w\npobliżu Sali w Cerulean...</language>
+		<language name="English">Czy mógłbym prosić o twoją współpracę?\rPodejrzany typ kręcił się w\npobliżu Sali w Burkatowie...</language>
 	</row>
 	<row id="msg_0345_R10R0202_00004" index="4">
 		<attribute name="window_context_name">used</attribute>

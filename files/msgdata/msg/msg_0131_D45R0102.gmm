@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0131_D45R0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Masz pewne spojrzenie...\rPrzypomina mi dziecko, które stanęło\nprzede mną trzy lata temu...\fMasz te same oczy...\r...\rJestem w drodze do Goldenrod City,\nżeby odpowiedzieć na wezwanie\fi dołączyć do mojej drużyny.\rZamierzasz stanąć mi na drodze?\r</language>
+		<language name="English">Masz pewne spojrzenie...\rPrzypomina mi dziecko, które stanęło\nprzede mną trzy lata temu...\fMasz te same oczy...\r...\rJestem w drodze do Żarowa,\nżeby odpowiedzieć na wezwanie\fi dołączyć do mojej drużyny.\rZamierzasz stanąć mi na drodze?\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -54,11 +54,11 @@
 	</row>
 	<row id="msg_0131_D45R0102_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Słyszysz to, {STRVAR_1 3, 0, 0}?\nRadio mówi coś dziwnego!\rTeam Rocket zajęło Wieżę Radiową\nw Goldenrod City!\rTo niemożliwe! {STRVAR_1 3, 0, 0},\nprzecież już rozwiązałeś/aś tę sprawę!\r</language>
+		<language name="English">Słyszysz to, {STRVAR_1 3, 0, 0}?\nRadio mówi coś dziwnego!\rTeam Rocket zajęło Wieżę Radiową\nw Żarowie!\rTo niemożliwe! {STRVAR_1 3, 0, 0},\nprzecież już rozwiązałeś/aś tę sprawę!\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Słyszysz to, {STRVAR_1 3, 0, 0}?\nRadio mówi coś dziwnego!\rTeam Rocket zajęło Wieżę Radiową\nw Goldenrod City!\rTo niemożliwe! {STRVAR_1 3, 0, 0},\nprzecież już rozwiązałeś/aś tę sprawę!\r</language>
+		<language name="English">Słyszysz to, {STRVAR_1 3, 0, 0}?\nRadio mówi coś dziwnego!\rTeam Rocket zajęło Wieżę Radiową\nw Żarowie!\rTo niemożliwe! {STRVAR_1 3, 0, 0},\nprzecież już rozwiązałeś/aś tę sprawę!\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00015" index="15">
 		<attribute name="window_context_name">used</attribute>

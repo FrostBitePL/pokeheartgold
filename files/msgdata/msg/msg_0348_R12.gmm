@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0348_R12_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trasa 12\nNa północ do Lavender Town</language>
+		<language name="English">Trasa 12\nNa północ do Pszenna</language>
 	</row>
 	<row id="msg_0348_R12_00001" index="1">
 		<attribute name="window_context_name">used</attribute>

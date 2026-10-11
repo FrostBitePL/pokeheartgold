@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0572_T24_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To Odznaka z Cianwood!\rW takim razie weź to HM.\r</language>
+		<language name="English">To Odznaka z Domanic!\rW takim razie weź to HM.\r</language>
 	</row>
 	<row id="msg_0572_T24_00003" index="3">
 		<attribute name="window_context_name">garbage</attribute>
@@ -51,7 +51,7 @@
 	</row>
 	<row id="msg_0572_T24_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Używając Lotu, możesz natychmiast\nwrócić do Olivine.</language>
+		<language name="English">Używając Lotu, możesz natychmiast\nwrócić do Siedlimowic.</language>
 	</row>
 	<row id="msg_0572_T24_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
@@ -71,15 +71,15 @@
 	</row>
 	<row id="msg_0572_T24_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Między tym miejscem a Olivine\njest kilka wysp.\rPodobno mieszka tam mityczne\nmorskie stworzenie.</language>
+		<language name="English">Między tym miejscem a Siedlimowicami\njest kilka wysp.\rPodobno mieszka tam mityczne\nmorskie stworzenie.</language>
 	</row>
 	<row id="msg_0572_T24_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cianwood City\nPort Rozbijających się Fal</language>
+		<language name="English">Domanice\nZamek Strzegący Brodu</language>
 	</row>
 	<row id="msg_0572_T24_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Cianwood City\nLider: Chuck\fJego Ryczące Pięści Mówią Same za Siebie</language>
+		<language name="English">Sala Pokémon w Domanicach\nLider: Chuck\fJego Ryczące Pięści Mówią Same za Siebie</language>
 	</row>
 	<row id="msg_0572_T24_00020" index="20">
 		<attribute name="window_context_name">used</attribute>

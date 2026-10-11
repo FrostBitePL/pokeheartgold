@@ -34,7 +34,7 @@
 	</row>
 	<row id="msg_0564_T23_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Przetnij przez Azalea, a znajdziesz\nsię w Ilex Forest.\rAle te cienkie drzewa uniemożliwiają\nprzejście.\rPokémon Węglarza potrafi\nściąć drzewa.</language>
+		<language name="English">Przetnij przez Kalno, a znajdziesz\nsię w Ilex Forest.\rAle te cienkie drzewa uniemożliwiają\nprzejście.\rPokémon Węglarza potrafi\nściąć drzewa.</language>
 	</row>
 	<row id="msg_0564_T23_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -46,7 +46,7 @@
 	</row>
 	<row id="msg_0564_T23_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Azalea Town\nSzczęśliwe Życie z Pokémonami</language>
+		<language name="English">Kalno\nWieś Kowala i Węglarzy</language>
 	</row>
 	<row id="msg_0564_T23_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
@@ -54,7 +54,7 @@
 	</row>
 	<row id="msg_0564_T23_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Azalea Town\nLider: Bugsy\fChodząca Encyklopedia Pokémonów\fRobaczkowych</language>
+		<language name="English">Sala Pokémon w Kalnie\nLider: Bugsy\fChodząca Encyklopedia Pokémonów\fRobaczkowych</language>
 	</row>
 	<row id="msg_0564_T23_00014" index="14">
 		<attribute name="window_context_name">used</attribute>

@@ -390,7 +390,7 @@
 	</row>
 	<row id="msg_0108_D32R0401_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mama: {STRVAR_1 3, 0, 0}!\rNie mogłam się powstrzymać, żeby cię\nnie odwiedzić!\rWszyscy ciężko pracują, ale muszę\npowiedzieć, że wyglądasz na\fbardziej zachwyconego/ą niż\fktokolwiek inny!\rAch, {STRVAR_1 3, 0, 0}, no właśnie!\rPowinnam zajść do Domu Towarowego\nw Goldenrod i kupić ci po drodze\fdo domu jakieś przydatne przedmioty!</language>
+		<language name="English">Mama: {STRVAR_1 3, 0, 0}!\rNie mogłam się powstrzymać, żeby cię\nnie odwiedzić!\rWszyscy ciężko pracują, ale muszę\npowiedzieć, że wyglądasz na\fbardziej zachwyconego/ą niż\fktokolwiek inny!\rAch, {STRVAR_1 3, 0, 0}, no właśnie!\rPowinnam zajść do Domu Towarowego\nw Żarowie i kupić ci po drodze\fdo domu jakieś przydatne przedmioty!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00098" index="98">
 		<attribute name="window_context_name">used</attribute>

@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0744_W40_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Idziesz do Cianwood?\rMoże najpierw krótka walka?\n</language>
+		<language name="English">Idziesz do Domanic?\rMoże najpierw krótka walka?\n</language>
 	</row>
 	<row id="msg_0744_W40_00007" index="7">
 		<attribute name="window_context_name">garbage</attribute>
@@ -58,11 +58,11 @@
 	</row>
 	<row id="msg_0744_W40_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nie widać go stąd, ale za morzem\njest wielkie miasto zwane Cianwood.</language>
+		<language name="English">Nie widać go stąd, ale za morzem\njest wielkie miasto zwane Domanice.</language>
 	</row>
 	<row id="msg_0744_W40_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Popłynąłem statkiem do Olivine na\nzwiedzanie. Naprawdę spodobał mi się\ftamtejszy klimat.\rJako miasto portowe, wcale nie\nprzypominało wielkich miast.</language>
+		<language name="English">Popłynąłem statkiem do Siedlimowic\nna zwiedzanie. Naprawdę spodobał mi\fsię tamtejszy klimat.\rJako miasto portowe, wcale nie\nprzypominało wielkich miast.</language>
 	</row>
 	<row id="msg_0744_W40_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -74,11 +74,11 @@
 	</row>
 	<row id="msg_0744_W40_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rozumiem... Nie masz jeszcze Surfu...\nTo tylko między nami...\rDostałem Surf od faceta w Ecruteak\ni myślę, że wciąż tam jest.\rMoże spróbujesz tam pójść?\r</language>
+		<language name="English">Rozumiem... Nie masz jeszcze Surfu...\nTo tylko między nami...\rDostałem Surf od faceta w Mrowinach\ni myślę, że wciąż tam jest.\rMoże spróbujesz tam pójść?\r</language>
 	</row>
 	<row id="msg_0744_W40_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To tylko między nami.\nDostałem Surf od faceta w Ecruteak.\fMyślę, że wciąż tam jest.\rMoże spróbujesz tam pójść?</language>
+		<language name="English">To tylko między nami.\nDostałem Surf od faceta w Mrowinach.\fMyślę, że wciąż tam jest.\rMoże spróbujesz tam pójść?</language>
 	</row>
 	<row id="msg_0744_W40_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
@@ -86,7 +86,7 @@
 	</row>
 	<row id="msg_0744_W40_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trasa 40\nNa południe do Cianwood City</language>
+		<language name="English">Trasa 40\nNa południe do Domanic</language>
 	</row>
 	<row id="msg_0744_W40_00020" index="20">
 		<attribute name="window_context_name">used</attribute>

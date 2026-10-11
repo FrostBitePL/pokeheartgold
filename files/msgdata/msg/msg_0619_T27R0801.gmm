@@ -15,7 +15,7 @@
 	</row>
 	<row id="msg_0619_T27R0801_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jest wiele przedmiotów leżących\ndookoła, które nie są oczywiste.\rDotknij Wykrywacza na chwilę, by\nsprawdzić, czy wydaje wysoki\fdźwięk.\rGdy tak się dzieje, wiesz, że\nw pobliżu jest przedmiot.\rChodzenie podczas jego używania\nmoże ułatwić znajdowanie przedmiotów.\rAch tak - słyszałem, że są\nprzedmioty w Spalonej Wieży\fw Ecruteak.</language>
+		<language name="English">Jest wiele przedmiotów leżących\ndookoła, które nie są oczywiste.\rDotknij Wykrywacza na chwilę, by\nsprawdzić, czy wydaje wysoki\fdźwięk.\rGdy tak się dzieje, wiesz, że\nw pobliżu jest przedmiot.\rChodzenie podczas jego używania\nmoże ułatwić znajdowanie przedmiotów.\rAch tak - słyszałem, że są\nprzedmioty w Spalonej Wieży\fw Mrowinach.</language>
 	</row>
 	<row id="msg_0619_T27R0801_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -23,14 +23,14 @@
 	</row>
 	<row id="msg_0619_T27R0801_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Historia Ecruteak\rChcesz przeczytać? {YESNO 0}</language>
+		<language name="English">Historia Mrowin\rChcesz przeczytać? {YESNO 0}</language>
 	</row>
 	<row id="msg_0619_T27R0801_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">W Ecruteak były kiedyś dwie wieże.\nKażda wieża była siedliskiem\fpotężnych latających Pokémonów.\rAle jedna z wież spłonęła\ndoszczętnie.\rOd tego czasu nie widziano tych\ndwóch Pokémonów...\rCzytać dalej? {YESNO 0}</language>
+		<language name="English">W Mrowinach były kiedyś dwie wieże.\nKażda wieża była siedliskiem\fpotężnych latających Pokémonów.\rAle jedna z wież spłonęła\ndoszczętnie.\rOd tego czasu nie widziano tych\ndwóch Pokémonów...\rCzytać dalej? {YESNO 0}</language>
 	</row>
 	<row id="msg_0619_T27R0801_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ecruteak było też domem dla trzech\nPokémonów, które biegały wokół\fmiasta.\rMówiono, że narodziły się z wody,\nbłyskawicy i ognia.\rAle nie mogły opanować swojej\nnadmiernej mocy.\rMówi się więc, że cała trójka\numknęła jak wiatr na trawiaste\fpola.</language>
+		<language name="English">Mrowiny były też domem dla trzech\nPokémonów, które biegały wokół\fmiasta.\rMówiono, że narodziły się z wody,\nbłyskawicy i ognia.\rAle nie mogły opanować swojej\nnadmiernej mocy.\rMówi się więc, że cała trójka\numknęła jak wiatr na trawiaste\fpola.</language>
 	</row>
 </body>

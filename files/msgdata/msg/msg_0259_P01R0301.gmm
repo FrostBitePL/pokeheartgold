@@ -2,31 +2,31 @@
 <body language="English">
 	<row id="msg_0259_P01R0301_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fast Ship S.S. Aqua jest w drodze\ndo Vermilion City.\rPoinformujemy was, gdy dopłyniemy.</language>
+		<language name="English">Fast Ship S.S. Aqua jest w drodze\ndo Zagórza Śląskiego.\rPoinformujemy was, gdy dopłyniemy.</language>
 	</row>
 	<row id="msg_0259_P01R0301_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fast Ship S.S. Aqua\njest w drodze do Olivine City.\rPoinformujemy was, gdy dopłyniemy.</language>
+		<language name="English">Fast Ship S.S. Aqua\njest w drodze do Siedlimowic.\rPoinformujemy was, gdy dopłyniemy.</language>
 	</row>
 	<row id="msg_0259_P01R0301_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fast Ship S.S. Aqua\ndotarł do Vermilion City.\r</language>
+		<language name="English">Fast Ship S.S. Aqua\ndotarł do Zagórza Śląskiego.\r</language>
 	</row>
 	<row id="msg_0259_P01R0301_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fast Ship S.S. Aqua\ndotarł do Vermilion City.</language>
+		<language name="English">Fast Ship S.S. Aqua\ndotarł do Zagórza Śląskiego.</language>
 	</row>
 	<row id="msg_0259_P01R0301_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hę?\nJuż dotarł do Vermilion City.\r</language>
+		<language name="English">Hę?\nJuż dotarł do Zagórza Śląskiego.\r</language>
 	</row>
 	<row id="msg_0259_P01R0301_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fast Ship S.S. Aqua\ndotarł do Olivine City.\r</language>
+		<language name="English">Fast Ship S.S. Aqua\ndotarł do Siedlimowic.\r</language>
 	</row>
 	<row id="msg_0259_P01R0301_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fast Ship S.S. Aqua\ndotarł do Olivine City.</language>
+		<language name="English">Fast Ship S.S. Aqua\ndotarł do Siedlimowic.</language>
 	</row>
 	<row id="msg_0259_P01R0301_00007" index="7">
 		<attribute name="window_context_name">used</attribute>

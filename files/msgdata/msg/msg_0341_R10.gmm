@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0341_R10_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Porucznik Surge: Och! Jakie są szanse,\nże spotkam cię w takim miejscu?\rCzuję moc elektryczną wokół\nPower Plant.\rMoże złap jakiegoś PIKACHU\nw Viridian Forest i przynieś go tutaj!</language>
+		<language name="English">Porucznik Surge: Och! Jakie są szanse,\nże spotkam cię w takim miejscu?\rCzuję moc elektryczną wokół\nPower Plant.\rMoże złap jakiegoś PIKACHU w Lesie\nKsiążańskim i przynieś go tutaj!</language>
 	</row>
 	<row id="msg_0341_R10_00006" index="6">
 		<attribute name="window_context_name">used</attribute>

@@ -18,11 +18,11 @@
 	</row>
 	<row id="msg_0485_T06GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Porucznik Surge: To TM zawiera\nFalę Wstrząsową... Zzzap!\rUżyj go, żeby ruszyć jak błyskawica!\rGdy pójdziesz na północ, zobaczysz\nwielkie miasto zwane Saffron!</language>
+		<language name="English">Porucznik Surge: To TM zawiera\nFalę Wstrząsową... Zzzap!\rUżyj go, żeby ruszyć jak błyskawica!\rGdy pójdziesz na północ, zobaczysz\nwielkie miasto zwane Świdnica!</language>
 	</row>
 	<row id="msg_0485_T06GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Porucznik Surge: Hej, dzieciaku!\nWciąż walczysz i parujesz jak lokomotywa?\rGdy pójdziesz na północ, zobaczysz\nwielkie miasto zwane Saffron!</language>
+		<language name="English">Porucznik Surge: Hej, dzieciaku!\nWciąż walczysz i parujesz jak lokomotywa?\rGdy pójdziesz na północ, zobaczysz\nwielkie miasto zwane Świdnica!</language>
 	</row>
 	<row id="msg_0485_T06GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>

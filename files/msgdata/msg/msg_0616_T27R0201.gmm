@@ -2,19 +2,19 @@
 <body language="English">
 	<row id="msg_0616_T27R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Za tym miejscem jest Wieża Dzwonów.\nTa wieża została zbudowana jako\fmiejsce odpoczynku dla HO-OH,\flegendarnego Pokémona typu Latający.\rOdkąd HO-OH odeszło, wielu ludzi\nwchodziło na wieżę, by spróbować je\fsprowadzić z powrotem.\rAle nikomu nie udało się sprawić,\nby HO-OH się pojawiło...\rMorty, Lider Sali, jest jednym\nz tych, którzy próbowali.\rWygląda na to, że nie masz Odznaki\nSali z Ecruteak. Jeśli nie potrafisz\fnawet pokonać Morty’ego, wejście\ftam będzie stratą czasu.\rPrzykro mi, ale musisz odejść.</language>
+		<language name="English">Za tym miejscem jest Wieża Dzwonów.\nTa wieża została zbudowana jako\fmiejsce odpoczynku dla HO-OH,\flegendarnego Pokémona typu Latający.\rOdkąd HO-OH odeszło, wielu ludzi\nwchodziło na wieżę, by spróbować je\fsprowadzić z powrotem.\rAle nikomu nie udało się sprawić,\nby HO-OH się pojawiło...\rMorty, Lider Sali, jest jednym\nz tych, którzy próbowali.\rWygląda na to, że nie masz Odznaki\nSali z Mrowin. Jeśli nie potrafisz\fnawet pokonać Morty’ego, wejście\ftam będzie stratą czasu.\rPrzykro mi, ale musisz odejść.</language>
 	</row>
 	<row id="msg_0616_T27R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty, Lider Sali, wszedł na tę\nwieżę, by spróbować sprowadzić\fHO-OH z powrotem, ponieważ\fjuż się nie pojawia.\rNawet on nie zdołał go sprowadzić.\rWygląda na to, że nie masz Odznaki\nSali z Ecruteak.\rJeśli nie potrafisz nawet pokonać\nMorty’ego, wejście tam będzie\fstratą czasu.\rPrzykro mi, ale musisz odejść.</language>
+		<language name="English">Morty, Lider Sali, wszedł na tę\nwieżę, by spróbować sprowadzić\fHO-OH z powrotem, ponieważ\fjuż się nie pojawia.\rNawet on nie zdołał go sprowadzić.\rWygląda na to, że nie masz Odznaki\nSali z Mrowin.\rJeśli nie potrafisz nawet pokonać\nMorty’ego, wejście tam będzie\fstratą czasu.\rPrzykro mi, ale musisz odejść.</language>
 	</row>
 	<row id="msg_0616_T27R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Za tym miejscem jest Wieża Dzwonów.\nTa wieża została zbudowana jako\fmiejsce odpoczynku dla HO-OH,\flegendarnego Pokémona typu Latający.\rOdkąd HO-OH odeszło, wielu ludzi\nwchodziło na wieżę, by spróbować je\fsprowadzić z powrotem.\rAle nikomu nie udało się sprawić,\nby HO-OH się pojawiło...\rMorty, Lider Sali, jest jednym\nz tych, którzy próbowali.\rRozumiem...\fTo Odznaka Sali z Ecruteak.\rSama Odznaka nic nie da, ale mogę\ncię przepuścić.\rProszę, idź dalej.\r</language>
+		<language name="English">Za tym miejscem jest Wieża Dzwonów.\nTa wieża została zbudowana jako\fmiejsce odpoczynku dla HO-OH,\flegendarnego Pokémona typu Latający.\rOdkąd HO-OH odeszło, wielu ludzi\nwchodziło na wieżę, by spróbować je\fsprowadzić z powrotem.\rAle nikomu nie udało się sprawić,\nby HO-OH się pojawiło...\rMorty, Lider Sali, jest jednym\nz tych, którzy próbowali.\rRozumiem...\fTo Odznaka Sali z Mrowin.\rSama Odznaka nic nie da, ale mogę\ncię przepuścić.\rProszę, idź dalej.\r</language>
 	</row>
 	<row id="msg_0616_T27R0201_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rozumiem...\nTo Odznaka Sali z Ecruteak.\rSama Odznaka nic nie da, ale mogę\ncię przepuścić.\rProszę, idź dalej.\r</language>
+		<language name="English">Rozumiem...\nTo Odznaka Sali z Mrowin.\rSama Odznaka nic nie da, ale mogę\ncię przepuścić.\rProszę, idź dalej.\r</language>
 	</row>
 	<row id="msg_0616_T27R0201_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0616_T27R0201_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Region Żarów ma dwie legendy.\rJedna to legenda o Wyspach Wirów.\nDruga to legenda Wieży Dzwonów...\rPrzekazujemy legendę Wieży Dzwonów\nz pokolenia na pokolenie w\fEcruteak City.</language>
+		<language name="English">Region Żarów ma dwie legendy.\rJedna to legenda o Wyspach Wirów.\nDruga to legenda Wieży Dzwonów...\rPrzekazujemy legendę Wieży Dzwonów\nz pokolenia na pokolenie w\fMrowinach.</language>
 	</row>
 	<row id="msg_0616_T27R0201_00008" index="8">
 		<attribute name="window_context_name">used</attribute>

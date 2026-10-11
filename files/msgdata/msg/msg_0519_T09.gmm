@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0519_T09_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jeśli chcesz ze mną walczyć...\nnaprawdę, przyjdź do Sali\fw Viridian.\r</language>
+		<language name="English">Jeśli chcesz ze mną walczyć...\nnaprawdę, przyjdź do Sali\fw Krzyżowej.\r</language>
 	</row>
 	<row id="msg_0519_T09_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -42,7 +42,7 @@
 	</row>
 	<row id="msg_0519_T09_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Nigdy się nie poddam, aż\ndo dnia, gdy odbuduję Salę\fw Cinnabar!\rMoże wymienimy się numerami! {YESNO 0}</language>
+		<language name="English">Blaine: Nigdy się nie poddam, aż\ndo dnia, gdy odbuduję Salę\fw Pogorzałej!\rMoże wymienimy się numerami! {YESNO 0}</language>
 	</row>
 	<row id="msg_0519_T09_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -82,10 +82,10 @@
 	</row>
 	<row id="msg_0519_T09_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jest tu ogłoszenie...\rSala w Cinnabar została przeniesiona\nna Seafoam Islands.\f           Blaine</language>
+		<language name="English">Jest tu ogłoszenie...\rSala w Pogorzałej została\nprzeniesiona na Seafoam Islands.\fBlaine</language>
 	</row>
 	<row id="msg_0519_T09_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cinnabar Island\nZniszczone Miasto z Przeszłości</language>
+		<language name="English">Pogorzała\nWypalona Ziemia</language>
 	</row>
 </body>

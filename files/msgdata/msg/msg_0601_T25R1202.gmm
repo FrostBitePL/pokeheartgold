@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0601_T25R1202_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wygrałem losowanie Tła dla\nAkcesoriów w Tunelu Goldenrod.</language>
+		<language name="English">Wygrałem losowanie Tła dla\nAkcesoriów w Tunelu pod Żarowem.</language>
 	</row>
 	<row id="msg_0601_T25R1202_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -50,7 +50,7 @@
 	</row>
 	<row id="msg_0601_T25R1202_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tutaj możesz opublikować Dane\nPrzebrań swojego Pokémona.\rDane Przebrań można ustawić\ni zapisać w Tunelu Goldenrod.\rMożna tu też przeglądać Dane\nPrzebrań opublikowane przez innych\fTrenerów.\rDane można sortować według\nPokémonów dla wygodniejszego\fprzeglądania.\r</language>
+		<language name="English">Tutaj możesz opublikować Dane\nPrzebrań swojego Pokémona.\rDane Przebrań można ustawić\ni zapisać w Tunelu pod Żarowem.\rMożna tu też przeglądać Dane\nPrzebrań opublikowane przez innych\fTrenerów.\rDane można sortować według\nPokémonów dla wygodniejszego\fprzeglądania.\r</language>
 	</row>
 	<row id="msg_0601_T25R1202_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

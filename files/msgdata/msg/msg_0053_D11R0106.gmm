@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0053_D11R0106_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Hej, ty!\rMoja Sala na Cinnabar Island spłonęła\npodczas erupcji!\rAle się nie poddam!\nSpójrz na tę jaskinię.\rZamieniliśmy ją w Salę, a ja wciąż\ndziałam jako Lider Sali!\rDam ci Odznakę Sali, jeśli zdołasz\nmnie pokonać!\rJesteś gotowy/a? Zaczynamy!\r</language>
+		<language name="English">Blaine: Hej, ty!\rMoja Sala na Pogorzałej spłonęła\npodczas erupcji!\rAle się nie poddam!\nSpójrz na tę jaskinię.\rZamieniliśmy ją w Salę, a ja wciąż\ndziałam jako Lider Sali!\rDam ci Odznakę Sali, jeśli zdołasz\nmnie pokonać!\rJesteś gotowy/a? Zaczynamy!\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -18,7 +18,7 @@
 	</row>
 	<row id="msg_0053_D11R0106_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Tym razem przegrałem, ale\nnastępnym razem wygram.\rGdy odbuduję moją Salę w Cinnabar,\nbędziemy musieli zorganizować rewanż.</language>
+		<language name="English">Blaine: Tym razem przegrałem, ale\nnastępnym razem wygram.\rGdy odbuduję moją Salę w Pogorzałej,\nbędziemy musieli zorganizować rewanż.</language>
 	</row>
 	<row id="msg_0053_D11R0106_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -86,7 +86,7 @@
 	</row>
 	<row id="msg_0053_D11R0106_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Straciliśmy Salę na Cinnabar Island\ni czuliśmy się zagubieni, zanim tu\ftrafiliśmy.\r</language>
+		<language name="English">Straciliśmy Salę na Pogorzałej\ni czuliśmy się zagubieni, zanim tu\ftrafiliśmy.\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00022" index="22">
 		<attribute name="window_context_name">used</attribute>

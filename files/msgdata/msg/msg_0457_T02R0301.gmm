@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0457_T02R0301_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Witaj w Domu Trenera, najnowszym\ni najbardziej gorącym miejscu\fw Viridian. Wpuszczamy tylko Trenerów.\rMożesz zawalczyć z najlepszymi\nz najlepszych na dole.</language>
+		<language name="English">Witaj w Domu Trenera, najnowszym i\nnajbardziej gorącym miejscu w\fKrzyżowej. Wpuszczamy tylko\fTrenerów.\rMożesz zawalczyć z najlepszymi\nz najlepszych na dole.</language>
 	</row>
 	<row id="msg_0457_T02R0301_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Viridian to miasto najbliżej\nIndigo Plateau.\rZbudowali to miejsce, bo tak wielu\nTrenerów przechodzi tędy w drodze\fdo Indigo Plateau.</language>
+		<language name="English">Krzyżowa to miasto najbliżej\nPłaskowyżu Mistrzów.\rZbudowali to miejsce, bo tak wielu\nTrenerów przechodzi tędy w drodze\fdo Płaskowyżu Mistrzów.</language>
 	</row>
 	<row id="msg_0457_T02R0301_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0457_T02R0301_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chodzisz wszędzie i walczysz\nz każdym rodzajem Trenerów.\rTo nie tylko trening twoich Pokémonów.\nTo także okazja, by samemu\fdoświadczyć wielu rzeczy.\rZałożę się, że Mistrz z Pallet Town\nodwiedził wszystkie miasta\fi miasteczka w Regionie Świdnica.</language>
+		<language name="English">Chodzisz wszędzie i walczysz\nz każdym rodzajem Trenerów.\rTo nie tylko trening twoich Pokémonów.\nTo także okazja, by samemu\fdoświadczyć wielu rzeczy.\rZałożę się, że Mistrz z Grodziszcza\nodwiedził wszystkie miasta\fi miasteczka w Regionie Świdnica.</language>
 	</row>
 	<row id="msg_0457_T02R0301_00004" index="4">
 		<attribute name="window_context_name">used</attribute>

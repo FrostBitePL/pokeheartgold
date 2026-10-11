@@ -42,11 +42,11 @@
 	</row>
 	<row id="msg_0464_T03R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mówią, że gdzieś w pobliżu\nPewter City spadły meteoryty.\rChętnie wystawilibyśmy je tutaj,\nw naszym muzeum, ale...\rTe meteoryty podobno emitują dziwną\nenergię i nie da się ich\fprzetransportować...</language>
+		<language name="English">Mówią, że gdzieś w pobliżu\nMokrzeszowa spadły meteoryty.\rChętnie wystawilibyśmy je tutaj,\nw naszym muzeum, ale...\rTe meteoryty podobno emitują dziwną\nenergię i nie da się ich\fprzetransportować...</language>
 	</row>
 	<row id="msg_0464_T03R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Są dwa miejsca, które kocham! Jedno\nto Ruins of Alph w Regionie Żarów...\rDrugie to Pewter Museum!\nJest tu tak cicho i spokojnie.\rCzujesz, jak jego godna podziwu\nhistoria bezgłośnie cię ogarnia?</language>
+		<language name="English">Są dwa miejsca, które kocham! Jedno\nto Ruins of Alph w Regionie Żarów...\rDrugie to Muzeum Skamieniałości!\nJest tu tak cicho i spokojnie.\rCzujesz, jak jego godna podziwu\nhistoria bezgłośnie cię ogarnia?</language>
 	</row>
 	<row id="msg_0464_T03R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>

@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0337_R07R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Słyszałeś/aś o wypadku\nw Power Plant?\rZnajduje się na wschodzie, blisko\nLavender Town.</language>
+		<language name="English">Słyszałeś/aś o wypadku\nw Power Plant?\rZnajduje się na wschodzie, blisko\nPszenna.</language>
 	</row>
 	<row id="msg_0337_R07R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>

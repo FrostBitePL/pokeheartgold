@@ -18,11 +18,11 @@
 	</row>
 	<row id="msg_0558_T22GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkner: Używając TM, Pokémon od razu\nnauczy się nowego ataku.\rPomyśl, zanim to zrobisz - TM można\nużyć tylko raz.\rTM51 zawiera atak Odpoczynek na\nGrzędzie. Przywraca połowę\fmaksymalnego HP.\rW miastach przed tobą znajdują się\nSale Pokémon. Wykorzystaj je dobrze!\rJeśli chodzi o twój następny krok...\fPoleciłbym Azalea Town.</language>
+		<language name="English">Falkner: Używając TM, Pokémon od razu\nnauczy się nowego ataku.\rPomyśl, zanim to zrobisz - TM można\nużyć tylko raz.\rTM51 zawiera atak Odpoczynek na\nGrzędzie. Przywraca połowę\fmaksymalnego HP.\rW miastach przed tobą znajdują się\nSale Pokémon. Wykorzystaj je dobrze!\rJeśli chodzi o twój następny krok...\fPoleciłbym Kalno.</language>
 	</row>
 	<row id="msg_0558_T22GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkner: W miastach przed tobą\nznajdują się Sale Pokémon.\rPowinieneś sprawdzić swoje\numiejętności w tych Salach.\rJeśli chodzi o twój następny krok...\fPoleciłbym Azalea Town.\rBędę trenować jeszcze ciężej, by\nzostać najlepszym Hodowcą Ptaków!</language>
+		<language name="English">Falkner: W miastach przed tobą\nznajdują się Sale Pokémon.\rPowinieneś sprawdzić swoje\numiejętności w tych Salach.\rJeśli chodzi o twój następny krok...\fPoleciłbym Kalno.\rBędę trenować jeszcze ciężej, by\nzostać najlepszym Hodowcą Ptaków!</language>
 	</row>
 	<row id="msg_0558_T22GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>

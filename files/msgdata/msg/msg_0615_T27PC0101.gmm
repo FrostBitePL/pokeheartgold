@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0615_T27PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wiesz co?\nTo ja opracowałem system do\fprzesyłania Pokémonów.\rAle nie mogłem tego zrobić sam.\rNa przykład, znasz region Hoenn?\nDziewczyna o imieniu Lanette z Hoenn\fuczyniła System Przechowywania\fPokémonów łatwiejszym w użyciu.\rMoi przyjaciele na całym świecie\nwspólnie pracują nad ulepszaniem\fsystemów wymiany i przechowywania\fPokémonów.\rMuszę się spieszyć z powrotem do\nGoldenrod, żeby zobaczyć rodzinę.\fPa-pa!\r</language>
+		<language name="English">Wiesz co?\nTo ja opracowałem system do\fprzesyłania Pokémonów.\rAle nie mogłem tego zrobić sam.\rNa przykład, znasz region Hoenn?\nDziewczyna o imieniu Lanette z Hoenn\fuczyniła System Przechowywania\fPokémonów łatwiejszym w użyciu.\rMoi przyjaciele na całym świecie\nwspólnie pracują nad ulepszaniem\fsystemów wymiany i przechowywania\fPokémonów.\rMuszę się spieszyć z powrotem do\nŻarowa, żeby zobaczyć rodzinę.\fPa-pa!\r</language>
 	</row>
 	<row id="msg_0615_T27PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>

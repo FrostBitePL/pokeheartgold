@@ -50,7 +50,7 @@
 	</row>
 	<row id="msg_0666_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Halo, tu profesor Oak!\nOch, nie musisz nic mówić!\fWiem lepiej niż ktokolwiek inny, jak\fciężko pracujesz!\rPomyślałem, że powinienem dać ci\nprezent czy coś w ramach podziękowania...\fCóż, coś wziąłem, ale\fcałkowicie zapomniałem ci to dać!\fHa ha ha!\rOch, nie musisz się w ogóle nad tym\nzastanawiać. Wiem, że to coś, co bardzo\fci się przyda. Powinieneś po prostu\ftu przyjść i to odebrać!\rBędę czekał na ciebie w moim\nLaboratorium w Pallet Town!\n</language>
+		<language name="English">Halo, tu profesor Oak!\nOch, nie musisz nic mówić!\fWiem lepiej niż ktokolwiek inny, jak\fciężko pracujesz!\rPomyślałem, że powinienem dać ci\nprezent czy coś w ramach podziękowania...\fCóż, coś wziąłem, ale\fcałkowicie zapomniałem ci to dać!\fHa ha ha!\rOch, nie musisz się w ogóle nad tym\nzastanawiać. Wiem, że to coś, co bardzo\fci się przyda. Powinieneś po prostu\ftu przyjść i to odebrać!\rBędę czekał na ciebie w moim\nLaboratorium w Grodziszczu!\n</language>
 	</row>
 	<row id="msg_0666_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

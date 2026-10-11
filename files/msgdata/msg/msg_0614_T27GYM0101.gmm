@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0614_T27GYM0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: Dobrze, że przyszedłeś.\rTutaj, w Ecruteak, Pokémony są\nczczone od dawna.\rMówi się, że tęczowy Pokémon\nzstąpi z nieba przed naprawdę\fpotężnym Trenerem.\rWierzyłem w tę legendę, więc\npotajemnie trenowałem tu przez\fcałe życie.\rDzięki temu widzę teraz to,\nczego inni nie widzą.\rWidzę cień osoby, która sprawi,\nże Pokémon się pojawi.\rWierzę, że tą osobą jestem ja!\rPomożesz mi osiągnąć ten poziom!\r</language>
+		<language name="English">Morty: Dobrze, że przyszedłeś.\rTutaj, w Mrowinach, Pokémony są\nczczone od dawna.\rMówi się, że tęczowy Pokémon\nzstąpi z nieba przed naprawdę\fpotężnym Trenerem.\rWierzyłem w tę legendę, więc\npotajemnie trenowałem tu przez\fcałe życie.\rDzięki temu widzę teraz to,\nczego inni nie widzą.\rWidzę cień osoby, która sprawi,\nże Pokémon się pojawi.\rWierzę, że tą osobą jestem ja!\rPomożesz mi osiągnąć ten poziom!\r</language>
 	</row>
 	<row id="msg_0614_T27GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -27,7 +27,7 @@
 	</row>
 	<row id="msg_0614_T27GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: Rozumiem...\rOsobą, o której mówiły Dziewczyny\nw Kimonach, musisz być ty...\rNieważne.\rPowinieneś być wystarczająco silny,\nby przepłynąć morze.\rGdy pójdziesz na zachód, a potem\nna południe, dotrzesz do Olivine City.\fMoże się tam wybierzesz?</language>
+		<language name="English">Morty: Rozumiem...\rOsobą, o której mówiły Dziewczyny\nw Kimonach, musisz być ty...\rNieważne.\rPowinieneś być wystarczająco silny,\nby przepłynąć morze.\rGdy pójdziesz na zachód, a potem\nna południe, dotrzesz do Siedlimowic.\fMoże się tam wybierzesz?</language>
 	</row>
 	<row id="msg_0614_T27GYM0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>

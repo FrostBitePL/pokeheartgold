@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0740_W19_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Przepraszam. Ta droga jest zamknięta\nz powodu prac budowlanych.\rJeśli chcesz dostać się do Cinnabar,\nlepiej idź na południe od Pallet Town.</language>
+		<language name="English">Przepraszam. Ta droga jest zamknięta\nz powodu prac budowlanych.\rJeśli chcesz dostać się do Pogorzałej,\nlepiej idź na południe od Grodziszcza.</language>
 	</row>
 	<row id="msg_0740_W19_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -22,6 +22,6 @@
 	</row>
 	<row id="msg_0740_W19_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Co to za ogłoszenie?\rProszę zachować ostrożność podczas\npływania do Seafoam Islands.\fPolicja z Fuchsia</language>
+		<language name="English">Co to za ogłoszenie?\rProszę zachować ostrożność podczas\npływania do Seafoam Islands.\fPolicja z Modliszowa</language>
 	</row>
 </body>

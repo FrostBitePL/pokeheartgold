@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0256_P01R0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jeśli uda mi się bezpiecznie wrócić\nz tej podróży i postawić pierwsze\fkroki w Olivine City, zamieszkasz\ftam ze mną?\rProszę! Błagam cię!</language>
+		<language name="English">Jeśli uda mi się bezpiecznie wrócić\nz tej podróży i postawić pierwsze\fkroki w Siedlimowicach, zamieszkasz\ftam ze mną?\rProszę! Błagam cię!</language>
 	</row>
 	<row id="msg_0256_P01R0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>

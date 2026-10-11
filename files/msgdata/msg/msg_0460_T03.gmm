@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0460_T03_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Odwiedziłeś/aś już Salę w Pewter?\rLider Sali używa Pokémonów\ntypu Skalny.</language>
+		<language name="English">Odwiedziłeś/aś już Salę w\nMokrzeszowie?\rLider Sali używa Pokémonów\ntypu Skalny.</language>
 	</row>
 	<row id="msg_0460_T03_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -84,11 +84,11 @@
 	</row>
 	<row id="msg_0460_T03_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pewter City\nPośród Surowych Gór</language>
+		<language name="English">Mokrzeszów\nKamień Pamięta Wszystko</language>
 	</row>
 	<row id="msg_0460_T03_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Pewter City\nLider: Brock\fTrener Pokémonów Twardy Jak Skała</language>
+		<language name="English">Sala Pokémon w Mokrzeszowie\nLider: Brock\fTrener Pokémonów Twardy Jak Skała</language>
 	</row>
 	<row id="msg_0460_T03_00022" index="22">
 		<attribute name="window_context_name">used</attribute>

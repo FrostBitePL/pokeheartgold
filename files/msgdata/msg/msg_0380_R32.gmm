@@ -72,7 +72,7 @@
 	</row>
 	<row id="msg_0380_R32_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trasa 32\nPołudnie do Azalea Town</language>
+		<language name="English">Trasa 32\nPołudnie do Kalna</language>
 	</row>
 	<row id="msg_0380_R32_00018" index="18">
 		<attribute name="window_context_name">used</attribute>

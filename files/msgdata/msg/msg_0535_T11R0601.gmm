@@ -18,7 +18,7 @@
 	</row>
 	<row id="msg_0535_T11R0601_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ping...fwip!\nOto twój Pass z powrotem.\rTen pociąg zaraz odjeżdża\ndo Goldenrod City.</language>
+		<language name="English">Ping...fwip!\nOto twój Pass z powrotem.\rTen pociąg zaraz odjeżdża\ndo Żarowa.</language>
 	</row>
 	<row id="msg_0535_T11R0601_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -26,7 +26,7 @@
 	</row>
 	<row id="msg_0535_T11R0601_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Przybyliśmy do Saffron! Saffron!\nAkcent pada na „a”!</language>
+		<language name="English">Przybyliśmy do Świdnicy! Świdnica!\nAkcent pada na „i”!</language>
 	</row>
 	<row id="msg_0535_T11R0601_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -46,7 +46,7 @@
 	</row>
 	<row id="msg_0535_T11R0601_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cześć. Masz Magnet Train Pass?\rJa mam.\rWszyscy w Saffron, którzy jeżdżą\nMagnet Train, mają Passy.</language>
+		<language name="English">Cześć. Masz Magnet Train Pass?\rJa mam.\rWszyscy w Świdnicy, którzy jeżdżą\nMagnet Train, mają Passy.</language>
 	</row>
 	<row id="msg_0535_T11R0601_00012" index="12">
 		<attribute name="window_context_name">used</attribute>

@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0483_T06_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vermilion Port to nadmorska\nbrama Regionu Świdnica.\rLuksusowe liniowce z całego\nświata cumują tutaj.</language>
+		<language name="English">Przystań w Zagórzu to wodna\nbrama Regionu Świdnica.\rLuksusowe liniowce z całego\nświata cumują tutaj.</language>
 	</row>
 	<row id="msg_0483_T06_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0483_T06_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">W Regionie Świdnica jest osiem Sal.\rTen duży budynek to Sala Pokémon\nw Vermilion.</language>
+		<language name="English">W Regionie Świdnica jest osiem Sal.\rTen duży budynek to Sala Pokémon\nw Zagórzu Śląskim.</language>
 	</row>
 	<row id="msg_0483_T06_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -42,11 +42,11 @@
 	</row>
 	<row id="msg_0483_T06_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vermilion City\nPort Przepięknych Zachodów Słońca</language>
+		<language name="English">Zagórze Śląskie\nZamek nad Jeziorem</language>
 	</row>
 	<row id="msg_0483_T06_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Vermilion City\nLider: Porucznik Surge\fPiorunujący Amerykanin</language>
+		<language name="English">Sala Pokémon w Zagórzu Śląskim\nLider: Porucznik Surge\fPiorunujący Amerykanin</language>
 	</row>
 	<row id="msg_0483_T06_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
@@ -54,7 +54,7 @@
 	</row>
 	<row id="msg_0483_T06_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wejście do Vermilion Port</language>
+		<language name="English">Wejście do Przystani w Zagórzu</language>
 	</row>
 	<row id="msg_0483_T06_00014" index="14">
 		<attribute name="window_context_name">used</attribute>

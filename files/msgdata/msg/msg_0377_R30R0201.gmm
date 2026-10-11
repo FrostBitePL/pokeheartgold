@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0377_R30R0201_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dał mi je przyjaciel z Ecruteak.\rZałożę się, że takiego Jaja\nnie znajdziesz nigdzie w Regionie Żarów.\rPomyślałem, że Profesor Mariusz\nbędzie w stanie powiedzieć, co to jest.\r„Jest najlepszy, jeśli chodzi\no badania nad ewolucją Pokémonów”.\rTo cytat od słynnego\nProfesora Oaka.\r</language>
+		<language name="English">Dał mi je przyjaciel z Mrowin.\rZałożę się, że takiego Jaja\nnie znajdziesz nigdzie w Regionie Żarów.\rPomyślałem, że Profesor Mariusz\nbędzie w stanie powiedzieć, co to jest.\r„Jest najlepszy, jeśli chodzi\no badania nad ewolucją Pokémonów”.\rTo cytat od słynnego\nProfesora Oaka.\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -54,11 +54,11 @@
 	</row>
 	<row id="msg_0377_R30R0201_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Idź poznawać różne rodzaje\nPokémonów i uzupełnij Pokédex!\fAle zabawiłem tu za długo.\rMuszę jechać do Goldenrod na mój\ncodzienny program radiowy.\r{STRVAR_1 3, 0, 0}, mam przeczucie,\nże to nie ostatni raz, gdy się\fspotkamy...\rWymieńmy się numerami,\nna wszelki wypadek.\r</language>
+		<language name="English">Idź poznawać różne rodzaje\nPokémonów i uzupełnij Pokédex!\fAle zabawiłem tu za długo.\rMuszę jechać do Żarowa na mój\ncodzienny program radiowy.\r{STRVAR_1 3, 0, 0}, mam przeczucie,\nże to nie ostatni raz, gdy się\fspotkamy...\rWymieńmy się numerami,\nna wszelki wypadek.\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Idź poznawać różne rodzaje\nPokémonów i uzupełnij Pokédex!\fAle zabawiłem tu za długo.\rMuszę jechać do Goldenrod na mój\ncodzienny program radiowy.\r{STRVAR_1 3, 0, 0}, mam przeczucie,\nże to nie ostatni raz, gdy się\fspotkamy...\rWymieńmy się numerami,\nna wszelki wypadek.\r</language>
+		<language name="English">Idź poznawać różne rodzaje\nPokémonów i uzupełnij Pokédex!\fAle zabawiłem tu za długo.\rMuszę jechać do Żarowa na mój\ncodzienny program radiowy.\r{STRVAR_1 3, 0, 0}, mam przeczucie,\nże to nie ostatni raz, gdy się\fspotkamy...\rWymieńmy się numerami,\nna wszelki wypadek.\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
@@ -107,11 +107,11 @@
 	</row>
 	<row id="msg_0377_R30R0201_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ta Kula ma coś wspólnego ze\nstarożytnymi ruinami za miastem\fCianwood, zwanymi Wrytą Wieżą.\rAle tylko nieliczni Trenerzy\nmogą tam dotrzeć...\rI tu wchodzisz ty.\rProfesor Oak jest o tobie bardzo\ndobrego zdania, a poza tym jesteś\fdumnym Mistrzem.\rJestem pewien, że rozwiążesz\nzagadkę Kuli i tajemnicę ruin.</language>
+		<language name="English">Ta Kula ma coś wspólnego ze\nstarożytnymi ruinami za\fDomanicami, zwanymi Wrytą Wieżą.\rAle tylko nieliczni Trenerzy\nmogą tam dotrzeć...\rI tu wchodzisz ty.\rProfesor Oak jest o tobie bardzo\ndobrego zdania, a poza tym jesteś\fdumnym Mistrzem.\rJestem pewien, że rozwiążesz\nzagadkę Kuli i tajemnicę ruin.</language>
 	</row>
 	<row id="msg_0377_R30R0201_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wryta Wieża jest za Cianwood,\ngdzieś w Jaskini Klifowej.\rTak przynajmniej słyszałem.\rTak przynajmniej pamiętam.\rTak przynajmniej wierzę!</language>
+		<language name="English">Wryta Wieża jest za Domanicami,\ngdzieś w Jaskini Klifowej.\rTak przynajmniej słyszałem.\rTak przynajmniej pamiętam.\rTak przynajmniej wierzę!</language>
 	</row>
 	<row id="msg_0377_R30R0201_00028" index="28">
 		<attribute name="window_context_name">used</attribute>

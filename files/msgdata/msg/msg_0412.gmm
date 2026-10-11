@@ -31,19 +31,19 @@
 	</row>
 	<row id="msg_0412_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reklama: Łagodny bieg czasu, starożytna\npostać... Delikatne wibracje Wieży\nSprout w Violet City...\nCzeka na ciebie. Ta wiadomość\npochodzi od Johtańskiego Biura\nTurystyki.</language>
+		<language name="English">Reklama: Łagodny bieg czasu, starożytna\npostać... Delikatne wibracje Wieży\nSprout w Łażanach...\nCzeka na ciebie. Ta wiadomość\npochodzi od Żarowskiego Biura\nTurystyki.</language>
 	</row>
 	<row id="msg_0412_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reklama: Starożytna wiadomość jest\nodkrywana właśnie teraz w Ruinach\nAlph! Ta wiadomość pochodzi od\nJohtańskiego Biura Turystyki.</language>
+		<language name="English">Reklama: Starożytna wiadomość jest\nodkrywana właśnie teraz w Ruinach\nAlph! Ta wiadomość pochodzi od\nŻarowskiego Biura Turystyki.</language>
 	</row>
 	<row id="msg_0412_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reklama: Piękny dźwięk i pełen\ngracji taniec, razem w Teatrze\nTanecznym Ecruteak.\nTa wiadomość pochodzi od\nJohtańskiego Biura Turystyki.</language>
+		<language name="English">Reklama: Piękny dźwięk i pełen\ngracji taniec, razem w Teatrze\nTanecznym w Mrowinach.\nTa wiadomość pochodzi od\nŻarowskiego Biura Turystyki.</language>
 	</row>
 	<row id="msg_0412_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reklama: Światło nadziei świeci nad\npełną niepokoju podróżą łodzią do\nzabytku tego portowego miasta!\nPrzyjdź zobaczyć latarnię morską!\nTa wiadomość pochodzi od Johtańskiego\nBiura Turystyki.</language>
+		<language name="English">Reklama: Światło nadziei świeci nad\npełną niepokoju podróżą łodzią do\nzabytku tego portowego miasta!\nPrzyjdź zobaczyć latarnię morską!\nTa wiadomość pochodzi od Żarowskiego\nBiura Turystyki.</language>
 	</row>
 	<row id="msg_0412_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -63,7 +63,7 @@
 	</row>
 	<row id="msg_0412_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reklama: Symbol miasta Goldenrod,\nGlobal Terminal! Miejsce, gdzie możesz\ndoświadczyć świata, gdzie świat może\npoznać ciebie, i Global Trade Station,\ngdzie możesz wymieniać Pokémony.</language>
+		<language name="English">Reklama: Symbol miasta Żarowa,\nGlobal Terminal! Miejsce, gdzie możesz\ndoświadczyć świata, gdzie świat może\npoznać ciebie, i Global Trade Station,\ngdzie możesz wymieniać Pokémony.</language>
 	</row>
 	<row id="msg_0412_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -71,11 +71,11 @@
 	</row>
 	<row id="msg_0412_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reklama: Jeśli szukasz gadżetów\nPokémon, znajdziesz tu wszystko.\nOd góry do dołu, cudowny świat\nzakupów w Domu Towarowym\nGoldenrod.</language>
+		<language name="English">Reklama: Jeśli szukasz gadżetów\nPokémon, znajdziesz tu wszystko.\nOd góry do dołu, cudowny świat\nzakupów na Targowisku\nw Żarowie.</language>
 	</row>
 	<row id="msg_0412_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reklama: Między walkami, czemu nie\nzrobić przerwy i nie odpocząć w\nGoldenrod Game Corner?</language>
+		<language name="English">Reklama: Między walkami, czemu nie\nzrobić przerwy i nie odpocząć w\nGame Corner w Żarowie?</language>
 	</row>
 	<row id="msg_0412_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -99,7 +99,7 @@
 	</row>
 	<row id="msg_0412_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reklama: Słynny batonik Rage Candy\nz Mahogany Town! Ciężko pracują\nkażdego dnia, by robić te słynne\nRageCandyBary! Czemu nie zabrać jednego\ndo domu przyjaciołom--RageCandyBar!</language>
+		<language name="English">Reklama: Słynny batonik Rage Candy\nz Imbramowic! Ciężko pracują\nkażdego dnia, by robić te słynne\nRageCandyBary! Czemu nie zabrać jednego\ndo domu przyjaciołom--RageCandyBar!</language>
 	</row>
 	<row id="msg_0412_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
@@ -127,7 +127,7 @@
 	</row>
 	<row id="msg_0412_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reklama: Zapraszamy w błyskawiczną\npodróż między Olivine a Vermilion City\nna pokładzie łodzi przypominającej\nwodolot!</language>
+		<language name="English">Reklama: Zapraszamy w błyskawiczną\npodróż między Siedlimowicami a\nZagórzem na pokładzie łodzi\nprzypominającej wodolot!</language>
 	</row>
 	<row id="msg_0412_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
@@ -139,7 +139,7 @@
 	</row>
 	<row id="msg_0412_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reklama: Człowiek, który odbudował\nmiasto zniszczone przez erupcję\nwulkanu. Tym człowiekiem nie był\nnikt inny, jak Blaine! Choć stracił\nswoją Salę Cinnabar, zdołał otworzyć ją\nponownie na Seafoam Islands!</language>
+		<language name="English">Reklama: Człowiek, który odbudował\nmiasto zniszczone przez erupcję\nwulkanu. Tym człowiekiem nie był\nnikt inny, jak Blaine! Choć stracił\nswoją Salę na Pogorzałej, zdołał\notworzyć ją ponownie na Seafoam\nIslands!</language>
 	</row>
 	<row id="msg_0412_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
@@ -151,6 +151,6 @@
 	</row>
 	<row id="msg_0412_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reklama: Z Goldenrod do miasta\nSaffron, zaskakująco szybki dojazd\ni podróż najwyższej jakości!\nJedź Magnet Trainem--transportem\nprzyszłości!</language>
+		<language name="English">Reklama: Z Żarowa do miasta\nŚwidnicy, zaskakująco szybki dojazd\ni podróż najwyższej jakości!\nJedź Magnet Trainem--transportem\nprzyszłości!</language>
 	</row>
 </body>

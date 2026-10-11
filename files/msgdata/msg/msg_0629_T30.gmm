@@ -34,7 +34,7 @@
 	</row>
 	<row id="msg_0629_T30_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ci Trenerzy zwani Poskramiaczami Smoków\npochodzą wszyscy z Blackthorn City.</language>
+		<language name="English">Ci Trenerzy zwani Poskramiaczami Smoków\npochodzą wszyscy z Pożarzyska.</language>
 	</row>
 	<row id="msg_0629_T30_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -42,11 +42,11 @@
 	</row>
 	<row id="msg_0629_T30_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blackthorn City\nCiche Górskie Ustronie</language>
+		<language name="English">Pożarzysko\nWzgórze Starej Studni</language>
 	</row>
 	<row id="msg_0629_T30_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Blackthorn City\nLiderka: Clair\fBłogosławiona Użytkowniczka Pokémonów Smoków</language>
+		<language name="English">Sala Pokémon w Pożarzysku\nLiderka: Clair\fBłogosławiona Użytkowniczka Pokémonów Smoków</language>
 	</row>
 	<row id="msg_0629_T30_00012" index="12">
 		<attribute name="window_context_name">used</attribute>

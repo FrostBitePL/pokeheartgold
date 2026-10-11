@@ -10,10 +10,10 @@
 	</row>
 	<row id="msg_0532_T11PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Przygody nie zawsze są pełne\noceanów i gór!\rCodzienne życie też może być całkiem\nprzygodowe!\r...Nawiasem mówiąc, słyszałem/-am,\njak ludzie rozmawiają o jaskini\fw Cerulean.\rWiesz coś na ten temat?</language>
+		<language name="English">Przygody nie zawsze są pełne\noceanów i gór!\rCodzienne życie też może być całkiem\nprzygodowe!\r...Nawiasem mówiąc, słyszałem/-am,\njak ludzie rozmawiają o jaskini\fw Burkatowie.\rWiesz coś na ten temat?</language>
 	</row>
 	<row id="msg_0532_T11PC0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Główna siedziba Silph Co. i\nstacja Magnet Train--\fto miejsca, które trzeba zobaczyć\fw Saffron.</language>
+		<language name="English">Główna siedziba Silph Co. i\nstacja Magnet Train--\fto miejsca, które trzeba zobaczyć\fw Świdnicy.</language>
 	</row>
 </body>

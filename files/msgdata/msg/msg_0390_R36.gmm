@@ -30,15 +30,15 @@
 	</row>
 	<row id="msg_0390_R36_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dziwne drzewo blokuje drogę\ndo Ecruteak City.\rUniemożliwia mi zakupy.\fCoś trzeba z tym zrobić.</language>
+		<language name="English">Dziwne drzewo blokuje drogę\ndo Mrowin.\rUniemożliwia mi zakupy.\fCoś trzeba z tym zrobić.</language>
 	</row>
 	<row id="msg_0390_R36_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dziwne drzewo zniknęło, jakby po\nprostu sobie poszło...!\fCo? To był Pokémon?\rCóż, wreszcie mogę pojechać do\nEcruteak na zakupy.\rJeśli pójdziesz ścieżką stamtąd,\ngdzie stało dziwne drzewo, dotrzesz\fdo Ecruteak City!</language>
+		<language name="English">Dziwne drzewo zniknęło, jakby po\nprostu sobie poszło...!\fCo? To był Pokémon?\rCóż, wreszcie mogę pojechać do\nMrowin na zakupy.\rJeśli pójdziesz ścieżką stamtąd,\ngdzie stało dziwne drzewo, dotrzesz\fdo Mrowin!</language>
 	</row>
 	<row id="msg_0390_R36_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trasa 36\nPółnoc do Ecruteak City</language>
+		<language name="English">Trasa 36\nPółnoc do Mrowin</language>
 	</row>
 	<row id="msg_0390_R36_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -74,6 +74,6 @@
 	</row>
 	<row id="msg_0390_R36_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Musisz posadzić Jagody w ziemi.\nPowinieneś je czasem podlewać.\fWtedy urosną silne!\rMuszę wrócić do Goldenrod.\fWybierasz się do Ecruteak?\rW takim razie powinieneś pójść\nna północ stąd. Do zobaczenia!\r</language>
+		<language name="English">Musisz posadzić Jagody w ziemi.\nPowinieneś je czasem podlewać.\fWtedy urosną silne!\rMuszę wrócić do Żarowa.\fWybierasz się do Mrowin?\rW takim razie powinieneś pójść\nna północ stąd. Do zobaczenia!\r</language>
 	</row>
 </body>

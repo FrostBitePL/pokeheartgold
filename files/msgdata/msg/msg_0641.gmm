@@ -134,15 +134,15 @@
 	</row>
 	<row id="msg_0641_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Idę niedługo na zakupy z Mary.\nByłoby świetnie, gdyby w Domu\fTowarowym Goldenrod były wtedy\fwyprzedaże...\rSłuchaj, może my też pójdziemy razem!\nDo zobaczenia!</language>
+		<language name="English">Idę niedługo na zakupy z Mary.\nByłoby świetnie, gdyby na Targowisku\fw Żarowie były wtedy\fwyprzedaże...\rSłuchaj, może my też pójdziemy razem!\nDo zobaczenia!</language>
 	</row>
 	<row id="msg_0641_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zgadnij co? Wszyscy z Radio\nTower jedziemy na firmowe wakacje\fdo Radio Tower w Lavender.\rMarnujemy urlop na wycieczkę do\ninnej Radio Tower?\rWolałabym już iść na plażę!\r{STRVAR_1 3, 0, 0}, mam nadzieję, że\nzabawisz się wystarczająco za nas\fobie podczas swojej podróży!\rPa-pa!</language>
+		<language name="English">Zgadnij co? Wszyscy z Radio\nTower jedziemy na firmowe wakacje\fdo Radio Tower w Pszennie.\rMarnujemy urlop na wycieczkę do\ninnej Radio Tower?\rWolałabym już iść na plażę!\r{STRVAR_1 3, 0, 0}, mam nadzieję, że\nzabawisz się wystarczająco za nas\fobie podczas swojej podróży!\rPa-pa!</language>
 	</row>
 	<row id="msg_0641_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zgadnij co? Wszyscy z Radio\nTower jedziemy na firmowe wakacje\fdo Radio Tower w Lavender.\rMarnujemy urlop na wycieczkę do\ninnej Radio Tower?\rWolałabym już iść na plażę!\r{STRVAR_1 3, 0, 0}, mam nadzieję, że\nzabawisz się wystarczająco za nas\fobie podczas swojej podróży!\rPa-pa!</language>
+		<language name="English">Zgadnij co? Wszyscy z Radio\nTower jedziemy na firmowe wakacje\fdo Radio Tower w Pszennie.\rMarnujemy urlop na wycieczkę do\ninnej Radio Tower?\rWolałabym już iść na plażę!\r{STRVAR_1 3, 0, 0}, mam nadzieję, że\nzabawisz się wystarczająco za nas\fobie podczas swojej podróży!\rPa-pa!</language>
 	</row>
 	<row id="msg_0641_00036" index="36">
 		<attribute name="window_context_name">used</attribute>

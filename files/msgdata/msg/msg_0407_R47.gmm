@@ -10,11 +10,11 @@
 	</row>
 	<row id="msg_0407_R47_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zamaskowany gość, który świetnie\nprezentuje się przed ogromnym,\frwącym wodospadem...\fTo ja, Crasher Wake!\rKto śmie zagadywać mnie tak swobodnie?\rOoo!\nToż to ten Trener-fanatyk masek,\fktórego widziałem w Celadon Dept.\fStore!\r</language>
+		<language name="English">Zamaskowany gość, który świetnie\nprezentuje się przed ogromnym,\frwącym wodospadem...\fTo ja, Crasher Wake!\rKto śmie zagadywać mnie tak swobodnie?\rOoo!\nToż to ten Trener-fanatyk masek,\fktórego widziałem w Domu Towarowym\fw Świebodzicach!\r</language>
 	</row>
 	<row id="msg_0407_R47_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wake: Słyszałem o wielkim\nwodospadzie w pobliżu Cianwood\fi postanowiłem go zobaczyć.\rTen wodospad jest niesamowity!\rBez wody nie przeżyje ani człowiek,\nani Pokémon, a jednak ta sama\fwoda potrafi czasem sprowadzić\fwielkie cierpienie.\r</language>
+		<language name="English">Wake: Słyszałem o wielkim\nwodospadzie w pobliżu Domanic\fi postanowiłem go zobaczyć.\rTen wodospad jest niesamowity!\rBez wody nie przeżyje ani człowiek,\nani Pokémon, a jednak ta sama\fwoda potrafi czasem sprowadzić\fwielkie cierpienie.\r</language>
 	</row>
 	<row id="msg_0407_R47_00004" index="4">
 		<attribute name="window_context_name">used</attribute>

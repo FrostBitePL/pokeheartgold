@@ -135,7 +135,7 @@
 	</row>
 	<row id="msg_0273_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tunel wykopany przez DIGLETTY,\nłączący Vermilion City z Pewter City.</language>
+		<language name="English">Tunel wykopany przez DIGLETTY,\nłączący Zagórze Śląskie z\fMokrzeszowem.</language>
 	</row>
 	<row id="msg_0273_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
@@ -147,7 +147,7 @@
 	</row>
 	<row id="msg_0273_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mroczny tunel, który zaczyna się\nw Lavender Town i wychodzi w Cerulean City.</language>
+		<language name="English">Mroczny tunel, który zaczyna się\nw Pszennie i wychodzi w Burkatowie.</language>
 	</row>
 	<row id="msg_0273_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
@@ -225,7 +225,7 @@
 	</row>
 	<row id="msg_0273_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jaskinia łącząca Route 44\nz Blackthorn City.</language>
+		<language name="English">Jaskinia łącząca Route 44\nz Pożarzyskiem.</language>
 	</row>
 	<row id="msg_0273_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
@@ -304,11 +304,11 @@
 	</row>
 	<row id="msg_0273_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Droga biegnąca na północ od Saffron\nCity, łącząca się z Podziemnym Przejściem.</language>
+		<language name="English">Droga biegnąca na północ od Świdnicy,\n łącząca się z Podziemnym Przejściem.</language>
 	</row>
 	<row id="msg_0273_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Droga biegnąca na południe od Saffron\nCity, łącząca się z Podziemnym Przejściem.</language>
+		<language name="English">Droga biegnąca na południe od Świdnicy,\n łącząca się z Podziemnym Przejściem.</language>
 	</row>
 	<row id="msg_0273_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
@@ -360,7 +360,7 @@
 	</row>
 	<row id="msg_0273_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nadmorska droga zaśmiecona skałami\nz powodu erupcji wulkanu na Cinnabar Island.</language>
+		<language name="English">Nadmorska droga zaśmiecona skałami\nz powodu erupcji wulkanu na Pogorzałej.</language>
 	</row>
 	<row id="msg_0273_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
@@ -445,7 +445,7 @@
 	</row>
 	<row id="msg_0273_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Na tej ścieżce słychać fale, od\nzachodniej Olivine City aż po morze.</language>
+		<language name="English">Na tej ścieżce słychać fale, od\nzachodnich Siedlimowic aż po zalew.</language>
 	</row>
 	<row id="msg_0273_00110" index="110">
 		<attribute name="window_context_name">used</attribute>

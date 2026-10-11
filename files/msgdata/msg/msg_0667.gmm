@@ -10,11 +10,11 @@
 	</row>
 	<row id="msg_0667_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Och, cześć, {STRVAR_1 3, 0, 0}!\nTu strażnik Baoba.\rPrzepraszam, że kazałem ci czekać!\nWreszcie otworzyliśmy Safari Zone!\rWiesz, gdzie to jest?\rZnasz bramę wewnątrz jaskini w\nCianwood City?\rJeśli przejdziesz przez nią i pójdziesz\nkawałek, powinieneś wkrótce zobaczyć\fSafari Zone!\rJesteśmy trochę na uboczu, ale\nproszę, odwiedź nas!</language>
+		<language name="English">Och, cześć, {STRVAR_1 3, 0, 0}!\nTu strażnik Baoba.\rPrzepraszam, że kazałem ci czekać!\nWreszcie otworzyliśmy Safari Zone!\rWiesz, gdzie to jest?\rZnasz bramę wewnątrz jaskini w\nDomanicach?\rJeśli przejdziesz przez nią i pójdziesz\nkawałek, powinieneś wkrótce zobaczyć\fSafari Zone!\rJesteśmy trochę na uboczu, ale\nproszę, odwiedź nas!</language>
 	</row>
 	<row id="msg_0667_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Och, cześć, {STRVAR_1 3, 0, 0}!\nTu strażnik Baoba.\rPrzepraszam, że kazałem ci czekać!\nWreszcie otworzyliśmy Safari Zone!\rWiesz, gdzie to jest?\rZnasz bramę wewnątrz jaskini w\nCianwood City?\rJeśli przejdziesz przez nią i pójdziesz\nkawałek, powinieneś wkrótce zobaczyć\fSafari Zone!\rJesteśmy trochę na uboczu, ale\nproszę, odwiedź nas!</language>
+		<language name="English">Och, cześć, {STRVAR_1 3, 0, 0}!\nTu strażnik Baoba.\rPrzepraszam, że kazałem ci czekać!\nWreszcie otworzyliśmy Safari Zone!\rWiesz, gdzie to jest?\rZnasz bramę wewnątrz jaskini w\nDomanicach?\rJeśli przejdziesz przez nią i pójdziesz\nkawałek, powinieneś wkrótce zobaczyć\fSafari Zone!\rJesteśmy trochę na uboczu, ale\nproszę, odwiedź nas!</language>
 	</row>
 	<row id="msg_0667_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -114,11 +114,11 @@
 	</row>
 	<row id="msg_0667_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Halo?\nOch, cześć, {STRVAR_1 3, 0, 0}!\rSafari Zone jest teraz otwarte!\nOdwiedź kiedy chcesz!\rWiesz, gdzie to jest?\rZnasz bramę wewnątrz jaskini w\nCianwood City?\rJeśli przejdziesz przez nią i pójdziesz\nkawałek, powinieneś wkrótce zobaczyć\fSafari Zone!\rNo to do zobaczenia!</language>
+		<language name="English">Halo?\nOch, cześć, {STRVAR_1 3, 0, 0}!\rSafari Zone jest teraz otwarte!\nOdwiedź kiedy chcesz!\rWiesz, gdzie to jest?\rZnasz bramę wewnątrz jaskini w\nDomanicach?\rJeśli przejdziesz przez nią i pójdziesz\nkawałek, powinieneś wkrótce zobaczyć\fSafari Zone!\rNo to do zobaczenia!</language>
 	</row>
 	<row id="msg_0667_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Halo?\nOch, cześć, {STRVAR_1 3, 0, 0}!\rSafari Zone jest teraz otwarte!\nOdwiedź kiedy chcesz!\rWiesz, gdzie to jest?\rZnasz bramę wewnątrz jaskini w\nCianwood City?\rJeśli przejdziesz przez nią i pójdziesz\nkawałek, powinieneś wkrótce zobaczyć\fSafari Zone!\rNo to do zobaczenia!</language>
+		<language name="English">Halo?\nOch, cześć, {STRVAR_1 3, 0, 0}!\rSafari Zone jest teraz otwarte!\nOdwiedź kiedy chcesz!\rWiesz, gdzie to jest?\rZnasz bramę wewnątrz jaskini w\nDomanicach?\rJeśli przejdziesz przez nią i pójdziesz\nkawałek, powinieneś wkrótce zobaczyć\fSafari Zone!\rNo to do zobaczenia!</language>
 	</row>
 	<row id="msg_0667_00030" index="30">
 		<attribute name="window_context_name">used</attribute>

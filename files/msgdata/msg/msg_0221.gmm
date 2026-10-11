@@ -1881,7 +1881,7 @@
 	</row>
 	<row id="msg_0221_00464" index="464">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fantastyczny lek wydawany przez\naptekę w Cianwood City. W pełni\nleczy Pokémona z dowolnej dolegliwości.</language>
+		<language name="English">Fantastyczny lek wydawany przez\naptekę w Domanicach. W pełni\nleczy Pokémona z dowolnej dolegliwości.</language>
 	</row>
 	<row id="msg_0221_00465" index="465">
 		<attribute name="window_context_name">used</attribute>
@@ -1929,7 +1929,7 @@
 	</row>
 	<row id="msg_0221_00476" index="476">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Klucz, który otwiera drzwi\nw Goldenrod Tunnel.</language>
+		<language name="English">Klucz, który otwiera drzwi\nw Tunelu pod Żarowem.</language>
 	</row>
 	<row id="msg_0221_00477" index="477">
 		<attribute name="window_context_name">used</attribute>
@@ -2041,7 +2041,7 @@
 	</row>
 	<row id="msg_0221_00504" index="504">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Słynny cukierek w Mahogany Town.\nWielu turystów lubi je kupować,\nby zabrać ze sobą do domu.</language>
+		<language name="English">Słynny cukierek w Imbramowicach.\nWielu turystów lubi je kupować,\nby zabrać ze sobą do domu.</language>
 	</row>
 	<row id="msg_0221_00505" index="505">
 		<attribute name="window_context_name">used</attribute>

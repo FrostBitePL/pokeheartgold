@@ -18,7 +18,7 @@
 	</row>
 	<row id="msg_0587_T25R0501_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ping...fiuu!\nOto twoja Przepustka z powrotem.\rTen pociąg zaraz odjeżdża\ndo Saffron City.</language>
+		<language name="English">Ping...fiuu!\nOto twoja Przepustka z powrotem.\rTen pociąg zaraz odjeżdża\ndo Świdnicy.</language>
 	</row>
 	<row id="msg_0587_T25R0501_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -26,7 +26,7 @@
 	</row>
 	<row id="msg_0587_T25R0501_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zbliżamy się do Goldenrod!\nGoldenrod! Akcent na „o”!</language>
+		<language name="English">Zbliżamy się do Żarowa!\nŻarów! Akcent na „a”!</language>
 	</row>
 	<row id="msg_0587_T25R0501_00007" index="7">
 		<attribute name="window_context_name">used</attribute>

@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0512_T08_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jeden z Elitarnej Czwórki był kiedyś\nLiderem Sali w Fuchsia.</language>
+		<language name="English">Jeden z Elitarnej Czwórki był kiedyś\nLiderem Sali w Modliszowie.</language>
 	</row>
 	<row id="msg_0512_T08_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -14,11 +14,11 @@
 	</row>
 	<row id="msg_0512_T08_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fuchsia City\nMiasto Zdarzeń i Przemijania</language>
+		<language name="English">Modliszów\nCisza Wśród Buków</language>
 	</row>
 	<row id="msg_0512_T08_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Fuchsia City\nLiderka: Janine\fTrująca Mistrzyni Ninja</language>
+		<language name="English">Sala Pokémon w Modliszowie\nLiderka: Janine\fTrująca Mistrzyni Ninja</language>
 	</row>
 	<row id="msg_0512_T08_00005" index="5">
 		<attribute name="window_context_name">used</attribute>

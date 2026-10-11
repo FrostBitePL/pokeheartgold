@@ -2058,7 +2058,7 @@
 	</row>
 	<row id="msg_0728_00514" index="514">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jesteśmy na wycieczce\nszkolnej do Radio Tower w\fLavender na zajęcia ze studiów\nspołecznych.\r</language>
+		<language name="English">Jesteśmy na wycieczce\nszkolnej do Radio Tower w\fPszennie na zajęcia ze studiów\nspołecznych.\r</language>
 	</row>
 	<row id="msg_0728_00515" index="515">
 		<attribute name="window_context_name">used</attribute>
@@ -2190,7 +2190,7 @@
 	</row>
 	<row id="msg_0728_00547" index="547">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cycling Road to szybki\nskrót do Celadon.\r</language>
+		<language name="English">Cycling Road to szybki\nskrót do Świebodzic.\r</language>
 	</row>
 	<row id="msg_0728_00548" index="548">
 		<attribute name="window_context_name">used</attribute>
@@ -2306,7 +2306,7 @@
 	</row>
 	<row id="msg_0728_00576" index="576">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ten zarozumiały facet był\nprzy wulkanie Cinnabar.\n</language>
+		<language name="English">Ten zarozumiały facet był\nprzy wulkanie na Pogorzałej.\n</language>
 	</row>
 	<row id="msg_0728_00577" index="577">
 		<attribute name="window_context_name">used</attribute>
@@ -2638,7 +2638,7 @@
 	</row>
 	<row id="msg_0728_00659" index="659">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ta Odznaka!\rJest z Violet City!\nPokonałeś Falknera?\r</language>
+		<language name="English">Ta Odznaka!\rJest z Łażan!\nPokonałeś Falknera?\r</language>
 	</row>
 	<row id="msg_0728_00660" index="660">
 		<attribute name="window_context_name">used</attribute>
@@ -2646,7 +2646,7 @@
 	</row>
 	<row id="msg_0728_00661" index="661">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Powinienem znowu trenować\nw Sali w Violet City.\n</language>
+		<language name="English">Powinienem znowu trenować\nw Sali w Łażanach.\n</language>
 	</row>
 	<row id="msg_0728_00662" index="662">
 		<attribute name="window_context_name">used</attribute>
@@ -3078,7 +3078,7 @@
 	</row>
 	<row id="msg_0728_00769" index="769">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Planuję trenować w Cianwood\nCity, by nauczyć mojego\nPokémona Latania.\n</language>
+		<language name="English">Planuję trenować w Domanicach,\n by nauczyć mojego\nPokémona Latania.\n</language>
 	</row>
 	<row id="msg_0728_00770" index="770">
 		<attribute name="window_context_name">used</attribute>
@@ -3178,7 +3178,7 @@
 	</row>
 	<row id="msg_0728_00794" index="794">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Właśnie wróciłem do\nOlivine. Więc, co powiesz na\nwalkę Pokémon?\r</language>
+		<language name="English">Właśnie wróciłem do\nSiedlimowic. Więc, co powiesz na\nwalkę Pokémon?\r</language>
 	</row>
 	<row id="msg_0728_00795" index="795">
 		<attribute name="window_context_name">used</attribute>
@@ -3198,7 +3198,7 @@
 	</row>
 	<row id="msg_0728_00799" index="799">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cianwood City jest w\nniezłej odległości stąd.\n</language>
+		<language name="English">Domanice są w\nniezłej odległości stąd.\n</language>
 	</row>
 	<row id="msg_0728_00800" index="800">
 		<attribute name="window_context_name">used</attribute>
@@ -3214,7 +3214,7 @@
 	</row>
 	<row id="msg_0728_00803" index="803">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Idziesz do Cianwood?\rCo powiesz na szybką walkę\nnajpierw?\r</language>
+		<language name="English">Idziesz do Domanic?\rCo powiesz na szybką walkę\nnajpierw?\r</language>
 	</row>
 	<row id="msg_0728_00804" index="804">
 		<attribute name="window_context_name">used</attribute>
@@ -3258,7 +3258,7 @@
 	</row>
 	<row id="msg_0728_00814" index="814">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To tak daleko do Cianwood.\nAle droga powrotna do Olivine\fteż nie jest łatwa. Co powinienem\nzrobić?\n</language>
+		<language name="English">To tak daleko do Domanic.\nAle droga powrotna do Siedlimowic\fteż nie jest łatwa. Co powinienem\nzrobić?\n</language>
 	</row>
 	<row id="msg_0728_00815" index="815">
 		<attribute name="window_context_name">used</attribute>
@@ -3502,7 +3502,7 @@
 	</row>
 	<row id="msg_0728_00875" index="875">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow. Masz mnóstwo Odznak.\nNic dziwnego, że jesteś tak\ftwardy.\rZastanawiam się, czy Morty z\nSali w Ecruteak wciąż trenuje?\fNaprawdę mnie rozgromił.\n</language>
+		<language name="English">Wow. Masz mnóstwo Odznak.\nNic dziwnego, że jesteś tak\ftwardy.\rZastanawiam się, czy Morty z\nSali w Mrowinach wciąż trenuje?\fNaprawdę mnie rozgromił.\n</language>
 	</row>
 	<row id="msg_0728_00876" index="876">
 		<attribute name="window_context_name">used</attribute>
@@ -3618,7 +3618,7 @@
 	</row>
 	<row id="msg_0728_00904" index="904">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wrócę do Ice Path w\nBlackthorn i potrenuję jeszcze\ntrochę.\n</language>
+		<language name="English">Wrócę do Ice Path w\nPożarzysku i potrenuję jeszcze\ntrochę.\n</language>
 	</row>
 	<row id="msg_0728_00905" index="905">
 		<attribute name="window_context_name">used</attribute>
@@ -3874,7 +3874,7 @@
 	</row>
 	<row id="msg_0728_00968" index="968">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saffron, Celadon... Słyszałem,\nże jest wiele wielkich miast\nw Regionie Świdnica.\n</language>
+		<language name="English">Świdnica, Świebodzice... Słyszałem,\nże jest wiele wielkich miast\nw Regionie Świdnica.\n</language>
 	</row>
 	<row id="msg_0728_00969" index="969">
 		<attribute name="window_context_name">used</attribute>
@@ -3970,7 +3970,7 @@
 	</row>
 	<row id="msg_0728_00992" index="992">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Planuję łowić z pomostu\nVermilion.\n</language>
+		<language name="English">Planuję łowić z pomostu\nw Zagórzu.\n</language>
 	</row>
 	<row id="msg_0728_00993" index="993">
 		<attribute name="window_context_name">used</attribute>
@@ -3982,7 +3982,7 @@
 	</row>
 	<row id="msg_0728_00995" index="995">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zabieramy różnych pasażerów\nz Vermilion City do Olivine\nCity.\n</language>
+		<language name="English">Zabieramy różnych pasażerów\nz Zagórza Śląskiego do Siedlimowic.\n\n</language>
 	</row>
 	<row id="msg_0728_00996" index="996">
 		<attribute name="window_context_name">used</attribute>
@@ -4022,7 +4022,7 @@
 	</row>
 	<row id="msg_0728_01005" index="1005">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Idę przesłuchać moje piosenki\nw Radio Tower w Goldenrod.\r</language>
+		<language name="English">Idę przesłuchać moje piosenki\nw Radio Tower w Żarowie.\r</language>
 	</row>
 	<row id="msg_0728_01006" index="1006">
 		<attribute name="window_context_name">used</attribute>
@@ -4066,7 +4066,7 @@
 	</row>
 	<row id="msg_0728_01016" index="1016">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jesteśmy na wycieczce\nszkolnej do ruin za Violet.\n</language>
+		<language name="English">Jesteśmy na wycieczce\nszkolnej do ruin za Łażanami.\n</language>
 	</row>
 	<row id="msg_0728_01017" index="1017">
 		<attribute name="window_context_name">used</attribute>
@@ -4434,7 +4434,7 @@
 	</row>
 	<row id="msg_0728_01108" index="1108">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ariana: Hej, ty...\nPamiętasz mnie z kryjówki w\fMahogany Town?\rTym razem...\rHee hee hee. Tym razem...\nwygląda na to, że naprawdę\fjesteś zupełnie sam. Zupełnie\nsam...\rWięc to powinno być całkiem\nproste. Dawaj! Zakończmy to!\r\n</language>
+		<language name="English">Ariana: Hej, ty...\nPamiętasz mnie z kryjówki w\fImbramowicach?\rTym razem...\rHee hee hee. Tym razem...\nwygląda na to, że naprawdę\fjesteś zupełnie sam. Zupełnie\nsam...\rWięc to powinno być całkiem\nproste. Dawaj! Zakończmy to!\r\n</language>
 	</row>
 	<row id="msg_0728_01109" index="1109">
 		<attribute name="window_context_name">used</attribute>
@@ -4514,7 +4514,7 @@
 	</row>
 	<row id="msg_0728_01128" index="1128">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kierujesz się do Azalea,\ntak? Niech mój Pokémon zobaczy,\fczy jesteś wystarczająco dobry,\nby walczyć.\r</language>
+		<language name="English">Kierujesz się do Kalna,\ntak? Niech mój Pokémon zobaczy,\fczy jesteś wystarczająco dobry,\nby walczyć.\r</language>
 	</row>
 	<row id="msg_0728_01129" index="1129">
 		<attribute name="window_context_name">used</attribute>
@@ -4690,7 +4690,7 @@
 	</row>
 	<row id="msg_0728_01172" index="1172">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Moje ptasie Pokémony\ntrenowały w Cianwood. Skoro\fprzegrałem, może przeprawimy\nsię przez morze.\n</language>
+		<language name="English">Moje ptasie Pokémony\ntrenowały w Domanicach. Skoro\fprzegrałem, może przeprawimy\nsię przez morze.\n</language>
 	</row>
 	<row id="msg_0728_01173" index="1173">
 		<attribute name="window_context_name">used</attribute>
@@ -4758,7 +4758,7 @@
 	</row>
 	<row id="msg_0728_01189" index="1189">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Każdy raz, gdy wracam do\nOlivine, odwiedzam Salę.\rTyp Pokémona Lidera Sali\nzmienił się bez mojego\nzauważenia.\n</language>
+		<language name="English">Każdy raz, gdy wracam do\nSiedlimowic, odwiedzam Salę.\rTyp Pokémona Lidera Sali\nzmienił się bez mojego\nzauważenia.\n</language>
 	</row>
 	<row id="msg_0728_01190" index="1190">
 		<attribute name="window_context_name">used</attribute>
@@ -4770,7 +4770,7 @@
 	</row>
 	<row id="msg_0728_01192" index="1192">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A skoro już o chorobie,\nsłyszałem, że jest dobra\nApteka w Cianwood.\n</language>
+		<language name="English">A skoro już o chorobie,\nsłyszałem, że jest dobra\nApteka w Domanicach.\n</language>
 	</row>
 	<row id="msg_0728_01193" index="1193">
 		<attribute name="window_context_name">used</attribute>
@@ -5154,7 +5154,7 @@
 	</row>
 	<row id="msg_0728_01288" index="1288">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Witamy w Viridian Forest.\nSkorzystaj z moich Pokémonów\ntypu Bug!\r</language>
+		<language name="English">Witamy w Lesie Książańskim.\nSkorzystaj z moich Pokémonów\ntypu Bug!\r</language>
 	</row>
 	<row id="msg_0728_01289" index="1289">
 		<attribute name="window_context_name">used</attribute>

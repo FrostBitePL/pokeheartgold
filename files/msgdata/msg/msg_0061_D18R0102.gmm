@@ -6,6 +6,6 @@
 	</row>
 	<row id="msg_0061_D18R0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nawiasem mówiąc...\nByło dla mnie jasne, że SUICUNE\fzauważyło twoją obecność.\rMówi się, że legendarne Pokémony\nz Ecruteak przychodzą do ludzi\ftylko wtedy, gdy rozpoznają ich\ftalenty.\rMoże powinienem być bardziej\nagresywny wobec SUICUNE...\rW każdym razie, {STRVAR_1 3, 0, 0},\njeszcze się spotkamy!\r</language>
+		<language name="English">Nawiasem mówiąc...\nByło dla mnie jasne, że SUICUNE\fzauważyło twoją obecność.\rMówi się, że legendarne Pokémony\nz Mrowin przychodzą do ludzi\ftylko wtedy, gdy rozpoznają ich\ftalenty.\rMoże powinienem być bardziej\nagresywny wobec SUICUNE...\rW każdym razie, {STRVAR_1 3, 0, 0},\njeszcze się spotkamy!\r</language>
 	</row>
 </body>

@@ -10,11 +10,11 @@
 	</row>
 	<row id="msg_0611_T26R0701_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ilekroć trafiam do Olivine,\nzawsze odwiedzam Kawiarnię Olivine.\rWszystko w menu sprawia, że czuję\nsię silniejszy. Nie mogę przestać\fjeść!</language>
+		<language name="English">Ilekroć trafiam do Siedlimowic,\nzawsze odwiedzam tutejszą Kawiarnię.\rWszystko w menu sprawia, że czuję\nsię silniejszy. Nie mogę przestać\fjeść!</language>
 	</row>
 	<row id="msg_0611_T26R0701_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Menu Kawiarni Olivine jest pełne\nsytych dań dla krzepkich Żeglarzy!</language>
+		<language name="English">Menu tej Kawiarni jest pełne\nsytych dań dla krzepkich Żeglarzy!</language>
 	</row>
 	<row id="msg_0611_T26R0701_00004" index="4">
 		<attribute name="window_context_name">used</attribute>

@@ -26,11 +26,11 @@
 	</row>
 	<row id="msg_0581_T25_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wieża Radiowa w Goldenrod City to\nzabytkowy punkt orientacyjny.\rProwadzą teraz kampanię promocyjną.\rZmodyfikują twój Pokégear, by mógł\ntakże działać jako radio.</language>
+		<language name="English">Wieża Radiowa w Żarowie to\nzabytkowy punkt orientacyjny.\rProwadzą teraz kampanię promocyjną.\rZmodyfikują twój Pokégear, by mógł\ntakże działać jako radio.</language>
 	</row>
 	<row id="msg_0581_T25_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wieża Radiowa w Goldenrod City to\nzabytkowy punkt orientacyjny.\rProwadzą teraz kampanię promocyjną.\rZmodyfikują twój Pokégear, by mógł\ntakże działać jako radio.\rOch, twój Pokégear działa jako radio!</language>
+		<language name="English">Wieża Radiowa w Żarowie to\nzabytkowy punkt orientacyjny.\rProwadzą teraz kampanię promocyjną.\rZmodyfikują twój Pokégear, by mógł\ntakże działać jako radio.\rOch, twój Pokégear działa jako radio!</language>
 	</row>
 	<row id="msg_0581_T25_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -150,19 +150,19 @@
 	</row>
 	<row id="msg_0581_T25_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wieża Radiowa w Goldenrod City\rSieć Dostarczająca Regionowi Żarów\nCiekawe Informacje</language>
+		<language name="English">Wieża Radiowa w Żarowie\rSieć Dostarczająca Regionowi Żarów\nCiekawe Informacje</language>
 	</row>
 	<row id="msg_0581_T25_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Goldenrod City\nLiderka: Whitney\fNiesamowicie Ładna Dziewczyna!</language>
+		<language name="English">Sala Pokémon w Żarowie\nLiderka: Whitney\fNiesamowicie Ładna Dziewczyna!</language>
 	</row>
 	<row id="msg_0581_T25_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Goldenrod City\nTętniące Życiem Wielkie Miasto</language>
+		<language name="English">Żarów\nMiasto, Które Przeszło przez Ogień</language>
 	</row>
 	<row id="msg_0581_T25_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sklep z Rowerami, Oddział Goldenrod\nŚwiat to Ścieżka Rowerowa!</language>
+		<language name="English">Sklep z Rowerami, Oddział Żarów\nŚwiat to Ścieżka Rowerowa!</language>
 	</row>
 	<row id="msg_0581_T25_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
@@ -186,6 +186,6 @@
 	</row>
 	<row id="msg_0581_T25_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kwiaciarnia w Goldenrod\rMały Sklep Dostarczający\nMnóstwo Piękna</language>
+		<language name="English">Kwiaciarnia w Żarowie\rMały Sklep Dostarczający\nMnóstwo Piękna</language>
 	</row>
 </body>

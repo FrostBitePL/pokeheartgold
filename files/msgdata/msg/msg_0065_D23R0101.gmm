@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0065_D23R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Witaj w Wieży Radiowej Goldenrod!</language>
+		<language name="English">Witaj w Zamku! Tu Radio Żarów!</language>
 	</row>
 	<row id="msg_0065_D23R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Witaj w Wieży Radiowej Goldenrod!\r...A może jednak nie.\nPrzykro mi to mówić, ale nikt nie\fmoże teraz odwiedzić wieży.</language>
+		<language name="English">Witaj w Zamku! Tu Radio Żarów!\r...A może jednak nie.\nPrzykro mi to mówić, ale nikt nie\fmoże teraz odwiedzić wieży.</language>
 	</row>
 	<row id="msg_0065_D23R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>

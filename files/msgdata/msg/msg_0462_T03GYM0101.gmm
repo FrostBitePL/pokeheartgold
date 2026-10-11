@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0462_T03GYM0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: Wow, niezbyt często dostajemy\nwyzwanie od kogoś z Regionu Żarów.\rJestem Brock, Lider Sali w Pewter.\fJestem ekspertem od Pokémonów\ftypu Skalny.\rMoje Pokémony są odporne na\nwiększość ataków fizycznych.\rBędzie ci trudno wyrządzić\njakiekolwiek obrażenia.\rDawaj!\r</language>
+		<language name="English">Brock: Wow, niezbyt często dostajemy\nwyzwanie od kogoś z Regionu Żarów.\rJestem Brock, Lider Sali w\fMokrzeszowie. Jestem ekspertem od\fPokémonów typu Skalny.\rMoje Pokémony są odporne na\nwiększość ataków fizycznych.\rBędzie ci trudno wyrządzić\njakiekolwiek obrażenia.\rDawaj!\r</language>
 	</row>
 	<row id="msg_0462_T03GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>

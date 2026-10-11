@@ -50,7 +50,7 @@
 	</row>
 	<row id="msg_0467_T04_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To jest...\nOsławiona Cerulean Cave!\rMieszkają tu przerażająco silne\nPokémony. Tylko ci, którzy pokonali\fwszystkich ośmiu świdnickich Liderów\fSal, mogą się tu zmierzyć.</language>
+		<language name="English">To jest...\nOsławiony Złoty Las!\rMieszkają tu przerażająco silne\nPokémony. Tylko ci, którzy pokonali\fwszystkich ośmiu świdnickich Liderów\fSal, mogą się tu zmierzyć.</language>
 	</row>
 	<row id="msg_0467_T04_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
@@ -58,19 +58,19 @@
 	</row>
 	<row id="msg_0467_T04_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Cerulean City\nLiderka: Misty\fChłopczyca-Syrenka</language>
+		<language name="English">Sala Pokémon w Burkatowie\nLiderka: Misty\fChłopczyca-Syrenka</language>
 	</row>
 	<row id="msg_0467_T04_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Twórca Trendu Rowerowego Boomu\rGłówny Sklep Rowerowy w Cerulean</language>
+		<language name="English">Twórca Trendu Rowerowego Boomu\rGłówny Sklep Rowerowy w Burkatowie</language>
 	</row>
 	<row id="msg_0467_T04_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jest tu ogłoszenie...\rWytępmy złodziejstwo i uczyńmy to\nmiasto przyjaźniejszym, weselszym\fmiejscem!\fPolicja Cerulean</language>
+		<language name="English">Jest tu ogłoszenie...\rWytępmy złodziejstwo i uczyńmy to\nmiasto przyjaźniejszym, weselszym\fmiejscem!\fPolicja w Burkatowie</language>
 	</row>
 	<row id="msg_0467_T04_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Route 24 Przed Tobą\nNa Wschód do Cerulean Cape</language>
+		<language name="English">Route 24 Przed Tobą\nNa Wschód do Cypla Bystrzyckiego</language>
 	</row>
 	<row id="msg_0467_T04_00018" index="18">
 		<attribute name="window_context_name">used</attribute>

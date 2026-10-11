@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0335_R06R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Witaj w Saffron City, ojczyźnie\nMagnet Train!\r...To bym normalnie powiedział,\nale Magnet Train teraz nie kursuje.\rNie ma prądu, bo coś jest nie tak\nz Power Plant.</language>
+		<language name="English">Witaj w Świdnicy, ojczyźnie\nMagnet Train!\r...To bym normalnie powiedział,\nale Magnet Train teraz nie kursuje.\rNie ma prądu, bo coś jest nie tak\nz Power Plant.</language>
 	</row>
 	<row id="msg_0335_R06R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Magnet Train to najsłynniejsza\nrzecz w Saffron.</language>
+		<language name="English">Magnet Train to najsłynniejsza\nrzecz w Świdnicy.</language>
 	</row>
 </body>

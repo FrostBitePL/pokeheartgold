@@ -22,19 +22,19 @@
 	</row>
 	<row id="msg_0070_D23R0106_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kiedyś stała tutaj wieża.\rGdy zastąpiono ją Wieżą Radiową, to\nTęczowe Skrzydło znaleziono na jej\fszczycie.\rSłyszałem od przyjaciela z Cianwood\nCity, że możesz wspiąć się na Wieżę\fDzwonów w Ecruteak City, gdy masz\fTęczowe Skrzydło.\rMuszę wracać do biura.\nDo zobaczenia!\r</language>
+		<language name="English">Kiedyś stała tutaj wieża.\rGdy zastąpiono ją Wieżą Radiową, to\nTęczowe Skrzydło znaleziono na jej\fszczycie.\rSłyszałem od przyjaciela z Domanic,\n że możesz wspiąć się na Wieżę\fDzwonów w Mrowinach, gdy masz\fTęczowe Skrzydło.\rMuszę wracać do biura.\nDo zobaczenia!\r</language>
 	</row>
 	<row id="msg_0070_D23R0106_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kiedyś stała tutaj wieża.\rGdy zastąpiono ją Wieżą Radiową, to\nSrebrne Skrzydło znaleziono na jej\fszczycie.\rSłyszałem od przyjaciela z Cianwood\nCity, że możesz zejść do jaskini na\fWhirl Islands, gdy masz\fSrebrne Skrzydło.\rMuszę wracać do biura.\nDo zobaczenia!\r</language>
+		<language name="English">Kiedyś stała tutaj wieża.\rGdy zastąpiono ją Wieżą Radiową, to\nSrebrne Skrzydło znaleziono na jej\fszczycie.\rSłyszałem od przyjaciela z Domanic,\n że możesz zejść do jaskini na\fWhirl Islands, gdy masz\fSrebrne Skrzydło.\rMuszę wracać do biura.\nDo zobaczenia!\r</language>
 	</row>
 	<row id="msg_0070_D23R0106_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Och, prawie zapomniałem!\rWedług mojego przyjaciela z Cianwood\nCity, legendarny Pokémon się nie pojawi,\fjeśli po prostu wejdziesz na szczyt\fWieży Dzwonów z samym tym\fTęczowym Skrzydłem.\rWygląda na to, że potrzebujesz\njeszcze czegoś innego... Czy jakoś tak.\rCiekawe, co to było...\rNie pamiętam.\r</language>
+		<language name="English">Och, prawie zapomniałem!\rWedług mojego przyjaciela z Domanic,\n legendarny Pokémon się nie pojawi,\fjeśli po prostu wejdziesz na szczyt\fWieży Dzwonów z samym tym\fTęczowym Skrzydłem.\rWygląda na to, że potrzebujesz\njeszcze czegoś innego... Czy jakoś tak.\rCiekawe, co to było...\rNie pamiętam.\r</language>
 	</row>
 	<row id="msg_0070_D23R0106_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Och, prawie zapomniałem!\rWedług mojego przyjaciela z Cianwood\nCity, legendarny Pokémon się nie pojawi,\fjeśli po prostu zejdziesz do jaskini\fna Whirl Islands z samym tym\fSrebrnym Skrzydłem.\rWygląda na to, że potrzebujesz\njeszcze czegoś innego... Czy jakoś tak.\rCiekawe, co to było...\rNie pamiętam.\r</language>
+		<language name="English">Och, prawie zapomniałem!\rWedług mojego przyjaciela z Domanic,\n legendarny Pokémon się nie pojawi,\fjeśli po prostu zejdziesz do jaskini\fna Whirl Islands z samym tym\fSrebrnym Skrzydłem.\rWygląda na to, że potrzebujesz\njeszcze czegoś innego... Czy jakoś tak.\rCiekawe, co to było...\rNie pamiętam.\r</language>
 	</row>
 	<row id="msg_0070_D23R0106_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
