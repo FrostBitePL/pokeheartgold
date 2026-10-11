@@ -122,7 +122,7 @@
     },
     {
       "id": "obj_T23GYM0102_gsleader2",
-      "spriteId": "SPRITE_GSLEADER2",
+      "spriteId": "SPRITE_GSLEADER3",
       "movement": 0,
       "type": 0,
       "eventFlag": "FLAG_HIDE_AZALEA_GYM_BUGSY",

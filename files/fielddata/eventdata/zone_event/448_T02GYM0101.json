@@ -106,7 +106,7 @@
     },
     {
       "id": "obj_T02GYM0101_gsleader16",
-      "spriteId": "SPRITE_GSLEADER16",
+      "spriteId": "SPRITE_GSLEADER10",
       "movement": 15,
       "type": 0,
       "eventFlag": "FLAG_HIDE_VIRIDIAN_GYM_BLUE",

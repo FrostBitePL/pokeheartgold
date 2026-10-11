@@ -29,7 +29,7 @@
   "objects": [
     {
       "id": "obj_T24GYM0101_gsleader5",
-      "spriteId": "SPRITE_GSLEADER5",
+      "spriteId": "SPRITE_GSLEADER1",
       "movement": 15,
       "type": 0,
       "eventFlag": "FLAG_HIDE_CIANWOOD_GYM_CHUCK",

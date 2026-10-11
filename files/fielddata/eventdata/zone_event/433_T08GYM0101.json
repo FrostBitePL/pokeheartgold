@@ -55,7 +55,7 @@
     },
     {
       "id": "obj_T08GYM0101_gsleader13",
-      "spriteId": "SPRITE_GSLEADER13",
+      "spriteId": "SPRITE_GSLEADER12",
       "movement": 0,
       "type": 0,
       "eventFlag": "FLAG_HIDE_FUCHSIA_GYM_JANINE",
@@ -123,7 +123,7 @@
     },
     {
       "id": "obj_T08GYM0101_gsleader13_2",
-      "spriteId": "SPRITE_GSLEADER13",
+      "spriteId": "SPRITE_GSLEADER12",
       "movement": 0,
       "type": 0,
       "eventFlag": "FLAG_HIDE_FUCHSIA_GYM_PICNICKER_CINDY_DISGUISED",
@@ -140,7 +140,7 @@
     },
     {
       "id": "obj_T08GYM0101_gsleader13_3",
-      "spriteId": "SPRITE_GSLEADER13",
+      "spriteId": "SPRITE_GSLEADER12",
       "movement": 0,
       "type": 0,
       "eventFlag": "FLAG_HIDE_FUCHSIA_GYM_CAMPER_BARRY_DISGUISED",
@@ -157,7 +157,7 @@
     },
     {
       "id": "obj_T08GYM0101_gsleader13_4",
-      "spriteId": "SPRITE_GSLEADER13",
+      "spriteId": "SPRITE_GSLEADER12",
       "movement": 0,
       "type": 0,
       "eventFlag": "FLAG_HIDE_FUCHSIA_GYM_LASS_LINDA_DISGUISED",
@@ -174,7 +174,7 @@
     },
     {
       "id": "obj_T08GYM0101_gsleader13_5",
-      "spriteId": "SPRITE_GSLEADER13",
+      "spriteId": "SPRITE_GSLEADER12",
       "movement": 0,
       "type": 0,
       "eventFlag": "FLAG_HIDE_FUCHSIA_GYM_LASS_ALICE_DISGUISED",

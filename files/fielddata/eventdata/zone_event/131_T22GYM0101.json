@@ -21,7 +21,7 @@
   "objects": [
     {
       "id": "obj_T22GYM0101_gsleader1",
-      "spriteId": "SPRITE_GSLEADER1",
+      "spriteId": "SPRITE_GSLEADER8",
       "movement": 15,
       "type": 0,
       "eventFlag": "FLAG_HIDE_VIOLET_GYM_FALKNER",

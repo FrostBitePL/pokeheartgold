@@ -106,7 +106,7 @@
     },
     {
       "id": "obj_T11GYM0101_gsleader10",
-      "spriteId": "SPRITE_GSLEADER10",
+      "spriteId": "SPRITE_GSLEADER15",
       "movement": 15,
       "type": 0,
       "eventFlag": "FLAG_HIDE_SAFFRON_GYM_SABRINA",

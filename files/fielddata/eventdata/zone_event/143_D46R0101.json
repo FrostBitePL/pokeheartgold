@@ -61,7 +61,7 @@
   "objects": [
     {
       "id": "obj_D46R0101_gsleader2",
-      "spriteId": "SPRITE_GSLEADER2",
+      "spriteId": "SPRITE_GSLEADER3",
       "movement": 0,
       "type": 0,
       "eventFlag": "FLAG_UNK_263",

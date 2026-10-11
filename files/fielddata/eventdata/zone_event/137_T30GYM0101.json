@@ -21,7 +21,7 @@
   "objects": [
     {
       "id": "obj_T30GYM0101_gsleader8",
-      "spriteId": "SPRITE_GSLEADER8",
+      "spriteId": "SPRITE_WATARU",
       "movement": 15,
       "type": 0,
       "eventFlag": "FLAG_HIDE_BLACKTHORN_GYM_CLAIR",

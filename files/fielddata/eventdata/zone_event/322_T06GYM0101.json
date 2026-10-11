@@ -294,7 +294,7 @@
     },
     {
       "id": "obj_T06GYM0101_gsleader9",
-      "spriteId": "SPRITE_GSLEADER9",
+      "spriteId": "SPRITE_GSLEADER13",
       "movement": 15,
       "type": 0,
       "eventFlag": "FLAG_HIDE_VERMILION_GYM_LT_SURGE",

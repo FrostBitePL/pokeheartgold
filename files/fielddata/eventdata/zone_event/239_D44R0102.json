@@ -37,7 +37,7 @@
   "objects": [
     {
       "id": "obj_D44R0102_gsleader8",
-      "spriteId": "SPRITE_GSLEADER8",
+      "spriteId": "SPRITE_WATARU",
       "movement": 17,
       "type": 0,
       "eventFlag": "FLAG_HIDE_VICTORY_ROAD_CLAIR",
@@ -241,7 +241,7 @@
     },
     {
       "id": "obj_D44R0102_gsleader8_2",
-      "spriteId": "SPRITE_GSLEADER8",
+      "spriteId": "SPRITE_WATARU",
       "movement": 0,
       "type": 0,
       "eventFlag": "FLAG_NOTHING",

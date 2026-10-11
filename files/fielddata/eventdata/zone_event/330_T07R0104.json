@@ -64,7 +64,7 @@
     },
     {
       "id": "obj_T07R0104_gsleader1",
-      "spriteId": "SPRITE_GSLEADER1",
+      "spriteId": "SPRITE_GSLEADER8",
       "movement": 0,
       "type": 0,
       "eventFlag": "FLAG_UNK_260",
@@ -81,7 +81,7 @@
     },
     {
       "id": "obj_T07R0104_gsleader13",
-      "spriteId": "SPRITE_GSLEADER13",
+      "spriteId": "SPRITE_GSLEADER12",
       "movement": 0,
       "type": 0,
       "eventFlag": "FLAG_UNK_2E2",

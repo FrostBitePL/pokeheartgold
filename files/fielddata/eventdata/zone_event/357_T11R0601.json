@@ -81,7 +81,7 @@
     },
     {
       "id": "obj_T11R0601_gsleader9",
-      "spriteId": "SPRITE_GSLEADER9",
+      "spriteId": "SPRITE_GSLEADER13",
       "movement": 14,
       "type": 0,
       "eventFlag": "FLAG_HIDE_SAFFRON_TRAIN_STATION_LT_SURGE",

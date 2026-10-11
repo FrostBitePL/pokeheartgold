@@ -225,7 +225,7 @@
     },
     {
       "id": "obj_R47_gsleader5",
-      "spriteId": "SPRITE_GSLEADER5",
+      "spriteId": "SPRITE_GSLEADER1",
       "movement": 0,
       "type": 0,
       "eventFlag": "FLAG_HIDE_ROUTE_47_CHUCK",

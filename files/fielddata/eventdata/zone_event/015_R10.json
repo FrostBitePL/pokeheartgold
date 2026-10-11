@@ -29,7 +29,7 @@
   "objects": [
     {
       "id": "obj_R10_gsleader9",
-      "spriteId": "SPRITE_GSLEADER9",
+      "spriteId": "SPRITE_GSLEADER13",
       "movement": 3,
       "type": 0,
       "eventFlag": "FLAG_HIDE_ROUTE_10_LT_SURGE",

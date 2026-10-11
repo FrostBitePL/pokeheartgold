@@ -190,7 +190,7 @@
 	</row>
 	<row id="msg_0731_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Kimono Girl</language>
+		<language name="English">Aktorka</language>
 	</row>
 	<row id="msg_0731_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
@@ -222,7 +222,7 @@
 	</row>
 	<row id="msg_0731_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Team Rocket</language>
+		<language name="English">Laborant</language>
 	</row>
 	<row id="msg_0731_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
@@ -250,7 +250,7 @@
 	</row>
 	<row id="msg_0731_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Team Rocket</language>
+		<language name="English">Laborantka</language>
 	</row>
 	<row id="msg_0731_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
@@ -318,7 +318,7 @@
 	</row>
 	<row id="msg_0731_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Sage</language>
+		<language name="English">Brat</language>
 	</row>
 	<row id="msg_0731_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
@@ -446,7 +446,7 @@
 	</row>
 	<row id="msg_0731_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">an Elder</language>
+		<language name="English">Mistrz</language>
 	</row>
 	<row id="msg_0731_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
@@ -458,7 +458,7 @@
 	</row>
 	<row id="msg_0731_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">an Executive</language>
+		<language name="English">Kierowniczka</language>
 	</row>
 	<row id="msg_0731_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
@@ -466,15 +466,15 @@
 	</row>
 	<row id="msg_0731_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">an Executive</language>
+		<language name="English">Kierownik</language>
 	</row>
 	<row id="msg_0731_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">an Executive</language>
+		<language name="English">Kierownik</language>
 	</row>
 	<row id="msg_0731_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">an Executive</language>
+		<language name="English">Kierownik</language>
 	</row>
 	<row id="msg_0731_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
@@ -482,7 +482,7 @@
 	</row>
 	<row id="msg_0731_00120" index="120">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Mystery Man</language>
+		<language name="English">Informator</language>
 	</row>
 	<row id="msg_0731_00121" index="121">
 		<attribute name="window_context_name">used</attribute>
@@ -494,7 +494,7 @@
 	</row>
 	<row id="msg_0731_00123" index="123">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a ₧₦ Trainer</language>
+		<language name="English">a Leader</language>
 	</row>
 	<row id="msg_0731_00124" index="124">
 		<attribute name="window_context_name">used</attribute>

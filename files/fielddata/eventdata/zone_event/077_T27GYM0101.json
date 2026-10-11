@@ -38,7 +38,7 @@
     },
     {
       "id": "obj_T27GYM0101_gsleader4",
-      "spriteId": "SPRITE_GSLEADER4",
+      "spriteId": "SPRITE_GSLEADER6",
       "movement": 15,
       "type": 1,
       "eventFlag": "FLAG_HIDE_ECRUTEAK_GYM_MORTY",

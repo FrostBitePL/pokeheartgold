@@ -20,7 +20,7 @@
     },
     {
       "id": "obj_D27R0107_gsleader6",
-      "spriteId": "SPRITE_GSLEADER6",
+      "spriteId": "SPRITE_GSLEADER4",
       "movement": 0,
       "type": 0,
       "eventFlag": "FLAG_UNK_1D7",

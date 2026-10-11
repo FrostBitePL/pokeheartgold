@@ -521,7 +521,7 @@
     },
     {
       "id": "obj_D22R0101_gsleader2",
-      "spriteId": "SPRITE_GSLEADER2",
+      "spriteId": "SPRITE_GSLEADER3",
       "movement": 16,
       "type": 0,
       "eventFlag": "FLAG_UNK_288",

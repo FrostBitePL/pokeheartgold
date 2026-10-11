@@ -72,7 +72,7 @@
     },
     {
       "id": "obj_P01R0102_gsleader10",
-      "spriteId": "SPRITE_GSLEADER10",
+      "spriteId": "SPRITE_GSLEADER15",
       "movement": 0,
       "type": 0,
       "eventFlag": "FLAG_UNK_2C9",
