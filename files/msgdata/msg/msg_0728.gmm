@@ -1010,7 +1010,7 @@
 	</row>
 	<row id="msg_0728_00252" index="252">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To jest prawdziwa moc Johto...\n</language>
+		<language name="English">To jest prawdziwa moc Żarowa...\n</language>
 	</row>
 	<row id="msg_0728_00253" index="253">
 		<attribute name="window_context_name">used</attribute>
@@ -1698,7 +1698,7 @@
 	</row>
 	<row id="msg_0728_00424" index="424">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Federacja Pokémon Kanto\nnigdy nie upadnie!\n</language>
+		<language name="English">Świdnicka Federacja Pokémon\nnigdy nie upadnie!\n</language>
 	</row>
 	<row id="msg_0728_00425" index="425">
 		<attribute name="window_context_name">used</attribute>
@@ -3998,7 +3998,7 @@
 	</row>
 	<row id="msg_0728_00999" index="999">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Znasz Mary?\nJest popularnym DJ-em w Johto.\r</language>
+		<language name="English">Znasz Mary? Jest popularnym DJ-em w\nRegionie Żarów.\r</language>
 	</row>
 	<row id="msg_0728_01000" index="1000">
 		<attribute name="window_context_name">used</attribute>

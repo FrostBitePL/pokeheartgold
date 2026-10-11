@@ -34,10 +34,10 @@
 	</row>
 	<row id="msg_0531_T11GYM0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Saffron City</language>
+		<language name="English">Sala Pokémon w Świdnicy</language>
 	</row>
 	<row id="msg_0531_T11GYM0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Saffron City\rLiderka: Sabrina\nCertyfikowany Trener!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Sala Pokémon w Świdnicy\rLiderka: Sabrina\nCertyfikowany Trener!\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 </body>

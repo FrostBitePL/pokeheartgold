@@ -54,10 +54,10 @@
 	</row>
 	<row id="msg_0485_T06GYM0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Vermilion City</language>
+		<language name="English">Sala Pokémon w Zagórzu Śląskim</language>
 	</row>
 	<row id="msg_0485_T06GYM0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Vermilion City\rLider Sali: Porucznik Surge\nCertyfikowany Trener!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Sala Pokémon w Zagórzu Śląskim\rLider Sali: Porucznik Surge\nCertyfikowany Trener!\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 </body>

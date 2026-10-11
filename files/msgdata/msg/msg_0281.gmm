@@ -14,11 +14,11 @@
 	</row>
 	<row id="msg_0281_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kanto</language>
+		<language name="English">Świdnica</language>
 	</row>
 	<row id="msg_0281_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Johto</language>
+		<language name="English">Żarów</language>
 	</row>
 	<row id="msg_0281_00005" index="5">
 		<attribute name="window_context_name">used</attribute>

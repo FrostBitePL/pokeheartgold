@@ -22,10 +22,10 @@
 	</row>
 	<row id="msg_0492_T07GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Celadon City</language>
+		<language name="English">Sala Pokémon w Świebodzicach</language>
 	</row>
 	<row id="msg_0492_T07GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Celadon City\rLiderka Sali: Erika\nCertyfikowany Trener!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Sala Pokémon w Świebodzicach\rLiderka Sali: Erika\nCertyfikowany Trener!\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 </body>

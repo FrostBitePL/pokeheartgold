@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0399_R42_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trasa 42 Ecruteak City\ndo Mahogany Town</language>
+		<language name="English">Trasa 42 Mrowiny\ndo Imbramowic</language>
 	</row>
 	<row id="msg_0399_R42_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0399_R42_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trasa 42 Mahogany Town\ndo Ecruteak City</language>
+		<language name="English">Trasa 42 Imbramowice\ndo Mrowin</language>
 	</row>
 	<row id="msg_0399_R42_00004" index="4">
 		<attribute name="window_context_name">used</attribute>

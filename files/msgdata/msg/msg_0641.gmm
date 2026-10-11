@@ -134,7 +134,7 @@
 	</row>
 	<row id="msg_0641_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Idę niedługo na zakupy z Mary.\nByłoby świetnie, gdyby na Targowisku\fw Żarowie były wtedy\fwyprzedaże...\rSłuchaj, może my też pójdziemy razem!\nDo zobaczenia!</language>
+		<language name="English">Idę niedługo na zakupy z Mary.\nByłoby świetnie, gdyby w Domu\fTowarowym w Żarowie były wtedy\fwyprzedaże...\rSłuchaj, może my też pójdziemy razem!\nDo zobaczenia!</language>
 	</row>
 	<row id="msg_0641_00034" index="34">
 		<attribute name="window_context_name">used</attribute>

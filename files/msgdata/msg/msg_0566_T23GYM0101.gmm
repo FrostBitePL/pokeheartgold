@@ -10,10 +10,10 @@
 	</row>
 	<row id="msg_0566_T23GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Azalea Town</language>
+		<language name="English">Sala Pokémon w Kalnie</language>
 	</row>
 	<row id="msg_0566_T23GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Azalea Town\rLider: Bugsy\nCertyfikowany Trener!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Sala Pokémon w Kalnie\rLider: Bugsy\nCertyfikowany Trener!\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 </body>

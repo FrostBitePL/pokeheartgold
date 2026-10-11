@@ -71,7 +71,7 @@
 	</row>
 	<row id="msg_0412_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reklama: Jeśli szukasz gadżetów\nPokémon, znajdziesz tu wszystko.\nOd góry do dołu, cudowny świat\nzakupów na Targowisku\nw Żarowie.</language>
+		<language name="English">Reklama: Jeśli szukasz gadżetów\nPokémon, znajdziesz tu wszystko.\nOd góry do dołu, cudowny świat\nzakupów w Domu Towarowym\nw Żarowie.</language>
 	</row>
 	<row id="msg_0412_00018" index="18">
 		<attribute name="window_context_name">used</attribute>

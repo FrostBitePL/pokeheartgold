@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0273_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kanto</language>
+		<language name="English">Świdnica</language>
 	</row>
 	<row id="msg_0273_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Johto</language>
+		<language name="English">Żarów</language>
 	</row>
 	<row id="msg_0273_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -43,39 +43,39 @@
 	</row>
 	<row id="msg_0273_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dość nowe i ciche miasteczko.\nTo małe i urokliwe miejsce.</language>
+		<language name="English">Cicha wieś na miejscu dawnego grodu.\nNiebo jest tu wyjątkowo ciemne.</language>
 	</row>
 	<row id="msg_0273_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Piękne miasto spowite zielenią\nprzez cały rok.</language>
+		<language name="English">Wieś, w której dawni wrogowie\nusiedli kiedyś przy jednym stole.</language>
 	</row>
 	<row id="msg_0273_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ciche miasto zagnieżdżone wśród\nsurowych gór i skał.</language>
+		<language name="English">Wieś pod lasem. W starym łomie\nleżą skamieliny sprzed epok.</language>
 	</row>
 	<row id="msg_0273_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Piękne miasto z płynącą wodą\ni kwitnącymi kwiatami.</language>
+		<language name="English">Wieś nad Bystrzycą, pamiętająca\nwielką bitwę sprzed wieków.</language>
 	</row>
 	<row id="msg_0273_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Małe miasteczko spowite pięknym\nodcieniem fioletu.</language>
+		<language name="English">Ciche miasteczko pamięci. W murze\ncmentarza tkwi osiem starych krzyży.</language>
 	</row>
 	<row id="msg_0273_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Południowe miasto skąpane\nw pomarańczy zachodzącego słońca.</language>
+		<language name="English">Przystań pod zamkiem Grodno,\nnad jeziorem zamkniętym zaporą.</language>
 	</row>
 	<row id="msg_0273_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bogate, mieniące się tęczą miasto,\ngdzie gromadzą się ludzie i Pokémony.</language>
+		<language name="English">Miasto zegarów. Mówią, że nikt\nsię tu nigdy nie spóźnia.</language>
 	</row>
 	<row id="msg_0273_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Historyczna wioska, która\nstała się nowa na nowo.</language>
+		<language name="English">Mała wieś wśród buków, na skraju\nKsiążańskiego Parku.</language>
 	</row>
 	<row id="msg_0273_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Miasteczko istniało tutaj, dopóki\nnie zmiotła go erupcja.</language>
+		<language name="English">Wyspa czarnej ziemi.\nOd zawsze nic tu nie rośnie.</language>
 	</row>
 	<row id="msg_0273_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -83,55 +83,55 @@
 	</row>
 	<row id="msg_0273_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Największe miasto w Regionie\nŚwidnica, lśniące złotym blaskiem.</language>
+		<language name="English">Stolica dawnego księstwa. Miasto\nwież, kupców i astronomów.</language>
 	</row>
 	<row id="msg_0273_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Miasteczko, gdzie wiatr wieje\ni zwiastuje nadchodzącą zmianę.</language>
+		<language name="English">Wieś z kamiennym kościołem i wieżą\ncystersów. Tu zaczyna się droga.</language>
 	</row>
 	<row id="msg_0273_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Miasto, gdzie poczujesz zapach\nmałych kwiatów i morskiej bryzy.</language>
+		<language name="English">Wieś nad Strzegomką, ze starym\nparkiem i ruiną pałacu.</language>
 	</row>
 	<row id="msg_0273_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ta stara wioska wciąż otoczona jest\ndrzewami i innymi malowniczymi widokami.</language>
+		<language name="English">Miasto mostów. Tu stanął pierwszy\nżelazny most na kontynencie.</language>
 	</row>
 	<row id="msg_0273_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Miasteczko, gdzie ludzie i Pokémony\nżyją razem w prostej harmonii.</language>
+		<language name="English">Wieś kowala i wypalaczy węgla,\nna skraju lasu Wostówka.</language>
 	</row>
 	<row id="msg_0273_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nadmorskie miasto, które wiele\nzawdzięcza morzu.</language>
+		<language name="English">Miasteczko za zalewem. Jego zamek\nod wieków strzeże brodu.</language>
 	</row>
 	<row id="msg_0273_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rozwijające się miasto, gdzie ludzie\ni Pokémony przychodzą i odchodzą wedle woli.</language>
+		<language name="English">Miasto pieców i fabryk. Wszystko\ntutaj przeszło kiedyś przez ogień.</language>
 	</row>
 	<row id="msg_0273_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Miasto, w którym możesz usłyszeć\nmelodię morza.</language>
+		<language name="English">Wieś nad zalewem. Jej młyn miele\nmąkę od ponad pięciuset lat.</language>
 	</row>
 	<row id="msg_0273_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Miasto, które do dziś nosi\nślady swojej historii.</language>
+		<language name="English">Wieś pałacu i starych dębów,\nz samotną wieżą bez kościoła.</language>
 	</row>
 	<row id="msg_0273_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Miasteczko o podejrzanej atmosferze.\nTo kryjówka ninja.</language>
+		<language name="English">Wieś przy stacji kolejowej,\nnazwana od dawnego kasztelana.</language>
 	</row>
 	<row id="msg_0273_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ogromne jezioro pełne czystej,\nbłękitnej wody.</language>
+		<language name="English">Zalane wyrobisko dawnej kopalni.\nWoda ma tu mleczny kolor.</language>
 	</row>
 	<row id="msg_0273_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tajemnicza górska wioska wykuta\nw ścianie skalnej.</language>
+		<language name="English">Wieś na wzgórzu, z najstarszym\nkościołem i bardzo głęboką studnią.</language>
 	</row>
 	<row id="msg_0273_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Góra, gdzie coś tajemniczego\nczeka pod ziemią.</language>
+		<language name="English">Święta góra dawnych plemion,\nwidoczna z obu regionów.</language>
 	</row>
 	<row id="msg_0273_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
@@ -139,11 +139,11 @@
 	</row>
 	<row id="msg_0273_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Góra, na którą spadła gwiazda.\nTeraz kryje w sobie tajemniczą moc.</language>
+		<language name="English">Opuszczona kopalnia rudy. W bocznych\nchodnikach wciąż coś błyszczy.</language>
 	</row>
 	<row id="msg_0273_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jaskinia, która niegdyś się zawaliła.\nZostała odbudowana.</language>
+		<language name="English">Sztolnie dawnych poszukiwaczy złota.\nNikt nie wie, jak są głębokie.</language>
 	</row>
 	<row id="msg_0273_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
@@ -155,39 +155,39 @@
 	</row>
 	<row id="msg_0273_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dwie małe wysepki lekko unoszące\nsię na oceanie.</language>
+		<language name="English">Jaskinia, w której lód nie topnieje\nnawet w środku lata.</language>
 	</row>
 	<row id="msg_0273_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wieża, gdzie pilnie studiują,\naby nauczyć się żyć z Pokémonami.</language>
+		<language name="English">Ostatnia baszta zamku wodnego.\nStrzeże jej Bractwo Mostu.</language>
 	</row>
 	<row id="msg_0273_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wieża, na którą podobno ląduje\nlegendarny Pokémon.</language>
+		<language name="English">Wieża, która została po zburzonym\nkościele. Podobno ktoś z niej\fpatrzy.</language>
 	</row>
 	<row id="msg_0273_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ścieżka, o której mówi się, że zawsze\njest skąpana w zachodzie słońca, bez\nwzględu na porę roku.</language>
+		<language name="English">Aleja trzystuletnich dębów.\nLiście szumią tu nawet bez wiatru.</language>
 	</row>
 	<row id="msg_0273_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wieża, w którą uderzył piorun,\na następnie zajęła się ogniem i spłonęła.</language>
+		<language name="English">Pałac, który spłonął, gdy służył\nza lazaret. Nikt go nie odbudował.</language>
 	</row>
 	<row id="msg_0273_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Przestronny i piękny park.\nPołączony jest z Pokéathlon Dome.</language>
+		<language name="English">Park przy pałacu, z drzewami\nz całego świata. Obok jest Arena.</language>
 	</row>
 	<row id="msg_0273_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stary budynek, który został\nprzerobiony na wieżę radiową.</language>
+		<language name="English">Pałac dawnego fabrykanta. Dziś\nsiedziba fundacji i radia.</language>
 	</row>
 	<row id="msg_0273_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Miejsce, gdzie możesz odnaleźć\ndawną przygodę.</language>
+		<language name="English">Miejsce, gdzie z ziemi wydobywa się\nkości i skamieliny sprzed epok.</language>
 	</row>
 	<row id="msg_0273_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Głęboko pod ziemią, połączona\nz oceanem. Tutaj płynie woda.</language>
+		<language name="English">Stary kamieniołom, w którym zbiera\nsię woda. Skała kryje minerały.</language>
 	</row>
 	<row id="msg_0273_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
@@ -195,7 +195,7 @@
 	</row>
 	<row id="msg_0273_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jaśnieje jasno nad oceanem dzięki\nmocy AMPHAROSA.</language>
+		<language name="English">Świeci nad zalewem dzięki mocy\nPokémona, który ją zasila.</language>
 	</row>
 	<row id="msg_0273_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
@@ -221,19 +221,19 @@
 	</row>
 	<row id="msg_0273_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Naturalna, ogromna jaskinia,\nniezwykle przestronna.</language>
+		<language name="English">Najwyższe ze wzgórz, podziurawione\nstarymi łomami granitu.</language>
 	</row>
 	<row id="msg_0273_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jaskinia łącząca Route 44\nz Pożarzyskiem.</language>
+		<language name="English">Wyrobisko białej glinki.\nMokra glina jest śliska jak lód.</language>
 	</row>
 	<row id="msg_0273_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cztery wyspy chronione przez wiry\nwodne i trudne do osiągnięcia.</language>
+		<language name="English">Cztery wyspy osłonięte wirami\ni mgłą, trudne do osiągnięcia.</language>
 	</row>
 	<row id="msg_0273_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Uświęcona góra, wznosząca się\npomiędzy Regionami Żarów i Świdnica.</language>
+		<language name="English">Święta góra dawnych plemion,\nwznosząca się między regionami.</language>
 	</row>
 	<row id="msg_0273_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
@@ -250,15 +250,15 @@
 	</row>
 	<row id="msg_0273_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wodospad Tohjo, który łączy\nRegiony Świdnica i Żarów.</language>
+		<language name="English">Próg wodny na Bystrzycy, który\nłączy Regiony Świdnica i Żarów.</language>
 	</row>
 	<row id="msg_0273_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Las pełen natury i Pokémonów\ntypu Bug.</language>
+		<language name="English">Bukowy las pełen Pokémonów\ntypu Robaczego.</language>
 	</row>
 	<row id="msg_0273_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Miejsce, gdzie Pokémony mogą\nrywalizować, mierząc swoje siły.</language>
+		<language name="English">Hala, stadion i basen. Pokémony\nmierzą się tu w zawodach.</language>
 	</row>
 	<row id="msg_0273_00064" index="64">
 		<attribute name="window_context_name">garbage</attribute>
@@ -276,11 +276,11 @@
 	</row>
 	<row id="msg_0273_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Elektrownia zasilająca cały\nRegion Świdnica.</language>
+		<language name="English">Stara elektrownia wodna, która\nzasila cały Region Świdnica.</language>
 	</row>
 	<row id="msg_0273_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Miejsce, gdzie możesz bezpiecznie\ndoświadczyć dzikich emocji.</language>
+		<language name="English">Brama do ostoi, gdzie odpoczywają\nstada wędrownych ptaków.</language>
 	</row>
 	<row id="msg_0273_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
@@ -372,7 +372,7 @@
 	</row>
 	<row id="msg_0273_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Droga do Victory Road, która\nw końcu staje się nieprzejezdna.</language>
+		<language name="English">Droga do Traktu Mistrzów, która\nw końcu staje się nieprzejezdna.</language>
 	</row>
 	<row id="msg_0273_00092" index="92">
 		<attribute name="window_context_name">garbage</attribute>
@@ -397,7 +397,7 @@
 	</row>
 	<row id="msg_0273_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pusta i ukryta górska droga,\nktóra prowadzi dalej na Mt. Silver.</language>
+		<language name="English">Pusta i ukryta górska droga,\nktóra prowadzi dalej na Ślężę.</language>
 	</row>
 	<row id="msg_0273_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
@@ -453,7 +453,7 @@
 	</row>
 	<row id="msg_0273_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mała ścieżka otwarta u podnóża\nwymagającej Mt. Mortar.</language>
+		<language name="English">Mała ścieżka otwarta u podnóża\nwymagającej Góry Krzyżowej.</language>
 	</row>
 	<row id="msg_0273_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
@@ -477,6 +477,6 @@
 	</row>
 	<row id="msg_0273_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Przyjemna ścieżka od podnóża góry\naż do Strefy Safari.</language>
+		<language name="English">Przyjemna ścieżka od podnóża góry\naż do Ostoi Ptaków.</language>
 	</row>
 </body>

@@ -38,10 +38,10 @@
 	</row>
 	<row id="msg_0454_T02GYM0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Viridian City</language>
+		<language name="English">Sala Pokémon w Krzyżowej</language>
 	</row>
 	<row id="msg_0454_T02GYM0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Viridian City\rLider Sali: Blue\nCertyfikowany Trener!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Sala Pokémon w Krzyżowej\rLider Sali: Blue\nCertyfikowany Trener!\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 </body>

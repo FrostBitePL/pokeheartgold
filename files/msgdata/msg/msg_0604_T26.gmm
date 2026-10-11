@@ -26,11 +26,11 @@
 	</row>
 	<row id="msg_0604_T26_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Port w Olivine\nMolo Szybkiego Statku</language>
+		<language name="English">Port w Siedlimowicach\nMolo Szybkiego Statku</language>
 	</row>
 	<row id="msg_0604_T26_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Olivine City\nLiderka: Jasmine\fDziewczyna w Stalowej Zbroi</language>
+		<language name="English">Sala Pokémon w Siedlimowicach\nLiderka: Jasmine\fDziewczyna w Stalowej Zbroi</language>
 	</row>
 	<row id="msg_0604_T26_00008" index="8">
 		<attribute name="window_context_name">used</attribute>

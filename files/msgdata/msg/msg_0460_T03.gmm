@@ -92,11 +92,11 @@
 	</row>
 	<row id="msg_0460_T03_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Muzeum Nauki w Pewter</language>
+		<language name="English">Muzeum Nauki w Mokrzeszowie</language>
 	</row>
 	<row id="msg_0460_T03_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Witaj w Pewter City!</language>
+		<language name="English">Witaj w Mokrzeszowie!</language>
 	</row>
 	<row id="msg_0460_T03_00024" index="24">
 		<attribute name="window_context_name">used</attribute>

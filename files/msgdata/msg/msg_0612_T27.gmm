@@ -46,7 +46,7 @@
 	</row>
 	<row id="msg_0612_T27_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ecruteak City\nMiasto Historyczne</language>
+		<language name="English">Mrowiny\nWieś Samotnej Wieży</language>
 	</row>
 	<row id="msg_0612_T27_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
