@@ -6,11 +6,11 @@
 	</row>
 	<row id="msg_0629_T30_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair, nasza Liderka Sali, czeka\nna ciebie.\rJednak przeciętny Trener nie\nmiałby szans na wygraną.</language>
+		<language name="English">Karol, nasza Liderka Sali, czeka\nna ciebie.\rJednak przeciętny Trener nie\nmiałby szans na wygraną.</language>
 	</row>
 	<row id="msg_0629_T30_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokonałeś/aś Clair?\nToż to niesamowite!\rNigdy nie słyszałem, żeby przegrała\nz kimkolwiek poza Lance’em.</language>
+		<language name="English">Pokonałeś/aś Karol?\nToż to niesamowite!\rNigdy nie słyszałem, żeby przegrała\nz kimkolwiek poza Karolem.</language>
 	</row>
 	<row id="msg_0629_T30_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -18,7 +18,7 @@
 	</row>
 	<row id="msg_0629_T30_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jeśli Clair na to pozwala, jej\ndziadek--nasz Mistrz--też pozwoli.\rMożesz wejść.</language>
+		<language name="English">Jeśli Karol na to pozwala, jej\ndziadek--nasz Mistrz--też pozwoli.\rMożesz wejść.</language>
 	</row>
 	<row id="msg_0629_T30_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -46,7 +46,7 @@
 	</row>
 	<row id="msg_0629_T30_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Pożarzysku\nLiderka: Clair\fBłogosławiona Użytkowniczka Pokémonów Smoków</language>
+		<language name="English">Sala Pokémon w Pożarzysku\nLiderka: Karol\fBłogosławiona Użytkowniczka Pokémonów Smoków</language>
 	</row>
 	<row id="msg_0629_T30_00012" index="12">
 		<attribute name="window_context_name">used</attribute>

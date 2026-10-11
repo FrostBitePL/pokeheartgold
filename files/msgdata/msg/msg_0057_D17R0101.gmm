@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0057_D17R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: Bell Tower to miejsce, gdzie\nludzie i Pokémony sprawdzają swoje\fzaufanie.\rMoże urodziłeś/aś się z jakimś\ntalentem... Czy możemy wymienić się\fnumerami?\rBardzo chciałbym zbadać zaufanie,\njakie masz ze swoim Pokémonem. {YESNO 0}</language>
+		<language name="English">Daria: Bell Tower to miejsce, gdzie\nludzie i Pokémony sprawdzają swoje\fzaufanie.\rMoże urodziłeś/aś się z jakimś\ntalentem... Czy możemy wymienić się\fnumerami?\rBardzo chciałbym zbadać zaufanie,\njakie masz ze swoim Pokémonem. {YESNO 0}</language>
 	</row>
 	<row id="msg_0057_D17R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -38,14 +38,14 @@
 	</row>
 	<row id="msg_0057_D17R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: Zadzwoń do mnie we wtorkowe\nwieczory. Powinienem być wolny\fi gotowy.</language>
+		<language name="English">Daria: Zadzwoń do mnie we wtorkowe\nwieczory. Powinienem być wolny\fi gotowy.</language>
 	</row>
 	<row id="msg_0057_D17R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: Naprawdę chciałem zobaczyć\nzaufanie, jakie masz ze swoim\fPokémonem...</language>
+		<language name="English">Daria: Naprawdę chciałem zobaczyć\nzaufanie, jakie masz ze swoim\fPokémonem...</language>
 	</row>
 	<row id="msg_0057_D17R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: Chcesz wymienić się\nnumerami? {YESNO 0}</language>
+		<language name="English">Daria: Chcesz wymienić się\nnumerami? {YESNO 0}</language>
 	</row>
 </body>

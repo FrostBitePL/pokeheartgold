@@ -58,11 +58,11 @@
 	</row>
 	<row id="msg_0065_D23R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: Cześć!\nNazywam się Whitney!\rSłyszałam o Quizie na Kartę Radiową,\nwięc przyszłam po jedną...\rAle ten Quiz jest taki trudny!\r</language>
+		<language name="English">Wiktor: Cześć!\nNazywam się Wiktor!\rSłyszałam o Quizie na Kartę Radiową,\nwięc przyszłam po jedną...\rAle ten Quiz jest taki trudny!\r</language>
 	</row>
 	<row id="msg_0065_D23R0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: Wow, udało ci się!\nA ja byłam pewna, że odpowiedzią na\ftrzecie pytanie są Apricorny!\rOjej!\nCzas wracać do Sali!\r</language>
+		<language name="English">Wiktor: Wow, udało ci się!\nA ja byłam pewna, że odpowiedzią na\ftrzecie pytanie są Apricorny!\rOjej!\nCzas wracać do Sali!\r</language>
 	</row>
 	<row id="msg_0065_D23R0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -102,7 +102,7 @@
 	</row>
 	<row id="msg_0065_D23R0101_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1, 0}: Rozumiem.\nPróbowałeś/aś być sprytny/a...\rHa!\nTypowy pomysł słabeusza!\rNieważne.\nZostawię to tobie.\rMuszę pokonać Poskramiacza Smoków...\nJak on się nazywał...? Lance!\rPo tym...przyjdzie kolej na ciebie.\nBądź gotowy/a!\r</language>
+		<language name="English">{STRVAR_1 3, 1, 0}: Rozumiem.\nPróbowałeś/aś być sprytny/a...\rHa!\nTypowy pomysł słabeusza!\rNieważne.\nZostawię to tobie.\rMuszę pokonać Poskramiacza Smoków...\nJak on się nazywał...? Karol!\rPo tym...przyjdzie kolej na ciebie.\nBądź gotowy/a!\r</language>
 	</row>
 	<row id="msg_0065_D23R0101_00026" index="26">
 		<attribute name="window_context_name">used</attribute>

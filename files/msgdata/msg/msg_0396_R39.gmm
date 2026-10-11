@@ -42,19 +42,19 @@
 	</row>
 	<row id="msg_0396_R39_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Por. Surge: Hej, ty!\rNie chcesz dobrej pamiątki z nami\nrazem? Może zrobimy sobie\fzdjęcie? {YESNO 0}</language>
+		<language name="English">Por. Kalina: Hej, ty!\rNie chcesz dobrej pamiątki z nami\nrazem? Może zrobimy sobie\fzdjęcie? {YESNO 0}</language>
 	</row>
 	<row id="msg_0396_R39_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Por. Surge: OK! OK!\rPokaż mi bardzo ładny uśmiech!\r</language>
+		<language name="English">Por. Kalina: OK! OK!\rPokaż mi bardzo ładny uśmiech!\r</language>
 	</row>
 	<row id="msg_0396_R39_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Por. Surge: Wow!\nTo wyszło naprawdę dobrze!\rTrzymamy kciuki za Trasę 39!</language>
+		<language name="English">Por. Kalina: Wow!\nTo wyszło naprawdę dobrze!\rTrzymamy kciuki za Trasę 39!</language>
 	</row>
 	<row id="msg_0396_R39_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Por. Surge: W porządku...\rDaj znać, jeśli zmienisz zdanie.</language>
+		<language name="English">Por. Kalina: W porządku...\rDaj znać, jeśli zmienisz zdanie.</language>
 	</row>
 	<row id="msg_0396_R39_00014" index="14">
 		<attribute name="window_context_name">used</attribute>

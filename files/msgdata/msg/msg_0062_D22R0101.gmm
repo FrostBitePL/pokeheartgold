@@ -399,23 +399,23 @@
 	</row>
 	<row id="msg_0062_D22R0101_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bugsy: Cześć, {STRVAR_1 3, 0, 0}!\nMamy jutro Konkurs Łapania\fRobaków!\rWygrałem Konkurs już wiele razy,\nwięc nie wezmę udziału.\rAle ty powinieneś/aś spróbować.\fJestem pewien, że możesz wygrać!</language>
+		<language name="English">Dorota: Cześć, {STRVAR_1 3, 0, 0}!\nMamy jutro Konkurs Łapania\fRobaków!\rWygrałem Konkurs już wiele razy,\nwięc nie wezmę udziału.\rAle ty powinieneś/aś spróbować.\fJestem pewien, że możesz wygrać!</language>
 	</row>
 	<row id="msg_0062_D22R0101_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bugsy: Cześć, {STRVAR_1 3, 0, 0}!\nMamy jutro Konkurs Łapania\fRobaków!\rWygrałem Konkurs już wiele razy,\nwięc nie wezmę udziału.\rAle ty powinieneś/aś spróbować.\nJestem pewien, że możesz wygrać!\rSwoją drogą, zrobisz sobie ze mną\nzdjęcie? {YESNO 0}</language>
+		<language name="English">Dorota: Cześć, {STRVAR_1 3, 0, 0}!\nMamy jutro Konkurs Łapania\fRobaków!\rWygrałem Konkurs już wiele razy,\nwięc nie wezmę udziału.\rAle ty powinieneś/aś spróbować.\nJestem pewien, że możesz wygrać!\rSwoją drogą, zrobisz sobie ze mną\nzdjęcie? {YESNO 0}</language>
 	</row>
 	<row id="msg_0062_D22R0101_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bugsy: Dobra! Zróbmy jedno.\nUśmiech!\r</language>
+		<language name="English">Dorota: Dobra! Zróbmy jedno.\nUśmiech!\r</language>
 	</row>
 	<row id="msg_0062_D22R0101_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bugsy: Juhu! To dobre zdjęcie!</language>
+		<language name="English">Dorota: Juhu! To dobre zdjęcie!</language>
 	</row>
 	<row id="msg_0062_D22R0101_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bugsy: Och, rozumiem...\nW porządku. Nie jestem smutny.</language>
+		<language name="English">Dorota: Och, rozumiem...\nW porządku. Nie jestem smutny.</language>
 	</row>
 	<row id="msg_0062_D22R0101_00089" index="89">
 		<attribute name="window_context_name">used</attribute>

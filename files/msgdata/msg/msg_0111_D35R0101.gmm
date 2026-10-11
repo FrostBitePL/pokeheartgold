@@ -18,7 +18,7 @@
 	</row>
 	<row id="msg_0111_D35R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: DRAGONITE, Hyperpromień.\r</language>
+		<language name="English">Karol: DRAGONITE, Hyperpromień.\r</language>
 	</row>
 	<row id="msg_0111_D35R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -34,11 +34,11 @@
 	</row>
 	<row id="msg_0111_D35R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: {STRVAR_1 3, 0, 0}, powinniśmy się\nrozdzielić, żeby zbadać to miejsce.\fJa pójdę pierwszy.\r</language>
+		<language name="English">Karol: {STRVAR_1 3, 0, 0}, powinniśmy się\nrozdzielić, żeby zbadać to miejsce.\fJa pójdę pierwszy.\r</language>
 	</row>
 	<row id="msg_0111_D35R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: {STRVAR_1 3, 0, 0}, powinniśmy się\nrozdzielić, żeby zbadać to miejsce.\fJa pójdę pierwszy.\r</language>
+		<language name="English">Karol: {STRVAR_1 3, 0, 0}, powinniśmy się\nrozdzielić, żeby zbadać to miejsce.\fJa pójdę pierwszy.\r</language>
 	</row>
 	<row id="msg_0111_D35R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>

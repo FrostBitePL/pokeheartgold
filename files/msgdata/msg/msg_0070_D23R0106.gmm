@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0070_D23R0106_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Archer: Och? Udało ci się zajść\naż tutaj...?\fMusisz być niezłym Trenerem.\rZamierzamy przejąć tę Wieżę Radiową\ni oficjalnie ogłosić nasz powrót.\rTo powinno sprowadzić naszego szefa\nGiovanniego z jego samotnego treningu.\rOdzyskamy naszą dawną\nchwałę...\rNie pozwolę ci ingerować w nasze\nskrupulatne plany!\r</language>
+		<language name="English">Chwalibóg: Och? Udało ci się zajść\naż tutaj...?\fMusisz być niezłym Trenerem.\rZamierzamy przejąć tę Wieżę Radiową\ni oficjalnie ogłosić nasz powrót.\rTo powinno sprowadzić naszego szefa\nGiovanniego z jego samotnego treningu.\rOdzyskamy naszą dawną\nchwałę...\rNie pozwolę ci ingerować w nasze\nskrupulatne plany!\r</language>
 	</row>
 	<row id="msg_0070_D23R0106_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Archer: Jak to możliwe...?\rNasze marzenia obróciły się w nicość.\nOstatecznie nie dorosłem do zadania.\rTak jak zrobił to przede mną Giovanni,\ndziś rozwiążę Team Rocket.\rŻegnaj...\r</language>
+		<language name="English">Chwalibóg: Jak to możliwe...?\rNasze marzenia obróciły się w nicość.\nOstatecznie nie dorosłem do zadania.\rTak jak zrobił to przede mną Łukasz,\ndziś rozwiążę Team Rocket.\rŻegnaj...\r</language>
 	</row>
 	<row id="msg_0070_D23R0106_00002" index="2">
 		<attribute name="window_context_name">used</attribute>

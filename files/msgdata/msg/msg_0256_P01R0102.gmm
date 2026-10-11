@@ -18,7 +18,7 @@
 	</row>
 	<row id="msg_0256_P01R0102_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: Nagle...\nMam ochotę zobaczyć ocean...\rMoże byłoby zabawnie wymienić się\nz tobą numerami...\rChcesz mój? {YESNO 0}</language>
+		<language name="English">Tymon: Nagle...\nMam ochotę zobaczyć ocean...\rMoże byłoby zabawnie wymienić się\nz tobą numerami...\rChcesz mój? {YESNO 0}</language>
 	</row>
 	<row id="msg_0256_P01R0102_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -26,31 +26,31 @@
 	</row>
 	<row id="msg_0256_P01R0102_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: Myślę, że zdołam dotrzymać\nobietnicy, jeśli zadzwonisz do mnie\fw niedziele około południa.</language>
+		<language name="English">Tymon: Myślę, że zdołam dotrzymać\nobietnicy, jeśli zadzwonisz do mnie\fw niedziele około południa.</language>
 	</row>
 	<row id="msg_0256_P01R0102_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: Rozumiem...\nMyślałam, że byłbyś(-abyś) dobrym\fprzyjacielem.</language>
+		<language name="English">Tymon: Rozumiem...\nMyślałam, że byłbyś(-abyś) dobrym\fprzyjacielem.</language>
 	</row>
 	<row id="msg_0256_P01R0102_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: Teraz chcesz poznać\nmój numer?\fWidzę to w twoich oczach... {YESNO 0}</language>
+		<language name="English">Tymon: Teraz chcesz poznać\nmój numer?\fWidzę to w twoich oczach... {YESNO 0}</language>
 	</row>
 	<row id="msg_0256_P01R0102_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: To ty...\rMoże zdjęcie tutaj, na tle\nprzyjemnej morskiej bryzy? {YESNO 0}</language>
+		<language name="English">Tymon: To ty...\rMoże zdjęcie tutaj, na tle\nprzyjemnej morskiej bryzy? {YESNO 0}</language>
 	</row>
 	<row id="msg_0256_P01R0102_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: Jesteś gotowy/a?\r</language>
+		<language name="English">Tymon: Jesteś gotowy/a?\r</language>
 	</row>
 	<row id="msg_0256_P01R0102_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: Myślę, że wygląda dobrze.</language>
+		<language name="English">Tymon: Myślę, że wygląda dobrze.</language>
 	</row>
 	<row id="msg_0256_P01R0102_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: Rozumiem...\nMyślałam, że będziesz dobrym\fmodelem do zdjęcia...</language>
+		<language name="English">Tymon: Rozumiem...\nMyślałam, że będziesz dobrym\fmodelem do zdjęcia...</language>
 	</row>
 	<row id="msg_0256_P01R0102_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

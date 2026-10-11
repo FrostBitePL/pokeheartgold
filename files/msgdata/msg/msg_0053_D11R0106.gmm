@@ -2,27 +2,27 @@
 <body language="English">
 	<row id="msg_0053_D11R0106_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Hej, ty!\rMoja Sala na Pogorzałej spłonęła\npodczas erupcji!\rAle się nie poddam!\nSpójrz na tę jaskinię.\rZamieniliśmy ją w Salę, a ja wciąż\ndziałam jako Lider Sali!\rDam ci Odznakę Sali, jeśli zdołasz\nmnie pokonać!\rJesteś gotowy/a? Zaczynamy!\r</language>
+		<language name="English">Oskar: Hej, ty!\rMoja Sala na Pogorzałej spłonęła\npodczas erupcji!\rAle się nie poddam!\nSpójrz na tę jaskinię.\rZamieniliśmy ją w Salę, a ja wciąż\ndziałam jako Lider Sali!\rDam ci Odznakę Sali, jeśli zdołasz\nmnie pokonać!\rJesteś gotowy/a? Zaczynamy!\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Wspaniale. Wypaliłem się...\fWeź tę Odznakę Wulkanu!\r</language>
+		<language name="English">Oskar: Wspaniale. Wypaliłem się...\fWeź tę Odznakę Wulkanu!\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Wulkanu od Blaine’a!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Wulkanu od Oskara!</language>
 	</row>
 	<row id="msg_0053_D11R0106_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Proszę, dam ci też to.\nNazywa się Przegrzanie!\rMa niewielką wadę, ale jest\npotężne i warte tego!\r</language>
+		<language name="English">Oskar: Proszę, dam ci też to.\nNazywa się Przegrzanie!\rMa niewielką wadę, ale jest\npotężne i warte tego!\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Tym razem przegrałem, ale\nnastępnym razem wygram.\rGdy odbuduję moją Salę w Pogorzałej,\nbędziemy musieli zorganizować rewanż.</language>
+		<language name="English">Oskar: Tym razem przegrałem, ale\nnastępnym razem wygram.\rGdy odbuduję moją Salę w Pogorzałej,\nbędziemy musieli zorganizować rewanż.</language>
 	</row>
 	<row id="msg_0053_D11R0106_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Moje Pokémony typu Ognistego\nbędą jeszcze silniejsze! Zobaczysz!</language>
+		<language name="English">Oskar: Moje Pokémony typu Ognistego\nbędą jeszcze silniejsze! Zobaczysz!</language>
 	</row>
 	<row id="msg_0053_D11R0106_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -74,15 +74,15 @@
 	</row>
 	<row id="msg_0053_D11R0106_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine mógł stracić swoją Salę, ale\nnigdy się nie poddaje. Jego wytrwałość\fjest tym, co mnie motywuje!\r</language>
+		<language name="English">Oskar mógł stracić swoją Salę, ale\nnigdy się nie poddaje. Jego wytrwałość\fjest tym, co mnie motywuje!\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Razem z Blaine’em odbudujemy\nnaszą Salę!</language>
+		<language name="English">Razem z Oskarem odbudujemy\nnaszą Salę!</language>
 	</row>
 	<row id="msg_0053_D11R0106_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Razem z Blaine’em odbudujemy\nnaszą Salę!\r</language>
+		<language name="English">Razem z Oskarem odbudujemy\nnaszą Salę!\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
@@ -98,7 +98,7 @@
 	</row>
 	<row id="msg_0053_D11R0106_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo! Przyszła legendo!\rTa Sala ma wielu Trenerów i skały\nna drodze wynikające z odbudowy.\fZ pewnością nie będzie łatwo dotrzeć\fdo Blaine’a!\rAle zachowaj spokój i pokonuj\nTrenerów jednego po drugim, a na\fpewno znajdziesz drogę!</language>
+		<language name="English">Yo! Przyszła legendo!\rTa Sala ma wielu Trenerów i skały\nna drodze wynikające z odbudowy.\fZ pewnością nie będzie łatwo dotrzeć\fdo Oskara!\rAle zachowaj spokój i pokonuj\nTrenerów jednego po drugim, a na\fpewno znajdziesz drogę!</language>
 	</row>
 	<row id="msg_0053_D11R0106_00025" index="25">
 		<attribute name="window_context_name">used</attribute>

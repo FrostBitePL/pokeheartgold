@@ -50,14 +50,14 @@
 	</row>
 	<row id="msg_0068_D23R0104_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Proton, dowódca tej misji w Wieży\nRadiowej... Jest taki fajny.\r</language>
+		<language name="English">Melchior, dowódca tej misji w Wieży\nRadiowej... Jest taki fajny.\r</language>
 	</row>
 	<row id="msg_0068_D23R0104_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kim jesteś?\rJeśli stajesz na drodze Protonowi...\nchodzi mi o Team Rocket. Na to nie pozwolę!\r</language>
+		<language name="English">Kim jesteś?\rJeśli stajesz na drodze Melchiorowi...\nchodzi mi o Team Rocket. Na to nie pozwolę!\r</language>
 	</row>
 	<row id="msg_0068_D23R0104_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team Rocket i Proton to wszystko,\nczego potrzebuję!\rKogo obchodzą Pokémony?</language>
+		<language name="English">Team Rocket i Melchior to wszystko,\nczego potrzebuję!\rKogo obchodzą Pokémony?</language>
 	</row>
 </body>

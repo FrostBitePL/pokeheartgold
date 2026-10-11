@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0361_R22R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: Jestem w drodze do domu\nmojego taty, żeby dać mu lunch.\rElitarna Czwórka nie ma czasu na\nodpoczynek, dniem ani nocą. To\fciężka praca, wiesz?\rPowiedz mi!\nChcesz wymienić się numerami? {YESNO 0}</language>
+		<language name="English">Julia: Jestem w drodze do domu\nmojego taty, żeby dać mu lunch.\rElitarna Czwórka nie ma czasu na\nodpoczynek, dniem ani nocą. To\fciężka praca, wiesz?\rPowiedz mi!\nChcesz wymienić się numerami? {YESNO 0}</language>
 	</row>
 	<row id="msg_0361_R22R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -38,27 +38,27 @@
 	</row>
 	<row id="msg_0361_R22R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: Zadzwoń do mnie w poniedziałek\nokoło południa, jeśli chcesz walczyć!</language>
+		<language name="English">Julia: Zadzwoń do mnie w poniedziałek\nokoło południa, jeśli chcesz walczyć!</language>
 	</row>
 	<row id="msg_0361_R22R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: Nie wyglądasz na\nprzestraszonego/ą, ale jesteś, prawda?</language>
+		<language name="English">Julia: Nie wyglądasz na\nprzestraszonego/ą, ale jesteś, prawda?</language>
 	</row>
 	<row id="msg_0361_R22R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: Teraz chcesz poznać mój\nnumer, prawda? {YESNO 0}</language>
+		<language name="English">Julia: Teraz chcesz poznać mój\nnumer, prawda? {YESNO 0}</language>
 	</row>
 	<row id="msg_0361_R22R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: Skończyłam zanosić lunch\nmojemu tacie i teraz wracam do domu.\rChcesz zrobić sobie ze mną zdjęcie? {YESNO 0}</language>
+		<language name="English">Julia: Skończyłam zanosić lunch\nmojemu tacie i teraz wracam do domu.\rChcesz zrobić sobie ze mną zdjęcie? {YESNO 0}</language>
 	</row>
 	<row id="msg_0361_R22R0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: Możesz wyglądać tak fajnie\njak ja na tym zdjęciu?\r</language>
+		<language name="English">Julia: Możesz wyglądać tak fajnie\njak ja na tym zdjęciu?\r</language>
 	</row>
 	<row id="msg_0361_R22R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: Nie sądzisz, że dobrze\nwyglądamy na tym zdjęciu?</language>
+		<language name="English">Julia: Nie sądzisz, że dobrze\nwyglądamy na tym zdjęciu?</language>
 	</row>
 	<row id="msg_0361_R22R0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>

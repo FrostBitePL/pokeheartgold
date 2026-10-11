@@ -2,19 +2,19 @@
 <body language="English">
 	<row id="msg_0606_T26GYM0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Dziękuję za pomoc\nw Latarni Morskiej...\rAle to jest coś innego. Pozwól,\nże się przedstawię.\rJestem Jasmine, Liderka Sali.\nUżywam... szczęk!\fTypu Stalowego!\r...Wiesz coś o typie Stalowym?\rSą bardzo twarde, zimne, ostre\ni naprawdę silne!\fYym... Nie kłamię.\r</language>
+		<language name="English">Wojas: Dziękuję za pomoc\nw Latarni Morskiej...\rAle to jest coś innego. Pozwól,\nże się przedstawię.\rJestem Wojas, Liderka Sali.\nUżywam... szczęk!\fTypu Stalowego!\r...Wiesz coś o typie Stalowym?\rSą bardzo twarde, zimne, ostre\ni naprawdę silne!\fYym... Nie kłamię.\r</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: ...Jesteś lepszym\nTrenerem niż ja, zarówno\fumiejętnościami, jak i\fżyczliwością.\rZgodnie z zasadami Ligi,\nprzyznaję ci tę Odznakę.\r</language>
+		<language name="English">Wojas: ...Jesteś lepszym\nTrenerem niż ja, zarówno\fumiejętnościami, jak i\fżyczliwością.\rZgodnie z zasadami Ligi,\nprzyznaję ci tę Odznakę.\r</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Minerału od Jasmine!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Minerału od Wojas!</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Dzięki tej Odznace,\nwszystkie Pokémony, włącznie\fz wymienionymi do poziomu 70,\fbędą cię słuchać bez wahania.\fYym... Weź proszę też to...\r</language>
+		<language name="English">Wojas: Dzięki tej Odznace,\nwszystkie Pokémony, włącznie\fz wymienionymi do poziomu 70,\fbędą cię słuchać bez wahania.\fYym... Weź proszę też to...\r</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00004" index="4">
 		<attribute name="window_context_name">garbage</attribute>
@@ -23,35 +23,35 @@
 	</row>
 	<row id="msg_0606_T26GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Nazywa się Żelazny Ogon...\rTwój Pokémon uderzy cel swoim\ntwardym ogonem, czasem obniżając\fObronę celu...</language>
+		<language name="English">Wojas: Nazywa się Żelazny Ogon...\rTwój Pokémon uderzy cel swoim\ntwardym ogonem, czasem obniżając\fObronę celu...</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Yym...\rNie wiem, jak to powiedzieć, ale\npowodzenia...</language>
+		<language name="English">Wojas: Yym...\rNie wiem, jak to powiedzieć, ale\npowodzenia...</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Dawno się nie widzieliśmy.\rYym... Mam się dobrze, dziękuję.\rNie wiem, jak to powiedzieć,\nale... nic...</language>
+		<language name="English">Wojas: Dawno się nie widzieliśmy.\rYym... Mam się dobrze, dziękuję.\rNie wiem, jak to powiedzieć,\nale... nic...</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Yym... E...\rWymienisz się swoim Pokémonem\nna mojego? {YESNO 0}</language>
+		<language name="English">Wojas: Yym... E...\rWymienisz się swoim Pokémonem\nna mojego? {YESNO 0}</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Naprawdę? Bardzo dziękuję!\rBędę zadowolona z każdego\nPokémona!\r</language>
+		<language name="English">Wojas: Naprawdę? Bardzo dziękuję!\rBędę zadowolona z każdego\nPokémona!\r</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Och, aha, rozumiem.\nTo rozczarowujące, ale rozumiem.</language>
+		<language name="English">Wojas: Och, aha, rozumiem.\nTo rozczarowujące, ale rozumiem.</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Bardzo dziękuję.\nZaopiekuję się nim dobrze.</language>
+		<language name="English">Wojas: Bardzo dziękuję.\nZaopiekuję się nim dobrze.</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Nie masz czasem ochoty\nwyszorować Pokémonów typu\fStalowy? Prawda?</language>
+		<language name="English">Wojas: Nie masz czasem ochoty\nwyszorować Pokémonów typu\fStalowy? Prawda?</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
@@ -59,19 +59,19 @@
 	</row>
 	<row id="msg_0606_T26GYM0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Ja też lubię Jajka, ale\nchciałabym Pokémona, {STRVAR_1 3, 0, 0}.\fTakiego, który ma trochę treningu...</language>
+		<language name="English">Wojas: Ja też lubię Jajka, ale\nchciałabym Pokémona, {STRVAR_1 3, 0, 0}.\fTakiego, który ma trochę treningu...</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Byłabym bardzo wdzięczna...\nAle nie mogę przyjąć tak\fcennego Pokémona.</language>
+		<language name="English">Wojas: Byłabym bardzo wdzięczna...\nAle nie mogę przyjąć tak\fcennego Pokémona.</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine, Liderka Sali?\nJest w Latarni Morskiej.\rOpiekuje się chorym Pokémonem.\rSilny Trener jest jednocześnie\nwspółczujący...</language>
+		<language name="English">Wojas, Liderka Sali?\nJest w Latarni Morskiej.\rOpiekuje się chorym Pokémonem.\rSilny Trener jest jednocześnie\nwspółczujący...</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine używa Pokémonów typu\nStalowy.\rStara się ukryć swoją czułość\nza stalowym chłodem.</language>
+		<language name="English">Wojas używa Pokémonów typu\nStalowy.\rStara się ukryć swoją czułość\nza stalowym chłodem.</language>
 	</row>
 	<row id="msg_0606_T26GYM0101_00018" index="18">
 		<attribute name="window_context_name">used</attribute>

@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0556_T22_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkner, z Sali Pokémon w Łażanach,\nto świetny Trener!\rOdziedziczył Salę po ojcu i\nwspaniale sobie z nią radzi.</language>
+		<language name="English">Ania, z Sali Pokémon w Łażanach,\nto świetny Trener!\rOdziedziczył Salę po ojcu i\nwspaniale sobie z nią radzi.</language>
 	</row>
 	<row id="msg_0556_T22_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -42,7 +42,7 @@
 	</row>
 	<row id="msg_0556_T22_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Łażanach\nLider: Falkner\fElegancki Mistrz Pokémonów Latających</language>
+		<language name="English">Sala Pokémon w Łażanach\nLider: Ania\fElegancki Mistrz Pokémonów Latających</language>
 	</row>
 	<row id="msg_0556_T22_00011" index="11">
 		<attribute name="window_context_name">used</attribute>

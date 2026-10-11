@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0467_T04_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Podejrzany typ wkradł się\ndo Sali! Jaki interes ma\fz Misty?</language>
+		<language name="English">Podejrzany typ wkradł się\ndo Sali! Jaki interes ma\fz Weronika?</language>
 	</row>
 	<row id="msg_0467_T04_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -58,7 +58,7 @@
 	</row>
 	<row id="msg_0467_T04_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Burkatowie\nLiderka: Misty\fChłopczyca-Syrenka</language>
+		<language name="English">Sala Pokémon w Burkatowie\nLiderka: Weronika\fChłopczyca-Syrenka</language>
 	</row>
 	<row id="msg_0467_T04_00015" index="15">
 		<attribute name="window_context_name">used</attribute>

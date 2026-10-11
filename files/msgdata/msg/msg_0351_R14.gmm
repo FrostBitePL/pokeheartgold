@@ -26,10 +26,10 @@
 	</row>
 	<row id="msg_0351_R14_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eusine: {STRVAR_1 3, 0, 0}! Znowu nie!\nNastępnym razem będę tam pierwszy!\rŚledząc je aż tutaj, zaczynam\nrozumieć, czego szuka SUICUNE.\rSzczerze mówiąc, chciałbym\nzatrzymać tę informację dla siebie.\rAle chcę być uczciwym Trenerem\nw obliczu SUICUNE!\rDlatego dzielę się z tobą wskazówką.\nWygląda na to, że...\r...SUICUNE woli pagórkowate miejsce\nblisko wody...\f...Gdzieś na północy.\rJeszcze nie wiem dokładnie gdzie.\nBędzie to tylko ty i ja!\rKto znajdzie je pierwszy? Rzucam ci\nwyzwanie!</language>
+		<language name="English">Robert: {STRVAR_1 3, 0, 0}! Znowu nie!\nNastępnym razem będę tam pierwszy!\rŚledząc je aż tutaj, zaczynam\nrozumieć, czego szuka SUICUNE.\rSzczerze mówiąc, chciałbym\nzatrzymać tę informację dla siebie.\rAle chcę być uczciwym Trenerem\nw obliczu SUICUNE!\rDlatego dzielę się z tobą wskazówką.\nWygląda na to, że...\r...SUICUNE woli pagórkowate miejsce\nblisko wody...\f...Gdzieś na północy.\rJeszcze nie wiem dokładnie gdzie.\nBędzie to tylko ty i ja!\rKto znajdzie je pierwszy? Rzucam ci\nwyzwanie!</language>
 	</row>
 	<row id="msg_0351_R14_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eusine: Co się stało, {STRVAR_1 3, 0, 0}?\nSzczerze mówiąc, chciałbym\fzatrzymać tę informację dla siebie.\rAle chcę być uczciwym Trenerem\nw obliczu SUICUNE!\rDlatego dzielę się z tobą wskazówką.\rWygląda na to, że...\n...SUICUNE woli pagórkowate miejsce\fblisko wody...\f...Gdzieś na północy.\rJeszcze nie wiem dokładnie gdzie.\nBędzie to tylko ty i ja!</language>
+		<language name="English">Robert: Co się stało, {STRVAR_1 3, 0, 0}?\nSzczerze mówiąc, chciałbym\fzatrzymać tę informację dla siebie.\rAle chcę być uczciwym Trenerem\nw obliczu SUICUNE!\rDlatego dzielę się z tobą wskazówką.\rWygląda na to, że...\n...SUICUNE woli pagórkowate miejsce\fblisko wody...\f...Gdzieś na północy.\rJeszcze nie wiem dokładnie gdzie.\nBędzie to tylko ty i ja!</language>
 	</row>
 </body>

@@ -18,63 +18,63 @@
 	</row>
 	<row id="msg_0533_T11R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkner: Cześć! Czekałem na ciebie!\rTo przyjemność móc znów\nz tobą walczyć!\r</language>
+		<language name="English">Ania: Cześć! Czekałem na ciebie!\rTo przyjemność móc znów\nz tobą walczyć!\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkner: Mmm...\nWciąż daleka droga, żeby zostać\fnajlepszym Trenerem...</language>
+		<language name="English">Ania: Mmm...\nWciąż daleka droga, żeby zostać\fnajlepszym Trenerem...</language>
 	</row>
 	<row id="msg_0533_T11R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bugsy: Miło znów cię widzieć!\rPodziwiaj moje badania nad\nrobakami!\r</language>
+		<language name="English">Dorota: Miło znów cię widzieć!\rPodziwiaj moje badania nad\nrobakami!\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bugsy: Musiałeś/aś sporo się\nnauczyć o Pokémonach!</language>
+		<language name="English">Dorota: Musiałeś/aś sporo się\nnauczyć o Pokémonach!</language>
 	</row>
 	<row id="msg_0533_T11R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: Nigdy nie łamię obietnic!\nJesteś gotowy/a?\r</language>
+		<language name="English">Wiktor: Nigdy nie łamię obietnic!\nJesteś gotowy/a?\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: Naprawdę jesteś silny/a!\nAle następnym razem nie przegram!</language>
+		<language name="English">Wiktor: Naprawdę jesteś silny/a!\nAle następnym razem nie przegram!</language>
 	</row>
 	<row id="msg_0533_T11R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chuck: Otóż i ty!\rSkosztuj mojego 24-godzinnego\ntreningu!\r</language>
+		<language name="English">Marcin: Otóż i ty!\rSkosztuj mojego 24-godzinnego\ntreningu!\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chuck: Wahaha!\nWalka z tobą nigdy nie jest nudna!</language>
+		<language name="English">Marcin: Wahaha!\nWalka z tobą nigdy nie jest nudna!</language>
 	</row>
 	<row id="msg_0533_T11R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Jesteśmy tu, jak\nobiecaliśmy... Jesteś przygotowany/a?\r</language>
+		<language name="English">Wojas: Jesteśmy tu, jak\nobiecaliśmy... Jesteś przygotowany/a?\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Zgodnie ze swoją reputacją...</language>
+		<language name="English">Wojas: Zgodnie ze swoją reputacją...</language>
 	</row>
 	<row id="msg_0533_T11R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: Właśnie o tobie mówiłem...\nDo walki!\r</language>
+		<language name="English">Daria: Właśnie o tobie mówiłem...\nDo walki!\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: Znowu przegrałem...\rMoże masz w sobie coś więcej\nniż tylko siłę.</language>
+		<language name="English">Daria: Znowu przegrałem...\rMoże masz w sobie coś więcej\nniż tylko siłę.</language>
 	</row>
 	<row id="msg_0533_T11R0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pryce: Nareszcie.\rNie trzeba słów.\nWalka Pokémonów to nasz sposób\fna porozumienie.\r</language>
+		<language name="English">Beniamin: Nareszcie.\rNie trzeba słów.\nWalka Pokémonów to nasz sposób\fna porozumienie.\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pryce: Mmm...\nImponujące!</language>
+		<language name="English">Beniamin: Mmm...\nImponujące!</language>
 	</row>
 	<row id="msg_0533_T11R0101_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: ...Jesteś tutaj.\nTeraz do walki!\r</language>
+		<language name="English">Karol: ...Jesteś tutaj.\nTeraz do walki!\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -82,66 +82,66 @@
 	</row>
 	<row id="msg_0533_T11R0101_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Porucznik Surge: Hej!\nObietnica, którą złożyliśmy!\fZnów do walki!\r</language>
+		<language name="English">Kalina: Hej!\nObietnica, którą złożyliśmy!\fZnów do walki!\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Porucznik Surge: Och nie!\nJesteś bardzo silny/a!\fAle kiedyś spłacę swój dług.</language>
+		<language name="English">Kalina: Och nie!\nJesteś bardzo silny/a!\fAle kiedyś spłacę swój dług.</language>
 	</row>
 	<row id="msg_0533_T11R0101_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: Wiedziałam, że przyjdziesz!\nMiałam przeczucie.\rCo? Obiecaliśmy sobie nawzajem,\nwięc to nic dziwnego?\r...Cóż, może masz rację.\r</language>
+		<language name="English">Tymon: Wiedziałam, że przyjdziesz!\nMiałam przeczucie.\rCo? Obiecaliśmy sobie nawzajem,\nwięc to nic dziwnego?\r...Cóż, może masz rację.\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina: Wiem...kiedyś znowu\nzadzwonisz do mnie.</language>
+		<language name="English">Tymon: Wiem...kiedyś znowu\nzadzwonisz do mnie.</language>
 	</row>
 	<row id="msg_0533_T11R0101_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Jak się miewasz?\nMiło znów cię widzieć!\rTo miejsce naprawdę do mnie nie\npasuje, ale...pomińmy to i\fwalczmy!\r</language>
+		<language name="English">Bartek: Jak się miewasz?\nMiło znów cię widzieć!\rTo miejsce naprawdę do mnie nie\npasuje, ale...pomińmy to i\fwalczmy!\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Stałeś/aś się jeszcze silniejszy/a...</language>
+		<language name="English">Bartek: Stałeś/aś się jeszcze\nsilniejszy/a...</language>
 	</row>
 	<row id="msg_0533_T11R0101_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Misty: A więc jesteś...\nNie każ mi czekać!\rSłyszałam wiele dobrego o tobie\nod naszej ostatniej walki.\rPozwól mi sprawdzić, jak dobry/a\njesteś!\r</language>
+		<language name="English">Weronika: A więc jesteś...\nNie każ mi czekać!\rSłyszałam wiele dobrego o tobie\nod naszej ostatniej walki.\rPozwól mi sprawdzić, jak dobry/a\njesteś!\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Misty: Wow!\nStajesz się silniejszy/a z każdą\fwalką!</language>
+		<language name="English">Weronika: Wow!\nStajesz się silniejszy/a z każdą\fwalką!</language>
 	</row>
 	<row id="msg_0533_T11R0101_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: Dobrze!\nCzas dotrzymać naszej obietnicy!\fStoczmy walkę Pokémonów!\r</language>
+		<language name="English">Ignacy: Dobrze!\nCzas dotrzymać naszej obietnicy!\fStoczmy walkę Pokémonów!\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock: Znowu przegrałem...\nNie podróżujesz na darmo!</language>
+		<language name="English">Ignacy: Znowu przegrałem...\nNie podróżujesz na darmo!</language>
 	</row>
 	<row id="msg_0533_T11R0101_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: Nie mogę użyć swojej techniki\nninja, ale nie pozwolę ci wygrać!\r</language>
+		<language name="English">Julia: Nie mogę użyć swojej techniki\nninja, ale nie pozwolę ci wygrać!\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: Dziś przegrałam,\nale następnym razem wygram!</language>
+		<language name="English">Julia: Dziś przegrałam,\nale następnym razem wygram!</language>
 	</row>
 	<row id="msg_0533_T11R0101_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Dotrzymujesz słowa.\nTo dobrze, młody(a)!\r</language>
+		<language name="English">Oskar: Dotrzymujesz słowa.\nTo dobrze, młody(a)!\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Waaah!\rGdybym wiedział, że to Dojo będzie\ndostępne, nie musiałbym odbudowywać\fswojej Sali.\rZaraz! Przecież i tak to zrobiłem,\nprawda?</language>
+		<language name="English">Oskar: Waaah!\rGdybym wiedział, że to Dojo będzie\ndostępne, nie musiałbym odbudowywać\fswojej Sali.\rZaraz! Przecież i tak to zrobiłem,\nprawda?</language>
 	</row>
 	<row id="msg_0533_T11R0101_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue: Dobrze!\nDzięki, że przyszedłeś/aś,\nżeby ze mną przegrać!\r</language>
+		<language name="English">Nadia: Dobrze!\nDzięki, że przyszedłeś/aś,\nżeby ze mną przegrać!\r</language>
 	</row>
 	<row id="msg_0533_T11R0101_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue: Hahaha!\nMoja taktyka zastraszania wcale\ncię nie przeraża!</language>
+		<language name="English">Nadia: Hahaha!\nMoja taktyka zastraszania wcale\ncię nie przeraża!</language>
 	</row>
 </body>

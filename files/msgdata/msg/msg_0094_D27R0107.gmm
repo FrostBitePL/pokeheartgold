@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0094_D27R0107_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: ...Ten Pokémon zawsze\noświetlał morze nocą.\r...Ale nagle zachorował...\nŁapie oddech...\r...Wiem, że w Domanicach jest\nwspaniała apteka...\rAle to za morzem...\nA nie mogę zostawić Ampiego\fbez opieki...\r</language>
+		<language name="English">Wojas: ...Ten Pokémon zawsze\noświetlał morze nocą.\r...Ale nagle zachorował...\nŁapie oddech...\r...Wiem, że w Domanicach jest\nwspaniała apteka...\rAle to za morzem...\nA nie mogę zostawić Ampiego\fbez opieki...\r</language>
 	</row>
 	<row id="msg_0094_D27R0107_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -14,15 +14,15 @@
 	</row>
 	<row id="msg_0094_D27R0107_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} wręczył(a) Tajemny\nEliksir Jasmine.</language>
+		<language name="English">{STRVAR_1 3, 0, 0} wręczył(a) Tajemny\nEliksir Wojas.</language>
 	</row>
 	<row id="msg_0094_D27R0107_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: ...Yym, proszę się nie\nobrażaj...\rAmpi nie przyjmie niczego od\nnikogo poza mną...\r</language>
+		<language name="English">Wojas: ...Yym, proszę się nie\nobrażaj...\rAmpi nie przyjmie niczego od\nnikogo poza mną...\r</language>
 	</row>
 	<row id="msg_0094_D27R0107_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: ...\rAmpi, jak się czujesz?\r</language>
+		<language name="English">Wojas: ...\rAmpi, jak się czujesz?\r</language>
 	</row>
 	<row id="msg_0094_D27R0107_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0094_D27R0107_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: ...Och, tak mi ulżyło...\nTo po prostu wspaniałe...\rBardzo, bardzo ci dziękuję.\n...Wracam do Sali...\r</language>
+		<language name="English">Wojas: ...Och, tak mi ulżyło...\nTo po prostu wspaniałe...\rBardzo, bardzo ci dziękuję.\n...Wracam do Sali...\r</language>
 	</row>
 	<row id="msg_0094_D27R0107_00008" index="8">
 		<attribute name="window_context_name">used</attribute>

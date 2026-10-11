@@ -370,7 +370,7 @@
 	</row>
 	<row id="msg_0138_D49R0101_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: Cześć, {STRVAR_1 3, 0, 0}! Jesteś tu\nz powodu Pokéathlonu? Ja też!\rByłam taka podekscytowana od jego\nbudowy. Jest przecież blisko\fŻarowa, wiesz?\r</language>
+		<language name="English">Wiktor: Cześć, {STRVAR_1 3, 0, 0}! Jesteś tu\nz powodu Pokéathlonu? Ja też!\rByłam taka podekscytowana od jego\nbudowy. Jest przecież blisko\fŻarowa, wiesz?\r</language>
 	</row>
 	<row id="msg_0138_D49R0101_00081" index="81">
 		<attribute name="window_context_name">used</attribute>

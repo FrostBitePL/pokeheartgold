@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0493_T07PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika jest mistrzynią Pokémonów\ntypu Trawiasty.\rZapłacisz za to, jeśli się\nnie przypilnujesz.</language>
+		<language name="English">Bartek jest mistrzynią Pokémonów\ntypu Trawiasty.\rZapłacisz za to, jeśli się\nnie przypilnujesz.</language>
 	</row>
 	<row id="msg_0493_T07PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>

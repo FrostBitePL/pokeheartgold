@@ -2,19 +2,19 @@
 <body language="English">
 	<row id="msg_0614_T27GYM0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: Dobrze, że przyszedłeś.\rTutaj, w Mrowinach, Pokémony są\nczczone od dawna.\rMówi się, że tęczowy Pokémon\nzstąpi z nieba przed naprawdę\fpotężnym Trenerem.\rWierzyłem w tę legendę, więc\npotajemnie trenowałem tu przez\fcałe życie.\rDzięki temu widzę teraz to,\nczego inni nie widzą.\rWidzę cień osoby, która sprawi,\nże Pokémon się pojawi.\rWierzę, że tą osobą jestem ja!\rPomożesz mi osiągnąć ten poziom!\r</language>
+		<language name="English">Daria: Dobrze, że przyszedłeś.\rTutaj, w Mrowinach, Pokémony są\nczczone od dawna.\rMówi się, że tęczowy Pokémon\nzstąpi z nieba przed naprawdę\fpotężnym Trenerem.\rWierzyłem w tę legendę, więc\npotajemnie trenowałem tu przez\fcałe życie.\rDzięki temu widzę teraz to,\nczego inni nie widzą.\rWidzę cień osoby, która sprawi,\nże Pokémon się pojawi.\rWierzę, że tą osobą jestem ja!\rPomożesz mi osiągnąć ten poziom!\r</language>
 	</row>
 	<row id="msg_0614_T27GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: Nie sądzę, żeby nasz potencjał\nbył aż tak różny. Ale ty masz w sobie\fchyba coś więcej...\rNiech tak będzie. Ta Odznaka\njest twoja.\r</language>
+		<language name="English">Daria: Nie sądzę, żeby nasz potencjał\nbył aż tak różny. Ale ty masz w sobie\fchyba coś więcej...\rNiech tak będzie. Ta Odznaka\njest twoja.\r</language>
 	</row>
 	<row id="msg_0614_T27GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Mgły od Morty’ego!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Mgły od Darii!</language>
 	</row>
 	<row id="msg_0614_T27GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: Dzięki Odznace Mgły\nPokémony do poziomu 50, włącznie\fz wymienionymi, będą cię słuchać.\rPonadto Pokémony będą mogły\nużywać Surfowania.\rMam jeszcze coś...\nChcę, żebyś to też dostał.\r</language>
+		<language name="English">Daria: Dzięki Odznace Mgły\nPokémony do poziomu 50, włącznie\fz wymienionymi, będą cię słuchać.\rPonadto Pokémony będą mogły\nużywać Surfowania.\rMam jeszcze coś...\nChcę, żebyś to też dostał.\r</language>
 	</row>
 	<row id="msg_0614_T27GYM0101_00004" index="4">
 		<attribute name="window_context_name">garbage</attribute>
@@ -23,11 +23,11 @@
 	</row>
 	<row id="msg_0614_T27GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: To Kula Cieni. Zadaje\nobrażenia i może obniżyć Obronę\fSpecjalną. Użyj jej, jeśli ci się\fpodoba.</language>
+		<language name="English">Daria: To Kula Cieni. Zadaje\nobrażenia i może obniżyć Obronę\fSpecjalną. Użyj jej, jeśli ci się\fpodoba.</language>
 	</row>
 	<row id="msg_0614_T27GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: Rozumiem...\rOsobą, o której mówiły Dziewczyny\nw Kimonach, musisz być ty...\rNieważne.\rPowinieneś być wystarczająco silny,\nby przepłynąć morze.\rGdy pójdziesz na zachód, a potem\nna południe, dotrzesz do Siedlimowic.\fMoże się tam wybierzesz?</language>
+		<language name="English">Daria: Rozumiem...\rOsobą, o której mówiły Dziewczyny\nw Kimonach, musisz być ty...\rNieważne.\rPowinieneś być wystarczająco silny,\nby przepłynąć morze.\rGdy pójdziesz na zachód, a potem\nna południe, dotrzesz do Siedlimowic.\fMoże się tam wybierzesz?</language>
 	</row>
 	<row id="msg_0614_T27GYM0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>

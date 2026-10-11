@@ -103,35 +103,35 @@
 	</row>
 	<row id="msg_0597_T25R1006_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: Cóż za zbieg okoliczności!\nTo musiało się tak stać.\rChcesz wymienić się\nnumerami telefonu? Proszę? {YESNO 0}</language>
+		<language name="English">Wiktor: Cóż za zbieg okoliczności!\nTo musiało się tak stać.\rChcesz wymienić się\nnumerami telefonu? Proszę? {YESNO 0}</language>
 	</row>
 	<row id="msg_0597_T25R1006_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} zapisał(a) Whitney\nw Pokégearze!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} zapisał(a) Wiktor\nw Pokégearze!</language>
 	</row>
 	<row id="msg_0597_T25R1006_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: Jestem dostępna około\npołudnia w soboty.\rZadzwoń, gdy będziesz mieć czas.</language>
+		<language name="English">Wiktor: Jestem dostępna około\npołudnia w soboty.\rZadzwoń, gdy będziesz mieć czas.</language>
 	</row>
 	<row id="msg_0597_T25R1006_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: Nie bądź taki niemiły.</language>
+		<language name="English">Wiktor: Nie bądź taki niemiły.</language>
 	</row>
 	<row id="msg_0597_T25R1006_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: Chcesz teraz poznać\nmój numer telefonu? {YESNO 0}</language>
+		<language name="English">Wiktor: Chcesz teraz poznać\nmój numer telefonu? {YESNO 0}</language>
 	</row>
 	<row id="msg_0597_T25R1006_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: Może zrobimy sobie\nwspólne zdjęcie? {YESNO 0}</language>
+		<language name="English">Wiktor: Może zrobimy sobie\nwspólne zdjęcie? {YESNO 0}</language>
 	</row>
 	<row id="msg_0597_T25R1006_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: Dobrze!\nStań tuż obok mnie, właśnie tutaj!\r</language>
+		<language name="English">Wiktor: Dobrze!\nStań tuż obok mnie, właśnie tutaj!\r</language>
 	</row>
 	<row id="msg_0597_T25R1006_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: Czyż nie wyglądamy razem\ndobrze?</language>
+		<language name="English">Wiktor: Czyż nie wyglądamy razem\ndobrze?</language>
 	</row>
 	<row id="msg_0597_T25R1006_00033" index="33">
 		<attribute name="window_context_name">used</attribute>

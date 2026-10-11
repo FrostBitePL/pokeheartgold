@@ -30,15 +30,15 @@
 	</row>
 	<row id="msg_0136_D48R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chuck: Hej, {STRVAR_1 3, 0, 0}!\nMiło znów cię widzieć! Ale nigdy\fnie spodziewałem się zobaczyć cię\ftutaj.\rCzy to możliwe...że jesteś w drodze\nna Embedded Tower?\rEmbedded Tower to ogromna wieża\nprzebijająca niebo.\rMówi się, że ma coś wspólnego\nz mitycznym Pokémonem, który rozciągnął\fmorza, oraz tym Pokémonem, który\fposzerzył lądy.\rAle ta wieża już nie stoi.\r</language>
+		<language name="English">Marcin: Hej, {STRVAR_1 3, 0, 0}!\nMiło znów cię widzieć! Ale nigdy\fnie spodziewałem się zobaczyć cię\ftutaj.\rCzy to możliwe...że jesteś w drodze\nna Embedded Tower?\rEmbedded Tower to ogromna wieża\nprzebijająca niebo.\rMówi się, że ma coś wspólnego\nz mitycznym Pokémonem, który rozciągnął\fmorza, oraz tym Pokémonem, który\fposzerzył lądy.\rAle ta wieża już nie stoi.\r</language>
 	</row>
 	<row id="msg_0136_D48R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chuck: Droga do Embedded Tower\njest trudniejsza, niż możesz sobie\fwyobrazić.\rMusisz użyć zarówno Wspinaczki\npo Skałach, jak i Surfu.\r</language>
+		<language name="English">Marcin: Droga do Embedded Tower\njest trudniejsza, niż możesz sobie\fwyobrazić.\rMusisz użyć zarówno Wspinaczki\npo Skałach, jak i Surfu.\r</language>
 	</row>
 	<row id="msg_0136_D48R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chuck: Rozumiem! Więc pokonałeś/aś\ntakże wszystkich Liderów Sal w\fRegionie Świdnica!\rW takim razie nie ma się czym\nmartwić. Wierz w siebie i podążaj\fswoją drogą.\rYahaha!\r</language>
+		<language name="English">Marcin: Rozumiem! Więc pokonałeś/aś\ntakże wszystkich Liderów Sal w\fRegionie Świdnica!\rW takim razie nie ma się czym\nmartwić. Wierz w siebie i podążaj\fswoją drogą.\rYahaha!\r</language>
 	</row>
 	<row id="msg_0136_D48R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>

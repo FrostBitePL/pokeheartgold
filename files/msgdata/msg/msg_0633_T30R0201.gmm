@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0633_T30R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair i Lance też trenowali tutaj,\nzdobywając umiejętności jako\fTrenerzy Pokémonów!</language>
+		<language name="English">Karol i Karol też trenowali tutaj,\nzdobywając umiejętności jako\fTrenerzy Pokémonów!</language>
 	</row>
 	<row id="msg_0633_T30R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>

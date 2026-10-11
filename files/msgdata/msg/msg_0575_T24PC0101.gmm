@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0575_T24PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémony w tej Sali są ostre\ni twarde.\rMogłyby mnie znieść w sekundę.\fPozwól, że dam ci radę.\rLider Sali używa Pokémonów\ntypu Walczący.\rMożesz spróbować je zmylić\nPokémonami typu Psychiczny.\rAlbo po prostu pokonać je, zanim\nzdążą pokazać swoją moc.\rSwoją drogą, Chuck, Lider Sali,\njest zajęty treningiem pod wodospadem.\rNie usłyszy cię, dopóki jakoś\nnie zatrzymasz walącej wody.</language>
+		<language name="English">Pokémony w tej Sali są ostre\ni twarde.\rMogłyby mnie znieść w sekundę.\fPozwól, że dam ci radę.\rLider Sali używa Pokémonów\ntypu Walczący.\rMożesz spróbować je zmylić\nPokémonami typu Psychiczny.\rAlbo po prostu pokonać je, zanim\nzdążą pokazać swoją moc.\rSwoją drogą, Marcin, Lider Sali,\njest zajęty treningiem pod wodospadem.\rNie usłyszy cię, dopóki jakoś\nnie zatrzymasz walącej wody.</language>
 	</row>
 	<row id="msg_0575_T24PC0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>

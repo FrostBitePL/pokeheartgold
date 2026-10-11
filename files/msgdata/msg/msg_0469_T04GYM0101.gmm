@@ -18,11 +18,11 @@
 	</row>
 	<row id="msg_0469_T04GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Przepraszam, będę nieobecna\nprzez jakiś czas. Misty, Liderka Sali</language>
+		<language name="English">Przepraszam, będę nieobecna przez\njakiś czas. Weronika, Liderka Sali</language>
 	</row>
 	<row id="msg_0469_T04GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Skoro Misty jest nieobecna, my też\nsobie wyjdziemy. Trenerzy z Sali</language>
+		<language name="English">Skoro Weronika jest nieobecna, my\nteż sobie wyjdziemy. Trenerzy z Sali</language>
 	</row>
 	<row id="msg_0469_T04GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -34,31 +34,31 @@
 	</row>
 	<row id="msg_0469_T04GYM0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Misty: Czekałam na ciebie,\nty utrapieńcu!\rMoże i masz mnóstwo Odznak z Sal w\nRegionie Żarów, ale lepiej nie\flekceważ mnie zbytnio.\rMoje Pokémony typu Wodny są twarde!\r</language>
+		<language name="English">Weronika: Czekałam na ciebie,\nty utrapieńcu!\rMoże i masz mnóstwo Odznak z Sal w\nRegionie Żarów, ale lepiej nie\flekceważ mnie zbytnio.\rMoje Pokémony typu Wodny są twarde!\r</language>
 	</row>
 	<row id="msg_0469_T04GYM0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Misty: Naprawdę jesteś dobry/a...\rMuszę przyznać, że masz umiejętności...\rProszę bardzo.\nTo Odznaka Kaskady.\r</language>
+		<language name="English">Weronika: Naprawdę jesteś dobry/a...\rMuszę przyznać, że masz umiejętności...\rProszę bardzo.\nTo Odznaka Kaskady.\r</language>
 	</row>
 	<row id="msg_0469_T04GYM0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Kaskady od Misty!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Kaskady od Weronika!</language>
 	</row>
 	<row id="msg_0469_T04GYM0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Misty: Oto kolejna pamiątka\nz tej walki. Weź to!\r</language>
+		<language name="English">Weronika: Oto kolejna pamiątka\nz tej walki. Weź to!\r</language>
 	</row>
 	<row id="msg_0469_T04GYM0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Misty: Zawiera atak\nFala Wodna.\rMoże czasem zdezorientować przeciwnika.\rUdało ci się pokonać Trenerów\naż od samego Regionu Żarów.\fJestem pewna, że dobrze go wykorzystasz.</language>
+		<language name="English">Weronika: Zawiera atak\nFala Wodna.\rMoże czasem zdezorientować przeciwnika.\rUdało ci się pokonać Trenerów\naż od samego Regionu Żarów.\fJestem pewna, że dobrze go wykorzystasz.</language>
 	</row>
 	<row id="msg_0469_T04GYM0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Misty: Czy w Regionie Żarów jest\nwielu potężnych Trenerów?\rPewnego dnia wyruszę w podróż,\nby walczyć z potężnymi Trenerami!</language>
+		<language name="English">Weronika: Czy w Regionie Żarów jest\nwielu potężnych Trenerów?\rPewnego dnia wyruszę w podróż,\nby walczyć z potężnymi Trenerami!</language>
 	</row>
 	<row id="msg_0469_T04GYM0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo! Przyszła legendo!\rSkoro Misty była nieobecna, ja też\nwyszedłem się zabawić.\fHe-he-he.</language>
+		<language name="English">Yo! Przyszła legendo!\rSkoro Weronika była nieobecna, ja\nteż wyszedłem się zabawić. He-he-he.</language>
 	</row>
 	<row id="msg_0469_T04GYM0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>

@@ -74,7 +74,7 @@
 	</row>
 	<row id="msg_0200_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine</language>
+		<language name="English">Wojas</language>
 	</row>
 	<row id="msg_0200_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -94,11 +94,11 @@
 	</row>
 	<row id="msg_0200_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Surge</language>
+		<language name="English">Kalina</language>
 	</row>
 	<row id="msg_0200_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock</language>
+		<language name="English">Ignacy</language>
 	</row>
 	<row id="msg_0200_00025" index="25">
 		<attribute name="window_context_name">used</attribute>

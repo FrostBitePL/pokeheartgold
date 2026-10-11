@@ -2,31 +2,31 @@
 <body language="English">
 	<row id="msg_0558_T22GYM0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkner: Jestem Falkner, Liderem Sali\nPokémon w Łażanach!\rLudzie mówią, że można podciąć\nskrzydła Pokémonom typu Latający\fwyładowaniem elektrycznym...\rNie pozwolę na takie obelgi wobec\nptasich Pokémonów!\rPokażę ci prawdziwą siłę\nwspaniałych ptasich Pokémonów!\r</language>
+		<language name="English">Ania: Jestem Ania, Liderem Sali\nPokémon w Łażanach!\rLudzie mówią, że można podciąć\nskrzydła Pokémonom typu Latający\fwyładowaniem elektrycznym...\rNie pozwolę na takie obelgi wobec\nptasich Pokémonów!\rPokażę ci prawdziwą siłę\nwspaniałych ptasich Pokémonów!\r</language>
 	</row>
 	<row id="msg_0558_T22GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkner: ...A niech to!\nUkochany ptasi Pokémon mojego taty...\rAle porażka to porażka.\nDobrze.\rWeź tę oficjalną Odznakę\nLigi Pokémon.\fTo jest Odznaka Zefiru.\r</language>
+		<language name="English">Ania: ...A niech to!\nUkochany ptasi Pokémon mojego taty...\rAle porażka to porażka.\nDobrze.\rWeź tę oficjalną Odznakę\nLigi Pokémon.\fTo jest Odznaka Zefiru.\r</language>
 	</row>
 	<row id="msg_0558_T22GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Zefiru od Falknera!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Zefiru od Ani!</language>
 	</row>
 	<row id="msg_0558_T22GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkner: Dzięki tej Odznace Pokémony,\nwłącznie z wymienionymi do poziomu 20,\fbędą cię słuchać bez wahania.\rPozwala też na użycie ukrytego\nataku Rozłupanie Skały poza\fwalką, w dowolnym momencie.\r</language>
+		<language name="English">Ania: Dzięki tej Odznace Pokémony,\nwłącznie z wymienionymi do poziomu 20,\fbędą cię słuchać bez wahania.\rPozwala też na użycie ukrytego\nataku Rozłupanie Skały poza\fwalką, w dowolnym momencie.\r</language>
 	</row>
 	<row id="msg_0558_T22GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkner: Używając TM, Pokémon od razu\nnauczy się nowego ataku.\rPomyśl, zanim to zrobisz - TM można\nużyć tylko raz.\rTM51 zawiera atak Odpoczynek na\nGrzędzie. Przywraca połowę\fmaksymalnego HP.\rW miastach przed tobą znajdują się\nSale Pokémon. Wykorzystaj je dobrze!\rJeśli chodzi o twój następny krok...\fPoleciłbym Kalno.</language>
+		<language name="English">Ania: Używając TM, Pokémon od razu\nnauczy się nowego ataku.\rPomyśl, zanim to zrobisz - TM można\nużyć tylko raz.\rTM51 zawiera atak Odpoczynek na\nGrzędzie. Przywraca połowę\fmaksymalnego HP.\rW miastach przed tobą znajdują się\nSale Pokémon. Wykorzystaj je dobrze!\rJeśli chodzi o twój następny krok...\fPoleciłbym Kalno.</language>
 	</row>
 	<row id="msg_0558_T22GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkner: W miastach przed tobą\nznajdują się Sale Pokémon.\rPowinieneś sprawdzić swoje\numiejętności w tych Salach.\rJeśli chodzi o twój następny krok...\fPoleciłbym Kalno.\rBędę trenować jeszcze ciężej, by\nzostać najlepszym Hodowcą Ptaków!</language>
+		<language name="English">Ania: W miastach przed tobą\nznajdują się Sale Pokémon.\rPowinieneś sprawdzić swoje\numiejętności w tych Salach.\rJeśli chodzi o twój następny krok...\fPoleciłbym Kalno.\rBędę trenować jeszcze ciężej, by\nzostać najlepszym Hodowcą Ptaków!</language>
 	</row>
 	<row id="msg_0558_T22GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hej! Przyszły Mistrzu!\nJesteś tu pewnie, by rzucić wyzwanie\fFalknerowi, Liderowi Sali, prawda?\rWitaj serdecznie.\n...Prawie!\rW tym mieście jest wieża zwana\nSprout Tower, gdzie Trenerzy\fprzychodzą się szkolić.\rWyzwanie Falknera może być zbyt\ntrudne, jeśli nie przeszedłeś\fich treningu.\fHa ha ha!</language>
+		<language name="English">Hej! Przyszły Mistrzu!\nJesteś tu pewnie, by rzucić wyzwanie\fFalknerowi, Liderowi Sali, prawda?\rWitaj serdecznie.\n...Prawie!\rW tym mieście jest wieża zwana\nSprout Tower, gdzie Trenerzy\fprzychodzą się szkolić.\rWyzwanie Ani może być zbyt\ntrudne, jeśli nie przeszedłeś\fich treningu.\fHa ha ha!</language>
 	</row>
 	<row id="msg_0558_T22GYM0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -42,6 +42,6 @@
 	</row>
 	<row id="msg_0558_T22GYM0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Łażanach\rLider Sali: Falkner\nCertyfikowany Trener!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Sala Pokémon w Łażanach\rLider Sali: Ania\nCertyfikowany Trener!\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 </body>

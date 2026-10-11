@@ -14,15 +14,15 @@
 	</row>
 	<row id="msg_0069_D23R0105_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Petrel: Nie, nie, nie! Udawałem\nDyrektora, żeby wpłynąć na cały\fregion, by wspierał Team Rocket!\rTym razem się nie powstrzymam!\nPokaż, na co cię stać!\r</language>
+		<language name="English">Didier: Nie, nie, nie! Udawałem\nDyrektora, żeby wpłynąć na cały\fregion, by wspierał Team Rocket!\rTym razem się nie powstrzymam!\nPokaż, na co cię stać!\r</language>
 	</row>
 	<row id="msg_0069_D23R0105_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Petrel: Słuchaj uważnie.\rSchowaliśmy prawdziwego Dyrektora\nw podziemnym magazynie.\rJest na samym końcu Tunelu\npod Żarowem.\rJestem miłym facetem. Dam ci Klucz\ndo Piwnicy, żebyś mógł/mogła dostać\fsię do podziemnego magazynu.\fWeź go z wdzięcznością!\r</language>
+		<language name="English">Didier: Słuchaj uważnie.\rSchowaliśmy prawdziwego Dyrektora\nw podziemnym magazynie.\rJest na samym końcu Tunelu\npod Żarowem.\rJestem miłym facetem. Dam ci Klucz\ndo Piwnicy, żebyś mógł/mogła dostać\fsię do podziemnego magazynu.\fWeź go z wdzięcznością!\r</language>
 	</row>
 	<row id="msg_0069_D23R0105_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Petrel: Schowaliśmy Dyrektora\nw podziemnym magazynie.\rJest na samym końcu Tunelu\npod Żarowem.\rHahaha...\nWątpię, żeby dziecko takie jak ty\fzaszło aż tak daleko.</language>
+		<language name="English">Didier: Schowaliśmy Dyrektora\nw podziemnym magazynie.\rJest na samym końcu Tunelu\npod Żarowem.\rHahaha...\nWątpię, żeby dziecko takie jak ty\fzaszło aż tak daleko.</language>
 	</row>
 	<row id="msg_0069_D23R0105_00006" index="6">
 		<attribute name="window_context_name">used</attribute>

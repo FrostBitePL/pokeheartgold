@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0131_D45R0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\nTu Wieża Radiowa.\fTu Wieża Radiowa.\fZ przyjemnością ogłaszamy\fodrodzenie Team Rocket.\f...Giovanni?\f...Słyszysz nas?\fWreszcie nam się udało!\f...\r</language>
+		<language name="English">...\nTu Wieża Radiowa.\fTu Wieża Radiowa.\fZ przyjemnością ogłaszamy\fodrodzenie Team Rocket.\f...Łukasz?\f...Słyszysz nas?\fWreszcie nam się udało!\f...\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -18,15 +18,15 @@
 	</row>
 	<row id="msg_0131_D45R0102_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Giovanni: Jak to możliwe...?\rOstatnie trzy lata poszły\nna marne...?\rJak dziecko takie jak ty zdołało\nznów zniszczyć moje marzenie?\rCenne marzenie Team Rocket stało się\nniewiele więcej niż złudzeniem...\r</language>
+		<language name="English">Łukasz: Jak to możliwe...?\rOstatnie trzy lata poszły\nna marne...?\rJak dziecko takie jak ty zdołało\nznów zniszczyć moje marzenie?\rCenne marzenie Team Rocket stało się\nniewiele więcej niż złudzeniem...\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\n...Hej!\fGdzie zniknął Giovanni?\fCiekawe, czy słucha naszej\ftransmisji...\f...\r</language>
+		<language name="English">...\n...Hej!\fGdzie zniknął Łukasz?\fCiekawe, czy słucha naszej\ftransmisji...\f...\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Giovanni: Zapamiętaj moje słowa.\rNiemożność ocenienia własnej siły\npokazuje, że wciąż jesteś tylko\fdzieckiem.\r</language>
+		<language name="English">Łukasz: Zapamiętaj moje słowa.\rNiemożność ocenienia własnej siły\npokazuje, że wciąż jesteś tylko\fdzieckiem.\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00007" index="7">
 		<attribute name="window_context_name">used</attribute>

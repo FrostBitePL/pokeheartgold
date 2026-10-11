@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0407_R47_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chuck: Ooomph!\nPrzyszedłeś/aś aż tutaj, żeby\fmnie zobaczyć?\rSkoro tak, to może zrobisz też\nsobie ze mną zdjęcie. Tak? {YESNO 0}</language>
+		<language name="English">Marcin: Ooomph!\nPrzyszedłeś/aś aż tutaj, żeby\fmnie zobaczyć?\rSkoro tak, to może zrobisz też\nsobie ze mną zdjęcie. Tak? {YESNO 0}</language>
 	</row>
 	<row id="msg_0407_R47_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -30,11 +30,11 @@
 	</row>
 	<row id="msg_0407_R47_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chuck: Wspaniałe zdjęcie!\nTo będzie miła pamiątka też dla ciebie!</language>
+		<language name="English">Marcin: Wspaniałe zdjęcie!\nTo będzie miła pamiątka też dla ciebie!</language>
 	</row>
 	<row id="msg_0407_R47_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chuck: Nie? Przyszedłeś/aś aż tutaj,\nżeby powiedzieć „nie”?</language>
+		<language name="English">Marcin: Nie? Przyszedłeś/aś aż\ntutaj, żeby powiedzieć „nie”?</language>
 	</row>
 	<row id="msg_0407_R47_00009" index="9">
 		<attribute name="window_context_name">used</attribute>

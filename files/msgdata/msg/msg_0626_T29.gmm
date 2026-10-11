@@ -14,19 +14,19 @@
 	</row>
 	<row id="msg_0626_T29_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Przybyłeś/aś tu przez te dzikie\nhistorie?\rJesteś {STRVAR_1 3, 0, 0}?\nJestem Lance, Trener taki jak ty.\rSłyszałem jakieś niepokojące wieści,\nwięc przyjechałem to zbadać...\rWidziałem, jak walczyłeś/aś wcześniej,\n{STRVAR_1 3, 0, 0}.\rWidzę, że jesteś Trenerem\no sporych umiejętnościach.\rJeśli nie masz nic przeciwko, może\npomożesz mi w śledztwie? {YESNO 0}</language>
+		<language name="English">Przybyłeś/aś tu przez te dzikie\nhistorie?\rJesteś {STRVAR_1 3, 0, 0}?\nJestem Karol, Trener taki jak ty.\rSłyszałem jakieś niepokojące wieści,\nwięc przyjechałem to zbadać...\rWidziałem, jak walczyłeś/aś wcześniej,\n{STRVAR_1 3, 0, 0}.\rWidzę, że jesteś Trenerem\no sporych umiejętnościach.\rJeśli nie masz nic przeciwko, może\npomożesz mi w śledztwie? {YESNO 0}</language>
 	</row>
 	<row id="msg_0626_T29_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Przybyłeś/aś tu przez te dzikie\nhistorie?\rJesteś {STRVAR_1 3, 0, 0}?\nJestem Lance, Trener taki jak ty.\rSłyszałem jakieś niepokojące wieści,\nwięc przyjechałem to zbadać...\rWidziałem, jak walczyłeś/aś wcześniej,\n{STRVAR_1 3, 0, 0}.\rWidzę, że jesteś Trenerem\no sporych umiejętnościach.\rJeśli nie masz nic przeciwko, może\npomożesz mi w śledztwie? {YESNO 0}</language>
+		<language name="English">Przybyłeś/aś tu przez te dzikie\nhistorie?\rJesteś {STRVAR_1 3, 0, 0}?\nJestem Karol, Trener taki jak ty.\rSłyszałem jakieś niepokojące wieści,\nwięc przyjechałem to zbadać...\rWidziałem, jak walczyłeś/aś wcześniej,\n{STRVAR_1 3, 0, 0}.\rWidzę, że jesteś Trenerem\no sporych umiejętnościach.\rJeśli nie masz nic przeciwko, może\npomożesz mi w śledztwie? {YESNO 0}</language>
 	</row>
 	<row id="msg_0626_T29_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: Doskonale!\rWygląda na to, że MAGIKARPY z\nLake of Rage są zmuszane do ewolucji.\rTajemnicza audycja radiowa nadawana\nz Imbramowic jest pewnie tego\fprzyczyną.\rI ten podejrzany sklep z pamiątkami...\rBędę czekał na ciebie w\nImbramowicach, {STRVAR_1 3, 0, 0}.</language>
+		<language name="English">Karol: Doskonale!\rWygląda na to, że MAGIKARPY z\nLake of Rage są zmuszane do ewolucji.\rTajemnicza audycja radiowa nadawana\nz Imbramowic jest pewnie tego\fprzyczyną.\rI ten podejrzany sklep z pamiątkami...\rBędę czekał na ciebie w\nImbramowicach, {STRVAR_1 3, 0, 0}.</language>
 	</row>
 	<row id="msg_0626_T29_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: Doskonale!\rWygląda na to, że MAGIKARPY z\nLake of Rage są zmuszane\fdo ewolucji.\rTajemnicza audycja radiowa nadawana\nz Imbramowic jest tego przyczyną.\rBędę na ciebie czekał, {STRVAR_1 3, 0, 0}.</language>
+		<language name="English">Karol: Doskonale!\rWygląda na to, że MAGIKARPY z\nLake of Rage są zmuszane\fdo ewolucji.\rTajemnicza audycja radiowa nadawana\nz Imbramowic jest tego przyczyną.\rBędę na ciebie czekał, {STRVAR_1 3, 0, 0}.</language>
 	</row>
 	<row id="msg_0626_T29_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -34,7 +34,7 @@
 	</row>
 	<row id="msg_0626_T29_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: Co ty na to?\nPomożesz mi? {YESNO 0}</language>
+		<language name="English">Karol: Co ty na to?\nPomożesz mi? {YESNO 0}</language>
 	</row>
 	<row id="msg_0626_T29_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -54,23 +54,23 @@
 	</row>
 	<row id="msg_0626_T29_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pryce: Silny deszcz padający na\npowierzchnię wydaje się pobudzać\fwzburzone jezioro.\rTo musi mieć jakiś cel, że znów\nsię spotykamy.\rMoże wymienimy się numerami\ntelefonu? {YESNO 0}\n</language>
+		<language name="English">Beniamin: Silny deszcz padający na\npowierzchnię wydaje się pobudzać\fwzburzone jezioro.\rTo musi mieć jakiś cel, że znów\nsię spotykamy.\rMoże wymienimy się numerami\ntelefonu? {YESNO 0}\n</language>
 	</row>
 	<row id="msg_0626_T29_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} zapisał(a) Pryce’a\nw Pokégearze!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} zapisał(a) Beniamina\nw Pokégearze!</language>
 	</row>
 	<row id="msg_0626_T29_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pryce: Mam zwyczaj trenować w\nponiedziałkowe poranki, żeby dodać\ftemu leniwemu ciału trochę hartu.\rMógłbyś/Mogłabyś być dobrym\npartnerem do treningu. Będę czekał\fna twój telefon!</language>
+		<language name="English">Beniamin: Mam zwyczaj trenować w\nponiedziałkowe poranki, żeby dodać\ftemu leniwemu ciału trochę hartu.\rMógłbyś/Mogłabyś być dobrym\npartnerem do treningu. Będę czekał\fna twój telefon!</language>
 	</row>
 	<row id="msg_0626_T29_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pryce: To też w porządku.\nLudzie powinni mieć własne zdanie.\fTak już jest.</language>
+		<language name="English">Beniamin: To też w porządku.\nLudzie powinni mieć własne zdanie.\fTak już jest.</language>
 	</row>
 	<row id="msg_0626_T29_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pryce: No i co? Wymienisz się\nze mną numerami? {YESNO 0}</language>
+		<language name="English">Beniamin: No i co? Wymienisz się\nze mną numerami? {YESNO 0}</language>
 	</row>
 	<row id="msg_0626_T29_00018" index="18">
 		<attribute name="window_context_name">used</attribute>

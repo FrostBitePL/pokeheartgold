@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0616_T27R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Za tym miejscem jest Wieża Dzwonów.\nTa wieża została zbudowana jako\fmiejsce odpoczynku dla HO-OH,\flegendarnego Pokémona typu Latający.\rOdkąd HO-OH odeszło, wielu ludzi\nwchodziło na wieżę, by spróbować je\fsprowadzić z powrotem.\rAle nikomu nie udało się sprawić,\nby HO-OH się pojawiło...\rMorty, Lider Sali, jest jednym\nz tych, którzy próbowali.\rWygląda na to, że nie masz Odznaki\nSali z Mrowin. Jeśli nie potrafisz\fnawet pokonać Morty’ego, wejście\ftam będzie stratą czasu.\rPrzykro mi, ale musisz odejść.</language>
+		<language name="English">Za tym miejscem jest Wieża Dzwonów.\nTa wieża została zbudowana jako\fmiejsce odpoczynku dla HO-OH,\flegendarnego Pokémona typu Latający.\rOdkąd HO-OH odeszło, wielu ludzi\nwchodziło na wieżę, by spróbować je\fsprowadzić z powrotem.\rAle nikomu nie udało się sprawić,\nby HO-OH się pojawiło...\rMorty, Lider Sali, jest jednym\nz tych, którzy próbowali.\rWygląda na to, że nie masz Odznaki\nSali z Mrowin. Jeśli nie potrafisz\fnawet pokonać Darii, wejście\ftam będzie stratą czasu.\rPrzykro mi, ale musisz odejść.</language>
 	</row>
 	<row id="msg_0616_T27R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty, Lider Sali, wszedł na tę\nwieżę, by spróbować sprowadzić\fHO-OH z powrotem, ponieważ\fjuż się nie pojawia.\rNawet on nie zdołał go sprowadzić.\rWygląda na to, że nie masz Odznaki\nSali z Mrowin.\rJeśli nie potrafisz nawet pokonać\nMorty’ego, wejście tam będzie\fstratą czasu.\rPrzykro mi, ale musisz odejść.</language>
+		<language name="English">Daria, Lider Sali, wszedł na tę\nwieżę, by spróbować sprowadzić\fHO-OH z powrotem, ponieważ\fjuż się nie pojawia.\rNawet on nie zdołał go sprowadzić.\rWygląda na to, że nie masz Odznaki\nSali z Mrowin.\rJeśli nie potrafisz nawet pokonać\nMorty’ego, wejście tam będzie\fstratą czasu.\rPrzykro mi, ale musisz odejść.</language>
 	</row>
 	<row id="msg_0616_T27R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>

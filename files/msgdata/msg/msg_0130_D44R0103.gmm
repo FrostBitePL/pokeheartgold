@@ -54,7 +54,7 @@
 	</row>
 	<row id="msg_0130_D44R0103_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair!\rTo dziecko jest nieskazitelne,\nzarówno w umiejętnościach, jak\fi duchu!\rPrzyznaj się do porażki i przyznaj\nOdznakę Wschodzącego Smoka!\r...Czy muszę poinformować o tym\nLance’a?\r</language>
+		<language name="English">Karol!\rTo dziecko jest nieskazitelne,\nzarówno w umiejętnościach, jak\fi duchu!\rPrzyznaj się do porażki i przyznaj\nOdznakę Wschodzącego Smoka!\r...Czy muszę poinformować o tym\nLance’a?\r</language>
 	</row>
 	<row id="msg_0130_D44R0103_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -66,7 +66,7 @@
 	</row>
 	<row id="msg_0130_D44R0103_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Wschodzącego Smoka od Clair!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Wschodzącego Smoka od Karol!</language>
 	</row>
 	<row id="msg_0130_D44R0103_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
@@ -74,7 +74,7 @@
 	</row>
 	<row id="msg_0130_D44R0103_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair...\rZastanów się, czego brakuje tobie,\na co ma to dziecko.\r</language>
+		<language name="English">Karol...\rZastanów się, czego brakuje tobie,\na co ma to dziecko.\r</language>
 	</row>
 	<row id="msg_0130_D44R0103_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -98,11 +98,11 @@
 	</row>
 	<row id="msg_0130_D44R0103_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Minęło sporo czasu, odkąd jakiś\nTrener zyskał rzadką aprobatę\fnaszego Mistrza.\rWłaściwie to nie od czasów\nMistrza Lance’a.</language>
+		<language name="English">Minęło sporo czasu, odkąd jakiś\nTrener zyskał rzadką aprobatę\fnaszego Mistrza.\rWłaściwie to nie od czasów\nMistrza Karola.</language>
 	</row>
 	<row id="msg_0130_D44R0103_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Znasz młodego Mistrza Lance’a?\rBardzo przypomina naszego Mistrza\nz czasów jego młodości.\fTo w ich krwi.</language>
+		<language name="English">Znasz młodego Mistrza Karola?\rBardzo przypomina naszego Mistrza\nz czasów jego młodości.\fTo w ich krwi.</language>
 	</row>
 	<row id="msg_0130_D44R0103_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
@@ -122,11 +122,11 @@
 	</row>
 	<row id="msg_0130_D44R0103_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wygląda na to, że Clair nauczyła\nsię od ciebie bezcennej lekcji.\rDziękuję ci jako jej dziadek.</language>
+		<language name="English">Wygląda na to, że Karol nauczyła\nsię od ciebie bezcennej lekcji.\rDziękuję ci jako jej dziadek.</language>
 	</row>
 	<row id="msg_0130_D44R0103_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chłopiec w twoim wieku trenuje\ntutaj.\rBardzo przypomina Clair, gdy była\nmłodsza. To trochę niepokojące...</language>
+		<language name="English">Chłopiec w twoim wieku trenuje\ntutaj.\rBardzo przypomina Karol, gdy była\nmłodsza. To trochę niepokojące...</language>
 	</row>
 	<row id="msg_0130_D44R0103_00032" index="32">
 		<attribute name="window_context_name">used</attribute>

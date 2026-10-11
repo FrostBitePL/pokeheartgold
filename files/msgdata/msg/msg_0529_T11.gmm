@@ -50,7 +50,7 @@
 	</row>
 	<row id="msg_0529_T11_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Świdnicy\nLiderka: Sabrina\fMistrzyni Pokémonów typu Psychicznego!</language>
+		<language name="English">Sala Pokémon w Świdnicy\nLiderka: Tymon\fMistrzyni Pokémonów typu Psychicznego!</language>
 	</row>
 	<row id="msg_0529_T11_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

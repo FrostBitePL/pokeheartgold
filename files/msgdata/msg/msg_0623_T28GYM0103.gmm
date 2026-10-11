@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0623_T28GYM0103_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pryce to weteran, który trenuje\nPokémony od jakichś 50 lat.\rJak się przekonasz, jego ataki\nsprawią, że zadrżysz w tej lodowatej\fSali.\rJesteś gotowy/a zamarznąć na kość?\rTo znaczy--zachowaj gorącego\nducha walki przeciwko lodowi!</language>
+		<language name="English">Beniamin to weteran, który trenuje\nPokémony od jakichś 50 lat.\rJak się przekonasz, jego ataki\nsprawią, że zadrżysz w tej lodowatej\fSali.\rJesteś gotowy/a zamarznąć na kość?\rTo znaczy--zachowaj gorącego\nducha walki przeciwko lodowi!</language>
 	</row>
 	<row id="msg_0623_T28GYM0103_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pryce to coś, ale ty jesteś\ncoś jeszcze innego!\rTo była gorąca walka, która\nprzekroczyła pokolenia!</language>
+		<language name="English">Beniamin to coś, ale ty jesteś\ncoś jeszcze innego!\rTo była gorąca walka, która\nprzekroczyła pokolenia!</language>
 	</row>
 	<row id="msg_0623_T28GYM0103_00002" index="2">
 		<attribute name="window_context_name">used</attribute>

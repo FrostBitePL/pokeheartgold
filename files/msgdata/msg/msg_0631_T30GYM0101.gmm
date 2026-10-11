@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0631_T30GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hej!\nŚwietnie ci poszło z pokonaniem Clair!\rTo, co ona mówi, to jedno, ale myślę,\nże już jesteś niezłym Trenerem...\rMimo to, na twoim miejscu zrobiłbym\nto, o co prosi Clair.</language>
+		<language name="English">Hej!\nŚwietnie ci poszło z pokonaniem Karol!\rTo, co ona mówi, to jedno, ale myślę,\nże już jesteś niezłym Trenerem...\rMimo to, na twoim miejscu zrobiłbym\nto, o co prosi Karol.</language>
 	</row>
 	<row id="msg_0631_T30GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,23 +14,23 @@
 	</row>
 	<row id="msg_0631_T30GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: Jestem Clair.\rNajlepsza mistrzyni typu Smoczy\nna świecie.\rMogę stawić czoła nawet Elitarnej\nCzwórce Ligi Pokémon.\rWciąż chcesz się ze mną zmierzyć?\r...Dobrze.\nZróbmy to!\rJako Liderka Sali, użyję pełni\nmojej mocy przeciwko każdemu\fprzeciwnikowi!\r</language>
+		<language name="English">Karol: Jestem Karol.\rNajlepsza mistrzyni typu Smoczy\nna świecie.\rMogę stawić czoła nawet Elitarnej\nCzwórce Ligi Pokémon.\rWciąż chcesz się ze mną zmierzyć?\r...Dobrze.\nZróbmy to!\rJako Liderka Sali, użyję pełni\nmojej mocy przeciwko każdemu\fprzeciwnikowi!\r</language>
 	</row>
 	<row id="msg_0631_T30GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: Nie ustąpię w tej sprawie.\rMogłam przegrać, ale wciąż nie jesteś\ngotowy/a na Ligę Pokémon.\rWiem. Powinieneś/aś podjąć\nwyzwanie Smoczego Mistrza.\rZa tą Salą jest miejsce zwane\nLegowiskiem Smoków. W jego sercu jest\fmała świątynia.\fIdź tam.\rJeśli udowodnisz, że pozbyłeś/aś się\nswoich leniwych ideałów, uznam cię za\fTrenera godnego Odznaki Sali!</language>
+		<language name="English">Karol: Nie ustąpię w tej sprawie.\rMogłam przegrać, ale wciąż nie jesteś\ngotowy/a na Ligę Pokémon.\rWiem. Powinieneś/aś podjąć\nwyzwanie Smoczego Mistrza.\rZa tą Salą jest miejsce zwane\nLegowiskiem Smoków. W jego sercu jest\fmała świątynia.\fIdź tam.\rJeśli udowodnisz, że pozbyłeś/aś się\nswoich leniwych ideałów, uznam cię za\fTrenera godnego Odznaki Sali!</language>
 	</row>
 	<row id="msg_0631_T30GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: Co się dzieje?\rZa dużo od ciebie oczekuję?</language>
+		<language name="English">Karol: Co się dzieje?\rZa dużo od ciebie oczekuję?</language>
 	</row>
 	<row id="msg_0631_T30GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: Kazałeś/aś mi czekać!\rProszę! Weź to!\r</language>
+		<language name="English">Karol: Kazałeś/aś mi czekać!\rProszę! Weź to!\r</language>
 	</row>
 	<row id="msg_0631_T30GYM0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: To zawiera atak Fala Smoka.\rCóż, Fala Smoka to taki rodzaj...\numm... Nieważne!\rTo jakaś ogromna energia.\nJeśli go nie chcesz, nie musisz\fgo brać.\r</language>
+		<language name="English">Karol: To zawiera atak Fala Smoka.\rCóż, Fala Smoka to taki rodzaj...\numm... Nieważne!\rTo jakaś ogromna energia.\nJeśli go nie chcesz, nie musisz\fgo brać.\r</language>
 	</row>
 	<row id="msg_0631_T30GYM0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -38,7 +38,7 @@
 	</row>
 	<row id="msg_0631_T30GYM0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: Co się dzieje?\rNie zmierzasz do Ligi\nPokémon?\rTwoja twarz... mówi mi, że masz\njakąś niedokończoną sprawę...\rZaczekaj chwilę!\nPrzybyłeś/aś z Wierzbnej,\fgdzie jest Laboratorium Profesora\fElma, prawda?\rMoże powinieneś/aś wrócić\ndo Wierzbnej.\rCokolwiek cię teraz czeka,\nbędzie trudniejsze.\rAle nie waż się poddawać!\rBo jeśli to zrobisz, będę się\nczuła jeszcze gorzej z tym, że\fprzegrałam z tobą!\r...\nDaj z siebie wszystko.</language>
+		<language name="English">Karol: Co się dzieje?\rNie zmierzasz do Ligi\nPokémon?\rTwoja twarz... mówi mi, że masz\njakąś niedokończoną sprawę...\rZaczekaj chwilę!\nPrzybyłeś/aś z Wierzbnej,\fgdzie jest Laboratorium Profesora\fElma, prawda?\rMoże powinieneś/aś wrócić\ndo Wierzbnej.\rCokolwiek cię teraz czeka,\nbędzie trudniejsze.\rAle nie waż się poddawać!\rBo jeśli to zrobisz, będę się\nczuła jeszcze gorzej z tym, że\fprzegrałam z tobą!\r...\nDaj z siebie wszystko.</language>
 	</row>
 	<row id="msg_0631_T30GYM0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -46,6 +46,6 @@
 	</row>
 	<row id="msg_0631_T30GYM0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Pożarzysku\rLiderka: Clair\nCertyfikowany Trener!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Sala Pokémon w Pożarzysku\rLiderka: Karol\nCertyfikowany Trener!\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 </body>

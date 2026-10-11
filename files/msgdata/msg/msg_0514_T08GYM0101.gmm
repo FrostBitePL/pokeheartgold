@@ -6,23 +6,23 @@
 	</row>
 	<row id="msg_0514_T08GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: Rozumiem... Pokonałeś/aś\nKogę, mojego ojca i członka\fElitarnej Czwórki, żeby tu dotrzeć.\rNic dziwnego, że jesteś silny/a!\rZdecydowanie wygrałeś/aś...\nOto Odznaka Duszy. Weź ją.\r</language>
+		<language name="English">Julia: Rozumiem... Pokonałeś/aś\nKogę, mojego ojca i członka\fElitarnej Czwórki, żeby tu dotrzeć.\rNic dziwnego, że jesteś silny/a!\rZdecydowanie wygrałeś/aś...\nOto Odznaka Duszy. Weź ją.\r</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Duszy od Janine!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Duszy od Julia!</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: Jesteś taki/a twardy/a!\nMam specjalny prezent!\rTo Trujący Cios, potężny atak typu\nTrującego, który może zatruć ofiarę.\r</language>
+		<language name="English">Julia: Jesteś taki/a twardy/a!\nMam specjalny prezent!\rTo Trujący Cios, potężny atak typu\nTrującego, który może zatruć ofiarę.\r</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: Naprawdę się przyłożę\ni ulepszę swoje umiejętności.\rChcę stać się o wiele lepsza\nzarówno od mojego ojca, jak i od ciebie!</language>
+		<language name="English">Julia: Naprawdę się przyłożę\ni ulepszę swoje umiejętności.\rChcę stać się o wiele lepsza\nzarówno od mojego ojca, jak i od ciebie!</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo, przyszła legendo!\nOj! Rozejrzyj się dobrze dookoła.\rWszyscy Trenerzy wyglądają jak\nLiderka Sali, Janine.\rKtóra z nich jest prawdziwą Janine?</language>
+		<language name="English">Yo, przyszła legendo!\nOj! Rozejrzyj się dobrze dookoła.\rWszyscy Trenerzy wyglądają jak\nLiderka Sali, Julia.\rKtóra z nich jest prawdziwą Julia?</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -42,11 +42,11 @@
 	</row>
 	<row id="msg_0514_T08GYM0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zgadza się, jestem chłopakiem!\nCo złego w tym, że chłopak\fprzebiera się za Janine?</language>
+		<language name="English">Zgadza się, jestem chłopakiem!\nCo złego w tym, że chłopak\fprzebiera się za Julia?</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fufufu!\rJestem Janine, Liderka Sali!\fA nie, nie jestem! Nabrałam cię!\r</language>
+		<language name="English">Fufufu!\rJestem Julia, Liderka Sali!\fA nie, nie jestem! Nabrałam cię!\r</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
@@ -58,7 +58,7 @@
 	</row>
 	<row id="msg_0514_T08GYM0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jestem Janine!\nSkąd wiedziałeś/aś, że jestem\fprawdziwa? Do walki!\r</language>
+		<language name="English">Jestem Julia!\nSkąd wiedziałeś/aś, że jestem\fprawdziwa? Do walki!\r</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
@@ -66,7 +66,7 @@
 	</row>
 	<row id="msg_0514_T08GYM0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Czuję się silniejszy/a, przebierając\nsię za Janine.</language>
+		<language name="English">Czuję się silniejszy/a, przebierając\nsię za Julia.</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00017" index="17">
 		<attribute name="window_context_name">used</attribute>

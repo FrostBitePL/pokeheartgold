@@ -10,14 +10,14 @@
 	</row>
 	<row id="msg_0060_D18R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eusine: Nazywam się Eusine.\rJestem na tropie Pokémona\nzwanego SUICUNE.\rA ty jesteś...?\n{STRVAR_1 3, 0, 0}? Miło cię poznać.\rSłyszałem plotki, że SUICUNE jest\ntutaj, więc przyszedłem sprawdzić.\rSpójrz na piwnicę przez dziurę\nw podłodze.\rProszę. SUICUNE jest tam na dole.\rMógłbym zejść na dół, ale wiem,\nże w mig by uciekło.\rWiem.\nPróbowałem wiele razy...</language>
+		<language name="English">Robert: Nazywam się Robert.\rJestem na tropie Pokémona\nzwanego SUICUNE.\rA ty jesteś...?\n{STRVAR_1 3, 0, 0}? Miło cię poznać.\rSłyszałem plotki, że SUICUNE jest\ntutaj, więc przyszedłem sprawdzić.\rSpójrz na piwnicę przez dziurę\nw podłodze.\rProszę. SUICUNE jest tam na dole.\rMógłbym zejść na dół, ale wiem,\nże w mig by uciekło.\rWiem.\nPróbowałem wiele razy...</language>
 	</row>
 	<row id="msg_0060_D18R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eusine: Wygląda na to, że kryjesz\nw sobie więcej, niż widać na\fpierwszy rzut oka...</language>
+		<language name="English">Robert: Wygląda na to, że kryjesz\nw sobie więcej, niż widać na\fpierwszy rzut oka...</language>
 	</row>
 	<row id="msg_0060_D18R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: Nazywam się Morty.\nJestem Liderem Sali w Mrowinach.\rPonieważ mój stary przyjaciel Eusine\njest tutaj na tropie SUICUNE,\fpostanowiłem zbadać Burned Tower.\rMrowiny mają legendę o tych\nlegendarnych Pokémonach:\fSUICUNE, ENTEI i RAIKOU.\rJako Lider Sali w Mrowinach, muszę\nmieć jej właściwe zrozumienie.</language>
+		<language name="English">Daria: Nazywam się Daria.\nJestem Liderem Sali w Mrowinach.\rPonieważ mój stary przyjaciel Robert\njest tutaj na tropie SUICUNE,\fpostanowiłem zbadać Burned Tower.\rMrowiny mają legendę o tych\nlegendarnych Pokémonach:\fSUICUNE, ENTEI i RAIKOU.\rJako Lider Sali w Mrowinach, muszę\nmieć jej właściwe zrozumienie.</language>
 	</row>
 </body>

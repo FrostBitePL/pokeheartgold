@@ -82,7 +82,7 @@
 	</row>
 	<row id="msg_0413_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">East: Wiesz, West, w Mrowinach jest\nbardzo ładna ścieżka zwana „Szlakiem\nDzwonów”. Chciałbyś się tam ze mną\nwybrać? West: Och, East...jeśli\ndobrze pamiętam, chyba trzeba mieć\nOdznakę Sali w Mrowinach, by tam\ndotrzeć... East: Co? Czy to znaczy,\nże najpierw muszę pokonać Morty’ego?\nTo może być dla mnie trochę\ntrudne... Narrator: Biedny East\nwcale nie jest dobry w walkach\nPokémon...! Włączcie się następnym\nrazem na kolejny odcinek Radiowego\nSerialu Dramatycznego: Fale Miłości!</language>
+		<language name="English">East: Wiesz, West, w Mrowinach jest\nbardzo ładna ścieżka zwana „Szlakiem\nDzwonów”. Chciałbyś się tam ze mną\nwybrać? West: Och, East...jeśli\ndobrze pamiętam, chyba trzeba mieć\nOdznakę Sali w Mrowinach, by tam\ndotrzeć... East: Co? Czy to znaczy,\nże najpierw muszę pokonać Darii?\nTo może być dla mnie trochę\ntrudne... Narrator: Biedny East\nwcale nie jest dobry w walkach\nPokémon...! Włączcie się następnym\nrazem na kolejny odcinek Radiowego\nSerialu Dramatycznego: Fale Miłości!</language>
 	</row>
 	<row id="msg_0413_00021" index="21">
 		<attribute name="window_context_name">used</attribute>

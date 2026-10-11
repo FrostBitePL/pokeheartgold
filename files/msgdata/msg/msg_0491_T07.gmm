@@ -38,47 +38,47 @@
 	</row>
 	<row id="msg_0491_T07_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Cześć, Jasmine. Słyszałam, że\nWhitney z Sali w Żarowie powiedziała,\fże jesteś zbyt prosta i powinnaś\fwyglądać bardziej wystrojenie.\fCzy to prawda?\r</language>
+		<language name="English">Bartek: Cześć, Wojas. Słyszałam, że\nWhitney z Sali w Żarowie powiedziała,\fże jesteś zbyt prosta i powinnaś\fwyglądać bardziej wystrojenie.\fCzy to prawda?\r</language>
 	</row>
 	<row id="msg_0491_T07_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Tak...\rMyślę, że może powinnam wziąć\nudział w tym Konkursie w Sinnoh,\fżeby spróbować być bardziej\fpromienna...\r</language>
+		<language name="English">Wojas: Tak...\rMyślę, że może powinnam wziąć\nudział w tym Konkursie w Sinnoh,\fżeby spróbować być bardziej\fpromienna...\r</language>
 	</row>
 	<row id="msg_0491_T07_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Jak poszło?\r</language>
+		<language name="English">Bartek: Jak poszło?\r</language>
 	</row>
 	<row id="msg_0491_T07_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Nie mogłam się zmusić,\nżeby pójść na Konkurs.\r</language>
+		<language name="English">Wojas: Nie mogłam się zmusić,\nżeby pójść na Konkurs.\r</language>
 	</row>
 	<row id="msg_0491_T07_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Ach, rozumiem...\rWięc może spróbuj założyć\ncoś wyjątkowo olśniewającego?\r</language>
+		<language name="English">Bartek: Ach, rozumiem...\rWięc może spróbuj założyć\ncoś wyjątkowo olśniewającego?\r</language>
 	</row>
 	<row id="msg_0491_T07_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Ach, tak!\nMoże zdołam się zmusić,\fżeby wziąć udział w Konkursie!\r</language>
+		<language name="English">Wojas: Ach, tak!\nMoże zdołam się zmusić,\fżeby wziąć udział w Konkursie!\r</language>
 	</row>
 	<row id="msg_0491_T07_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: A może wystawny, jasnoniebieski\nstrój z peleryną na wierzchu?\r</language>
+		<language name="English">Bartek: A może wystawny,\njasnoniebieski strój z peleryną na\fwierzchu?\r</language>
 	</row>
 	<row id="msg_0491_T07_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Co?\nTo zbyt żenujące!\r</language>
+		<language name="English">Wojas: Co?\nTo zbyt żenujące!\r</language>
 	</row>
 	<row id="msg_0491_T07_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Rozumiem.\nMyślisz, że Clair z Pożarzyska jest\ftrochę żenująca...\fJa tylko notuję.\r</language>
+		<language name="English">Bartek: Rozumiem.\nMyślisz, że Karol z Pożarzyska jest\ftrochę żenująca...\fJa tylko notuję.\r</language>
 	</row>
 	<row id="msg_0491_T07_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Och, nie!\nErika, nie to miałam na myśli!</language>
+		<language name="English">Wojas: Och, nie!\nErika, nie to miałam na myśli!</language>
 	</row>
 	<row id="msg_0491_T07_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Cześć, {STRVAR_1 3, 0, 0}.\rChcesz wymienić się\nnumerami? {YESNO 0}</language>
+		<language name="English">Bartek: Cześć, {STRVAR_1 3, 0, 0}.\rChcesz wymienić się\nnumerami? {YESNO 0}</language>
 	</row>
 	<row id="msg_0491_T07_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
@@ -86,7 +86,7 @@
 	</row>
 	<row id="msg_0491_T07_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Często mam wolne w niedzielne\nporanki.\rZadzwoń wtedy do mnie.</language>
+		<language name="English">Bartek: Często mam wolne w\nniedzielne poranki.\rZadzwoń wtedy do mnie.</language>
 	</row>
 	<row id="msg_0491_T07_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
@@ -94,19 +94,19 @@
 	</row>
 	<row id="msg_0491_T07_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Chcesz wymienić się\nnumerami? {YESNO 0}</language>
+		<language name="English">Bartek: Chcesz wymienić się\nnumerami? {YESNO 0}</language>
 	</row>
 	<row id="msg_0491_T07_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Cześć!\nMiło cię tu widzieć.\rMoże zrobimy sobie razem\nzdjęcie? {YESNO 0}</language>
+		<language name="English">Bartek: Cześć!\nMiło cię tu widzieć.\rMoże zrobimy sobie razem\nzdjęcie? {YESNO 0}</language>
 	</row>
 	<row id="msg_0491_T07_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Spróbuj wyglądać fajnie.\r</language>
+		<language name="English">Bartek: Spróbuj wyglądać fajnie.\r</language>
 	</row>
 	<row id="msg_0491_T07_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Dobra robota.\nWygląda świetnie!</language>
+		<language name="English">Bartek: Dobra robota.\nWygląda świetnie!</language>
 	</row>
 	<row id="msg_0491_T07_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
@@ -118,7 +118,7 @@
 	</row>
 	<row id="msg_0491_T07_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Amphy ma się dobrze dzięki tobie.</language>
+		<language name="English">Wojas: Amphy ma się dobrze dzięki tobie.</language>
 	</row>
 	<row id="msg_0491_T07_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
@@ -126,7 +126,7 @@
 	</row>
 	<row id="msg_0491_T07_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Świebodzicach\nLiderka: Erika\fKsiężniczka Kochająca Naturę!</language>
+		<language name="English">Sala Pokémon w Świebodzicach\nLiderka: Bartek\fKsiężniczka Kochająca Naturę!</language>
 	</row>
 	<row id="msg_0491_T07_00032" index="32">
 		<attribute name="window_context_name">used</attribute>

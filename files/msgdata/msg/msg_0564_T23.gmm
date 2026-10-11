@@ -54,7 +54,7 @@
 	</row>
 	<row id="msg_0564_T23_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Kalnie\nLider: Bugsy\fChodząca Encyklopedia Pokémonów\fRobaczkowych</language>
+		<language name="English">Sala Pokémon w Kalnie\nLider: Dorota\fChodząca Encyklopedia Pokémonów\fRobaczkowych</language>
 	</row>
 	<row id="msg_0564_T23_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -66,7 +66,7 @@
 	</row>
 	<row id="msg_0564_T23_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kim jesteś?\nNie znasz nas?\rJesteśmy...\nTeam Rocket!\r...Co?\nRozwiązaliśmy się jakiś czas temu?\rDaj spokój!\nWcale się nie rozwiązaliśmy!\rNo, właściwie raz tak było.\nAle wróciliśmy, by realizować\fambicje Giovanniego.\rDość gadania.\nZamknij się i spadaj!\r</language>
+		<language name="English">Kim jesteś?\nNie znasz nas?\rJesteśmy...\nTeam Rocket!\r...Co?\nRozwiązaliśmy się jakiś czas temu?\rDaj spokój!\nWcale się nie rozwiązaliśmy!\rNo, właściwie raz tak było.\nAle wróciliśmy, by realizować\fambicje Łukasza.\rDość gadania.\nZamknij się i spadaj!\r</language>
 	</row>
 	<row id="msg_0564_T23_00017" index="17">
 		<attribute name="window_context_name">used</attribute>

@@ -146,7 +146,7 @@
 	</row>
 	<row id="msg_0728_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmpf. To moja prawdziwa moc,\nsłabeuszu.\rZapiszę się w historii Team Rocket.\nI zetrę tego Lance’a\fswoimi butami.</language>
+		<language name="English">Hmpf. To moja prawdziwa moc,\nsłabeuszu.\rZapiszę się w historii Team Rocket.\nI zetrę tego Karola\fswoimi butami.</language>
 	</row>
 	<row id="msg_0728_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
@@ -162,7 +162,7 @@
 	</row>
 	<row id="msg_0728_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmpf. To moja prawdziwa moc,\nsłabeuszu.\rZapiszę się w historii Team Rocket.\nI zetrę tego Lance’a\fswoim butem.</language>
+		<language name="English">Hmpf. To moja prawdziwa moc,\nsłabeuszu.\rZapiszę się w historii Team Rocket.\nI zetrę tego Karola\fswoim butem.</language>
 	</row>
 	<row id="msg_0728_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
@@ -178,7 +178,7 @@
 	</row>
 	<row id="msg_0728_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmpf. To moja prawdziwa moc,\nsłabeuszu.\rZapiszę się w historii Team Rocket.\nI zetrę tego Lance’a\fswoim butem.</language>
+		<language name="English">Hmpf. To moja prawdziwa moc,\nsłabeuszu.\rZapiszę się w historii Team Rocket.\nI zetrę tego Karola\fswoim butem.</language>
 	</row>
 	<row id="msg_0728_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
@@ -534,11 +534,11 @@
 	</row>
 	<row id="msg_0728_00133" index="133">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Umiejętności Falknera są\nprawdziwe!\rNie bądź zarozumiały!</language>
+		<language name="English">Umiejętności Ani są\nprawdziwe!\rNie bądź zarozumiały!</language>
 	</row>
 	<row id="msg_0728_00134" index="134">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nie mogę uwierzyć, jak\nśmiesznie wysoko to jest! Ale z\ftej wysokości wiesz, jak to jest\nbyć ptasim Pokémonem!\rZobaczmy, czy jesteś wystarczająco\ndobry, by stanąć przed Falknerem!\r</language>
+		<language name="English">Nie mogę uwierzyć, jak\nśmiesznie wysoko to jest! Ale z\ftej wysokości wiesz, jak to jest\nbyć ptasim Pokémonem!\rZobaczmy, czy jesteś wystarczająco\ndobry, by stanąć przed Anią!\r</language>
 	</row>
 	<row id="msg_0728_00135" index="135">
 		<attribute name="window_context_name">used</attribute>
@@ -638,7 +638,7 @@
 	</row>
 	<row id="msg_0728_00159" index="159">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trenuję bardzo ciężko, by\npróbować pokonać Whitney, ale\fzaczynam się zniechęcać...\rCo robić...\nCóż... Jeśli przegram, po prostu\fnastępny raz spróbuję ciężej!\n</language>
+		<language name="English">Trenuję bardzo ciężko, by\npróbować pokonać Wiktor, ale\fzaczynam się zniechęcać...\rCo robić...\nCóż... Jeśli przegram, po prostu\fnastępny raz spróbuję ciężej!\n</language>
 	</row>
 	<row id="msg_0728_00160" index="160">
 		<attribute name="window_context_name">used</attribute>
@@ -762,7 +762,7 @@
 	</row>
 	<row id="msg_0728_00190" index="190">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">By dotrzeć do Pryce’a, naszego\nLidera Sali, musisz myśleć,\fzanim pojedziesz na łyżwach.\r</language>
+		<language name="English">By dotrzeć do Beniamina, naszego\nLidera Sali, musisz myśleć,\fzanim pojedziesz na łyżwach.\r</language>
 	</row>
 	<row id="msg_0728_00191" index="191">
 		<attribute name="window_context_name">used</attribute>
@@ -818,7 +818,7 @@
 	</row>
 	<row id="msg_0728_00204" index="204">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Powód, dla którego Pryce jest\nsilny...\rTo dlatego, że każdego dnia siada\nna bardzo zimnym lodzie i trenuje\fswoje ciało i ducha!\n</language>
+		<language name="English">Powód, dla którego Beniamin jest\nsilny...\rTo dlatego, że każdego dnia siada\nna bardzo zimnym lodzie i trenuje\fswoje ciało i ducha!\n</language>
 	</row>
 	<row id="msg_0728_00205" index="205">
 		<attribute name="window_context_name">used</attribute>
@@ -830,7 +830,7 @@
 	</row>
 	<row id="msg_0728_00207" index="207">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spotkałeś Poskromiciela\nSmoków Lance’a?\nNie wierzę ci.\n</language>
+		<language name="English">Spotkałeś Poskromiciela\nSmoków Karola?\nNie wierzę ci.\n</language>
 	</row>
 	<row id="msg_0728_00208" index="208">
 		<attribute name="window_context_name">used</attribute>
@@ -858,7 +858,7 @@
 	</row>
 	<row id="msg_0728_00214" index="214">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trenuję ciężko z Clair.\nNie ma mowy, żebym przegrał!\r</language>
+		<language name="English">Trenuję ciężko z Karol.\nNie ma mowy, żebym przegrał!\r</language>
 	</row>
 	<row id="msg_0728_00215" index="215">
 		<attribute name="window_context_name">used</attribute>
@@ -1294,7 +1294,7 @@
 	</row>
 	<row id="msg_0728_00323" index="323">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Misty mówi, że bardzo się\npoprawiłem w ostatnich latach.\rAle wciąż są trenerzy silniejsi\nniż ja.\n</language>
+		<language name="English">Weronika mówi, że bardzo się\npoprawiłem w ostatnich latach.\rAle wciąż są trenerzy silniejsi\nniż ja.\n</language>
 	</row>
 	<row id="msg_0728_00324" index="324">
 		<attribute name="window_context_name">used</attribute>
@@ -1330,7 +1330,7 @@
 	</row>
 	<row id="msg_0728_00332" index="332">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pływanie jest bardzo dobre\ntak dla urody, jak i zdrowia!\rSpójrz tylko na Misty, zobaczysz.\n</language>
+		<language name="English">Pływanie jest bardzo dobre\ntak dla urody, jak i zdrowia!\rSpójrz tylko na Weronika, zobaczysz.\n</language>
 	</row>
 	<row id="msg_0728_00333" index="333">
 		<attribute name="window_context_name">used</attribute>
@@ -1346,19 +1346,19 @@
 	</row>
 	<row id="msg_0728_00336" index="336">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jesteś tu, by pokonać\nporucznika Surge’a?\nNie, jeśli ja mogę temu\nprzeszkodzić!\r</language>
+		<language name="English">Jesteś tu, by pokonać\nporucznika Kaliny?\nNie, jeśli ja mogę temu\nprzeszkodzić!\r</language>
 	</row>
 	<row id="msg_0728_00337" index="337">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Przepraszam, że cię\nzawiodłem, poruczniku Surge!\n</language>
+		<language name="English">Przepraszam, że cię\nzawiodłem, poruczniku Kalina!\n</language>
 	</row>
 	<row id="msg_0728_00338" index="338">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gdy byłem w wojsku, to właśnie\nnauczył mnie porucznik Surge...\rZamykaj drzwi, uważaj na ogień\ni zawsze miej dwa elektryczne\fpłoty dla bezpieczeństwa!\n</language>
+		<language name="English">Gdy byłem w wojsku, to właśnie\nnauczył mnie porucznik Kalina...\rZamykaj drzwi, uważaj na ogień\ni zawsze miej dwa elektryczne\fpłoty dla bezpieczeństwa!\n</language>
 	</row>
 	<row id="msg_0728_00339" index="339">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Porucznik Surge zobaczył mój\npotencjał z Pokémonami typu\fElectric.\rMyślisz, że możesz mnie pokonać?\r</language>
+		<language name="English">Kalina zobaczył mój\npotencjał z Pokémonami typu\fElectric.\rMyślisz, że możesz mnie pokonać?\r</language>
 	</row>
 	<row id="msg_0728_00340" index="340">
 		<attribute name="window_context_name">used</attribute>
@@ -1378,7 +1378,7 @@
 	</row>
 	<row id="msg_0728_00344" index="344">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Porucznik Surge ukrył\nprzełączniki elektrycznych płotów\fna dnie czegoś...\rJest dwa przełączniki. Gdy\nznajdziesz pierwszy, drugi\fprzełącznik powinien być tuż\nprzy nim.\n</language>
+		<language name="English">Kalina ukrył\nprzełączniki elektrycznych płotów\fna dnie czegoś...\rJest dwa przełączniki. Gdy\nznajdziesz pierwszy, drugi\fprzełącznik powinien być tuż\nprzy nim.\n</language>
 	</row>
 	<row id="msg_0728_00345" index="345">
 		<attribute name="window_context_name">used</attribute>
@@ -1390,7 +1390,7 @@
 	</row>
 	<row id="msg_0728_00347" index="347">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jo: Wow, jesteś prawie tak\nsilny jak Erika, no nieźle!</language>
+		<language name="English">Jo: Wow, jesteś prawie tak\nsilny jak Bartek, no nieźle!</language>
 	</row>
 	<row id="msg_0728_00348" index="348">
 		<attribute name="window_context_name">used</attribute>
@@ -2638,7 +2638,7 @@
 	</row>
 	<row id="msg_0728_00659" index="659">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ta Odznaka!\rJest z Łażan!\nPokonałeś Falknera?\r</language>
+		<language name="English">Ta Odznaka!\rJest z Łażan!\nPokonałeś Ani?\r</language>
 	</row>
 	<row id="msg_0728_00660" index="660">
 		<attribute name="window_context_name">used</attribute>
@@ -3502,7 +3502,7 @@
 	</row>
 	<row id="msg_0728_00875" index="875">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow. Masz mnóstwo Odznak.\nNic dziwnego, że jesteś tak\ftwardy.\rZastanawiam się, czy Morty z\nSali w Mrowinach wciąż trenuje?\fNaprawdę mnie rozgromił.\n</language>
+		<language name="English">Wow. Masz mnóstwo Odznak.\nNic dziwnego, że jesteś tak\ftwardy.\rZastanawiam się, czy Daria z\nSali w Mrowinach wciąż trenuje?\fNaprawdę mnie rozgromił.\n</language>
 	</row>
 	<row id="msg_0728_00876" index="876">
 		<attribute name="window_context_name">used</attribute>
@@ -4374,7 +4374,7 @@
 	</row>
 	<row id="msg_0728_01093" index="1093">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Proton: No czekaj no\nsekundę!\rCzy to nie ty wszedłeś nam\nw drogę przy Studni SLOWPOKE?\rRozumiem... Robisz to wszystko,\nbo chcesz mnie rozzłościć.\fUważaj!\rAle skoro tak sobie tego\nżyczysz, pokażę ci pełny zakres\fgniewu Dyrektora Team Rocket!\r</language>
+		<language name="English">Melchior: No czekaj no\nsekundę!\rCzy to nie ty wszedłeś nam\nw drogę przy Studni SLOWPOKE?\rRozumiem... Robisz to wszystko,\nbo chcesz mnie rozzłościć.\fUważaj!\rAle skoro tak sobie tego\nżyczysz, pokażę ci pełny zakres\fgniewu Dyrektora Team Rocket!\r</language>
 	</row>
 	<row id="msg_0728_01094" index="1094">
 		<attribute name="window_context_name">used</attribute>
@@ -4390,7 +4390,7 @@
 	</row>
 	<row id="msg_0728_01097" index="1097">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Proton: Mogłeś wygrać\ntym razem...\nAle wszystko, co zrobiłeś, to\fpowiększyłeś gniew Team Rocket...\n</language>
+		<language name="English">Melchior: Mogłeś wygrać\ntym razem...\nAle wszystko, co zrobiłeś, to\fpowiększyłeś gniew Team Rocket...\n</language>
 	</row>
 	<row id="msg_0728_01098" index="1098">
 		<attribute name="window_context_name">used</attribute>
@@ -4434,7 +4434,7 @@
 	</row>
 	<row id="msg_0728_01108" index="1108">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ariana: Hej, ty...\nPamiętasz mnie z kryjówki w\fImbramowicach?\rTym razem...\rHee hee hee. Tym razem...\nwygląda na to, że naprawdę\fjesteś zupełnie sam. Zupełnie\nsam...\rWięc to powinno być całkiem\nproste. Dawaj! Zakończmy to!\r\n</language>
+		<language name="English">Ida: Hej, ty...\nPamiętasz mnie z kryjówki w\fImbramowicach?\rTym razem...\rHee hee hee. Tym razem...\nwygląda na to, że naprawdę\fjesteś zupełnie sam. Zupełnie\nsam...\rWięc to powinno być całkiem\nproste. Dawaj! Zakończmy to!\r\n</language>
 	</row>
 	<row id="msg_0728_01109" index="1109">
 		<attribute name="window_context_name">used</attribute>
@@ -4454,7 +4454,7 @@
 	</row>
 	<row id="msg_0728_01113" index="1113">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nie możemy pozwolić, by\nwchodził nam w drogę, zanim\fwiadomości o naszym powrocie\ndotrą do Giovanniego!\n</language>
+		<language name="English">Nie możemy pozwolić, by\nwchodził nam w drogę, zanim\fwiadomości o naszym powrocie\ndotrą do Łukasza!\n</language>
 	</row>
 	<row id="msg_0728_01114" index="1114">
 		<attribute name="window_context_name">used</attribute>
@@ -4658,7 +4658,7 @@
 	</row>
 	<row id="msg_0728_01164" index="1164">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Przestać kraść SlowpokeTaile?\rCo?! Chcesz, żebyśmy nie\nposłuchali bezpośredniego\frozkazu Dyrektora Protona?\rJeśli chcesz nas zatrzymać,\nmusisz pokonać nas wszystkich!\fŚmiało, spróbuj!\r</language>
+		<language name="English">Przestać kraść SlowpokeTaile?\rCo?! Chcesz, żebyśmy nie\nposłuchali bezpośredniego\frozkazu Dyrektora Melchiora?\rJeśli chcesz nas zatrzymać,\nmusisz pokonać nas wszystkich!\fŚmiało, spróbuj!\r</language>
 	</row>
 	<row id="msg_0728_01165" index="1165">
 		<attribute name="window_context_name">used</attribute>
@@ -4702,7 +4702,7 @@
 	</row>
 	<row id="msg_0728_01175" index="1175">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine używała kiedyś\nPokémonów typu Rock, jak ONIX.\n</language>
+		<language name="English">Wojas używała kiedyś\nPokémonów typu Rock, jak ONIX.\n</language>
 	</row>
 	<row id="msg_0728_01176" index="1176">
 		<attribute name="window_context_name">used</attribute>
@@ -4722,7 +4722,7 @@
 	</row>
 	<row id="msg_0728_01180" index="1180">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine jest Liderką Sali\ntego miasta. Zamierzam zabrać\fją ze sobą z powrotem.\rLepiej nikt mi nie wchodzi w\ndrogę!\r</language>
+		<language name="English">Wojas jest Liderką Sali\ntego miasta. Zamierzam zabrać\fją ze sobą z powrotem.\rLepiej nikt mi nie wchodzi w\ndrogę!\r</language>
 	</row>
 	<row id="msg_0728_01181" index="1181">
 		<attribute name="window_context_name">used</attribute>
@@ -4762,7 +4762,7 @@
 	</row>
 	<row id="msg_0728_01190" index="1190">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine musi być strasznie\nzaniepokojona o Pokémony tutaj.\nNawet nie uśmiecha się\fostatnio.\r</language>
+		<language name="English">Wojas musi być strasznie\nzaniepokojona o Pokémony tutaj.\nNawet nie uśmiecha się\fostatnio.\r</language>
 	</row>
 	<row id="msg_0728_01191" index="1191">
 		<attribute name="window_context_name">used</attribute>
@@ -4774,7 +4774,7 @@
 	</row>
 	<row id="msg_0728_01193" index="1193">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chciałem walczyć z Jasmine,\nale ona nie jest teraz na to\fgotowa. Więc może ty?\r</language>
+		<language name="English">Chciałem walczyć z Wojas,\nale ona nie jest teraz na to\fgotowa. Więc może ty?\r</language>
 	</row>
 	<row id="msg_0728_01194" index="1194">
 		<attribute name="window_context_name">used</attribute>
@@ -5058,7 +5058,7 @@
 	</row>
 	<row id="msg_0728_01264" index="1264">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Przegrałem...\rProszę, wybacz mi, Giovanni!\n</language>
+		<language name="English">Przegrałem...\rProszę, wybacz mi, Łukasz!\n</language>
 	</row>
 	<row id="msg_0728_01265" index="1265">
 		<attribute name="window_context_name">used</attribute>
@@ -5122,7 +5122,7 @@
 	</row>
 	<row id="msg_0728_01280" index="1280">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To było jak walka z Lance’em.\n</language>
+		<language name="English">To było jak walka z Karolem.\n</language>
 	</row>
 	<row id="msg_0728_01281" index="1281">
 		<attribute name="window_context_name">used</attribute>
@@ -6234,7 +6234,7 @@
 	</row>
 	<row id="msg_0728_01558" index="1558">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Widziałaś to, Clair?\n</language>
+		<language name="English">Widziałaś to, Karol?\n</language>
 	</row>
 	<row id="msg_0728_01559" index="1559">
 		<attribute name="window_context_name">used</attribute>

@@ -18,15 +18,15 @@
 	</row>
 	<row id="msg_0611_T26R0701_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Cześć!\n...!\rTe puste talerze przede mną\nnie wszystkie są moje...\rEe...\rTak naprawdę, osoba, która siedziała\ntu przede mną, dużo zjadła...\rW każdym razie, chcesz wymienić\nsię numerami telefonu? {YESNO 0}</language>
+		<language name="English">Wojas: Cześć!\n...!\rTe puste talerze przede mną\nnie wszystkie są moje...\rEe...\rTak naprawdę, osoba, która siedziała\ntu przede mną, dużo zjadła...\rW każdym razie, chcesz wymienić\nsię numerami telefonu? {YESNO 0}</language>
 	</row>
 	<row id="msg_0611_T26R0701_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} zapisał(a) Jasmine\nw Pokégearze!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} zapisał(a) Wojas\nw Pokégearze!</language>
 	</row>
 	<row id="msg_0611_T26R0701_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Teraz możemy się\nkontaktować w każdej chwili.\rPowinnam móc z tobą walczyć\nokoło południa w środy.\fBędę czekać na twój telefon!</language>
+		<language name="English">Wojas: Teraz możemy się\nkontaktować w każdej chwili.\rPowinnam móc z tobą walczyć\nokoło południa w środy.\fBędę czekać na twój telefon!</language>
 	</row>
 	<row id="msg_0611_T26R0701_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -34,11 +34,11 @@
 	</row>
 	<row id="msg_0611_T26R0701_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Zmieniłeś zdanie?\nWymienisz się numerami? {YESNO 0}</language>
+		<language name="English">Wojas: Zmieniłeś zdanie?\nWymienisz się numerami? {YESNO 0}</language>
 	</row>
 	<row id="msg_0611_T26R0701_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Wygląda na to, że...\nczęsto się na siebie wpadamy.\rMoże zrobimy sobie zdjęcie\nna pamiątkę? {YESNO 0}</language>
+		<language name="English">Wojas: Wygląda na to, że...\nczęsto się na siebie wpadamy.\rMoże zrobimy sobie zdjęcie\nna pamiątkę? {YESNO 0}</language>
 	</row>
 	<row id="msg_0611_T26R0701_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -46,7 +46,7 @@
 	</row>
 	<row id="msg_0611_T26R0701_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Świetnie ci poszło.\nDobrze wyglądamy.</language>
+		<language name="English">Wojas: Świetnie ci poszło.\nDobrze wyglądamy.</language>
 	</row>
 	<row id="msg_0611_T26R0701_00012" index="12">
 		<attribute name="window_context_name">used</attribute>

@@ -50,27 +50,27 @@
 	</row>
 	<row id="msg_0535_T11R0601_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Porucznik Surge: Och! Nigdy nie\nspodziewałem się zobaczyć cię\fw takim miejscu! Co za zbieg\fokoliczności!\rCzuję wielką moc elektryczną wokół\nstacji Magnet Train!\rMiałeś/aś PIKACHU, prawda?\nMoże wymienimy go na mojego\ffrancuskiego PIKACHU? {YESNO 0}</language>
+		<language name="English">Kalina: Och! Nigdy nie\nspodziewałem się zobaczyć cię\fw takim miejscu! Co za zbieg\fokoliczności!\rCzuję wielką moc elektryczną wokół\nstacji Magnet Train!\rMiałeś/aś PIKACHU, prawda?\nMoże wymienimy go na mojego\ffrancuskiego PIKACHU? {YESNO 0}</language>
 	</row>
 	<row id="msg_0535_T11R0601_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Porucznik Surge: Mój PIKACHU za\ntwojego PIKACHU, co ty na to?</language>
+		<language name="English">Kalina: Mój PIKACHU za\ntwojego PIKACHU, co ty na to?</language>
 	</row>
 	<row id="msg_0535_T11R0601_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Porucznik Surge: Wow! Elektryzujące!\nWymieńmy się teraz!\r</language>
+		<language name="English">Kalina: Wow! Elektryzujące!\nWymieńmy się teraz!\r</language>
 	</row>
 	<row id="msg_0535_T11R0601_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Porucznik Surge: Szokujące!\nChcę podzielić się z tobą moimi\fuczuciami do PIKACHU!\rJestem gotowy w każdej chwili, więc\npo prostu przynieś PIKACHU, dobrze?</language>
+		<language name="English">Kalina: Szokujące!\nChcę podzielić się z tobą moimi\fuczuciami do PIKACHU!\rJestem gotowy w każdej chwili, więc\npo prostu przynieś PIKACHU, dobrze?</language>
 	</row>
 	<row id="msg_0535_T11R0601_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Porucznik Surge: Tak!\nJestem taki podekscytowany!\fDo zobaczenia. Żegnaj!\r</language>
+		<language name="English">Kalina: Tak!\nJestem taki podekscytowany!\fDo zobaczenia. Żegnaj!\r</language>
 	</row>
 	<row id="msg_0535_T11R0601_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Porucznik Surge: Co? To nie jest\nwłaściwy Pokémon!\rNie wymienię mojego PIKACHU na\nnic innego niż PIKACHU.</language>
+		<language name="English">Kalina: Co? To nie jest\nwłaściwy Pokémon!\rNie wymienię mojego PIKACHU na\nnic innego niż PIKACHU.</language>
 	</row>
 	<row id="msg_0535_T11R0601_00018" index="18">
 		<attribute name="window_context_name">used</attribute>

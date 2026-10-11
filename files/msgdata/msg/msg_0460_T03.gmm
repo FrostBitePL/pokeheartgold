@@ -88,7 +88,7 @@
 	</row>
 	<row id="msg_0460_T03_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Mokrzeszowie\nLider: Brock\fTrener Pokémonów Twardy Jak Skała</language>
+		<language name="English">Sala Pokémon w Mokrzeszowie\nLider: Ignacy\fTrener Pokémonów Twardy Jak Skała</language>
 	</row>
 	<row id="msg_0460_T03_00022" index="22">
 		<attribute name="window_context_name">used</attribute>

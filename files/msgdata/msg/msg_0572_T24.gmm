@@ -35,7 +35,7 @@
 	</row>
 	<row id="msg_0572_T24_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} zapisał(a) Chucka\nw Pokégearze!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} zapisał(a) Marcina\nw Pokégearze!</language>
 	</row>
 	<row id="msg_0572_T24_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -59,11 +59,11 @@
 	</row>
 	<row id="msg_0572_T24_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chuck, Lider Sali, trenuje sparingi\nze swoimi Pokémonami typu Walczący.</language>
+		<language name="English">Marcin, Lider Sali, trenuje sparingi\nze swoimi Pokémonami typu Walczący.</language>
 	</row>
 	<row id="msg_0572_T24_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eusine: Ej, {STRVAR_1 3, 0, 0}.\rCzy to przed chwilą nie było SUICUNE?\rZłapałem tylko krótkie spojrzenie,\nale wydawało mi się, że widziałem\fSUICUNE biegnące po falach.\rSUICUNE jest piękne i wspaniałe.\nA do tego pędzi przez miasta\fi drogi w niesamowitym tempie.\rTo cudowne...\rChcę zobaczyć SUICUNE z bliska...\rZdecydowałem.\nStoczę z tobą pojedynek jako Trener,\fżeby zdobyć szacunek SUICUNE!\rChodź, {STRVAR_1 3, 0, 0}.\nWalczmy teraz!</language>
+		<language name="English">Robert: Ej, {STRVAR_1 3, 0, 0}.\rCzy to przed chwilą nie było SUICUNE?\rZłapałem tylko krótkie spojrzenie,\nale wydawało mi się, że widziałem\fSUICUNE biegnące po falach.\rSUICUNE jest piękne i wspaniałe.\nA do tego pędzi przez miasta\fi drogi w niesamowitym tempie.\rTo cudowne...\rChcę zobaczyć SUICUNE z bliska...\rZdecydowałem.\nStoczę z tobą pojedynek jako Trener,\fżeby zdobyć szacunek SUICUNE!\rChodź, {STRVAR_1 3, 0, 0}.\nWalczmy teraz!</language>
 	</row>
 	<row id="msg_0572_T24_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -79,7 +79,7 @@
 	</row>
 	<row id="msg_0572_T24_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Domanicach\nLider: Chuck\fJego Ryczące Pięści Mówią Same za Siebie</language>
+		<language name="English">Sala Pokémon w Domanicach\nLider: Marcin\fJego Ryczące Pięści Mówią Same za Siebie</language>
 	</row>
 	<row id="msg_0572_T24_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
