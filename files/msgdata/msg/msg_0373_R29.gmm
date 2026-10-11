@@ -68,7 +68,7 @@
 	</row>
 	<row id="msg_0373_R29_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trasa 29\nWschód do Wierzbnej</language>
+		<language name="English">Trasa 29\nWschód do Wierzbnej\fPod znakiem przybita tabliczka:\n„Tu 22 marca 1945 r. spadł samolot.\fCzterech lotników nie wróciło do domu.”</language>
 	</row>
 	<row id="msg_0373_R29_00017" index="17">
 		<attribute name="window_context_name">used</attribute>

@@ -3,7 +3,7 @@
   "objects": [
     {
       "id": "obj_T20R0301_gswoman3",
-      "spriteId": "SPRITE_GSWOMAN3",
+      "spriteId": "SPRITE_GSOLDMAN1",
       "movement": 17,
       "type": 0,
       "eventFlag": "FLAG_NOTHING",

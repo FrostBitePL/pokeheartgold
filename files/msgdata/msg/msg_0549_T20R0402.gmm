@@ -2,23 +2,23 @@
 <body language="English">
 	<row id="msg_0549_T20R0402_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: {STRVAR_1 3, 0, 0}!\rProfesor Elm cię szukał.\nByłeś/aś w jego laboratorium?</language>
+		<language name="English">Lyra: {STRVAR_1 3, 0, 0}!\rProfesor Mariusz cię szukał.\nByłeś/aś w jego laboratorium?</language>
 	</row>
 	<row id="msg_0549_T20R0402_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: {STRVAR_1 3, 0, 0}!\rProfesor Elm cię szukał.\nByłeś/aś w jego laboratorium?</language>
+		<language name="English">Ethan: {STRVAR_1 3, 0, 0}!\rProfesor Mariusz cię szukał.\nByłeś/aś w jego laboratorium?</language>
 	</row>
 	<row id="msg_0549_T20R0402_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Mój MARILL jest super uroczy...\nAle twój {STRVAR_1 0, 1, 0} też wygląda\fcałkiem nieźle, {STRVAR_1 3, 0, 0}!</language>
+		<language name="English">Lyra: Mój PIKACHU jest super uroczy...\nAle twój {STRVAR_1 0, 1, 0} też wygląda\fcałkiem nieźle, {STRVAR_1 3, 0, 0}!</language>
 	</row>
 	<row id="msg_0549_T20R0402_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Mój MARILL jest super fajny...\nAle twój {STRVAR_1 0, 1, 0} też wygląda\fcałkiem nieźle, {STRVAR_1 3, 0, 0}!</language>
+		<language name="English">Ethan: Mój PIKACHU jest super fajny...\nAle twój {STRVAR_1 0, 1, 0} też wygląda\fcałkiem nieźle, {STRVAR_1 3, 0, 0}!</language>
 	</row>
 	<row id="msg_0549_T20R0402_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MARILL: Qurururoon.</language>
+		<language name="English">PIKACHU: Qurururoon.</language>
 	</row>
 	<row id="msg_0549_T20R0402_00005" index="5">
 		<attribute name="window_context_name">used</attribute>

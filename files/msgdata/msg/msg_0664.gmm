@@ -18,11 +18,11 @@
 	</row>
 	<row id="msg_0664_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello?\rOh, hi, {STRVAR_1 3, 0, 0}!\nWasn’t Professor Elm waiting for you?</language>
+		<language name="English">Hello?\rOh, hi, {STRVAR_1 3, 0, 0}! Wasn’t Professor\nMariusz waiting for you?</language>
 	</row>
 	<row id="msg_0664_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello?\rOh, hi, {STRVAR_1 3, 0, 0}!\nSo, how goes the errand you’re\fhelping Professor Elm with?\rI know you’re determined. You’ll be OK!</language>
+		<language name="English">Hello?\rOh, hi, {STRVAR_1 3, 0, 0}!\nSo, how goes the errand you’re\fhelping Professor Mariusz with?\rI know you’re determined. You’ll be OK!</language>
 	</row>
 	<row id="msg_0664_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -90,7 +90,7 @@
 	</row>
 	<row id="msg_0664_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello?\r...{STRVAR_1 3, 0, 0}?\rI heard from Professor Elm that you\nwent on a long trip.\rI wish you would have told me...\nWhat about your money? Should I\fsave it?</language>
+		<language name="English">Hello?\r...{STRVAR_1 3, 0, 0}?\rI heard from Professor Mariusz that\nyou went on a long trip.\rI wish you would have told me...\nWhat about your money? Should I\fsave it?</language>
 	</row>
 	<row id="msg_0664_00023" index="23">
 		<attribute name="window_context_name">used</attribute>

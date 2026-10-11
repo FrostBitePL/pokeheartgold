@@ -2,38 +2,38 @@
 <body language="English">
 	<row id="msg_0190_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Elm: Touch a Poké Ball to\nsee what Pokémon is inside!</language>
+		<language name="English">Profesor Mariusz: Dotknij Poké Balla,\nżeby zobaczyć, jaki Pokémon jest w środku!</language>
 	</row>
 	<row id="msg_0190_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Elm: So, you like {COLOR 3}BULBASAUR{COLOR 0},\nthe Grass-type Pokémon?</language>
+		<language name="English">Profesor Mariusz: Więc podoba ci się\n{COLOR 3}BULBASAUR{COLOR 0}, Pokémon typu Grass?</language>
 	</row>
 	<row id="msg_0190_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Elm: You’ll take {COLOR 1}CHARMANDER{COLOR 0},\nthe Fire-type Pokémon?</language>
+		<language name="English">Profesor Mariusz: Weźmiesz\n{COLOR 1}CHARMANDER{COLOR 0}, Pokémona typu Fire?</language>
 	</row>
 	<row id="msg_0190_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Elm: Do you want {COLOR 2}SQUIRTLE{COLOR 0},\nthe Water-type Pokémon?</language>
+		<language name="English">Profesor Mariusz: Chcesz\n{COLOR 2}SQUIRTLE{COLOR 0}, Pokémona typu Water?</language>
 	</row>
 	<row id="msg_0190_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 3}BULBASAUR{COLOR 0}, the Grass-type Pokémon, is\nin this Poké Ball!</language>
+		<language name="English">W tym Poké Ballu jest\n{COLOR 3}BULBASAUR{COLOR 0}, Pokémon typu Grass!</language>
 	</row>
 	<row id="msg_0190_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 1}CHARMANDER{COLOR 0}, the Fire-type Pokémon, is\nin this Poké Ball!</language>
+		<language name="English">W tym Poké Ballu jest\n{COLOR 1}CHARMANDER{COLOR 0}, Pokémon typu Fire!</language>
 	</row>
 	<row id="msg_0190_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}SQUIRTLE{COLOR 0}, the Water-type Pokémon, is\nin this Poké Ball!</language>
+		<language name="English">W tym Poké Ballu jest\n{COLOR 2}SQUIRTLE{COLOR 0}, Pokémon typu Water!</language>
 	</row>
 	<row id="msg_0190_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Once you’ve decided, touch a Poké Ball!</language>
+		<language name="English">Gdy się zdecydujesz, dotknij Poké Balla!</language>
 	</row>
 	<row id="msg_0190_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Touch the Poké Ball button to select.\nTouch elsewhere to change your selection.</language>
+		<language name="English">Dotknij przycisku Poké Balla, by wybrać.\nDotknij gdzie indziej, by zmienić wybór.</language>
 	</row>
 </body>
