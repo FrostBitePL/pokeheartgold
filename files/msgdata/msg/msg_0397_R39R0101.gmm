@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0397_R39R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nasze mleko jedzie nawet do Kanto.\rWięc jak nasza MILTANK nie da\nmleka, mamy kłopot.</language>
+		<language name="English">Nasze mleko jedzie nawet do Regionu\nŚwidnica.\rWięc jak nasza MILTANK nie da\nmleka, mamy kłopot.</language>
 	</row>
 	<row id="msg_0397_R39R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>

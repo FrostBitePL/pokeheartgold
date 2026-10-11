@@ -15,7 +15,7 @@
 	</row>
 	<row id="msg_0584_T25R0201_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Główny sklep jest w Cerulean\nw Kanto.\rPozdrów kierownika sklepu,\njeśli tam kiedyś trafisz!\rNasze Rowery są pierwszej klasy!\nMożesz jeździć nimi też w Kanto!</language>
+		<language name="English">Główny sklep jest w Cerulean\nw Regionie Świdnica.\rPozdrów kierownika sklepu,\njeśli tam kiedyś trafisz!\rNasze Rowery są pierwszej klasy!\nMożesz jeździć nimi też w Regionie\fŚwidnica!</language>
 	</row>
 	<row id="msg_0584_T25R0201_00004" index="4">
 		<attribute name="window_context_name">used</attribute>

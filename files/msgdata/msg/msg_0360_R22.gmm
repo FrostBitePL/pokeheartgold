@@ -86,11 +86,11 @@
 	</row>
 	<row id="msg_0360_R22_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Za kogo on się uważa?\nTo było niepotrzebne!\rAle o czym oni rozmawiali?\nO odrodzeniu {COLOR 1}Team Rocket{COLOR 0}...?\rMówią, że Team Rocket zostało\nusunięte z regionu Kanto przez\fdziecko trzy lata temu.\rWięc to naprawdę jest sprzed\ntrzech lat!\r</language>
+		<language name="English">Ethan: Za kogo on się uważa?\nTo było niepotrzebne!\rAle o czym oni rozmawiali?\nO odrodzeniu {COLOR 1}Team Rocket{COLOR 0}...?\rMówią, że Team Rocket zostało\nusunięte z Regionu Świdnica przez\fdziecko trzy lata temu.\rWięc to naprawdę jest sprzed\ntrzech lat!\r</language>
 	</row>
 	<row id="msg_0360_R22_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Za kogo on się uważa?\nTo było niepotrzebne!\rAle o czym oni rozmawiali?\nO odrodzeniu {COLOR 1}Team Rocket{COLOR 0}...?\rMówią, że Team Rocket zostało\nusunięte z regionu Kanto przez\fdziecko trzy lata temu.\rWięc to naprawdę jest sprzed\ntrzech lat!\r</language>
+		<language name="English">Lyra: Za kogo on się uważa?\nTo było niepotrzebne!\rAle o czym oni rozmawiali?\nO odrodzeniu {COLOR 1}Team Rocket{COLOR 0}...?\rMówią, że Team Rocket zostało\nusunięte z Regionu Świdnica przez\fdziecko trzy lata temu.\rWięc to naprawdę jest sprzed\ntrzech lat!\r</language>
 	</row>
 	<row id="msg_0360_R22_00023" index="23">
 		<attribute name="window_context_name">used</attribute>

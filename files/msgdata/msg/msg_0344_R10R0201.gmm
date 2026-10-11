@@ -17,7 +17,7 @@
 	</row>
 	<row id="msg_0344_R10R0201_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kierownik: Mój ukochany generator!\rDalej pompuj prąd, żeby zapewnić\nprzyjemne życie mieszkańcom Kanto!</language>
+		<language name="English">Kierownik: Mój ukochany generator!\rDalej pompuj prąd, żeby zapewnić\nprzyjemne życie mieszkańcom Regionu\fŚwidnica!</language>
 	</row>
 	<row id="msg_0344_R10R0201_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -65,6 +65,6 @@
 	</row>
 	<row id="msg_0344_R10R0201_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Używaj prądu mądrze,\ndla jasnego i przyjemnego życia.\f           Kanto Power Plant</language>
+		<language name="English">Używaj prądu mądrze,\ndla jasnego i przyjemnego życia.\f           Elektrownia Lubachów</language>
 	</row>
 </body>

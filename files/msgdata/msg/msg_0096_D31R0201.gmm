@@ -329,7 +329,7 @@
 	</row>
 	<row id="msg_0096_D31R0201_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jak widzisz, Battle Frontier to\nwspaniały obiekt.\rWiesz co?\rPodobno podobne obiekty są dostępne\nteż poza Johto.</language>
+		<language name="English">Jak widzisz, Battle Frontier to\nwspaniały obiekt.\rWiesz co?\rPodobno podobne obiekty są dostępne\nteż poza Regionem Żarów.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00075" index="75">
 		<attribute name="window_context_name">used</attribute>

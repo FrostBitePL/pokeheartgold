@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0364_R25R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm? Przyszedłeś/aś do mojego\nwnuka? Nazywa się Bill.\rJest w Johto.\nZajmuje się czymś związanym\fz komputerami PC, więc pilnuję\fdomu.\r</language>
+		<language name="English">Hmm? Przyszedłeś/aś do mojego\nwnuka? Nazywa się Bill.\rJest w Regionie Żarów.\nZajmuje się czymś związanym\fz komputerami PC, więc pilnuję\fdomu.\r</language>
 	</row>
 	<row id="msg_0364_R25R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0364_R25R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Słyszałam, że w Johto jest\nniebieski, okrągły Pokémon.\rBill powiedział mi, że koniec jego\nogona działa jak pływak.\rMa biały brzuszek. Tylko brzuszek.\nBardzo chciałabym zobaczyć, jak\fwygląda.\r</language>
+		<language name="English">Słyszałam, że w Regionie Żarów jest\nniebieski, okrągły Pokémon.\rBill powiedział mi, że koniec jego\nogona działa jak pływak.\rMa biały brzuszek. Tylko brzuszek.\nBardzo chciałabym zobaczyć, jak\fwygląda.\r</language>
 	</row>
 	<row id="msg_0364_R25R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>

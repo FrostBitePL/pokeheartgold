@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0100_D32_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jestem super Idolką w Johto!\rPrzybyłam aż tutaj, do Battle\nFrontier, by promować moją\fnajnowszą piosenkę!\rAle...\rWszyscy tutaj wydają się być\nPoké Maniakami!</language>
+		<language name="English">Jestem super Idolką w Regionie\nŻarów!\rPrzybyłam aż tutaj, do Battle\nFrontier, by promować moją\fnajnowszą piosenkę!\rAle...\rWszyscy tutaj wydają się być\nPoké Maniakami!</language>
 	</row>
 	<row id="msg_0100_D32_00003" index="3">
 		<attribute name="window_context_name">used</attribute>

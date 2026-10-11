@@ -50,23 +50,23 @@
 	</row>
 	<row id="msg_0413_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kroniki Johto: Akta Numer Jeden\nNasza Ekipa Radiowa to widziała! Słyszała!\nPodczas naszych wykopalisk w ruinach\nodkryliśmy kamienne płyty z jakimś\ndziwnym pismem wyrytym!\nCzy to wiadomość z przeszłości? Czy może\nto tylko czyjś żart?\nTen program przyjrzy się bliżej tego\nrodzaju sprawom, prowadząc dokładne\nśledztwo.\nZapraszamy do słuchania!</language>
+		<language name="English">Kroniki Żarowskie: Akta Numer Jeden\nNasza Ekipa Radiowa to widziała! Słyszała!\nPodczas naszych wykopalisk w ruinach\nodkryliśmy kamienne płyty z jakimś\ndziwnym pismem wyrytym!\nCzy to wiadomość z przeszłości? Czy może\nto tylko czyjś żart?\nTen program przyjrzy się bliżej tego\nrodzaju sprawom, prowadząc dokładne\nśledztwo.\nZapraszamy do słuchania!</language>
 	</row>
 	<row id="msg_0413_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kroniki Johto: Akta Numer Dwa\nNasza Ekipa Radiowa to widziała! Słyszała!\nOgromny cień Pokémona pływa wokół\nWhirl Islands!\nCzy to legendarny Pokémon?\nCzy to nowy gatunek Pokémona?\nTen program przyjrzy się bliżej tego\nrodzaju sprawom, prowadząc dokładne\nśledztwo.\nZapraszamy do słuchania!</language>
+		<language name="English">Kroniki Żarowskie: Akta Numer Dwa\nNasza Ekipa Radiowa to widziała! Słyszała!\nOgromny cień Pokémona pływa wokół\nWhirl Islands!\nCzy to legendarny Pokémon?\nCzy to nowy gatunek Pokémona?\nTen program przyjrzy się bliżej tego\nrodzaju sprawom, prowadząc dokładne\nśledztwo.\nZapraszamy do słuchania!</language>
 	</row>
 	<row id="msg_0413_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kroniki Johto: Akta Numer Trzy\nNasza Ekipa Radiowa to widziała! Słyszała!\nUsłyszeliśmy smutny głos dochodzący\nz Wodospadu Tohjo...\nCzy to może dźwięk wiatru?\nCzy krzyk Pokémona?\nCzy to tylko się przesłyszeliśmy?\nTen program przyjrzy się bliżej tego\nrodzaju sprawom, prowadząc dokładne\nśledztwo.\nZapraszamy do słuchania!</language>
+		<language name="English">Kroniki Żarowskie: Akta Numer Trzy\nNasza Ekipa Radiowa to widziała! Słyszała!\nUsłyszeliśmy smutny głos dochodzący\nz Wodospadu Tohjo...\nCzy to może dźwięk wiatru?\nCzy krzyk Pokémona?\nCzy to tylko się przesłyszeliśmy?\nTen program przyjrzy się bliżej tego\nrodzaju sprawom, prowadząc dokładne\nśledztwo.\nZapraszamy do słuchania!</language>
 	</row>
 	<row id="msg_0413_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kroniki Johto: Akta Numer Cztery\nNasza Ekipa Radiowa to widziała! Słyszała!\nW środku nocy, bezzałogowy Magnet Train\nwjechał na stację Goldenrod!\nCzy to pociąg widmo?\nCzy to po prostu odbicie pociągu?\nTen program przyjrzy się bliżej tego\nrodzaju sprawom, prowadząc dokładne\nśledztwo.\nZapraszamy do słuchania!</language>
+		<language name="English">Kroniki Żarowskie: Akta Numer Cztery\nNasza Ekipa Radiowa to widziała! Słyszała!\nW środku nocy, bezzałogowy Magnet Train\nwjechał na stację Goldenrod!\nCzy to pociąg widmo?\nCzy to po prostu odbicie pociągu?\nTen program przyjrzy się bliżej tego\nrodzaju sprawom, prowadząc dokładne\nśledztwo.\nZapraszamy do słuchania!</language>
 	</row>
 	<row id="msg_0413_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kroniki Johto: Akta Numer Pięć\nNasza Ekipa Radiowa to widziała! Słyszała!\nBy pełna gracji kobieta ubrana\nw kimono tańczyła do dźwięku dzwonka\ngłęboko w Lesie Ilex!\nCzy to był duch? Czy potwór? Czy\nzjawa? Czy widmo? Czy to nowy\ngatunek Pokémona?\nTen program przyjrzy się bliżej tego\nrodzaju sprawom, prowadząc dokładne\nśledztwo.\nZapraszamy do słuchania!</language>
+		<language name="English">Kroniki Żarowskie: Akta Numer Pięć\nNasza Ekipa Radiowa to widziała! Słyszała!\nBy pełna gracji kobieta ubrana\nw kimono tańczyła do dźwięku dzwonka\ngłęboko w Lesie Ilex!\nCzy to był duch? Czy potwór? Czy\nzjawa? Czy widmo? Czy to nowy\ngatunek Pokémona?\nTen program przyjrzy się bliżej tego\nrodzaju sprawom, prowadząc dokładne\nśledztwo.\nZapraszamy do słuchania!</language>
 	</row>
 	<row id="msg_0413_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
@@ -94,14 +94,14 @@
 	</row>
 	<row id="msg_0413_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pario: Opuściłem rodzinne miasto i\nprzybyłem do regionu Johto z celem\nzostania numerem jeden wśród wyrzutków.\nJeżdżę rowerem po każdej trasie w Johto.\nNazywam się Pario!\nSą twardzi wyrzutkowie, którzy są\ndobrzy w walkach Pokémon. I są tacy,\nktórzy potrafią szybko pedałować\nna rowerze.\nI są tacy z metrowymi fryzurami\npompadour!\nWciąż jest tak wiele barier do pokonania!\nWłączcie się następnym razem na odcinek\ntrzeci Radiowego Serialu Dramatycznego:\nDroga Buntownika, „Pojawia się Rywal”!</language>
+		<language name="English">Pario: Opuściłem rodzinne miasto i\nprzybyłem do Regionu Żarów z celem\nzostania numerem jeden wśród\nwyrzutków. Jeżdżę rowerem po każdej\ntrasie w Regionie Żarów. Nazywam się\nPario! Są twardzi wyrzutkowie,\nktórzy są dobrzy w walkach Pokémon.\nI są tacy, którzy potrafią szybko\npedałować na rowerze. I są tacy z\nmetrowymi fryzurami pompadour! Wciąż\njest tak wiele barier do pokonania!\nWłączcie się następnym razem na\nodcinek trzeci Radiowego Serialu\nDramatycznego: Droga Buntownika,\n„Pojawia się Rywal”!</language>
 	</row>
 	<row id="msg_0413_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pario: Co myślisz? Nie ma nikogo,\nkto mógłby mnie pokonać! To znaczy,\nże od dziś jestem numerem jeden\nwśród wyrzutków!\nDziwna Dziewczyna: Ha ha ha! Jesteś\nnaprawdę pełen energii...\nNarrator: Nagle pojawiła się dziwna\ndziewczyna...\nPario: Kim ty właściwie jesteś?!\nWest: Nazywam się West. Jestem\nliderką odpowiedzialną za\nwyrzutków w Kanto.\nSłyszałam o tobie wszystko.\nPario, lider z Johto...\nEast: Pario, to musisz być ty, prawda?\nNarrator: Och! Cóż za zaskakujący\nrozwój wydarzeń!\nWłączcie się następnym razem na ostatni\nodcinek Radiowego Serialu Dramatycznego:\nDroga Buntownika, „Dziewczyna na Rowerze”!</language>
+		<language name="English">Pario: Co myślisz? Nie ma nikogo,\nkto mógłby mnie pokonać! To znaczy,\nże od dziś jestem numerem jeden\nwśród wyrzutków!\nDziwna Dziewczyna: Ha ha ha! Jesteś\nnaprawdę pełen energii...\nNarrator: Nagle pojawiła się dziwna\ndziewczyna...\nPario: Kim ty właściwie jesteś?!\nWest: Nazywam się West. Jestem\nliderką odpowiedzialną za\nwyrzutków w Regionie Świdnica.\nSłyszałam o tobie wszystko.\nPario, lider z Regionu Żarów...\nEast: Pario, to musisz być ty, prawda?\nNarrator: Och! Cóż za zaskakujący\nrozwój wydarzeń!\nWłączcie się następnym razem na ostatni\nodcinek Radiowego Serialu Dramatycznego:\nDroga Buntownika, „Dziewczyna na Rowerze”!</language>
 	</row>
 	<row id="msg_0413_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pario: Jesteś liderką Kanto?\nWalczmy!\nWest: East, poczekaj chwilę.\nJeśli mamy walczyć, to czy będziemy\nwalczyć, dopóki jedno z nas nie będzie\nmogło już walczyć?\nZanim to zrobimy, powinieneś wiedzieć,\nże zakochałem się w tobie od\npierwszego wejrzenia!\nCo powiesz na to, byśmy oboje...?\nPario: Czyżby...\nCóż, prawda jest taka, że ja też cię\nkocham...\nNarrator: I tak, ci, którzy właśnie się\npoznali, przeszli z twardych wyrzutków\nna ścieżkę czystej miłości...ale to już\ncałkiem inna historia...\nRadiowy Serial Dramatyczny: Droga\nBuntownika dobiegł końca.</language>
+		<language name="English">Pario: Jesteś liderką Regionu Świdnica?\nWalczmy!\nWest: East, poczekaj chwilę.\nJeśli mamy walczyć, to czy będziemy\nwalczyć, dopóki jedno z nas nie będzie\nmogło już walczyć?\nZanim to zrobimy, powinieneś wiedzieć,\nże zakochałem się w tobie od\npierwszego wejrzenia!\nCo powiesz na to, byśmy oboje...?\nPario: Czyżby...\nCóż, prawda jest taka, że ja też cię\nkocham...\nNarrator: I tak, ci, którzy właśnie się\npoznali, przeszli z twardych wyrzutków\nna ścieżkę czystej miłości...ale to już\ncałkiem inna historia...\nRadiowy Serial Dramatyczny: Droga\nBuntownika dobiegł końca.</language>
 	</row>
 </body>

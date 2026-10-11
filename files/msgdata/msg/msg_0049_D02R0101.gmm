@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0049_D02R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1, 0}: Hej, {STRVAR_1 3, 0, 0}!\nTy też tu jesteś, w Kanto?\rNiektórzy Trenerzy tutaj są trudni,\nco ułatwia trenowanie moich\fPokémonów!\r{STRVAR_1 3, 0, 0}!\nWiem, że jesteś silny/a...\rAle...\nNic na to nie poradzę i muszę\ncię wyzwać!\r</language>
+		<language name="English">{STRVAR_1 3, 1, 0}: Hej, {STRVAR_1 3, 0, 0}! Ty też tu\njesteś, w Regionie Świdnica?\rNiektórzy Trenerzy tutaj są trudni,\nco ułatwia trenowanie moich\fPokémonów!\r{STRVAR_1 3, 0, 0}!\nWiem, że jesteś silny/a...\rAle...\nNic na to nie poradzę i muszę\ncię wyzwać!\r</language>
 	</row>
 	<row id="msg_0049_D02R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>

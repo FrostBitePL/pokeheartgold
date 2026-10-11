@@ -34,7 +34,7 @@
 	</row>
 	<row id="msg_0469_T04GYM0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Misty: Czekałam na ciebie,\nty utrapieńcu!\rMoże i masz mnóstwo Odznak z Sal\nw Johto, ale lepiej nie lekceważ\fmnie zbytnio.\rMoje Pokémony typu Wodny są twarde!\r</language>
+		<language name="English">Misty: Czekałam na ciebie,\nty utrapieńcu!\rMoże i masz mnóstwo Odznak z Sal w\nRegionie Żarów, ale lepiej nie\flekceważ mnie zbytnio.\rMoje Pokémony typu Wodny są twarde!\r</language>
 	</row>
 	<row id="msg_0469_T04GYM0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -50,11 +50,11 @@
 	</row>
 	<row id="msg_0469_T04GYM0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Misty: Zawiera atak\nFala Wodna.\rMoże czasem zdezorientować przeciwnika.\rUdało ci się pokonać Trenerów\naż od samego Johto.\fJestem pewna, że dobrze go wykorzystasz.</language>
+		<language name="English">Misty: Zawiera atak\nFala Wodna.\rMoże czasem zdezorientować przeciwnika.\rUdało ci się pokonać Trenerów\naż od samego Regionu Żarów.\fJestem pewna, że dobrze go wykorzystasz.</language>
 	</row>
 	<row id="msg_0469_T04GYM0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Misty: Czy w Johto jest wielu\npotężnych Trenerów?\rPewnego dnia wyruszę w podróż,\nby walczyć z potężnymi Trenerami!</language>
+		<language name="English">Misty: Czy w Regionie Żarów jest\nwielu potężnych Trenerów?\rPewnego dnia wyruszę w podróż,\nby walczyć z potężnymi Trenerami!</language>
 	</row>
 	<row id="msg_0469_T04GYM0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>

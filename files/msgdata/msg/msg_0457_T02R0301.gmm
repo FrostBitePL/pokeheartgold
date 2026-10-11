@@ -10,11 +10,11 @@
 	</row>
 	<row id="msg_0457_T02R0301_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Na dole odbywają się\nwalki treningowe.\rBardzo chciałbym zobaczyć, jak dobrze\nwalczy Trener z Johto.</language>
+		<language name="English">Na dole odbywają się\nwalki treningowe.\rBardzo chciałbym zobaczyć, jak dobrze\nwalczy Trener z Regionu Żarów.</language>
 	</row>
 	<row id="msg_0457_T02R0301_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chodzisz wszędzie i walczysz\nz każdym rodzajem Trenerów.\rTo nie tylko trening twoich Pokémonów.\nTo także okazja, by samemu\fdoświadczyć wielu rzeczy.\rZałożę się, że Mistrz z Pallet Town\nodwiedził wszystkie miasta\fi miasteczka w Kanto.</language>
+		<language name="English">Chodzisz wszędzie i walczysz\nz każdym rodzajem Trenerów.\rTo nie tylko trening twoich Pokémonów.\nTo także okazja, by samemu\fdoświadczyć wielu rzeczy.\rZałożę się, że Mistrz z Pallet Town\nodwiedził wszystkie miasta\fi miasteczka w Regionie Świdnica.</language>
 	</row>
 	<row id="msg_0457_T02R0301_00004" index="4">
 		<attribute name="window_context_name">used</attribute>

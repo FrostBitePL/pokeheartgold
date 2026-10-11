@@ -54,7 +54,7 @@
 	</row>
 	<row id="msg_0255_P01R0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ojej, jak czas leci!\rMuszę nagrać program radiowy\nw Goldenrod Radio Tower.\rTy pewnie zmierzasz do Kanto.\rJeśli będziesz w pobliżu Pallet Town,\nwpadnij koniecznie do mojego\fLaboratorium Badań nad Pokémonami!\r</language>
+		<language name="English">Ojej, jak czas leci!\rMuszę nagrać program radiowy\nw Goldenrod Radio Tower.\rTy pewnie zmierzasz do Regionu\nŚwidnica.\rJeśli będziesz w pobliżu Pallet Town,\nwpadnij koniecznie do mojego\fLaboratorium Badań nad Pokémonami!\r</language>
 	</row>
 	<row id="msg_0255_P01R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -62,6 +62,6 @@
 	</row>
 	<row id="msg_0255_P01R0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Byłeś/aś już w Kanto?\rSłyszałem, że mieszka tam wiele\nrzadkich Pokémonów.\rBrzmi ekscytująco.\nBardzo chciałbym/-abym tam pojechać!</language>
+		<language name="English">Byłeś/aś już w Regionie Świdnica?\rSłyszałem, że mieszka tam wiele\nrzadkich Pokémonów.\rBrzmi ekscytująco.\nBardzo chciałbym/-abym tam pojechać!</language>
 	</row>
 </body>

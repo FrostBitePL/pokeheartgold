@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0519_T09_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kim jesteś?\rNazywam się Blue.\nByłem kiedyś Mistrzem Kanto.\rChoć trwało to krótko, dzięki\nRedowi...\fW każdym razie, rozejrzyj się\ndobrze dookoła...\r</language>
+		<language name="English">Kim jesteś?\rNazywam się Blue. Byłem kiedyś\nMistrzem Regionu Świdnica.\rChoć trwało to krótko, dzięki\nRedowi...\fW każdym razie, rozejrzyj się\ndobrze dookoła...\r</language>
 	</row>
 	<row id="msg_0519_T09_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -18,7 +18,7 @@
 	</row>
 	<row id="msg_0519_T09_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jeśli chcesz ze mną walczyć...\nnaprawdę, pokaż mi, ile Odznak\fz Kanto zdobyłeś/aś.\r...\n{STRVAR_1 50, 0, 0}...\rNie jesteś gotowy/a, żeby ze mną\nwalczyć...</language>
+		<language name="English">Jeśli chcesz ze mną walczyć...\nnaprawdę, pokaż mi, ile Odznak\fz Regionu Świdnica zdobyłeś/aś.\r...\n{STRVAR_1 50, 0, 0}...\rNie jesteś gotowy/a, żeby ze mną\nwalczyć...</language>
 	</row>
 	<row id="msg_0519_T09_00005" index="5">
 		<attribute name="window_context_name">used</attribute>

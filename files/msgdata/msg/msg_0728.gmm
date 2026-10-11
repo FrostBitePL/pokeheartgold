@@ -230,7 +230,7 @@
 	</row>
 	<row id="msg_0728_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rozumiem. Nie przyjechałeś do\nKanto tylko, by się pochwalić...\n</language>
+		<language name="English">Rozumiem. Nie przyjechałeś do\nRegionu Świdnica tylko, by się\npochwalić...</language>
 	</row>
 	<row id="msg_0728_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
@@ -246,7 +246,7 @@
 	</row>
 	<row id="msg_0728_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rozumiem. Nie przyjechałeś do\nKanto tylko, by się pochwalić...\n</language>
+		<language name="English">Rozumiem. Nie przyjechałeś do\nRegionu Świdnica tylko, by się\npochwalić...</language>
 	</row>
 	<row id="msg_0728_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
@@ -262,7 +262,7 @@
 	</row>
 	<row id="msg_0728_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rozumiem. Nie przyjechałeś do\nKanto tylko, by się pochwalić...\n</language>
+		<language name="English">Rozumiem. Nie przyjechałeś do\nRegionu Świdnica tylko, by się\npochwalić...</language>
 	</row>
 	<row id="msg_0728_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
@@ -1270,7 +1270,7 @@
 	</row>
 	<row id="msg_0728_00317" index="317">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hej, ty! Trenerze z Johto!\rBrock jest twardy. Ukarze cię,\njeśli nie potraktujesz go poważnie.\n</language>
+		<language name="English">Hej, ty! Trenerze z Regionu Żarów!\rBrock jest twardy. Ukarze cię,\njeśli nie potraktujesz go poważnie.\n</language>
 	</row>
 	<row id="msg_0728_00318" index="318">
 		<attribute name="window_context_name">used</attribute>
@@ -1602,7 +1602,7 @@
 	</row>
 	<row id="msg_0728_00400" index="400">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Największy pożeracz ognia\nw Kanto, to ja.\rAle nie najlepszy trener...\n</language>
+		<language name="English">Największy pożeracz ognia\nw Regionie Świdnica, to ja.\rAle nie najlepszy trener...\n</language>
 	</row>
 	<row id="msg_0728_00401" index="401">
 		<attribute name="window_context_name">used</attribute>
@@ -1690,7 +1690,7 @@
 	</row>
 	<row id="msg_0728_00422" index="422">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jesteśmy grupą trenerów\nFederacji Pokémon Kanto.\fPrzejedziemy się po tobie\nnaszymi kołami!\r</language>
+		<language name="English">Jesteśmy grupą trenerów\nŚwidnickiej Federacji Pokémon.\fPrzejedziemy się po tobie\nnaszymi kołami!\r</language>
 	</row>
 	<row id="msg_0728_00423" index="423">
 		<attribute name="window_context_name">used</attribute>
@@ -1710,11 +1710,11 @@
 	</row>
 	<row id="msg_0728_00427" index="427">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokonany przez jakiegoś\npankera z Johto...\n</language>
+		<language name="English">Pokonany przez jakiegoś\npankera z Regionu Żarów...\n</language>
 	</row>
 	<row id="msg_0728_00428" index="428">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jesteśmy Federacją Pokémon\nKanto!\nŁupu cupu!\r</language>
+		<language name="English">Jesteśmy Świdnicką Federacją\nPokémon!\nŁupu cupu!\r</language>
 	</row>
 	<row id="msg_0728_00429" index="429">
 		<attribute name="window_context_name">used</attribute>
@@ -1774,7 +1774,7 @@
 	</row>
 	<row id="msg_0728_00443" index="443">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mt. Silver jest w Johto,\nprawda?\rTo musi być srebrna góra!\r</language>
+		<language name="English">Mt. Silver jest w Regionie Żarów,\nprawda?\rTo musi być srebrna góra!\r</language>
 	</row>
 	<row id="msg_0728_00444" index="444">
 		<attribute name="window_context_name">used</attribute>
@@ -1930,7 +1930,7 @@
 	</row>
 	<row id="msg_0728_00482" index="482">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Słuchałeś programów radiowych\nKanto? Mamy tu dobrą\frozmaitość.\n</language>
+		<language name="English">Słuchałeś programów radiowych\nRegionu Świdnica? Mamy tu dobrą\frozmaitość.\n</language>
 	</row>
 	<row id="msg_0728_00483" index="483">
 		<attribute name="window_context_name">used</attribute>
@@ -2126,7 +2126,7 @@
 	</row>
 	<row id="msg_0728_00531" index="531">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hej, ty!\nJesteś z Johto, co?\r</language>
+		<language name="English">Hej, ty!\nJesteś z Regionu Żarów, co?\r</language>
 	</row>
 	<row id="msg_0728_00532" index="532">
 		<attribute name="window_context_name">used</attribute>
@@ -2134,11 +2134,11 @@
 	</row>
 	<row id="msg_0728_00533" index="533">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nie bądź zarozumiały, pankerze\nz Johto!\n</language>
+		<language name="English">Nie bądź zarozumiały, pankerze\nz Regionu Żarów!\n</language>
 	</row>
 	<row id="msg_0728_00534" index="534">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hej! Czekałem na ciebie!\nPankerze z Johto!\r</language>
+		<language name="English">Hej! Czekałem na ciebie!\nPankerze z Regionu Żarów!\r</language>
 	</row>
 	<row id="msg_0728_00535" index="535">
 		<attribute name="window_context_name">used</attribute>
@@ -2250,7 +2250,7 @@
 	</row>
 	<row id="msg_0728_00562" index="562">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Myślę, że to niemożliwe,\nby przepłynąć całą drogę do\nJohto.\r</language>
+		<language name="English">Myślę, że to niemożliwe,\nby przepłynąć całą drogę do\nRegionu Żarów.\r</language>
 	</row>
 	<row id="msg_0728_00563" index="563">
 		<attribute name="window_context_name">used</attribute>
@@ -3782,11 +3782,11 @@
 	</row>
 	<row id="msg_0728_00945" index="945">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zastanawiam się, czy są\njakieś góry warte wspinaczki\nw Kanto?\n</language>
+		<language name="English">Zastanawiam się, czy są\njakieś góry warte wspinaczki\nw Regionie Świdnica?\n</language>
 	</row>
 	<row id="msg_0728_00946" index="946">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jadę do Kanto, by\nwystawić pokazy oddychania\nogniem!\r</language>
+		<language name="English">Jadę do Regionu Świdnica, by\nwystawić pokazy oddychania\nogniem!\r</language>
 	</row>
 	<row id="msg_0728_00947" index="947">
 		<attribute name="window_context_name">used</attribute>
@@ -3874,7 +3874,7 @@
 	</row>
 	<row id="msg_0728_00968" index="968">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saffron, Celadon... Słyszałem,\nże jest wiele wielkich miast\nw Kanto.\n</language>
+		<language name="English">Saffron, Celadon... Słyszałem,\nże jest wiele wielkich miast\nw Regionie Świdnica.\n</language>
 	</row>
 	<row id="msg_0728_00969" index="969">
 		<attribute name="window_context_name">used</attribute>
@@ -3890,7 +3890,7 @@
 	</row>
 	<row id="msg_0728_00972" index="972">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jadę do Kanto, by\nprzetestować swoje umiejętności.\r</language>
+		<language name="English">Jadę do Regionu Świdnica, by\nprzetestować swoje umiejętności.\r</language>
 	</row>
 	<row id="msg_0728_00973" index="973">
 		<attribute name="window_context_name">used</attribute>
@@ -3898,7 +3898,7 @@
 	</row>
 	<row id="msg_0728_00974" index="974">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trenerzy z Johto mogą\nwalczyć z Liderami Sal Kanto.\n</language>
+		<language name="English">Trenerzy z Regionu Żarów mogą\nwalczyć ze świdnickimi Liderami Sal.\n</language>
 	</row>
 	<row id="msg_0728_00975" index="975">
 		<attribute name="window_context_name">used</attribute>
@@ -3934,7 +3934,7 @@
 	</row>
 	<row id="msg_0728_00983" index="983">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wydaje się, że audycje\nradiowe Johto mówią o Kanto,\fgdy jesteś w Kanto...\n</language>
+		<language name="English">Wydaje się, że audycje\nradiowe z Żarowa mówią o Świdnicy,\fgdy jesteś w Regionie Świdnica...\n</language>
 	</row>
 	<row id="msg_0728_00984" index="984">
 		<attribute name="window_context_name">used</attribute>
@@ -3958,7 +3958,7 @@
 	</row>
 	<row id="msg_0728_00989" index="989">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nie mogłem znaleźć Króla\nKarate w Johto. Powinien\ftrenować w jakiejś jaskini.\n</language>
+		<language name="English">Nie mogłem znaleźć Króla\nKarate w Regionie Żarów. Powinien\ftrenować w jakiejś jaskini.\n</language>
 	</row>
 	<row id="msg_0728_00990" index="990">
 		<attribute name="window_context_name">used</attribute>
@@ -4018,7 +4018,7 @@
 	</row>
 	<row id="msg_0728_01004" index="1004">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Złapię wszystkie Pokémony,\njakie można znaleźć tylko w\nJohto!\n</language>
+		<language name="English">Złapię wszystkie Pokémony,\njakie można znaleźć tylko w\nRegionie Żarów!\n</language>
 	</row>
 	<row id="msg_0728_01005" index="1005">
 		<attribute name="window_context_name">used</attribute>
@@ -5362,7 +5362,7 @@
 	</row>
 	<row id="msg_0728_01340" index="1340">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Przybyłeś całą drogę z\nJohto? Musisz być naprawdę\nwytrwały!\n</language>
+		<language name="English">Przybyłeś całą drogę z\nRegionu Żarów? Musisz być naprawdę\nwytrwały!\n</language>
 	</row>
 	<row id="msg_0728_01341" index="1341">
 		<attribute name="window_context_name">used</attribute>

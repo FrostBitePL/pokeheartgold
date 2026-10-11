@@ -79,7 +79,7 @@
 	</row>
 	<row id="msg_0412_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reklama: Hej, wszyscy słuchacze\nradia tam. Tu Johtańska Sieć\nRadiowa. Wysyłamy marzenia\npoprzez nasze fale radiowe. La la la,\nRadio Johto!</language>
+		<language name="English">Reklama: Hej, wszyscy słuchacze\nradia tam. Tu Żarowska Sieć\nRadiowa. Wysyłamy marzenia\npoprzez nasze fale radiowe. La la la,\nRadio Żarów!</language>
 	</row>
 	<row id="msg_0412_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
@@ -131,11 +131,11 @@
 	</row>
 	<row id="msg_0412_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reklama: Jeśli chcesz jeździć rowerem\ntyle, ile zapragniesz, pod niebem\nKanto, czemu nie spróbować\nCycling Road?\nCzeka na ciebie przy Route 17.</language>
+		<language name="English">Reklama: Jeśli chcesz jeździć rowerem\ntyle, ile zapragniesz, pod niebem\nŚwidnicy, czemu nie spróbować\nCycling Road?\nCzeka na ciebie przy Route 17.</language>
 	</row>
 	<row id="msg_0412_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reklama: Liga Pokémon czeka na\nciebie, gdy będziesz gotów nas\nwyzwać. Jeśli przybywasz z Kanto,\njesteśmy tuż na końcu\nRoute 22.\nTa wiadomość pochodzi od Ligi\nPokémon.</language>
+		<language name="English">Reklama: Liga Pokémon czeka na\nciebie, gdy będziesz gotów nas\nwyzwać. Jeśli przybywasz z Regionu\nŚwidnica, jesteśmy tuż na końcu\nRoute 22. Ta wiadomość pochodzi od\nLigi Pokémon.</language>
 	</row>
 	<row id="msg_0412_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
@@ -143,7 +143,7 @@
 	</row>
 	<row id="msg_0412_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reklama: Hej wszyscy słuchacze\nradia tam. Tu Kantońska Sieć\nRadiowa. Wysyłamy marzenia\npoprzez fale radiowe. La la la,\nRadio Kanto!</language>
+		<language name="English">Reklama: Hej wszyscy słuchacze\nradia tam. Tu Sowia Sieć\nRadiowa. Wysyłamy marzenia\npoprzez fale radiowe. La la la,\nRadio Sowie!</language>
 	</row>
 	<row id="msg_0412_00036" index="36">
 		<attribute name="window_context_name">used</attribute>

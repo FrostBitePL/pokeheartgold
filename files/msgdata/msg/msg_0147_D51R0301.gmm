@@ -27,15 +27,15 @@
 	</row>
 	<row id="msg_0147_D51R0301_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: Te ośnieżone ruiny sprawiają,\nże się zastanawiam...\rCzas i przestrzeń się zmieniają,\na my razem z nimi. Zostawiamy pewne\frzeczy za sobą i dotrzymujemy sobie\ftowarzystwa...\rSinnoh, Johto...\nGdy czujesz, że jesteś blisko\fzrozumienia całego świata, tak\fnaprawdę tylko toniesz we własnym\fznikomym postrzeganiu.\r</language>
+		<language name="English">Cynthia: Te ośnieżone ruiny sprawiają,\nże się zastanawiam...\rCzas i przestrzeń się zmieniają,\na my razem z nimi. Zostawiamy pewne\frzeczy za sobą i dotrzymujemy sobie\ftowarzystwa...\rSinnoh, Żarów...\nGdy czujesz, że jesteś blisko\fzrozumienia całego świata, tak\fnaprawdę tylko toniesz we własnym\fznikomym postrzeganiu.\r</language>
 	</row>
 	<row id="msg_0147_D51R0301_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dawno temu ludzie czerpali życie\nz Pokémonów, a także oddawali\fswoje życie tym Pokémonom...\rTo pokazuje, że ludzie i Pokémony\nbyli dawniej ze sobą znacznie\fbliżej związani.\rGdy ludzie przemieszczali się z\nmiejsca na miejsce, mity i legendy\fo Pokémonach oraz ich mocy\fprzenosiły się razem z nimi.\rTak właśnie mity i legendy z każdego\nregionu mieszają się ze sobą.\rTutejsze starożytne ruiny odziedziczyły\nlegendy zarówno z {COLOR 1}Ruins of Alph{COLOR 0}\fw Johto, jak i {COLOR 1}Spear Pillar{COLOR 0} w Sinnoh.\rTo dowód na to, że ludzie z Johto\ni Sinnoh zmieszali się w jedną\fgrupę.</language>
+		<language name="English">Dawno temu ludzie czerpali życie\nz Pokémonów, a także oddawali\fswoje życie tym Pokémonom...\rTo pokazuje, że ludzie i Pokémony\nbyli dawniej ze sobą znacznie\fbliżej związani.\rGdy ludzie przemieszczali się z\nmiejsca na miejsce, mity i legendy\fo Pokémonach oraz ich mocy\fprzenosiły się razem z nimi.\rTak właśnie mity i legendy z każdego\nregionu mieszają się ze sobą.\rTutejsze starożytne ruiny\nodziedziczyły legendy zarówno z\f{COLOR 1}Ruins of Alph{COLOR 0} w Regionie Żarów, jak\fi {COLOR 1}Spear Pillar{COLOR 0} w Sinnoh.\rTo dowód na to, że ludzie z Regionu\nŻarów i Sinnoh zmieszali się w jedną\fgrupę.</language>
 	</row>
 	<row id="msg_0147_D51R0301_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mówi się, że ARCEUS wyłonił się\nz Jajka.\rLudzie z Johto wierzą, że Jajka\nPokémonów są naczyniami życia,\fa przez to czymś zdumiewającym.\rMiejsca odległe od siebie mogą\ndzielić podobne mity i legendy...\rTo całkiem interesujące, prawda?</language>
+		<language name="English">Mówi się, że ARCEUS wyłonił się\nz Jajka.\rLudzie z Regionu Żarów wierzą, że\nJajka Pokémonów są naczyniami życia,\fa przez to czymś zdumiewającym.\rMiejsca odległe od siebie mogą\ndzielić podobne mity i legendy...\rTo całkiem interesujące, prawda?</language>
 	</row>
 	<row id="msg_0147_D51R0301_00009" index="9">
 		<attribute name="window_context_name">used</attribute>

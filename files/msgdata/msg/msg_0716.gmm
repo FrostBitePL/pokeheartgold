@@ -86,11 +86,11 @@
 	</row>
 	<row id="msg_0716_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Halo, czy to {STRVAR_1 3, 0, 0}?\rJeszcze tylko jedna Odznaka, zanim\nzbierzesz wszystkie Odznaki Johto!\rLider Sali w Blackthorn ponoć jest\npotężnym Poskromicielem Smoków!</language>
+		<language name="English">Halo, czy to {STRVAR_1 3, 0, 0}?\rJeszcze tylko jedna Odznaka, zanim\nzbierzesz wszystkie żarowskie\fOdznaki!\rLider Sali w Blackthorn ponoć jest\npotężnym Poskromicielem Smoków!</language>
 	</row>
 	<row id="msg_0716_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Halo, czy to {STRVAR_1 3, 0, 0}?\rJeszcze tylko jedna Odznaka, zanim\nzbierzesz wszystkie Odznaki Johto!\rLider Sali w Blackthorn ponoć jest\npotężnym Poskromicielem Smoków!</language>
+		<language name="English">Halo, czy to {STRVAR_1 3, 0, 0}?\rJeszcze tylko jedna Odznaka, zanim\nzbierzesz wszystkie żarowskie\fOdznaki!\rLider Sali w Blackthorn ponoć jest\npotężnym Poskromicielem Smoków!</language>
 	</row>
 	<row id="msg_0716_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
@@ -118,11 +118,11 @@
 	</row>
 	<row id="msg_0716_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Halo, {STRVAR_1 3, 0, 0}?\rSpodziewam się, że są jakieś Pokémony\nw regionie Kanto, których nie znam.\rSą też pewnie metody ewolucji, których\njeszcze nie znam.\rPowinienem wykorzystać tę perspektywę\ni odkryć, co się da!</language>
+		<language name="English">Halo, {STRVAR_1 3, 0, 0}?\rSpodziewam się, że są jakieś\nPokémony w Regionie Świdnica,\fktórych nie znam.\rSą też pewnie metody ewolucji, których\njeszcze nie znam.\rPowinienem wykorzystać tę perspektywę\ni odkryć, co się da!</language>
 	</row>
 	<row id="msg_0716_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Halo, {STRVAR_1 3, 0, 0}?\rSpodziewam się, że są jakieś Pokémony\nw regionie Kanto, których nie znam.\rSą też pewnie metody ewolucji, których\njeszcze nie znam.\rPowinienem wykorzystać tę perspektywę\ni odkryć, co się da!</language>
+		<language name="English">Halo, {STRVAR_1 3, 0, 0}?\rSpodziewam się, że są jakieś\nPokémony w Regionie Świdnica,\fktórych nie znam.\rSą też pewnie metody ewolucji, których\njeszcze nie znam.\rPowinienem wykorzystać tę perspektywę\ni odkryć, co się da!</language>
 	</row>
 	<row id="msg_0716_00031" index="31">
 		<attribute name="window_context_name">used</attribute>

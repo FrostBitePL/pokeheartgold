@@ -114,11 +114,11 @@
 	</row>
 	<row id="msg_0691_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, słyszałem!\rRozpętujesz ogromne zamieszanie\ntam w Kanto!\rCóż to musi być za wspaniałe szaleństwo!\nJesteś tak zajefajny!\rZadzwonię później!</language>
+		<language name="English">{STRVAR_1 3, 0, 0}, słyszałem!\rRozpętujesz ogromne zamieszanie\ntam w Regionie Świdnica!\rCóż to musi być za wspaniałe szaleństwo!\nJesteś tak zajefajny!\rZadzwonię później!</language>
 	</row>
 	<row id="msg_0691_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, słyszałem!\rRozpętujesz ogromne zamieszanie\ntam w Kanto!\rCóż to musi być za wspaniałe szaleństwo!\nJesteś tak zajefajny!\rZadzwonię później!</language>
+		<language name="English">{STRVAR_1 3, 0, 0}, słyszałem!\rRozpętujesz ogromne zamieszanie\ntam w Regionie Świdnica!\rCóż to musi być za wspaniałe szaleństwo!\nJesteś tak zajefajny!\rZadzwonię później!</language>
 	</row>
 	<row id="msg_0691_00030" index="30">
 		<attribute name="window_context_name">used</attribute>

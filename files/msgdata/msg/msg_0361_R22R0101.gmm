@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0361_R22R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tylko Trenerzy, którzy się udowodnili,\nmogą przejść.\rOch! Osiem Odznak z Johto!\nProszę, śmiało przechodź!</language>
+		<language name="English">Tylko Trenerzy, którzy się udowodnili,\nmogą przejść.\rOch! Osiem Odznak z Regionu Żarów!\nProszę, śmiało przechodź!</language>
 	</row>
 	<row id="msg_0361_R22R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -18,15 +18,15 @@
 	</row>
 	<row id="msg_0361_R22R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hę?\nTa droga prowadzi do Kanto...\fAle obawiam się, że ta ścieżka\fjest na razie zablokowana.</language>
+		<language name="English">Hę? Ta droga prowadzi do Regionu\nŚwidnica... Ale obawiam się, że ta\fścieżka jest na razie zablokowana.</language>
 	</row>
 	<row id="msg_0361_R22R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stój tam!\rTa droga prowadzi do Kanto...\nAle obawiam się, że ta ścieżka\fjest na razie zablokowana.\r</language>
+		<language name="English">Stój tam!\rTa droga prowadzi do Regionu\nŚwidnica... Ale obawiam się, że ta\fścieżka jest na razie zablokowana.\r</language>
 	</row>
 	<row id="msg_0361_R22R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Na zachód do Mt. Silver.\nNa wschód do regionu Kanto.\rNa północ do Elitarnej Czwórki!\nAle to już powinieneś/aś wiedzieć,\fskoro pokonałeś/aś Mistrza!</language>
+		<language name="English">Na zachód do Mt. Silver.\nNa wschód do Regionu Świdnica.\rNa północ do Elitarnej Czwórki!\nAle to już powinieneś/aś wiedzieć,\fskoro pokonałeś/aś Mistrza!</language>
 	</row>
 	<row id="msg_0361_R22R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>

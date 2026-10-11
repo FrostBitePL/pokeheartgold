@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0342_R10PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Słyszałem, że Team Rocket znów się\nzorganizował w Johto, ale zaraz\fpotem się rozpadł.\rNic o tym nie wiedziałem.</language>
+		<language name="English">Słyszałem, że Team Rocket znów się\nzorganizował w Regionie Żarów, ale\fzaraz potem się rozpadł.\rNic o tym nie wiedziałem.</language>
 	</row>
 	<row id="msg_0342_R10PC0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>

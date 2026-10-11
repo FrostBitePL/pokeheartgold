@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0467_T04_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Elektrownia Kanto?\rJest blisko końca Route 9, drogi\nprowadzącej stąd na wschód.\rMyślę, że był tam jakiś\nwypadek.</language>
+		<language name="English">Elektrownia w Lubachowie?\rJest blisko końca Route 9, drogi\nprowadzącej stąd na wschód.\rMyślę, że był tam jakiś\nwypadek.</language>
 	</row>
 	<row id="msg_0467_T04_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -50,7 +50,7 @@
 	</row>
 	<row id="msg_0467_T04_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To jest...\nOsławiona Cerulean Cave!\rMieszkają tu przerażająco silne\nPokémony. Tylko ci, którzy pokonali\fwszystkich ośmiu Liderów Sal Kanto,\fmogą się tu zmierzyć.</language>
+		<language name="English">To jest...\nOsławiona Cerulean Cave!\rMieszkają tu przerażająco silne\nPokémony. Tylko ci, którzy pokonali\fwszystkich ośmiu świdnickich Liderów\fSal, mogą się tu zmierzyć.</language>
 	</row>
 	<row id="msg_0467_T04_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

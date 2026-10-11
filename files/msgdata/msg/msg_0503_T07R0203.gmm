@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0503_T07R0203_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow, udało ci się!\nWypełniłeś/aś Pokédex Johto!\rImponujące! Jestem zdumiony!\nNagrodzę cię za to!\fSerio!\r</language>
+		<language name="English">Wow, udało ci się!\nWypełniłeś/aś Pokédex Żarowski!\rImponujące! Jestem zdumiony!\nNagrodzę cię za to!\fSerio!\r</language>
 	</row>
 	<row id="msg_0503_T07R0203_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -30,11 +30,11 @@
 	</row>
 	<row id="msg_0503_T07R0203_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jestem Projektantem Dźwięku!\nKomponuję muzykę.\rDam ci coś fajnego, jeśli uda ci się\nzebrać wszystkie osiem Odznak z Kanto\fi mi je pokażesz.</language>
+		<language name="English">Jestem Projektantem Dźwięku!\nKomponuję muzykę.\rDam ci coś fajnego, jeśli uda ci się\nzebrać wszystkie osiem Odznak z\fRegionu Świdnica i mi je pokażesz.</language>
 	</row>
 	<row id="msg_0503_T07R0203_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jestem Projektantem Dźwięku!\nKomponuję muzykę.\rWow, już zebrałeś/aś wszystkie\nOdznaki z Kanto!\fToż to świetnie!\rDam ci za to coś fajnego.\r</language>
+		<language name="English">Jestem Projektantem Dźwięku!\nKomponuję muzykę.\rWow, już zebrałeś/aś wszystkie\nOdznaki z Regionu Świdnica!\fToż to świetnie!\rDam ci za to coś fajnego.\r</language>
 	</row>
 	<row id="msg_0503_T07R0203_00009" index="9">
 		<attribute name="window_context_name">garbage</attribute>
@@ -59,11 +59,11 @@
 	</row>
 	<row id="msg_0503_T07R0203_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Zgadnij co?\rTen Projektant Dźwięku tam pokazał\nmi coś fajnego.\rTo zaawansowane technologicznie,\nretro urządzenie, żeby słuchać\fmuzyki z Game Boya!\rMówił, że da je każdemu, kto\nzbierze wszystkie Odznaki z Kanto.\rMoże spróbujesz, {STRVAR_1 3, 0, 0}?\nDo zobaczenia!\r</language>
+		<language name="English">Lyra: Zgadnij co?\rTen Projektant Dźwięku tam pokazał\nmi coś fajnego.\rTo zaawansowane technologicznie,\nretro urządzenie, żeby słuchać\fmuzyki z Game Boya!\rMówił, że da je każdemu, kto zbierze\nwszystkie Odznaki z Regionu\fŚwidnica.\rMoże spróbujesz, {STRVAR_1 3, 0, 0}?\nDo zobaczenia!\r</language>
 	</row>
 	<row id="msg_0503_T07R0203_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Zgadnij co?\rTen Projektant Dźwięku tam pokazał\nmi coś fajnego.\rTo zaawansowane technologicznie,\nretro urządzenie, żeby słuchać\fmuzyki z Game Boya!\rMówił, że da je każdemu, kto\nzbierze wszystkie Odznaki z Kanto.\rMoże spróbujesz, {STRVAR_1 3, 0, 0}?\nDo zobaczenia!\r</language>
+		<language name="English">Ethan: Zgadnij co?\rTen Projektant Dźwięku tam pokazał\nmi coś fajnego.\rTo zaawansowane technologicznie,\nretro urządzenie, żeby słuchać\fmuzyki z Game Boya!\rMówił, że da je każdemu, kto zbierze\nwszystkie Odznaki z Regionu\fŚwidnica.\rMoże spróbujesz, {STRVAR_1 3, 0, 0}?\nDo zobaczenia!\r</language>
 	</row>
 	<row id="msg_0503_T07R0203_00016" index="16">
 		<attribute name="window_context_name">used</attribute>

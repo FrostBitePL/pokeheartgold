@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0482_T05R0701_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Przykro mi, ale możesz zwiedzać\ntylko parter.\rOdkąd Wieżę Radiową w Johto przejęła\nprzestępcza szajka, musieliśmy\fwzmocnić nasze zabezpieczenia.</language>
+		<language name="English">Przykro mi, ale możesz zwiedzać\ntylko parter.\rOdkąd Wieżę Radiową w Regionie Żarów\nprzejęła przestępcza szajka,\fmusieliśmy wzmocnić nasze\fzabezpieczenia.</language>
 	</row>
 	<row id="msg_0482_T05R0701_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0482_T05R0701_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Z tym gadżetem możesz złapać jeszcze\nwięcej programów radiowych tutaj,\fw Kanto.\fGahahahaha!</language>
+		<language name="English">Z tym gadżetem możesz złapać jeszcze\nwięcej programów radiowych tutaj,\fw Regionie Świdnica.\fGahahahaha!</language>
 	</row>
 	<row id="msg_0482_T05R0701_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -46,6 +46,6 @@
 	</row>
 	<row id="msg_0482_T05R0701_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ożyw Pokémony Łagodnymi Dźwiękami\nPoké Flute.\rAudycja Poké Flute jest dostępna\ntylko w regionie Kanto.\rSpróbuj złapać ją w górnym zakresie\nradia!</language>
+		<language name="English">Ożyw Pokémony Łagodnymi Dźwiękami\nPoké Flute.\rAudycja Poké Flute jest dostępna\ntylko w Regionie Świdnica.\rSpróbuj złapać ją w górnym zakresie\nradia!</language>
 	</row>
 </body>

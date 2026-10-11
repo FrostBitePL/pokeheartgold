@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0532_T11PC0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jakie są Centra Pokémon w Johto?\r...Och, rozumiem. Więc niewiele\nróżnią się od tych w Kanto.\rW takim razie poproszę mojego\nprzyjaciela w Johto, żeby złapał\fMARILLA i wymienił mi go!</language>
+		<language name="English">Jakie są Centra Pokémon w Regionie\nŻarów?\r...Och, rozumiem. Więc niewiele\nróżnią się od tych w Regionie\fŚwidnica.\rW takim razie poproszę mojego\nprzyjaciela w Regionie Żarów, żeby\fzłapał MARILLA i wymienił mi go!</language>
 	</row>
 	<row id="msg_0532_T11PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>

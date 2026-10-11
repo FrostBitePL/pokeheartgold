@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0475_T05_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Niezły budynek, co?\nTo Wieża Radiowa Kanto.</language>
+		<language name="English">Niezły budynek, co?\nTo Wieża Radiowa na Wielkiej Sowie.</language>
 	</row>
 	<row id="msg_0475_T05_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kanto ma wiele dobrych programów\nradiowych.</language>
+		<language name="English">Region Świdnica ma wiele dobrych\nprogramów radiowych.</language>
 	</row>
 	<row id="msg_0475_T05_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0475_T05_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stacja Radiowa Kanto\nTwoje Ulubione Programy na Antenie\fPrzez Całą Dobę!</language>
+		<language name="English">Radio Sowie\nTwoje Ulubione Programy na Antenie\fPrzez Całą Dobę!</language>
 	</row>
 	<row id="msg_0475_T05_00006" index="6">
 		<attribute name="window_context_name">used</attribute>

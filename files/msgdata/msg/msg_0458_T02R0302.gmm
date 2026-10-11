@@ -47,7 +47,7 @@
 	</row>
 	<row id="msg_0458_T02R0302_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Możesz wymienić swoje Punkty Walki\nna wspaniałe nagrody w Johto\fBattle Frontier!\r</language>
+		<language name="English">Możesz wymienić swoje Punkty Walki\nna wspaniałe nagrody w żarowskim\fBattle Frontier!\r</language>
 	</row>
 	<row id="msg_0458_T02R0302_00012" index="12">
 		<attribute name="window_context_name">used</attribute>

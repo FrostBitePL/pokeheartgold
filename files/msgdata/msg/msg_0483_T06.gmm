@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0483_T06_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vermilion Port to nadmorska\nbrama Kanto.\rLuksusowe liniowce z całego\nświata cumują tutaj.</language>
+		<language name="English">Vermilion Port to nadmorska\nbrama Regionu Świdnica.\rLuksusowe liniowce z całego\nświata cumują tutaj.</language>
 	</row>
 	<row id="msg_0483_T06_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -14,23 +14,23 @@
 	</row>
 	<row id="msg_0483_T06_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">W Kanto jest osiem Sal.\rTen duży budynek to Sala Pokémon\nw Vermilion.</language>
+		<language name="English">W Regionie Świdnica jest osiem Sal.\rTen duży budynek to Sala Pokémon\nw Vermilion.</language>
 	</row>
 	<row id="msg_0483_T06_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">W Kanto zbierają się uzdolnieni\nTrenerzy. Liderzy Sal są szczególnie\fsilni.\rNiełatwo ich będzie pokonać.</language>
+		<language name="English">W Regionie Świdnica zbierają się\nuzdolnieni Trenerzy. Liderzy Sal są\fszczególnie silni.\rNiełatwo ich będzie pokonać.</language>
 	</row>
 	<row id="msg_0483_T06_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zacząłeś/aś zbierać Odznaki\nz Sal Kanto?\rNie zgadzasz się, że Trenerzy\ntutaj są twardzi?</language>
+		<language name="English">Zacząłeś/aś zbierać Odznaki\nze świdnickich Sal?\rNie zgadzasz się, że Trenerzy\ntutaj są twardzi?</language>
 	</row>
 	<row id="msg_0483_T06_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Domyślam się, że wkrótce skończysz\npodbój Sal Kanto.\rDaj mi znać, jak zdobędziesz\nwszystkie osiem Odznak.</language>
+		<language name="English">Domyślam się, że wkrótce skończysz\npodbój świdnickich Sal.\rDaj mi znać, jak zdobędziesz\nwszystkie osiem Odznak.</language>
 	</row>
 	<row id="msg_0483_T06_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gratulacje!\nZdobyłeś/aś wszystkie Odznaki z Sal\fKanto.\rMam nagrodę za twoje wysiłki.\r</language>
+		<language name="English">Gratulacje! Zdobyłeś/aś wszystkie\nOdznaki ze świdnickich Sal.\rMam nagrodę za twoje wysiłki.\r</language>
 	</row>
 	<row id="msg_0483_T06_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -78,11 +78,11 @@
 	</row>
 	<row id="msg_0483_T06_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LATIAS to Pokémon mający wiele\nwspólnego z Soul Dew, klejnotopodobną\fOrbką.\rBiorąc pod uwagę fakt, że LATIAS jest\nteraz w Kanto, można przypuszczać,\fże ma to związek z Soul Dew.\r</language>
+		<language name="English">LATIAS to Pokémon mający wiele\nwspólnego z Soul Dew, klejnotopodobną\fOrbką.\rBiorąc pod uwagę fakt, że LATIAS\njest teraz w Regionie Świdnica,\fmożna przypuszczać, że ma to związek\fz Soul Dew.\r</language>
 	</row>
 	<row id="msg_0483_T06_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LATIOS to Pokémon mający wiele\nwspólnego z Soul Dew, klejnotopodobną\fOrbką.\rBiorąc pod uwagę fakt, że LATIOS jest\nteraz w Kanto, można przypuszczać,\fże ma to związek z Soul Dew.\r</language>
+		<language name="English">LATIOS to Pokémon mający wiele\nwspólnego z Soul Dew, klejnotopodobną\fOrbką.\rBiorąc pod uwagę fakt, że LATIOS\njest teraz w Regionie Świdnica,\fmożna przypuszczać, że ma to związek\fz Soul Dew.\r</language>
 	</row>
 	<row id="msg_0483_T06_00021" index="21">
 		<attribute name="window_context_name">used</attribute>

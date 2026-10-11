@@ -46,7 +46,7 @@
 	</row>
 	<row id="msg_0464_T03R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Są dwa miejsca, które kocham!\nJedno to Ruins of Alph w Johto...\rDrugie to Pewter Museum!\nJest tu tak cicho i spokojnie.\rCzujesz, jak jego godna podziwu\nhistoria bezgłośnie cię ogarnia?</language>
+		<language name="English">Są dwa miejsca, które kocham! Jedno\nto Ruins of Alph w Regionie Żarów...\rDrugie to Pewter Museum!\nJest tu tak cicho i spokojnie.\rCzujesz, jak jego godna podziwu\nhistoria bezgłośnie cię ogarnia?</language>
 	</row>
 	<row id="msg_0464_T03R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
@@ -86,7 +86,7 @@
 	</row>
 	<row id="msg_0464_T03R0101_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Steven: Mówi się, że Soul Dew to\nskrystalizowane dusze LATIAS i LATIOSA.\rMa moc, by ujawnić prawdziwy\npotencjał LATIAS i LATIOSA.\rMówi się, że dusze tych Pokémonów\ni Soul Dew nawołują się\fnawzajem...\rJedyne, co mnie zastanawia, to\nmiejsce, w którym znaleziono Soul Dew.\fDlaczego Kanto?\r</language>
+		<language name="English">Steven: Mówi się, że Soul Dew to\nskrystalizowane dusze LATIAS i LATIOSA.\rMa moc, by ujawnić prawdziwy\npotencjał LATIAS i LATIOSA.\rMówi się, że dusze tych Pokémonów\ni Soul Dew nawołują się\fnawzajem...\rJedyne, co mnie zastanawia, to\nmiejsce, w którym znaleziono Soul Dew.\fDlaczego Region Świdnica?\r</language>
 	</row>
 	<row id="msg_0464_T03R0101_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
@@ -114,10 +114,10 @@
 	</row>
 	<row id="msg_0464_T03R0101_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Są tu grube i dobrze poczytane książki!\r„Zasady Wydobywania Skamieniałości”\f„Podręcznik Archeologii”\f„Zaginione Pokémony”\f„Przodkowie Pokémonów”\f„Przyjaźnie Trenerów i Pokémonów”\f„Opieka nad Gliniastą Warstwą Kanto”</language>
+		<language name="English">Są tu grube i dobrze poczytane książki!\r„Zasady Wydobywania Skamieniałości”\f„Podręcznik Archeologii”\f„Zaginione Pokémony”\f„Przodkowie Pokémonów”\f„Przyjaźnie Trenerów i Pokémonów”\f„Opieka nad Gliną Świdnicy”</language>
 	</row>
 	<row id="msg_0464_T03R0101_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nasze muzeum wystawia głównie\nSkamieniałości i okazy z Kanto.\rCiesz się wymarłymi Pokémonami\npoprzez pamięć o nich i przenieś\fsię w czasie do starożytnego świata.</language>
+		<language name="English">Nasze muzeum wystawia głównie\nSkamieniałości i okazy z Regionu\fŚwidnica.\rCiesz się wymarłymi Pokémonami\npoprzez pamięć o nich i przenieś\fsię w czasie do starożytnego świata.</language>
 	</row>
 </body>

@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0553_T21R0301_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Próbujesz sprawdzić, jak dobrym\njesteś Trenerem Pokémonów?\rLepiej odwiedź Sale Pokémon\nw całym Johto i zbierz Odznaki.</language>
+		<language name="English">Próbujesz sprawdzić, jak dobrym\njesteś Trenerem Pokémonów?\rLepiej odwiedź Sale Pokémon w całym\nRegionie Żarów i zbierz Odznaki.</language>
 	</row>
 	<row id="msg_0553_T21R0301_00001" index="1">
 		<attribute name="window_context_name">used</attribute>

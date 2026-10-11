@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0363_R25_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Misty: Ech! Dlaczego musiałeś/aś\nsię tu zjawić i nam przeszkadzać?\rWiesz, jak nazywa się takich ludzi\njak ty?\rSzkodnikami! Dobrze usłyszałeś/aś,\nszkodnik!\r...\r...Och? Te Odznaki, które masz...\nCzy to Odznaki z Sal w Johto?\rJeśli masz osiem, musisz być dobry/a.\rDobrze, w takim razie. Przyjdź do\nSali w Cerulean.\rZ przyjemnością cię przyjmę.\rJestem Misty, Liderka Sali\nw Cerulean.\r</language>
+		<language name="English">Misty: Ech! Dlaczego musiałeś/aś\nsię tu zjawić i nam przeszkadzać?\rWiesz, jak nazywa się takich ludzi\njak ty?\rSzkodnikami! Dobrze usłyszałeś/aś,\nszkodnik!\r...\r...Och? Te Odznaki, które masz...\nCzy to Odznaki z Sal w Regionie\fŻarów?\rJeśli masz osiem, musisz być dobry/a.\rDobrze, w takim razie. Przyjdź do\nSali w Cerulean.\rZ przyjemnością cię przyjmę.\rJestem Misty, Liderka Sali\nw Cerulean.\r</language>
 	</row>
 	<row id="msg_0363_R25_00001" index="1">
 		<attribute name="window_context_name">used</attribute>

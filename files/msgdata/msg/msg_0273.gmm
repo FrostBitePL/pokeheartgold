@@ -83,7 +83,7 @@
 	</row>
 	<row id="msg_0273_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Największe miasto w Kanto, lśniące\nzłotym blaskiem.</language>
+		<language name="English">Największe miasto w Regionie\nŚwidnica, lśniące złotym blaskiem.</language>
 	</row>
 	<row id="msg_0273_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
@@ -233,11 +233,11 @@
 	</row>
 	<row id="msg_0273_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Uświęcona góra, wznosząca się\npomiędzy regionami Johto i Kanto.</language>
+		<language name="English">Uświęcona góra, wznosząca się\npomiędzy Regionami Żarów i Świdnica.</language>
 	</row>
 	<row id="msg_0273_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mroczny, trudny do przemierzenia tunel,\nktóry biegnie pod regionem Johto.</language>
+		<language name="English">Mroczny, trudny do przemierzenia tunel,\nktóry biegnie pod Regionem Żarów.</language>
 	</row>
 	<row id="msg_0273_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
@@ -250,7 +250,7 @@
 	</row>
 	<row id="msg_0273_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wodospad Tohjo, który łączy\nregiony Kanto i Johto.</language>
+		<language name="English">Wodospad Tohjo, który łączy\nRegiony Świdnica i Żarów.</language>
 	</row>
 	<row id="msg_0273_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
@@ -276,7 +276,7 @@
 	</row>
 	<row id="msg_0273_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Elektrownia zasilająca cały\nregion Kanto.</language>
+		<language name="English">Elektrownia zasilająca cały\nRegion Świdnica.</language>
 	</row>
 	<row id="msg_0273_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
@@ -393,7 +393,7 @@
 	</row>
 	<row id="msg_0273_00096" index="96">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Droga prowadząca z Johto do\nregionu Kanto, jak nowa podróż.</language>
+		<language name="English">Droga prowadząca z Regionu Żarów do\nRegionu Świdnica, jak nowa podróż.</language>
 	</row>
 	<row id="msg_0273_00097" index="97">
 		<attribute name="window_context_name">used</attribute>

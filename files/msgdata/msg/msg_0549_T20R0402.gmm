@@ -70,7 +70,7 @@
 	</row>
 	<row id="msg_0549_T20R0402_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To Wii!\rWii jest wielkim hitem też w Johto!</language>
+		<language name="English">To Wii!\rWii jest wielkim hitem też w\nRegionie Żarów!</language>
 	</row>
 	<row id="msg_0549_T20R0402_00018" index="18">
 		<attribute name="window_context_name">used</attribute>

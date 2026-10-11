@@ -30,11 +30,11 @@
 	</row>
 	<row id="msg_0666_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tu profesor Oak...\rGdy nagrywam mój program radiowy,\nmuszę podróżować tam i z powrotem\fmiędzy Kanto a Johto. To trochę\fmęczące...\rOch, ale nieważne! Świetnie ci idzie\nzapełnianie Pokédexu!</language>
+		<language name="English">Tu profesor Oak...\rGdy nagrywam mój program radiowy,\nmuszę podróżować tam i z powrotem\fmiędzy Świdnicą a Żarowem. To trochę\fmęczące...\rOch, ale nieważne! Świetnie ci idzie\nzapełnianie Pokédexu!</language>
 	</row>
 	<row id="msg_0666_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Halo, tu profesor Oak!\rWygląda na to, że znalazłeś jakieś\nPokémony, które nie pochodzą z regionu\fJohto ani Kanto, prawda?\rJesteś silnym trenerem i naprawdę\ndokonujesz odkryć!</language>
+		<language name="English">Halo, tu profesor Oak!\rWygląda na to, że znalazłeś jakieś\nPokémony, które nie pochodzą ani z\fŻarowa, ani ze Świdnicy, prawda?\rJesteś silnym trenerem i naprawdę\ndokonujesz odkryć!</language>
 	</row>
 	<row id="msg_0666_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -74,7 +74,7 @@
 	</row>
 	<row id="msg_0666_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oceń Pokédex Johto</language>
+		<language name="English">Oceń Pokédex Żarowski</language>
 	</row>
 	<row id="msg_0666_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -90,11 +90,11 @@
 	</row>
 	<row id="msg_0666_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow!\nTo kompletny Pokédex Johto!\rDzięki tobie, {STRVAR_1 3, 0, 0}, Pokédex\nJohto jest kompletny!\rWow...\nWykonałeś niesamowitą pracę!</language>
+		<language name="English">Wow!\nTo kompletny Pokédex Żarowski!\rDzięki tobie, {STRVAR_1 3, 0, 0}, Pokédex\nŻarowski jest kompletny!\rWow...\nWykonałeś niesamowitą pracę!</language>
 	</row>
 	<row id="msg_0666_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow!\nTo kompletny Pokédex Johto!\rDzięki tobie, {STRVAR_1 3, 0, 0}, Pokédex\nJohto jest kompletny!\rWow...\nWykonałeś niesamowitą pracę!</language>
+		<language name="English">Wow!\nTo kompletny Pokédex Żarowski!\rDzięki tobie, {STRVAR_1 3, 0, 0}, Pokédex\nŻarowski jest kompletny!\rWow...\nWykonałeś niesamowitą pracę!</language>
 	</row>
 	<row id="msg_0666_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
@@ -106,7 +106,7 @@
 	</row>
 	<row id="msg_0666_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Naprawdę, zaskoczyłeś mnie!\rAle tak jak się spodziewałem, ukończyłeś\nPokédex Johto.\fJestem tak wdzięczny!\rJeśli masz tyle determinacji,\nto jeszcze bardziej ekscytujące\fprzygody czekają na ciebie w świecie\fPokémonów!</language>
+		<language name="English">Naprawdę, zaskoczyłeś mnie!\rAle tak jak się spodziewałem, ukończyłeś\nPokédex Żarowski.\fJestem tak wdzięczny!\rJeśli masz tyle determinacji,\nto jeszcze bardziej ekscytujące\fprzygody czekają na ciebie w świecie\fPokémonów!</language>
 	</row>
 	<row id="msg_0666_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
@@ -206,7 +206,7 @@
 	</row>
 	<row id="msg_0666_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wiele Pokémonów, których nie ma\nw regionie Johto, lubi zbierać się w\fSafari Zone.\r</language>
+		<language name="English">Wiele Pokémonów, których nie ma\nw Regionie Żarów, lubi zbierać się w\fSafari Zone.\r</language>
 	</row>
 	<row id="msg_0666_00052" index="52">
 		<attribute name="window_context_name">used</attribute>

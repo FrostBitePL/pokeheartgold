@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0460_T03_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ach, przybyłeś/aś aż tutaj\nz Johto?\rTo przywołuje wspomnienia.\rGdy byłem młody, pojechałem do Johto,\nżeby trenować.\rBardzo przypominasz mi mnie samego\njako młodego mężczyznę.\rProszę. Chcę, żebyś dostał/a ten\nprzedmiot, który znalazłem w Johto.\r</language>
+		<language name="English">Ach, przybyłeś/aś aż tutaj\nz Regionu Żarów?\rTo przywołuje wspomnienia.\rGdy byłem młody, pojechałem do\nRegionu Żarów, żeby trenować.\rBardzo przypominasz mi mnie samego\njako młodego mężczyznę.\rProszę. Chcę, żebyś dostał/a ten\nprzedmiot, który znalazłem w\fRegionie Żarów.\r</language>
 	</row>
 	<row id="msg_0460_T03_00003" index="3">
 		<attribute name="window_context_name">garbage</attribute>

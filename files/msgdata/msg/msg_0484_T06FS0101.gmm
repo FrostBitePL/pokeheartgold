@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0484_T06FS0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team Rocket już nie działa w Kanto.\nSamo to sprawia, że jestem szczęśliwy.</language>
+		<language name="English">Team Rocket już nie działa w\nRegionie Świdnica. Samo to sprawia,\fże jestem szczęśliwy.</language>
 	</row>
 	<row id="msg_0484_T06FS0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>

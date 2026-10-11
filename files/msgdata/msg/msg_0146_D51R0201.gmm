@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0146_D51R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: To jest {COLOR 1}Mystri Stage{COLOR 0}.\nMityczna scena zbudowana, by okazać\fszacunek ARCEUSOWI.\rMówi się, że ludzie dawniej\nświętowali jego wspaniałą potęgę\fmuzyką i tańcem.\rNiektórzy ludzie w Johto wciąż\nprzekazują tę tradycję.\r</language>
+		<language name="English">Cynthia: To jest {COLOR 1}Mystri Stage{COLOR 0}.\nMityczna scena zbudowana, by okazać\fszacunek ARCEUSOWI.\rMówi się, że ludzie dawniej\nświętowali jego wspaniałą potęgę\fmuzyką i tańcem.\rNiektórzy ludzie w Regionie Żarów\nwciąż przekazują tę tradycję.\r</language>
 	</row>
 	<row id="msg_0146_D51R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: To jest {COLOR 1}Mystri Stage{COLOR 0}.\nMityczna scena zbudowana, by okazać\fszacunek ARCEUSOWI.\rMówi się, że ludzie dawniej\nświętowali jego wspaniałą potęgę\fmuzyką i tańcem.\rNiektórzy ludzie w Johto wciąż\nprzekazują tę tradycję.</language>
+		<language name="English">Cynthia: To jest {COLOR 1}Mystri Stage{COLOR 0}.\nMityczna scena zbudowana, by okazać\fszacunek ARCEUSOWI.\rMówi się, że ludzie dawniej\nświętowali jego wspaniałą potęgę\fmuzyką i tańcem.\rNiektórzy ludzie w Regionie Żarów\nwciąż przekazują tę tradycję.</language>
 	</row>
 	<row id="msg_0146_D51R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
