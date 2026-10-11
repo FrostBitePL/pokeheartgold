@@ -611,39 +611,39 @@
 	</row>
 	<row id="msg_0238_00152" index="152">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 255}CHIKORITA{COLOR 0}</language>
+		<language name="English">{COLOR 255}BULBASAUR{COLOR 0}</language>
 	</row>
 	<row id="msg_0238_00153" index="153">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 255}BAYLEEF{COLOR 0}</language>
+		<language name="English">{COLOR 255}IVYSAUR{COLOR 0}</language>
 	</row>
 	<row id="msg_0238_00154" index="154">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 255}MEGANIUM{COLOR 0}</language>
+		<language name="English">{COLOR 255}VENUSAUR{COLOR 0}</language>
 	</row>
 	<row id="msg_0238_00155" index="155">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 255}CYNDAQUIL{COLOR 0}</language>
+		<language name="English">{COLOR 255}CHARMANDER{COLOR 0}</language>
 	</row>
 	<row id="msg_0238_00156" index="156">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 255}QUILAVA{COLOR 0}</language>
+		<language name="English">{COLOR 255}CHARMELEON{COLOR 0}</language>
 	</row>
 	<row id="msg_0238_00157" index="157">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 255}TYPHLOSION{COLOR 0}</language>
+		<language name="English">{COLOR 255}CHARIZARD{COLOR 0}</language>
 	</row>
 	<row id="msg_0238_00158" index="158">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 255}TOTODILE{COLOR 0}</language>
+		<language name="English">{COLOR 255}SQUIRTLE{COLOR 0}</language>
 	</row>
 	<row id="msg_0238_00159" index="159">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 255}CROCONAW{COLOR 0}</language>
+		<language name="English">{COLOR 255}WARTORTLE{COLOR 0}</language>
 	</row>
 	<row id="msg_0238_00160" index="160">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 255}FERALIGATR{COLOR 0}</language>
+		<language name="English">{COLOR 255}BLASTOISE{COLOR 0}</language>
 	</row>
 	<row id="msg_0238_00161" index="161">
 		<attribute name="window_context_name">used</attribute>

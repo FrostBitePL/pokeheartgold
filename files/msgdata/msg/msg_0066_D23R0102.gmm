@@ -163,15 +163,15 @@
 	</row>
 	<row id="msg_0066_D23R0102_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CYNDAQUIL</language>
+		<language name="English">CHARMANDER</language>
 	</row>
 	<row id="msg_0066_D23R0102_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TOTODILE</language>
+		<language name="English">SQUIRTLE</language>
 	</row>
 	<row id="msg_0066_D23R0102_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHIKORITA</language>
+		<language name="English">BULBASAUR</language>
 	</row>
 	<row id="msg_0066_D23R0102_00043" index="43">
 		<attribute name="window_context_name">used</attribute>

@@ -610,39 +610,39 @@
 	</row>
 	<row id="msg_0820_00152" index="152">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHIKORITA</language>
+		<language name="English">BULBASAUR</language>
 	</row>
 	<row id="msg_0820_00153" index="153">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BAYLEEF</language>
+		<language name="English">IVYSAUR</language>
 	</row>
 	<row id="msg_0820_00154" index="154">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MEGANIUM</language>
+		<language name="English">VENUSAUR</language>
 	</row>
 	<row id="msg_0820_00155" index="155">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CYNDAQUIL</language>
+		<language name="English">CHARMANDER</language>
 	</row>
 	<row id="msg_0820_00156" index="156">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">QUILAVA</language>
+		<language name="English">CHARMELEON</language>
 	</row>
 	<row id="msg_0820_00157" index="157">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TYPHLOSION</language>
+		<language name="English">CHARIZARD</language>
 	</row>
 	<row id="msg_0820_00158" index="158">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TOTODILE</language>
+		<language name="English">SQUIRTLE</language>
 	</row>
 	<row id="msg_0820_00159" index="159">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CROCONAW</language>
+		<language name="English">WARTORTLE</language>
 	</row>
 	<row id="msg_0820_00160" index="160">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FERALIGATR</language>
+		<language name="English">BLASTOISE</language>
 	</row>
 	<row id="msg_0820_00161" index="161">
 		<attribute name="window_context_name">used</attribute>

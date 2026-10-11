@@ -269,7 +269,7 @@
 	</row>
 	<row id="msg_0635_T30R0601_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémonom wypisanym tutaj\nmożna nauczyć najpotężniejszych ataków!\rPłonące Pokémony typu Ognisty\n{CURSOR_X 7}CHARIZARD TYPHLOSION\f{CURSOR_X 7}BLAZIKEN INFERNAPE\rNiespokojne Pokémony typu Wodny\n{CURSOR_X 7}BLASTOISE FERALIGATR\f{CURSOR_X 7}SWAMPERT EMPOLEON\rSpokojne Pokémony typu Trawiasty\n{CURSOR_X 7}VENUSAUR MEGANIUM\f{CURSOR_X 7}SCEPTILE TORTERRA</language>
+		<language name="English">Pokémonom wypisanym tutaj\nmożna nauczyć najpotężniejszych ataków!\rPłonące Pokémony typu Ognisty\n{CURSOR_X 7}CHARIZARD CHARIZARD\f{CURSOR_X 7}BLAZIKEN INFERNAPE\rNiespokojne Pokémony typu Wodny\n{CURSOR_X 7}BLASTOISE BLASTOISE\f{CURSOR_X 7}SWAMPERT EMPOLEON\rSpokojne Pokémony typu Trawiasty\n{CURSOR_X 7}VENUSAUR VENUSAUR\f{CURSOR_X 7}SCEPTILE TORTERRA</language>
 	</row>
 	<row id="msg_0635_T30R0601_00062" index="62">
 		<attribute name="window_context_name">used</attribute>

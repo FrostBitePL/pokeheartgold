@@ -618,7 +618,7 @@
 	</row>
 	<row id="msg_0818_00154" index="154">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MEGANIUM</language>
+		<language name="English">VENUSAUR</language>
 	</row>
 	<row id="msg_0818_00155" index="155">
 		<attribute name="window_context_name">used</attribute>
@@ -630,7 +630,7 @@
 	</row>
 	<row id="msg_0818_00157" index="157">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TYPHLOSION</language>
+		<language name="English">CHARIZARD</language>
 	</row>
 	<row id="msg_0818_00158" index="158">
 		<attribute name="window_context_name">used</attribute>

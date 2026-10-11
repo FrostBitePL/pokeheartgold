@@ -162,15 +162,15 @@
 	</row>
 	<row id="msg_0662_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, that’s right. How is it to take\nCHIKORITA with you to Route 29?\rI bet it will look like it’s having\ngreat fun!</language>
+		<language name="English">Oh, that’s right. How is it to take\nBULBASAUR with you to Route 29?\rI bet it will look like it’s having\ngreat fun!</language>
 	</row>
 	<row id="msg_0662_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, that’s right. How is it to take\nTOTODILE with you to Route 30?\rI bet it will look like it’s having\ngreat fun!</language>
+		<language name="English">Oh, that’s right. How is it to take\nSQUIRTLE with you to Route 30?\rI bet it will look like it’s having\ngreat fun!</language>
 	</row>
 	<row id="msg_0662_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I bet it would be really\ninteresting to take CYNDAQUIL with you\fto Route 31!\rI heard that CYNDAQUIL really like\nthat area!</language>
+		<language name="English">You know, I bet it would be really\ninteresting to take CHARMANDER with you\fto Route 31!\rI heard that CHARMANDER really like\nthat area!</language>
 	</row>
 	<row id="msg_0662_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
@@ -178,7 +178,7 @@
 	</row>
 	<row id="msg_0662_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, it’s always raining on\nRoute 33. It never stops!\rI get kind of down on rainy days, but I\nknow there’s Pokémon out there that\flove the rain!\r...Like TOTODILE!</language>
+		<language name="English">You know, it’s always raining on\nRoute 33. It never stops!\rI get kind of down on rainy days, but I\nknow there’s Pokémon out there that\flove the rain!\r...Like SQUIRTLE!</language>
 	</row>
 	<row id="msg_0662_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
@@ -262,7 +262,7 @@
 	</row>
 	<row id="msg_0662_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where are you now? Vermilion City?\rThat’s where the Pokémon Fan Club is if\nI recall correctly!\rIf you’ve got a BAYLEEF, you should\ntake it over there to them and say hi!</language>
+		<language name="English">Where are you now? Vermilion City?\rThat’s where the Pokémon Fan Club is if\nI recall correctly!\rIf you’ve got a IVYSAUR, you should\ntake it over there to them and say hi!</language>
 	</row>
 	<row id="msg_0662_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
@@ -454,15 +454,15 @@
 	</row>
 	<row id="msg_0662_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What do you think about taking\nCHIKORITA with you to Route 29?\rI bet it will look like it’s having\ngreat fun!</language>
+		<language name="English">What do you think about taking\nBULBASAUR with you to Route 29?\rI bet it will look like it’s having\ngreat fun!</language>
 	</row>
 	<row id="msg_0662_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What do you think about taking\nTOTODILE with you to Route 30?\rI bet it will look like it’s having\ngreat fun!</language>
+		<language name="English">What do you think about taking\nSQUIRTLE with you to Route 30?\rI bet it will look like it’s having\ngreat fun!</language>
 	</row>
 	<row id="msg_0662_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What do you think about taking\nCYNDAQUIL with you to Route 31?\rI bet it will look like it’s having\ngreat fun!</language>
+		<language name="English">What do you think about taking\nCHARMANDER with you to Route 31?\rI bet it will look like it’s having\ngreat fun!</language>
 	</row>
 	<row id="msg_0662_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
@@ -470,7 +470,7 @@
 	</row>
 	<row id="msg_0662_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, it’s always raining on\nRoute 33. It never stops!\rI get kind of down on rainy days, but I\nknow there’s Pokémon out there that\flove the rain!\r...Like TOTODILE!</language>
+		<language name="English">You know, it’s always raining on\nRoute 33. It never stops!\rI get kind of down on rainy days, but I\nknow there’s Pokémon out there that\flove the rain!\r...Like SQUIRTLE!</language>
 	</row>
 	<row id="msg_0662_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
@@ -554,7 +554,7 @@
 	</row>
 	<row id="msg_0662_00138" index="138">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vermilion City’s where the Pokémon Fan\nClub is if I recall correctly!\rIf you’ve got a BAYLEEF, you should\ntake it over there to them and say hi!</language>
+		<language name="English">Vermilion City’s where the Pokémon Fan\nClub is if I recall correctly!\rIf you’ve got a IVYSAUR, you should\ntake it over there to them and say hi!</language>
 	</row>
 	<row id="msg_0662_00139" index="139">
 		<attribute name="window_context_name">used</attribute>
