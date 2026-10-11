@@ -6,11 +6,11 @@
 	</row>
 	<row id="msg_0514_T08GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Julia: Rozumiem... Pokonałeś/aś\nKogę, mojego ojca i członka\fElitarnej Czwórki, żeby tu dotrzeć.\rNic dziwnego, że jesteś silny/a!\rZdecydowanie wygrałeś/aś...\nOto Odznaka Duszy. Weź ją.\r</language>
+		<language name="English">Julia: Rozumiem... Pokonałeś/aś\nKogę, mojego ojca i członka\fElitarnej Czwórki, żeby tu dotrzeć.\rNic dziwnego, że jesteś silny/a!\rZdecydowanie wygrałeś/aś...\nOto Odznaka Modliszki. Weź ją.\r</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Duszy od Julia!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Modliszki od Julia!</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>

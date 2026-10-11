@@ -54,7 +54,7 @@
 	</row>
 	<row id="msg_0130_D44R0103_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Karol!\rTo dziecko jest nieskazitelne,\nzarówno w umiejętnościach, jak\fi duchu!\rPrzyznaj się do porażki i przyznaj\nOdznakę Wschodzącego Smoka!\r...Czy muszę poinformować o tym\nLance’a?\r</language>
+		<language name="English">Karol!\rTo dziecko jest nieskazitelne,\nzarówno w umiejętnościach, jak\fi duchu!\rPrzyznaj się do porażki i przyznaj\nOdznakę Studni Smoka!\r...Czy muszę poinformować o tym\nLance’a?\r</language>
 	</row>
 	<row id="msg_0130_D44R0103_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -62,15 +62,15 @@
 	</row>
 	<row id="msg_0130_D44R0103_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Proszę, oto Odznaka Wschodzącego\nSmoka... Pospiesz się! Weź ją!\r</language>
+		<language name="English">Proszę, oto Odznaka Studni\nSmoka... Pospiesz się! Weź ją!\r</language>
 	</row>
 	<row id="msg_0130_D44R0103_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Wschodzącego Smoka od Karol!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Studni Smoka od Karol!</language>
 	</row>
 	<row id="msg_0130_D44R0103_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Odznaka Wschodzącego Smoka umożliwi\ntwojemu Pokémonowi używanie ataku\fdo wspinania się po wodospadach.\rPonadto wszystkie Pokémony rozpoznają\ncię jako Trenera i będą bez pytania\fsłuchać każdego twojego rozkazu.\r</language>
+		<language name="English">Odznaka Studni Smoka umożliwi\ntwojemu Pokémonowi używanie ataku\fdo wspinania się po wodospadach.\rPonadto wszystkie Pokémony rozpoznają\ncię jako Trenera i będą bez pytania\fsłuchać każdego twojego rozkazu.\r</language>
 	</row>
 	<row id="msg_0130_D44R0103_00018" index="18">
 		<attribute name="window_context_name">used</attribute>

@@ -2,27 +2,27 @@
 <body language="English">
 	<row id="msg_0582_T25GYM0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wiktor: Cześć! Jestem Wiktor!\r...Ty!\nWłaśnie widziałam cię przy\fWieży Radiowej.\rWszyscy interesowali się Pokémonami,\nwięc ja też zaczęłam!\rPokémony są super słodkie!\rChcesz walczyć?\fOstrzegam - jestem dobra!\r</language>
+		<language name="English">Wiktor: Witaj! Jestem Wiktor!\rPracuję w Szamotowni. Cegła, która\nnie boi się ognia, bierze się z\fgliny, którą trzeba dobrze wypalić.\rZ Pokémonami jest tak samo. Wszystko\nw tym mieście przeszło przez piec.\rChcesz walczyć? Ostrzegam: nie lubię\nprzegrywać!\r</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wiktor: Szlocha...\r...Łiiiiii!\nJesteś podły!\rNie powinieneś być taki poważny!\nTy... ty dzieciaku!</language>
+		<language name="English">Wiktor: Hm... Wypaliło się.\rTo była dobra walka.</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wiktor: Łaaaaa!\rŁaaaaa!\r...Pociąga nosem, hik.\n...Ty podły!</language>
+		<language name="English">Wiktor: Chyba to mnie nauczyło\npokory.</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wiktor: Pociąga nosem...\rCo? Czego chcesz? Odznaki?\rAch tak, zapomniałam.\nProszę, oto Odznaka Prostoty.\r</language>
+		<language name="English">Wiktor: Dobrze. Zgodnie z\nregulaminem Ligi...\rProszę, oto Odznaka Żaru.\r</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Prostoty od Wiktor.</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Żaru od Wiktora!</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wiktor: Odznaka Prostoty pozwala\ntwojemu Pokémonowi używać ataku\fSiła poza walką.\rOch, możesz też dostać to!\r</language>
+		<language name="English">Wiktor: Odznaka Żaru pozwala twojemu\nPokémonowi używać ataku Siła poza\fwalką.\rOch, możesz też dostać to!\r</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00006" index="6">
 		<attribute name="window_context_name">garbage</attribute>
@@ -31,23 +31,23 @@
 	</row>
 	<row id="msg_0582_T25GYM0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wiktor: To Urok!\nW pełni wykorzystuje wdzięk Pokémona.\rCzyż to nie idealne dla takiej\nuroczej dziewczyny jak ja?\fWłaśnie tak!\rSłyszałam, że coś zwanego Kopułą\nPokéathlonu jest teraz otwarte tuż\fobok Parku Narodowego.\rPowinieneś tam spróbować, skoro tak\ndobrze walczysz swoimi Pokémonami!</language>
+		<language name="English">Wiktor: To jest Urok! W pełni\nwykorzystuje wdzięk Pokémona.\rSłyszałem, że obok Parku Kulmizów\notworzyli Arenę GCKiS.\rPowinieneś/powinnaś tam spróbować,\nskoro tak dobrze walczysz swoimi\fPokémonami!</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wiktor: Ach, to był dobry płacz!\rOdwiedź mnie jeszcze! Pa-pa!</language>
+		<language name="English">Wiktor: To był dobry żar. Odwiedź\nmnie jeszcze!</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ojej. Rozpłakałeś Wiktor.\rW porządku. Zaraz przestanie.\nZawsze płacze, gdy przegrywa.\r</language>
+		<language name="English">Wiktor wygląda na zadowolonego.\nZawsze się tak zachowuje, gdy dobrze\fsię spalił.\rW porządku. Zaraz przestanie.\r</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hej! Przyszły Mistrzu!\rTa Sala to dom dla Trenerów\nPokémonów typu Normalny.\rPolecam użyć Pokémonów\ntypu Waleczny.</language>
+		<language name="English">Hej! Przyszły Mistrzu!\rTa Sala jest pełna pieców i ruszy do\nognia.\rPolecam użyć Pokémonów typu Water.</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wygrałeś? Świetnie! Byłem zajęty\npodziwianiem potężnych Trenerów tutaj.</language>
+		<language name="English">Wygrałeś/aś? Świetnie! Byłem zajęty\npodziwianiem potężnych Trenerów\ftutaj.</language>
 	</row>
 	<row id="msg_0582_T25GYM0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>

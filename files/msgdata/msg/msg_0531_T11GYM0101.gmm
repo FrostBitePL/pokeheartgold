@@ -6,11 +6,11 @@
 	</row>
 	<row id="msg_0531_T11GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tymon: Twoja moc...\nZnacznie przewyższa to, co\fprzewidziałam...\rMoże nie da się w pełni przewidzieć,\nco kryje przyszłość...\rDobrze, wygrywasz. Zasłużyłeś/aś\nna Odznakę Bagienną.\r</language>
+		<language name="English">Tymon: Twoja moc...\nZnacznie przewyższa to, co\fprzewidziałam...\rMoże nie da się w pełni przewidzieć,\nco kryje przyszłość...\rDobrze, wygrywasz. Zasłużyłeś/aś\nna Odznakę Uranii.\r</language>
 	</row>
 	<row id="msg_0531_T11GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Bagienną!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Uranii!</language>
 	</row>
 	<row id="msg_0531_T11GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>

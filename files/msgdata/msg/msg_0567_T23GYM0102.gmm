@@ -2,19 +2,19 @@
 <body language="English">
 	<row id="msg_0567_T23GYM0102_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dorota: Jestem Dorota!\nNigdy nie przegrywam, gdy chodzi\fo Pokémony typu Robaczkowy.\rMoje badania uczynią mnie\nautorytetem w tej dziedzinie!\rPozwól, że pokażę ci, czego\nnauczyłem się z moich studiów.\r</language>
+		<language name="English">Dorota: Jestem Dorota! Nigdy nie\nprzegrywam, gdy chodzi o Pokémony\ftypu Grass.\rMoje badania nad lasem Wostówka\nuczynią mnie autorytetem w tej\fdziedzinie!\rPozwól, że pokażę ci, czego\nnauczyłam się z moich studiów.\r</language>
 	</row>
 	<row id="msg_0567_T23GYM0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dorota: Wow, niesamowite!\nJesteś ekspertem od Pokémonów!\rMoje badania jeszcze nie są\nukończone. Dobrze, wygrałeś.\fWeź tę Odznakę.\r</language>
+		<language name="English">Dorota: Wow, niesamowite! Jesteś\nekspertem od Pokémonów!\rMoje badania jeszcze nie są\nukończone. Dobrze, wygrałeś/aś.\rWeź tę Odznakę.\r</language>
 	</row>
 	<row id="msg_0567_T23GYM0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Ula od Doroty!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Wostówki od Doroty!</language>
 	</row>
 	<row id="msg_0567_T23GYM0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dorota: Znasz korzyści płynące\nz Odznaki Ula?\rDzięki niej Pokémony do poziomu 30\nbędą cię słuchać, nawet wymienione.\rPokémony znające atak Cięcie będą\nmogły go używać też poza walką.\rProszę, chcę też, żebyś to miał.\r</language>
+		<language name="English">Dorota: Znasz korzyści płynące z\nOdznaki Wostówki?\rDzięki niej Pokémony do poziomu 30\nbędą cię słuchać, nawet wymienione.\rPokémony znające atak Cięcie będą\nmogły go używać też poza walką.\rProszę, chcę też, żebyś miał/a to.\r</language>
 	</row>
 	<row id="msg_0567_T23GYM0102_00004" index="4">
 		<attribute name="window_context_name">garbage</attribute>
@@ -27,6 +27,6 @@
 	</row>
 	<row id="msg_0567_T23GYM0102_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dorota: Pokémony typu Robaczkowy\nsą złożone. Jest wiele tajemnic\fdo odkrycia.\rDokładnie badaj swoich faworytów.</language>
+		<language name="English">Dorota: Pokémony typu Grass są\nzłożone. Jest wiele tajemnic do\fodkrycia.\rDokładnie badaj swoich faworytów.</language>
 	</row>
 </body>

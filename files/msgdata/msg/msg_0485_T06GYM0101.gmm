@@ -6,15 +6,15 @@
 	</row>
 	<row id="msg_0485_T06GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kalina: Arrrgh!\nJesteś silny/a!\rDobra, dzieciaku.\nDostajesz Odznakę Pioruna!\r</language>
+		<language name="English">Kalina: Arrrgh!\nJesteś silny/a!\rDobra, dzieciaku.\nDostajesz Odznakę Grodna!\r</language>
 	</row>
 	<row id="msg_0485_T06GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Pioruna od Porucznika Kaliny!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Grodna od Porucznika Kaliny!</language>
 	</row>
 	<row id="msg_0485_T06GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kalina: Ta Odznaka Pioruna\npasuje tym, którzy mnie pokonali!\fZadbaj o nią dobrze, dobra?\rJest jeszcze coś.\nMasz świetne TM dla siebie!\r</language>
+		<language name="English">Kalina: Ta Odznaka Grodna\npasuje tym, którzy mnie pokonali!\fZadbaj o nią dobrze, dobra?\rJest jeszcze coś.\nMasz świetne TM dla siebie!\r</language>
 	</row>
 	<row id="msg_0485_T06GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>

@@ -2,15 +2,15 @@
 <body language="English">
 	<row id="msg_0622_T28GYM0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Beniamin: Pokémony przeżywają w\nswoim życiu wiele, tak jak my.\rJa też wiele widziałem i wycierpiałem\nw swoim życiu.\rSkoro jestem od ciebie starszy, pozwól,\nże pokażę ci, o co mi chodzi.\rTrenuję Pokémony, odkąd jeszcze się\nnie urodziłeś/aś.\rNie przegrywam łatwo.\nJa, Beniamin--Zimowy Trener--\fpokażę ci swoją moc!\r</language>
+		<language name="English">Beniamin: Trzydzieści lat mieszałem\nkwas dla tego miasta. Potem zamknęli\fbramę i okazało się, że jesteśmy\nniepotrzebni.\rŁukasz powiedział, że Geneza będzie\ndrugą „Silesią”. Uwierzyłem, bo\fchciałem.\rTy byś nie chciał/a?\rNie przegrywam łatwo. Ja, Beniamin,\npokażę ci swoją moc! Pokémony typu\fPoison to moja specjalność!\r</language>
 	</row>
 	<row id="msg_0622_T28GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Beniamin: Jestem pod wrażeniem\ntwojej siły.\rZ twoją silną wolą wiem, że\npokonasz wszystkie przeszkody życia.\fZasługujesz na tę Odznakę!\r</language>
+		<language name="English">Beniamin: Jestem pod wrażeniem\ntwojej siły.\rZ twoją silną wolą wiem, że pokonasz\nwszystkie przeszkody życia.\rZasługujesz na tę Odznakę!\r</language>
 	</row>
 	<row id="msg_0622_T28GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nLodowcową Odznakę od Beniamina!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Fiolki od Beniamina!</language>
 	</row>
 	<row id="msg_0622_T28GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0622_T28GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Beniamin: Gdy lód i śnieg topnieją,\nnadchodzi wiosna.\rTy i twój Pokémon będziecie razem\njeszcze przez wiele lat.\fCeń sobie ten wspólny czas!</language>
+		<language name="English">Beniamin: To, co zrobiłem dla\nGenezy, zrobiłem z wiary, nie z\fchciwości.\rTy i twój Pokémon będziecie razem\njeszcze przez wiele lat.\rCeń sobie ten wspólny czas!</language>
 	</row>
 	<row id="msg_0622_T28GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>

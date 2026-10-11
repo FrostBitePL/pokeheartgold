@@ -2,15 +2,15 @@
 <body language="English">
 	<row id="msg_0558_T22GYM0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ania: Jestem Ania, Liderem Sali\nPokémon w Łażanach!\rLudzie mówią, że można podciąć\nskrzydła Pokémonom typu Latający\fwyładowaniem elektrycznym...\rNie pozwolę na takie obelgi wobec\nptasich Pokémonów!\rPokażę ci prawdziwą siłę\nwspaniałych ptasich Pokémonów!\r</language>
+		<language name="English">Ania: Jestem Ania, Liderka Sali\nPokémon w Łażanach!\rMój ojciec zbudował tę Salę nad\nstarym wyrobiskiem, w którym kryje\fsię granit i kamienie z całego\nświata.\rW skale jest cierpliwość i\nwytrzymałość. Dziś sprawdzę, czy\fmasz jedno i drugie!\rPokażę ci prawdziwą siłę Pokémonów\ntypu Rock!\r</language>
 	</row>
 	<row id="msg_0558_T22GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ania: ...A niech to!\nUkochany ptasi Pokémon mojego taty...\rAle porażka to porażka.\nDobrze.\rWeź tę oficjalną Odznakę\nLigi Pokémon.\fTo jest Odznaka Zefiru.\r</language>
+		<language name="English">Ania: ...Niech to! Ten most stał sto\npięćdziesiąt lat, zanim go\fwysadzili. Części leżały w rzece i\nczekały.\rTy też umiesz czekać. Dobrze.\nPrzegrana to przegrana.\rWeź tę oficjalną Odznakę Ligi\nPokémon.\rTo jest Odznaka Spinelu.\r</language>
 	</row>
 	<row id="msg_0558_T22GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Zefiru od Ani!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Spinelu od Ani!</language>
 	</row>
 	<row id="msg_0558_T22GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -22,15 +22,15 @@
 	</row>
 	<row id="msg_0558_T22GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ania: W miastach przed tobą\nznajdują się Sale Pokémon.\rPowinieneś sprawdzić swoje\numiejętności w tych Salach.\rJeśli chodzi o twój następny krok...\fPoleciłbym Kalno.\rBędę trenować jeszcze ciężej, by\nzostać najlepszym Hodowcą Ptaków!</language>
+		<language name="English">Ania: W miastach przed tobą znajdują\nsię Sale Pokémon.\rPowinieneś/powinnaś sprawdzić swoje\numiejętności w tych Salach.\rJeśli chodzi o twój następny krok...\nPoleciłabym Kalno.\rJa będę trenować jeszcze ciężej,\nżeby być twardsza od własnej skały!</language>
 	</row>
 	<row id="msg_0558_T22GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hej! Przyszły Mistrzu!\nJesteś tu pewnie, by rzucić wyzwanie\fFalknerowi, Liderowi Sali, prawda?\rWitaj serdecznie.\n...Prawie!\rW tym mieście jest wieża zwana\nSprout Tower, gdzie Trenerzy\fprzychodzą się szkolić.\rWyzwanie Ani może być zbyt\ntrudne, jeśli nie przeszedłeś\fich treningu.\fHa ha ha!</language>
+		<language name="English">Hej! Przyszły Mistrzu! Jesteś tu\npewnie, by rzucić wyzwanie Ani,\fLiderce Sali, prawda?\rWitaj serdecznie. ...Prawie!\rW tym mieście jest Wodna Wieża,\ngdzie Bractwo Mostu szkoli Trenerów.\rWyzwanie Ani może być zbyt trudne,\njeśli nie przeszedłeś/aś ich\ftreningu. Ha ha ha!</language>
 	</row>
 	<row id="msg_0558_T22GYM0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hej, Przyszły Mistrzu!\nNie jestem Trenerem, ale mogę dać\fparę rad!\fUwierz mi!\fJeśli uwierzysz, marzenie\fo mistrzostwie może się spełnić.\rWierzysz?\nWięc słuchaj.\rTyp Trawiasty jest słaby przeciwko\ntypowi Latającemu. Zapamiętaj to.</language>
+		<language name="English">Hej, Przyszły Mistrzu! Nie jestem\nTrenerem, ale mogę dać parę rad!\rUwierz mi! Jeśli uwierzysz, marzenie\no mistrzostwie może się spełnić.\rWierzysz? Więc słuchaj.\rTyp Rock jest słaby przeciwko typom\nWater i Grass. Zapamiętaj to.</language>
 	</row>
 	<row id="msg_0558_T22GYM0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>

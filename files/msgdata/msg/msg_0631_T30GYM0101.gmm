@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0631_T30GYM0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo! Przyszły Mistrzu!\rTa Sala ma niestabilne podłoże.\nTrzymaj swoje Pokémony w Poké Ballach.\rClair używa mitycznych i świętych\nPokémonów typu Smoczy.\rNie da się im łatwo zaszkodzić.\rAle wiesz, podobno są słabe\nprzeciwko atakom typu Lodowy.</language>
+		<language name="English">Yo! Przyszły Mistrzu!\rTa Sala stoi nad studnią głęboką na\n31 metrów. Trzymaj swoje Pokémony\fblisko siebie.\rKarol używa mitycznych i świętych\nPokémonów typu Dragon.\rNie da się im łatwo zaszkodzić.\rAle wiesz, podobno są słabe\nprzeciwko atakom typu Ice.</language>
 	</row>
 	<row id="msg_0631_T30GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -14,11 +14,11 @@
 	</row>
 	<row id="msg_0631_T30GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Karol: Jestem Karol.\rNajlepsza mistrzyni typu Smoczy\nna świecie.\rMogę stawić czoła nawet Elitarnej\nCzwórce Ligi Pokémon.\rWciąż chcesz się ze mną zmierzyć?\r...Dobrze.\nZróbmy to!\rJako Liderka Sali, użyję pełni\nmojej mocy przeciwko każdemu\fprzeciwnikowi!\r</language>
+		<language name="English">Karol: Jestem Karol.\rNajlepszy mistrz typu Dragon na\nświecie.\rMogę stawić czoła nawet Elitarnej\nCzwórce Ligi Pokémon.\rWciąż chcesz się ze mną zmierzyć?\n...Dobrze. Zróbmy to!\rJako Lider Sali użyję pełni mojej\nmocy przeciwko każdemu\fprzeciwnikowi!\r</language>
 	</row>
 	<row id="msg_0631_T30GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Karol: Nie ustąpię w tej sprawie.\rMogłam przegrać, ale wciąż nie jesteś\ngotowy/a na Ligę Pokémon.\rWiem. Powinieneś/aś podjąć\nwyzwanie Smoczego Mistrza.\rZa tą Salą jest miejsce zwane\nLegowiskiem Smoków. W jego sercu jest\fmała świątynia.\fIdź tam.\rJeśli udowodnisz, że pozbyłeś/aś się\nswoich leniwych ideałów, uznam cię za\fTrenera godnego Odznaki Sali!</language>
+		<language name="English">Karol: Nie ustąpię w tej sprawie.\rMogłem przegrać, ale wciąż nie\njesteś gotowy/a na Ligę Pokémon.\rWiem. Powinieneś/powinnaś podjąć\nwyzwanie Smoczej Studni.\rZa tą Salą jest zejście, które\nnazywamy Smoczą Studnią. W jej sercu\fjest mała świątynia. Idź tam.\rJeśli udowodnisz, że pozbyłeś/aś się\nswoich leniwych ideałów, uznam cię\fza Trenera godnego Odznaki Studni!</language>
 	</row>
 	<row id="msg_0631_T30GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -38,7 +38,7 @@
 	</row>
 	<row id="msg_0631_T30GYM0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Karol: Co się dzieje?\rNie zmierzasz do Ligi\nPokémon?\rTwoja twarz... mówi mi, że masz\njakąś niedokończoną sprawę...\rZaczekaj chwilę!\nPrzybyłeś/aś z Wierzbnej,\fgdzie jest Laboratorium Profesora\fElma, prawda?\rMoże powinieneś/aś wrócić\ndo Wierzbnej.\rCokolwiek cię teraz czeka,\nbędzie trudniejsze.\rAle nie waż się poddawać!\rBo jeśli to zrobisz, będę się\nczuła jeszcze gorzej z tym, że\fprzegrałam z tobą!\r...\nDaj z siebie wszystko.</language>
+		<language name="English">Karol: Co się dzieje?\rNie zmierzasz do Ligi Pokémon?\rTwoja twarz... mówi mi, że masz\njakąś niedokończoną sprawę...\rZaczekaj chwilę! Przybyłeś/aś z\nWierzbnej, gdzie jest Laboratorium\fProfesora Mariusza, prawda?\rMoże powinieneś/powinnaś tam wrócić.\rCokolwiek cię teraz czeka, będzie\ntrudniejsze. Ale nie waż się\fpoddawać!\rBo jeśli to zrobisz, będę się czuł\njeszcze gorzej!</language>
 	</row>
 	<row id="msg_0631_T30GYM0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>

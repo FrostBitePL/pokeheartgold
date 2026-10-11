@@ -6,11 +6,11 @@
 	</row>
 	<row id="msg_0053_D11R0106_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oskar: Wspaniale. Wypaliłem się...\fWeź tę Odznakę Wulkanu!\r</language>
+		<language name="English">Oskar: Wspaniale. Wypaliłem się...\fWeź tę Odznakę Szronu!\r</language>
 	</row>
 	<row id="msg_0053_D11R0106_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Wulkanu od Oskara!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Szronu od Oskara!</language>
 	</row>
 	<row id="msg_0053_D11R0106_00003" index="3">
 		<attribute name="window_context_name">used</attribute>

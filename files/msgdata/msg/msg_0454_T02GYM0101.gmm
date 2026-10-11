@@ -6,11 +6,11 @@
 	</row>
 	<row id="msg_0454_T02GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nadia: Nie ma mowy!\rJak, do diabła, przegrałem z tobą?\r...\rTch, dobra...\fProszę, weź to.\fTo Odznaka Ziemi.\r</language>
+		<language name="English">Nadia: Nie ma mowy!\rJak, do diabła, przegrałem z tobą?\r...\rTch, dobra...\fProszę, weź to.\fTo Odznaka Pojednania.\r</language>
 	</row>
 	<row id="msg_0454_T02GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Ziemi od Nadia!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Pojednania od Nadia!</language>
 	</row>
 	<row id="msg_0454_T02GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
