@@ -60,7 +60,11 @@ void GMM::WriteGmmHeader(const string &_filename) {
     for (size_t i = 0; i < id_strings.size(); i++) {
         auto message_lines = SplitMessage(messages[i]);
         for (const auto & message_line : message_lines) {
-            hstrm << "// " << message_line << endl;
+            string safe;
+            for (unsigned char ch : message_line) {
+                safe += (ch < 0x20 || ch >= 0x7F || ch == '\\') ? '?' : (char)ch;
+            }
+            hstrm << "// " << safe << endl;
         }
         hstrm << "#define " << id_strings[i] << " " << i << endl;
     }
