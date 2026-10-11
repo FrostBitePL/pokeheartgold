@@ -110,7 +110,7 @@
 	</row>
 	<row id="msg_0543_T20R0101_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rozumiem! Więc nazywał się {STRVAR_1\n3, 1, 0}. {YESNO 0}</language>
+		<language name="English">Rozumiem! Więc nazywał się {STRVAR_1 3, 1, 0}.\n{YESNO 0}</language>
 	</row>
 	<row id="msg_0543_T20R0101_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
@@ -178,11 +178,11 @@
 	</row>
 	<row id="msg_0543_T20R0101_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Mariusz: Cześć, {STRVAR_1\n3, 0, 0}! Jak się masz?\rJak miewa się Jajko? Zabierasz je ze\nsobą wszędzie?\rCzas i troska sprawią, że w końcu\nwykluje się z niego zdrowy Pokémon!</language>
+		<language name="English">Profesor Mariusz: Cześć, {STRVAR_1 3, 0, 0}!\nJak się masz?\rJak miewa się Jajko? Zabierasz je ze\nsobą wszędzie?\rCzas i troska sprawią, że w końcu\nwykluje się z niego zdrowy Pokémon!</language>
 	</row>
 	<row id="msg_0543_T20R0101_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Mariusz: Cześć, {STRVAR_1\n3, 0, 0}! Jak się masz?\rJak miewa się Jajko? Zabierasz je ze\nsobą wszędzie?\rCzas i troska sprawią, że w końcu\nwykluje się z niego zdrowy Pokémon!</language>
+		<language name="English">Profesor Mariusz: Cześć, {STRVAR_1 3, 0, 0}!\nJak się masz?\rJak miewa się Jajko? Zabierasz je ze\nsobą wszędzie?\rCzas i troska sprawią, że w końcu\nwykluje się z niego zdrowy Pokémon!</language>
 	</row>
 	<row id="msg_0543_T20R0101_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
@@ -242,19 +242,19 @@
 	</row>
 	<row id="msg_0543_T20R0101_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Mariusz: Cześć, {STRVAR_1\n3, 0, 0}! Nigdy nie przestajesz mnie\fzadziwiać!\rDzięki tobie moje badania idą\nświetnie!\rWeź to jako wyraz mojej\nwdzięczności.\r</language>
+		<language name="English">Profesor Mariusz: Cześć, {STRVAR_1 3, 0, 0}!\nNigdy nie przestajesz mnie\fzadziwiać!\rDzięki tobie moje badania idą\nświetnie!\rWeź to jako wyraz mojej\nwdzięczności.\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Mariusz: Cześć, {STRVAR_1\n3, 0, 0}! Nigdy nie przestajesz mnie\fzadziwiać!\rDzięki tobie moje badania idą\nświetnie!\rWeź to jako wyraz mojej\nwdzięczności.\r</language>
+		<language name="English">Profesor Mariusz: Cześć, {STRVAR_1 3, 0, 0}!\nNigdy nie przestajesz mnie\fzadziwiać!\rDzięki tobie moje badania idą\nświetnie!\rWeź to jako wyraz mojej\nwdzięczności.\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Master Ball jest najlepsza!\rTo najlepsza Poké Ball! Złapie\nkażdego Pokémona bez pudła.\rDostają ją tylko znani badacze\nPokémonów.\rMyślę, że ty zrobisz z niej znacznie\nlepszy użytek niż ja, {STRVAR_1 3,\f0, 0}!\r</language>
+		<language name="English">Master Ball jest najlepsza!\rTo najlepsza Poké Ball! Złapie\nkażdego Pokémona bez pudła.\rDostają ją tylko znani badacze\nPokémonów.\rMyślę, że ty zrobisz z niej znacznie\nlepszy użytek niż ja, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Master Ball jest najlepsza!\rTo najlepsza Poké Ball! Złapie\nkażdego Pokémona bez pudła.\rDostają ją tylko znani badacze\nPokémonów.\rMyślę, że ty zrobisz z niej znacznie\nlepszy użytek niż ja, {STRVAR_1 3,\f0, 0}!\r</language>
+		<language name="English">Master Ball jest najlepsza!\rTo najlepsza Poké Ball! Złapie\nkażdego Pokémona bez pudła.\rDostają ją tylko znani badacze\nPokémonów.\rMyślę, że ty zrobisz z niej znacznie\nlepszy użytek niż ja, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
@@ -338,11 +338,11 @@
 	</row>
 	<row id="msg_0543_T20R0101_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Mariusz: Cześć, {STRVAR_1\n3, 0, 0}!\r</language>
+		<language name="English">Profesor Mariusz: Cześć, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Mariusz: Cześć, {STRVAR_1\n3, 0, 0}!\r</language>
+		<language name="English">Profesor Mariusz: Cześć, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
@@ -370,7 +370,7 @@
 	</row>
 	<row id="msg_0543_T20R0101_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chcesz uleczyć swoje Pokémony?\n{YESNO 0}</language>
+		<language name="English">Chcesz uleczyć swoje Pokémony? {YESNO 0}</language>
 	</row>
 	<row id="msg_0543_T20R0101_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
@@ -394,19 +394,19 @@
 	</row>
 	<row id="msg_0543_T20R0101_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Mariusz: Cześć, {STRVAR_1\n3, 0, 0}! Jak się masz?\rJestem pewien, że możesz zostać\nnastępnym Mistrzem po tym, jak\fzaopiekowałeś/aś się tym Jajkiem!</language>
+		<language name="English">Profesor Mariusz: Cześć, {STRVAR_1 3, 0, 0}!\nJak się masz?\rJestem pewien, że możesz zostać\nnastępnym Mistrzem po tym, jak\fzaopiekowałeś/aś się tym Jajkiem!</language>
 	</row>
 	<row id="msg_0543_T20R0101_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Mariusz: Cześć, {STRVAR_1\n3, 0, 0}! Jak się masz?\rJestem pewien, że możesz zostać\nnastępnym Mistrzem po tym, jak\fzaopiekowałeś/aś się tym Jajkiem!</language>
+		<language name="English">Profesor Mariusz: Cześć, {STRVAR_1 3, 0, 0}!\nJak się masz?\rJestem pewien, że możesz zostać\nnastępnym Mistrzem po tym, jak\fzaopiekowałeś/aś się tym Jajkiem!</language>
 	</row>
 	<row id="msg_0543_T20R0101_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chciałbym zobaczyć Pokémona, który\nwykluł się z tego Jajka, {STRVAR_1\f3, 0, 0}.</language>
+		<language name="English">Chciałbym zobaczyć Pokémona, który\nwykluł się z tego Jajka, {STRVAR_1 3, 0, 0}.</language>
 	</row>
 	<row id="msg_0543_T20R0101_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chciałbym zobaczyć Pokémona, który\nwykluł się z tego Jajka, {STRVAR_1\f3, 0, 0}.</language>
+		<language name="English">Chciałbym zobaczyć Pokémona, który\nwykluł się z tego Jajka, {STRVAR_1 3, 0, 0}.</language>
 	</row>
 	<row id="msg_0543_T20R0101_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
