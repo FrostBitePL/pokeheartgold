@@ -1050,7 +1050,7 @@ BOOL ScrCmd_GiveTogepiEgg(ScriptContext *ctx) {
     mon = AllocMonZeroed(HEAP_ID_FIELD2);
     ZeroMonData(mon);
 
-    SetEggStats(mon, SPECIES_TOGEPI, 1, profile, 3, sub_02017FE4(MAPSECTYPE_GIFT, MAPLOC(METLOC_MR_POKEMON)));
+    SetEggStats(mon, SPECIES_EEVEE, 1, profile, 3, sub_02017FE4(MAPSECTYPE_GIFT, MAPLOC(METLOC_MR_POKEMON)));
 
     for (i = 0; i < MAX_MON_MOVES; i++) {
         if (GetMonData(mon, MON_DATA_MOVE1 + i, 0) == MOVE_NONE) {
@@ -1062,7 +1062,7 @@ BOOL ScrCmd_GiveTogepiEgg(ScriptContext *ctx) {
         i = MAX_MON_MOVES - 1;
     }
 
-    moveData = MOVE_EXTRASENSORY;
+    moveData = MOVE_COVET;
     SetMonData(mon, MON_DATA_MOVE1 + i, &moveData);
 
     pp = GetMonData(mon, MON_DATA_MOVE1_MAX_PP + i, 0);

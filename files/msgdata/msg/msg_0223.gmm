@@ -1938,7 +1938,7 @@
 	</row>
 	<row id="msg_0223_00484" index="484">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 255}Tajemnicze Jajko{COLOR 0}</language>
+		<language name="English">{COLOR 255}Zalakowana Fiolka{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00485" index="485">
 		<attribute name="window_context_name">used</attribute>

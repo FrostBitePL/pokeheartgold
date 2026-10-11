@@ -20,7 +20,7 @@
     },
     {
       "id": "obj_R30R0201_ookido",
-      "spriteId": "SPRITE_OOKIDO",
+      "spriteId": "SPRITE_GSWOMAN3",
       "movement": 0,
       "type": 0,
       "eventFlag": "FLAG_HIDE_MR_POKEMONS_HOUSE_OAK",

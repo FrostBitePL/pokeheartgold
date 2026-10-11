@@ -1961,7 +1961,7 @@
 	</row>
 	<row id="msg_0221_00484" index="484">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tajemnicze Jajko zdobyte od\nPana Pokémona. Co jest w środku,\nnie wiadomo.</language>
+		<language name="English">Zalakowana fiolka od Wacka. Co jest\nw środku, wie tylko Profesor Mariusz.</language>
 	</row>
 	<row id="msg_0221_00485" index="485">
 		<attribute name="window_context_name">used</attribute>
