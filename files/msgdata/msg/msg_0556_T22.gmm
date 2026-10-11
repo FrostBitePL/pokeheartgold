@@ -42,7 +42,7 @@
 	</row>
 	<row id="msg_0556_T22_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Łażanach\nLider: Ania\fElegancki Mistrz Pokémonów Latających</language>
+		<language name="English">Sala Pokémon w Łażanach\nLiderka: Ania\fElegancki Mistrz Pokémonów Latających</language>
 	</row>
 	<row id="msg_0556_T22_00011" index="11">
 		<attribute name="window_context_name">used</attribute>

@@ -55,6 +55,6 @@
 	</row>
 	<row id="msg_0582_T25GYM0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Żarowie\rLiderka: Wiktor\nCertyfikowany Trener!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Sala Pokémon w Żarowie\rLider: Wiktor\nCertyfikowany Trener!\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 </body>

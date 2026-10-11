@@ -46,6 +46,6 @@
 	</row>
 	<row id="msg_0631_T30GYM0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Pożarzysku\rLiderka: Karol\nCertyfikowany Trener!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Sala Pokémon w Pożarzysku\rLider: Karol\nCertyfikowany Trener!\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 </body>

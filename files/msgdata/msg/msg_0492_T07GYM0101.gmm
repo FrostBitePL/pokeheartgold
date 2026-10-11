@@ -26,6 +26,6 @@
 	</row>
 	<row id="msg_0492_T07GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Świebodzicach\rLiderka Sali: Bartek\nCertyfikowany Trener!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Sala Pokémon w Świebodzicach\rLider Sali: Bartek\nCertyfikowany Trener!\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 </body>

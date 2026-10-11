@@ -126,7 +126,7 @@
 	</row>
 	<row id="msg_0491_T07_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Świebodzicach\nLiderka: Bartek\fKsiężniczka Kochająca Naturę!</language>
+		<language name="English">Sala Pokémon w Świebodzicach\nLider: Bartek\fKsiężniczka Kochająca Naturę!</language>
 	</row>
 	<row id="msg_0491_T07_00032" index="32">
 		<attribute name="window_context_name">used</attribute>

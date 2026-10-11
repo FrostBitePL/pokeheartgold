@@ -42,6 +42,6 @@
 	</row>
 	<row id="msg_0558_T22GYM0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Łażanach\rLider Sali: Ania\nCertyfikowany Trener!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Sala Pokémon w Łażanach\rLiderka Sali: Ania\nCertyfikowany Trener!\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 </body>

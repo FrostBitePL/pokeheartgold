@@ -46,7 +46,7 @@
 	</row>
 	<row id="msg_0483_T06_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Zagórzu Śląskim\nLider: Kalina\fPiorunujący Amerykanin</language>
+		<language name="English">Sala Pokémon w Zagórzu Śląskim\nLiderka: Kalina\fPiorunujący Amerykanin</language>
 	</row>
 	<row id="msg_0483_T06_00012" index="12">
 		<attribute name="window_context_name">used</attribute>

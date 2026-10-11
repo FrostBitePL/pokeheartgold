@@ -46,7 +46,7 @@
 	</row>
 	<row id="msg_0629_T30_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Pożarzysku\nLiderka: Karol\fBłogosławiona Użytkowniczka Pokémonów Smoków</language>
+		<language name="English">Sala Pokémon w Pożarzysku\nLider: Karol\fBłogosławiona Użytkowniczka Pokémonów Smoków</language>
 	</row>
 	<row id="msg_0629_T30_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
