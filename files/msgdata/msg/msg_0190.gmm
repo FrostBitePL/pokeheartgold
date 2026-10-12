@@ -6,27 +6,27 @@
 	</row>
 	<row id="msg_0190_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Mariusz: Więc podoba ci się\n{COLOR 3}BULBASAUR{COLOR 0}, Pokémon typu Grass?</language>
+		<language name="English">Profesor Mariusz: Więc podoba ci się\nten Pokémon?</language>
 	</row>
 	<row id="msg_0190_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Mariusz: Weźmiesz\n{COLOR 1}CHARMANDER{COLOR 0}, Pokémona typu Fire?</language>
+		<language name="English">Profesor Mariusz: Więc wybierasz\ntego Pokémona?</language>
 	</row>
 	<row id="msg_0190_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Mariusz: Chcesz\n{COLOR 2}SQUIRTLE{COLOR 0}, Pokémona typu Water?</language>
+		<language name="English">Profesor Mariusz: Chcesz tego Pokémona?</language>
 	</row>
 	<row id="msg_0190_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">W tym Poké Ballu jest\n{COLOR 3}BULBASAUR{COLOR 0}, Pokémon typu Grass!</language>
+		<language name="English">W tym Poké Ballu jest\nten Pokémon!</language>
 	</row>
 	<row id="msg_0190_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">W tym Poké Ballu jest\n{COLOR 1}CHARMANDER{COLOR 0}, Pokémon typu Fire!</language>
+		<language name="English">W tym Poké Ballu jest\nten Pokémon!</language>
 	</row>
 	<row id="msg_0190_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">W tym Poké Ballu jest\n{COLOR 2}SQUIRTLE{COLOR 0}, Pokémon typu Water!</language>
+		<language name="English">W tym Poké Ballu jest\nten Pokémon!</language>
 	</row>
 	<row id="msg_0190_00007" index="7">
 		<attribute name="window_context_name">used</attribute>

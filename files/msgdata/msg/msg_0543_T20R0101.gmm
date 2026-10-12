@@ -424,4 +424,36 @@
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Hmm... O ile wiem, w Regionie Żarów\nnie ma takich Pokémonów.\rTak jak mówił Wacek przez telefon.\rZawsze jesteś tam, gdzie dzieje się\ncoś ekscytującego, {STRVAR_1 3, 0, 0}!\rTak mnie ekscytujesz! Dam ci\nprezent. Proszę, weź go.\r</language>
 	</row>
+	<row id="msg_0543_T20R0101_00106" index="106">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Profesor Mariusz: Który zestaw Pokémonów chcesz zobaczyć?</language>
+	</row>
+	<row id="msg_0543_T20R0101_00107" index="107">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Klasyczne startery</language>
+	</row>
+	<row id="msg_0543_T20R0101_00108" index="108">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Elektryczni i słodcy</language>
+	</row>
+	<row id="msg_0543_T20R0101_00109" index="109">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Siła i skała</language>
+	</row>
+	<row id="msg_0543_T20R0101_00110" index="110">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Truciznowi i nocni</language>
+	</row>
+	<row id="msg_0543_T20R0101_00111" index="111">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Wodne maluchy</language>
+	</row>
+	<row id="msg_0543_T20R0101_00112" index="112">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Ptaki i owady</language>
+	</row>
+	<row id="msg_0543_T20R0101_00113" index="113">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Zwinne zwierzaki</language>
+	</row>
 </body>

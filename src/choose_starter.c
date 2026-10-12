@@ -5,6 +5,8 @@
 #include "constants/species.h"
 
 #include "field_system.h"
+#include "save_vars_flags.h"
+#include "sys_vars.h"
 #include "launch_application.h"
 #include "map_header.h"
 #include "pokedex.h"
@@ -15,13 +17,30 @@
 struct ChooseStarterTaskData {
     int state;
     struct ChooseStarterArgs *args;
+    u16 set;
 };
+
+#define STARTER_SET_COUNT 7
+
+static const int sStarterSets[STARTER_SET_COUNT][3] = {
+    { SPECIES_BULBASAUR, SPECIES_CHARMANDER, SPECIES_SQUIRTLE },
+    { SPECIES_PIKACHU, SPECIES_EEVEE, SPECIES_JIGGLYPUFF },
+    { SPECIES_MACHOP, SPECIES_GEODUDE, SPECIES_GROWLITHE },
+    { SPECIES_ODDISH, SPECIES_ZUBAT, SPECIES_MEOWTH },
+    { SPECIES_PSYDUCK, SPECIES_POLIWAG, SPECIES_HORSEA },
+    { SPECIES_PIDGEY, SPECIES_WEEDLE, SPECIES_RATTATA },
+    { SPECIES_MANKEY, SPECIES_VULPIX, SPECIES_SANDSHREW },
+};
+
+// The rival's fixed team logic keys off the three classic starters, so the chosen slot is saved as one of them.
+static const int sRivalKey[3] = { SPECIES_BULBASAUR, SPECIES_CHARMANDER, SPECIES_SQUIRTLE };
 
 static BOOL CreateStarter(TaskManager *taskManager);
 
-void LaunchStarterChoiceScene(FieldSystem *fieldSystem) {
+void LaunchStarterChoiceScene(FieldSystem *fieldSystem, u16 set) {
     struct ChooseStarterTaskData *env = Heap_AllocAtEnd(HEAP_ID_FIELD2, sizeof(struct ChooseStarterTaskData));
     env->state = 0;
+    env->set = set < STARTER_SET_COUNT ? set : 0;
     TaskManager_Call(fieldSystem->taskman, CreateStarter, env);
 }
 
@@ -42,17 +61,13 @@ static BOOL CreateStarter(TaskManager *taskManager) {
             break;
         }
         {
-            const int species[] = {
-                SPECIES_BULBASAUR,
-                SPECIES_CHARMANDER,
-                SPECIES_SQUIRTLE,
-            };
+            const int *species = sStarterSets[env->set];
             mapsec = MapHeader_GetMapSec(fieldSystem->location->mapId); // sp14
 
             env->args = Heap_AllocAtEnd(HEAP_ID_FIELD2, sizeof(struct ChooseStarterArgs));
             env->args->cursorPos = 0;
             env->args->options = Save_PlayerData_GetOptionsAddr(fieldSystem->saveData);
-            for (i = 0; i < (int)NELEMS(species); i++) {
+            for (i = 0; i < 3; i++) {
                 Pokemon *mon = &env->args->starters[i];
                 PlayerProfile *profile = Save_PlayerData_GetProfile(fieldSystem->saveData);
                 ZeroMonData(mon);
@@ -78,6 +93,7 @@ static BOOL CreateStarter(TaskManager *taskManager) {
         Pokedex *pokedex = Save_Pokedex_Get(fieldSystem->saveData);
         party = SaveArray_Party_Get(fieldSystem->saveData);
         Pokemon *myChoice = &env->args->starters[env->args->cursorPos];
+        Save_VarsFlags_SetStarter(Save_VarsFlags_Get(fieldSystem->saveData), sRivalKey[env->args->cursorPos]);
         if (Party_AddMon(party, myChoice)) {
             UpdatePokedexWithReceivedSpecies(fieldSystem->saveData, myChoice);
         }

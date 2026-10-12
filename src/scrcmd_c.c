@@ -2067,7 +2067,8 @@ BOOL ScrCmd_166(ScriptContext *ctx) {
 }
 
 BOOL ScrCmd_ChooseStarter(ScriptContext *ctx) {
-    LaunchStarterChoiceScene(ctx->fieldSystem);
+    u16 set = ScriptGetVar(ctx);
+    LaunchStarterChoiceScene(ctx->fieldSystem, set);
     return TRUE;
 }
 

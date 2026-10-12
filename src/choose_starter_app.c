@@ -304,12 +304,6 @@ BOOL ChooseStarter_Init(OverlayManager *ovy, int *state_p) {
     return TRUE;
 }
 
-static const int sSpecies[] = {
-    SPECIES_BULBASAUR,
-    SPECIES_CHARMANDER,
-    SPECIES_SQUIRTLE,
-};
-
 BOOL ChooseStarter_Main(OverlayManager *ovy, int *state) {
     struct ChooseStarterAppWork *work = OverlayManager_GetData(ovy);
     int cameraPathSel = CAMERA_PATH_NULL;
@@ -373,7 +367,7 @@ BOOL ChooseStarter_Main(OverlayManager *ovy, int *state) {
                 printMsgOnWinEx(work->winTop, work->heapID, FALSE, NARC_msg_msg_0190_bin, msg_0190_00004 + work->curSelection, MAKE_TEXT_COLOR(1, 2, 15), 0, &baseTrans);
                 String_Delete(baseTrans);
             }
-            PlayCry(sSpecies[work->curSelection], FALSE);
+            PlayCry(GetMonData(work->choices[work->curSelection], MON_DATA_SPECIES, NULL), FALSE);
             printMsgOnBottom(work, msg_0190_00007);
             GfGfx_EngineATogglePlanes(GX_PLANEMASK_BG1, GF_PLANE_TOGGLE_ON);
             GfGfx_EngineATogglePlanes(GX_PLANEMASK_BG2, GF_PLANE_TOGGLE_ON);
@@ -427,7 +421,7 @@ BOOL ChooseStarter_Main(OverlayManager *ovy, int *state) {
             printMsgOnWinEx(work->winTop, work->heapID, FALSE, NARC_msg_msg_0190_bin, msg_0190_00004 + work->curSelection, MAKE_TEXT_COLOR(1, 2, 15), 0, &sp10);
             String_Delete(sp10);
         }
-        PlayCry(sSpecies[work->curSelection], 0);
+        PlayCry(GetMonData(work->choices[work->curSelection], MON_DATA_SPECIES, NULL), 0);
         if (work->state != SELECT_STATE_INSPECT) {
             GfGfx_EngineATogglePlanes(GX_PLANEMASK_BG1, GF_PLANE_TOGGLE_ON);
             GfGfx_EngineATogglePlanes(GX_PLANEMASK_BG2, GF_PLANE_TOGGLE_ON);

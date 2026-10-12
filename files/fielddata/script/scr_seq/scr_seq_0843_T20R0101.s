@@ -166,15 +166,29 @@ scr_seq_T20R0101_012:
 	LockAll
 	FacePlayer
 	GoToIfSet FLAG_GOT_STARTER, _0331
-	ChooseStarter
+_starter_menu:
+	NPCMsg msg_0543_T20R0101_00106
+	TouchscreenMenuHide
+	MenuInit 1, 1, 0, 1, VAR_SPECIAL_RESULT
+	MenuItemAdd msg_0543_T20R0101_00107, 255, 0
+	MenuItemAdd msg_0543_T20R0101_00108, 255, 1
+	MenuItemAdd msg_0543_T20R0101_00109, 255, 2
+	MenuItemAdd msg_0543_T20R0101_00110, 255, 3
+	MenuItemAdd msg_0543_T20R0101_00111, 255, 4
+	MenuItemAdd msg_0543_T20R0101_00112, 255, 5
+	MenuItemAdd msg_0543_T20R0101_00113, 255, 6
+	MenuExec
+	Compare VAR_SPECIAL_RESULT, 7
+	GoToIfGe _starter_menu
+	CloseMsg
+	TouchscreenMenuShow
+	ChooseStarter VAR_SPECIAL_RESULT
 	SetFlag FLAG_GOT_STARTER
 	ScrCmd_605 3, 2
 	ToggleFollowingPokemonMovement 0
 	ScrCmd_608
 	Wait 10, VAR_SPECIAL_RESULT
 	ToggleFollowingPokemonMovement 1
-	GetPartyMonSpecies 0, VAR_TEMP_x4001
-	SetStarterChoice VAR_TEMP_x4001
 	BufferPlayersName 0
 	BufferMonSpeciesName 1, 0
 	NPCMsg msg_0543_T20R0101_00007

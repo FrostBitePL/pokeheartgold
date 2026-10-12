@@ -3,6 +3,6 @@
 
 #include "script.h"
 
-void LaunchStarterChoiceScene(FieldSystem *fieldSystem);
+void LaunchStarterChoiceScene(FieldSystem *fieldSystem, u16 set);
 
 #endif // POKEHEARTGOLD_CHOOSE_STARTER_H

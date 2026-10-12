@@ -1003,8 +1003,9 @@
 	.short \arg0
 	.endm
 
-	.macro ChooseStarter
+	.macro ChooseStarter arg0
 	.short 167
+	.short \arg0
 	.endm
 
 	.macro GetTrainerPathToPlayer arg0
