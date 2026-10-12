@@ -4,72 +4,72 @@
     {
       "scriptId": "_EV_scr_seq_T27_001 + 1",
       "type": 1,
-      "x": 388,
-      "z": 173,
+      "x": 420,
+      "z": 365,
       "y": 0,
       "dir": 4
     },
     {
       "scriptId": "_EV_scr_seq_T27_002 + 1",
       "type": 1,
-      "x": 378,
-      "z": 184,
+      "x": 410,
+      "z": 376,
       "y": 0,
       "dir": 4
     },
     {
       "scriptId": "_EV_scr_seq_T27_003 + 1",
       "type": 1,
-      "x": 395,
-      "z": 174,
+      "x": 427,
+      "z": 366,
       "y": 0,
       "dir": 4
     },
     {
       "scriptId": "_EV_scr_seq_T27_004 + 1",
       "type": 1,
-      "x": 378,
-      "z": 153,
+      "x": 410,
+      "z": 345,
       "y": 0,
       "dir": 4
     },
     {
       "scriptId": "std_hiddenitem_t27_hyper_potion",
       "type": 2,
-      "x": 385,
-      "z": 170,
+      "x": 417,
+      "z": 362,
       "y": 0,
       "dir": 4
     },
     {
       "scriptId": "std_hiddenitem_t27_ether",
       "type": 2,
-      "x": 379,
-      "z": 146,
+      "x": 411,
+      "z": 338,
       "y": 0,
       "dir": 4
     },
     {
       "scriptId": "std_hiddenitem_t27_rare_candy",
       "type": 2,
-      "x": 406,
-      "z": 163,
+      "x": 438,
+      "z": 355,
       "y": 0,
       "dir": 4
     },
     {
       "scriptId": "std_hiddenitem_t27_ultra_ball",
       "type": 2,
-      "x": 365,
-      "z": 164,
+      "x": 397,
+      "z": 356,
       "y": 0,
       "dir": 4
     },
     {
       "scriptId": "_EV_scr_seq_T27_016 + 1",
       "type": 1,
-      "x": 394,
-      "z": 154,
+      "x": 426,
+      "z": 346,
       "y": 0,
       "dir": 4
     }
@@ -88,8 +88,8 @@
       "param2": 0,
       "xRange": 0,
       "yRange": 0,
-      "x": 379,
-      "z": 155,
+      "x": 411,
+      "z": 347,
       "y": 0
     },
     {
@@ -105,8 +105,8 @@
       "param2": 0,
       "xRange": 1,
       "yRange": 0,
-      "x": 381,
-      "z": 162,
+      "x": 413,
+      "z": 354,
       "y": 0
     },
     {
@@ -122,8 +122,8 @@
       "param2": 0,
       "xRange": 1,
       "yRange": 0,
-      "x": 378,
-      "z": 176,
+      "x": 410,
+      "z": 368,
       "y": 0
     },
     {
@@ -139,8 +139,8 @@
       "param2": 0,
       "xRange": 0,
       "yRange": 0,
-      "x": 396,
-      "z": 162,
+      "x": 428,
+      "z": 354,
       "y": 0
     },
     {
@@ -156,8 +156,8 @@
       "param2": 0,
       "xRange": 0,
       "yRange": 0,
-      "x": 392,
-      "z": 171,
+      "x": 424,
+      "z": 363,
       "y": 0
     },
     {
@@ -173,8 +173,8 @@
       "param2": 0,
       "xRange": 1,
       "yRange": 0,
-      "x": 404,
-      "z": 185,
+      "x": 436,
+      "z": 377,
       "y": 0
     },
     {
@@ -190,8 +190,8 @@
       "param2": 0,
       "xRange": 0,
       "yRange": 0,
-      "x": 397,
-      "z": 173,
+      "x": 429,
+      "z": 365,
       "y": 0
     },
     {
@@ -207,8 +207,8 @@
       "param2": 0,
       "xRange": 0,
       "yRange": 0,
-      "x": 374,
-      "z": 153,
+      "x": 406,
+      "z": 345,
       "y": 0
     },
     {
@@ -224,92 +224,92 @@
       "param2": 0,
       "xRange": 0,
       "yRange": 0,
-      "x": 390,
-      "z": 160,
+      "x": 422,
+      "z": 352,
       "y": 0
     }
   ],
   "warps": [
     {
-      "x": 376,
-      "z": 149,
+      "x": 408,
+      "z": 341,
       "header": "MAP_BURNED_TOWER_1F",
       "anchor": 0,
       "y": 0
     },
     {
-      "x": 375,
-      "z": 173,
+      "x": 407,
+      "z": 365,
       "header": "MAP_ECRUTEAK_SOUTHWEST_HOUSE",
       "anchor": 0,
       "y": 0
     },
     {
-      "x": 392,
-      "z": 153,
+      "x": 424,
+      "z": 345,
       "header": "MAP_ECRUTEAK_BELL_TOWER_BARRIER_STATION",
       "anchor": 0,
       "y": 0
     },
     {
-      "x": 386,
-      "z": 183,
+      "x": 418,
+      "z": 375,
       "header": "MAP_ECRUTEAK_DOWSING_MACHINE_HOUSE",
       "anchor": 0,
       "y": 0
     },
     {
-      "x": 397,
-      "z": 173,
+      "x": 429,
+      "z": 365,
       "header": "MAP_ECRUTEAK_DANCE_THEATER",
       "anchor": 0,
       "y": 0
     },
     {
-      "x": 397,
-      "z": 183,
+      "x": 429,
+      "z": 375,
       "header": "MAP_ECRUTEAK_POKECENTER_1F",
       "anchor": 0,
       "y": 0
     },
     {
-      "x": 406,
-      "z": 173,
+      "x": 438,
+      "z": 365,
       "header": "MAP_ECRUTEAK_POKEMART",
       "anchor": 0,
       "y": 0
     },
     {
-      "x": 376,
-      "z": 183,
+      "x": 408,
+      "z": 375,
       "header": "MAP_ECRUTEAK_GYM",
       "anchor": 0,
       "y": 0
     },
     {
-      "x": 358,
-      "z": 166,
+      "x": 390,
+      "z": 358,
       "header": "MAP_ROUTE_38_ECRUTEAK_GATEHOUSE",
       "anchor": 0,
       "y": 0
     },
     {
-      "x": 358,
-      "z": 167,
+      "x": 390,
+      "z": 359,
       "header": "MAP_ROUTE_38_ECRUTEAK_GATEHOUSE",
       "anchor": 0,
       "y": 0
     },
     {
-      "x": 415,
-      "z": 175,
+      "x": 447,
+      "z": 367,
       "header": "MAP_ROUTE_42_ECRUTEAK_GATEHOUSE",
       "anchor": 0,
       "y": 0
     },
     {
-      "x": 415,
-      "z": 176,
+      "x": 447,
+      "z": 368,
       "header": "MAP_ROUTE_42_ECRUTEAK_GATEHOUSE",
       "anchor": 0,
       "y": 0
@@ -318,8 +318,8 @@
   "coords": [
     {
       "scriptId": "_EV_scr_seq_T27_005 + 1",
-      "x": 397,
-      "z": 174,
+      "x": 429,
+      "z": 366,
       "w": 1,
       "h": 1,
       "y": 0,
