@@ -434,26 +434,26 @@
 	</row>
 	<row id="msg_0543_T20R0101_00108" index="108">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Elektryczni i słodcy</language>
+		<language name="English">Smoki i psychika</language>
 	</row>
 	<row id="msg_0543_T20R0101_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Siła i skała</language>
+		<language name="English">Skamieliny i Aerodactyl</language>
 	</row>
 	<row id="msg_0543_T20R0101_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Truciznowi i nocni</language>
+		<language name="English">Rzadkie okazy</language>
 	</row>
 	<row id="msg_0543_T20R0101_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wodne maluchy</language>
+		<language name="English">Walczący mistrzowie</language>
 	</row>
 	<row id="msg_0543_T20R0101_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ptaki i owady</language>
+		<language name="English">Pancerni łowcy</language>
 	</row>
 	<row id="msg_0543_T20R0101_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zwinne zwierzaki</language>
+		<language name="English">Żywioły rzadkości</language>
 	</row>
 </body>

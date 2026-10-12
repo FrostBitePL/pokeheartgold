@@ -302,7 +302,6 @@ _04DC:
 	Compare VAR_TEMP_x4002, 0
 	CallIfEq _0559
 	Wait 10, VAR_SPECIAL_RESULT
-	CatchingTutorial
 	ApplyMovement obj_R29_var_2, _064C
 	ApplyMovement obj_R29_tsure_poke_static_marill, _0654
 	WaitMovement
