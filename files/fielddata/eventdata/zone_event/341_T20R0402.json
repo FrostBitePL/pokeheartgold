@@ -38,7 +38,7 @@
     },
     {
       "id": "obj_T20R0402_tsure_poke_static_marill",
-      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_MARILL",
+      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_PIKACHU",
       "movement": 44,
       "type": 0,
       "eventFlag": "FLAG_HIDE_NEW_BARK_FRIENDS_ROOM_FRIEND",

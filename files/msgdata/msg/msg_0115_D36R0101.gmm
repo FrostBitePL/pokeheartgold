@@ -156,7 +156,7 @@
 	</row>
 	<row id="msg_0115_D36R0101_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To PICHU...!\nJedno z jego uszu jest kolczaste!\r</language>
+		<language name="English">To PIKACHU...!\nJedno z jego uszu jest kolczaste!\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
@@ -164,7 +164,7 @@
 	</row>
 	<row id="msg_0115_D36R0101_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PICHU o kolczastym uchu dołączyło\ndo twojej drużyny!</language>
+		<language name="English">PIKACHU o kolczastym uchu dołączyło\ndo twojej drużyny!</language>
 	</row>
 	<row id="msg_0115_D36R0101_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
@@ -176,7 +176,7 @@
 	</row>
 	<row id="msg_0115_D36R0101_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PICHU o kolczastym uchu: Zapzap chu!\r</language>
+		<language name="English">PIKACHU o kolczastym uchu: Zapzap chu!\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
@@ -196,7 +196,7 @@
 	</row>
 	<row id="msg_0115_D36R0101_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No, no, to musi być...\rTo musi być PICHU, które mieszka\nw tym lesie od jakiegoś czasu.\rGdy zobaczyłam je po raz pierwszy,\nwyglądało na samotne. Dziś jest\fpełne energii.\r</language>
+		<language name="English">No, no, to musi być...\rTo musi być PIKACHU, które mieszka\nw tym lesie od jakiegoś czasu.\rGdy zobaczyłam je po raz pierwszy,\nwyglądało na samotne. Dziś jest\fpełne energii.\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
@@ -216,7 +216,7 @@
 	</row>
 	<row id="msg_0115_D36R0101_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wygląda na to, że PICHU o kolczastym\nuchu chce zostać w twoim Poké Balu.\r</language>
+		<language name="English">Wygląda na to, że PIKACHU o kolczastym\nuchu chce zostać w twoim Poké Balu.\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
@@ -252,11 +252,11 @@
 	</row>
 	<row id="msg_0115_D36R0101_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hej, mój MARILL!\r</language>
+		<language name="English">Hej, mój PIKACHU!\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hej, mój MARILL!\r</language>
+		<language name="English">Hej, mój PIKACHU!\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00064" index="64">
 		<attribute name="window_context_name">used</attribute>

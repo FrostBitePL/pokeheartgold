@@ -20,7 +20,7 @@
     },
     {
       "id": "obj_R39R0201_tsure_poke_static_miltank",
-      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_MILTANK",
+      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_TAUROS",
       "movement": 15,
       "type": 0,
       "eventFlag": "FLAG_NOTHING",
@@ -54,7 +54,7 @@
     },
     {
       "id": "obj_R39R0201_tsure_poke_static_miltank_2",
-      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_MILTANK",
+      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_TAUROS",
       "movement": 14,
       "type": 0,
       "eventFlag": "FLAG_UNK_226",
@@ -71,7 +71,7 @@
     },
     {
       "id": "obj_R39R0201_tsure_poke_static_miltank_3",
-      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_MILTANK",
+      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_TAUROS",
       "movement": 15,
       "type": 0,
       "eventFlag": "FLAG_UNK_226",
@@ -88,7 +88,7 @@
     },
     {
       "id": "obj_R39R0201_tsure_poke_static_miltank_4",
-      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_MILTANK",
+      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_TAUROS",
       "movement": 15,
       "type": 0,
       "eventFlag": "FLAG_UNK_226",
@@ -105,7 +105,7 @@
     },
     {
       "id": "obj_R39R0201_tsure_poke_static_miltank_5",
-      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_MILTANK",
+      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_TAUROS",
       "movement": 16,
       "type": 0,
       "eventFlag": "FLAG_UNK_226",

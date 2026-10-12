@@ -72,7 +72,7 @@ scr_seq_T27GYM0101_004:
 	SetVar VAR_UNK_4079, 1
 	FadeScreen 6, 1, 0, RGB_BLACK
 	WaitFade
-	Warp MAP_ECRUTEAK, 7, 376, 182, DIR_SOUTH
+	Warp MAP_ECRUTEAK, 7, 408, 374, DIR_SOUTH
 	FadeScreen 6, 1, 1, RGB_BLACK
 	WaitFade
 	ReleaseAll

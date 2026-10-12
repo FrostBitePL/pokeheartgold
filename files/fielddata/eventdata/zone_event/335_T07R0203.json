@@ -227,7 +227,7 @@
     },
     {
       "id": "obj_T07R0203_tsure_poke_static_marill",
-      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_MARILL",
+      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_PIKACHU",
       "movement": 0,
       "type": 0,
       "eventFlag": "FLAG_NOTHING",

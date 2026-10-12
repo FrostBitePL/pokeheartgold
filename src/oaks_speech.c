@@ -1856,7 +1856,7 @@ static BOOL OakSpeech_DoMainTask(OakSpeechData *data) {
             G2_SetBlendBrightness(GX_BLEND_PLANEMASK_OBJ, data->playerPicShrinkAnimStep);
             if (data->playerPicShrinkAnimStep == 0) {
                 Sprite_SetAnimCtrlSeq(data->sprites[5], 2);
-                PlayCry(SPECIES_MARILL, 0);
+                PlayCry(SPECIES_PIKACHU, 0);
                 data->state = OAK_SPEECH_MAIN_STATE_WAIT_MARILL_CRY;
             }
         }

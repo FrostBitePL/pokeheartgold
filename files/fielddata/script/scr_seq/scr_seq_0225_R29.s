@@ -125,7 +125,7 @@ _019E:
 scr_seq_R29_001:
 	ScrCmd_609
 	LockAll
-	PlayCry SPECIES_MARILL, 0
+	PlayCry SPECIES_PIKACHU, 0
 	WaitCry
 	ApplyMovement obj_R29_tsure_poke_static_marill, _05C4
 	WaitMovement

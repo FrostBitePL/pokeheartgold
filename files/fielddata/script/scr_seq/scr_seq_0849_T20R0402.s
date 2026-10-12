@@ -136,7 +136,7 @@ scr_seq_T20R0402_001:
 	LockAll
 	FacePlayer
 	NPCMsg msg_0549_T20R0402_00004
-	PlayCry SPECIES_MARILL, 0
+	PlayCry SPECIES_PIKACHU, 0
 	WaitCry
 	WaitButton
 	CloseMsg

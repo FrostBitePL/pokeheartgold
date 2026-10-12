@@ -54,7 +54,7 @@
     },
     {
       "id": "obj_D37R0101_tsure_poke_static_marill",
-      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_MARILL",
+      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_PIKACHU",
       "movement": 0,
       "type": 0,
       "eventFlag": "FLAG_HIDE_GOLDENROD_UNDERGROUND_FRIEND",

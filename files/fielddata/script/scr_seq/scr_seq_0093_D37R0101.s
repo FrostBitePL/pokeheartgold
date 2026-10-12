@@ -31,7 +31,7 @@ _0050:
 	ApplyMovement obj_D37R0101_tsure_poke_static_marill, _0174
 	WaitMovement
 	Wait 8, VAR_SPECIAL_RESULT
-	PlayCry SPECIES_MARILL, 0
+	PlayCry SPECIES_PIKACHU, 0
 	WaitCry
 	ToggleFollowingPokemonMovement 0
 	WaitFollowingPokemonMovement

@@ -1772,7 +1772,7 @@ _1816:
 	ShowPerson obj_D36R0101_tsure_poke_static_pichu_spiky
 	ApplyMovement obj_D36R0101_tsure_poke_static_pichu_spiky, _1C44
 	WaitMovement
-	PlayCry SPECIES_PICHU, 0
+	PlayCry SPECIES_PIKACHU, 0
 	WaitCry
 	ApplyMovement obj_player, _1C58
 	WaitMovement
@@ -1837,7 +1837,7 @@ _1816:
 	ToggleFollowingPokemonMovement 1
 	FollowingPokemonMovement 48
 	NPCMsg msg_0115_D36R0101_00039
-	PlayCry SPECIES_PICHU, 0
+	PlayCry SPECIES_PIKACHU, 0
 	NPCMsg msg_0115_D36R0101_00043
 	WaitCry
 	CloseMsg
@@ -1980,7 +1980,7 @@ _1B5F:
 	ApplyMovement obj_D36R0101_tsure_poke_static_pichu_spiky, _1F00
 _1B67:
 	WaitMovement
-	PlayCry SPECIES_PICHU, 0
+	PlayCry SPECIES_PIKACHU, 0
 	NPCMsg msg_0115_D36R0101_00043
 	WaitCry
 	CloseMsg
