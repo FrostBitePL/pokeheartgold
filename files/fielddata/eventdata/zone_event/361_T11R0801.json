@@ -37,7 +37,7 @@
     },
     {
       "id": "obj_T11R0801_tsure_poke_static_blissey",
-      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_BLISSEY",
+      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_CHANSEY",
       "movement": 2,
       "type": 0,
       "eventFlag": "FLAG_NOTHING",

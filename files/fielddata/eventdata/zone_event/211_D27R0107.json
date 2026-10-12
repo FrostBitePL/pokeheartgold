@@ -37,7 +37,7 @@
     },
     {
       "id": "obj_D27R0107_tsure_poke_static_ampharos",
-      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_AMPHAROS",
+      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_RAICHU",
       "movement": 0,
       "type": 0,
       "eventFlag": "FLAG_NOTHING",

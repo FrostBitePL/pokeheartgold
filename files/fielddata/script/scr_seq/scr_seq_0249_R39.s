@@ -73,7 +73,7 @@ scr_seq_R39_000:
 	PlaySE SEQ_SE_DP_SELECT
 	LockAll
 	FacePlayer
-	PlayCry SPECIES_MILTANK, 0
+	PlayCry SPECIES_TAUROS, 0
 	NPCMsg msg_0396_R39_00003
 	WaitCry
 	WaitButton

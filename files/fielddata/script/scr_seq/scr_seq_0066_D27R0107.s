@@ -79,14 +79,14 @@ _00B5:
 	CloseMsg
 	ApplyMovement obj_D27R0107_tsure_poke_static_ampharos, _01A0
 	WaitMovement
-	PlayCry SPECIES_AMPHAROS, 0
+	PlayCry SPECIES_RAICHU, 0
 	NPCMsg msg_0094_D27R0107_00006
 	WaitCry
 	CloseMsg
 	ScrCmd_459
 	ApplyMovement obj_D27R0107_tsure_poke_static_ampharos, _01A8
 	WaitMovement
-	PlayCry SPECIES_AMPHAROS, 0
+	PlayCry SPECIES_RAICHU, 0
 	WaitCry
 	NPCMsg msg_0094_D27R0107_00007
 	CloseMsg
@@ -120,7 +120,7 @@ _017F:
 	WaitMovement
 	NPCMsg msg_0094_D27R0107_00009
 	CloseMsg
-	PlayCry SPECIES_AMPHAROS, 12
+	PlayCry SPECIES_RAICHU, 12
 	WaitCry
 	ReleaseAll
 	End
@@ -198,13 +198,13 @@ scr_seq_D27R0107_001:
 	FacePlayer
 	Compare VAR_SCENE_LIGHTHOUSE_JASMINE, 2
 	GoToIfLt _0266
-	PlayCry SPECIES_AMPHAROS, 0
+	PlayCry SPECIES_RAICHU, 0
 	NPCMsg msg_0094_D27R0107_00012
 	WaitCry
 	GoTo _0274
 
 _0266:
-	PlayCry SPECIES_AMPHAROS, 12
+	PlayCry SPECIES_RAICHU, 12
 	NPCMsg msg_0094_D27R0107_00010
 	WaitCry
 	NPCMsg msg_0094_D27R0107_00011

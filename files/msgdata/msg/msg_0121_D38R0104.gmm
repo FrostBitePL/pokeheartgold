@@ -10,11 +10,11 @@
 	</row>
 	<row id="msg_0121_D38R0104_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a) TYROGUE\nod Karate King!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a) MACHOP\nod Karate King!</language>
 	</row>
 	<row id="msg_0121_D38R0104_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TYROGUE to typ Walczący.\nEwoluuje w twardszego Pokémona.\rNie przestawaj ciężko pracować.\nJa też będę dalej trenować. Żegnaj!</language>
+		<language name="English">MACHOP to typ Walczący.\nEwoluuje w twardszego Pokémona.\rNie przestawaj ciężko pracować.\nJa też będę dalej trenować. Żegnaj!</language>
 	</row>
 	<row id="msg_0121_D38R0104_00004" index="4">
 		<attribute name="window_context_name">used</attribute>

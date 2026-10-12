@@ -38,7 +38,7 @@
 	</row>
 	<row id="msg_0398_R39R0201_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MILTANK: ...Muu...\r</language>
+		<language name="English">TAUROS: ...Muu...\r</language>
 	</row>
 	<row id="msg_0398_R39R0201_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -46,7 +46,7 @@
 	</row>
 	<row id="msg_0398_R39R0201_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MILTANK: Muuu!\r</language>
+		<language name="English">TAUROS: Muuu!\r</language>
 	</row>
 	<row id="msg_0398_R39R0201_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
@@ -54,23 +54,23 @@
 	</row>
 	<row id="msg_0398_R39R0201_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dać Jagodę Oran dla MILTANK? {YESNO 0}</language>
+		<language name="English">Dać Jagodę Oran dla TAUROS? {YESNO 0}</language>
 	</row>
 	<row id="msg_0398_R39R0201_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} dał(a) Jagodę Oran\ndla MILTANK.</language>
+		<language name="English">{STRVAR_1 3, 0, 0} dał(a) Jagodę Oran\ndla TAUROS.</language>
 	</row>
 	<row id="msg_0398_R39R0201_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MILTANK stała się trochę zdrowsza!</language>
+		<language name="English">TAUROS stała się trochę zdrowsza!</language>
 	</row>
 	<row id="msg_0398_R39R0201_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MILTANK robi się zdrowsza!</language>
+		<language name="English">TAUROS robi się zdrowsza!</language>
 	</row>
 	<row id="msg_0398_R39R0201_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MILTANK stała się całkowicie zdrowa!</language>
+		<language name="English">TAUROS stała się całkowicie zdrowa!</language>
 	</row>
 	<row id="msg_0398_R39R0201_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
