@@ -4102,17 +4102,17 @@
             "Map": "R29",
             "CommonMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 2,
                     "maxLevel": 3
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 2,
                     "maxLevel": 3
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 2,
                     "maxLevel": 3
                 },
@@ -4134,7 +4134,7 @@
             ],
             "RareMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 4,
                     "maxLevel": 5
                 },
@@ -4629,17 +4629,17 @@
             "Map": "R30",
             "CommonMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 2,
                     "maxLevel": 3
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 2,
                     "maxLevel": 3
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 2,
                     "maxLevel": 3
                 },
@@ -4661,7 +4661,7 @@
             ],
             "RareMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 4,
                     "maxLevel": 5
                 },
@@ -5066,17 +5066,17 @@
             "Map": "R31",
             "CommonMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 3,
                     "maxLevel": 4
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 3,
                     "maxLevel": 4
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 3,
                     "maxLevel": 4
                 },
@@ -5098,7 +5098,7 @@
             ],
             "RareMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 5,
                     "maxLevel": 6
                 },
@@ -5317,17 +5317,17 @@
             "Map": "R32",
             "CommonMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 4,
                     "maxLevel": 5
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 4,
                     "maxLevel": 5
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 4,
                     "maxLevel": 5
                 },
@@ -5349,17 +5349,17 @@
             ],
             "RareMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 6,
                     "maxLevel": 7
                 },
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 6,
                     "maxLevel": 7
                 },
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 6,
                     "maxLevel": 7
                 },
@@ -5807,27 +5807,27 @@
                     "maxLevel": 5
                 },
                 {
-                    "species": "SPECIES_HERACROSS",
+                    "species": "SPECIES_PINSIR",
                     "minLevel": 3,
                     "maxLevel": 5
                 },
                 {
-                    "species": "SPECIES_HERACROSS",
+                    "species": "SPECIES_PINSIR",
                     "minLevel": 3,
                     "maxLevel": 5
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 3,
                     "maxLevel": 5
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 3,
                     "maxLevel": 5
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 3,
                     "maxLevel": 5
                 }
@@ -5849,17 +5849,17 @@
                     "maxLevel": 8
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 6,
                     "maxLevel": 8
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 6,
                     "maxLevel": 8
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 6,
                     "maxLevel": 8
                 }
@@ -5913,17 +5913,17 @@
             "Map": "R34",
             "CommonMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 9,
                     "maxLevel": 10
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 9,
                     "maxLevel": 10
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 9,
                     "maxLevel": 10
                 },
@@ -5945,7 +5945,7 @@
             ],
             "RareMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 11,
                     "maxLevel": 12
                 },
@@ -6152,17 +6152,17 @@
             "Map": "R35",
             "CommonMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 10,
                     "maxLevel": 11
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 10,
                     "maxLevel": 11
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 10,
                     "maxLevel": 11
                 },
@@ -6184,7 +6184,7 @@
             ],
             "RareMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 13,
                     "maxLevel": 14
                 },
@@ -6413,17 +6413,17 @@
             "Map": "R36",
             "CommonMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 4,
                     "maxLevel": 5
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 4,
                     "maxLevel": 5
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 4,
                     "maxLevel": 5
                 },
@@ -6445,7 +6445,7 @@
             ],
             "RareMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 6,
                     "maxLevel": 7
                 },
@@ -6775,20 +6775,20 @@
             "SecretTrees": []
         },
         {
-        "Map": "R37",
+            "Map": "R37",
             "CommonMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 12,
                     "maxLevel": 14
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 12,
                     "maxLevel": 14
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 12,
                     "maxLevel": 14
                 },
@@ -6810,7 +6810,7 @@
             ],
             "RareMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 15,
                     "maxLevel": 17
                 },
@@ -7022,20 +7022,20 @@
             "SecretTrees": []
         },
         {
-        "Map": "R38",
+            "Map": "R38",
             "CommonMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 13,
                     "maxLevel": 14
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 13,
                     "maxLevel": 14
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 13,
                     "maxLevel": 14
                 },
@@ -7057,7 +7057,7 @@
             ],
             "RareMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 15,
                     "maxLevel": 16
                 },
@@ -7105,22 +7105,22 @@
                     "maxLevel": 25
                 },
                 {
-                    "species": "SPECIES_BURMY",
+                    "species": "SPECIES_CATERPIE",
                     "minLevel": 18,
                     "maxLevel": 20
                 },
                 {
-                    "species": "SPECIES_BURMY",
+                    "species": "SPECIES_CATERPIE",
                     "minLevel": 18,
                     "maxLevel": 20
                 },
                 {
-                    "species": "SPECIES_BURMY",
+                    "species": "SPECIES_CATERPIE",
                     "minLevel": 18,
                     "maxLevel": 20
                 },
                 {
-                    "species": "SPECIES_BURMY",
+                    "species": "SPECIES_CATERPIE",
                     "minLevel": 21,
                     "maxLevel": 25
                 }
@@ -7311,20 +7311,20 @@
             ]
         },
         {
-        "Map": "R39",
+            "Map": "R39",
             "CommonMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 14,
                     "maxLevel": 15
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 14,
                     "maxLevel": 15
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 14,
                     "maxLevel": 15
                 },
@@ -7346,7 +7346,7 @@
             ],
             "RareMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 16,
                     "maxLevel": 17
                 },
@@ -7430,7 +7430,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R42",
+            "Map": "R42",
             "CommonMons": [
                 {
                     "species": "SPECIES_SPEAROW",
@@ -7438,27 +7438,27 @@
                     "maxLevel": 14
                 },
                 {
-                    "species": "SPECIES_HERACROSS",
+                    "species": "SPECIES_PINSIR",
                     "minLevel": 13,
                     "maxLevel": 14
                 },
                 {
-                    "species": "SPECIES_HERACROSS",
+                    "species": "SPECIES_PINSIR",
                     "minLevel": 13,
                     "maxLevel": 14
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 13,
                     "maxLevel": 14
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 13,
                     "maxLevel": 14
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 13,
                     "maxLevel": 14
                 }
@@ -7480,17 +7480,17 @@
                     "maxLevel": 16
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 15,
                     "maxLevel": 16
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 15,
                     "maxLevel": 16
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 15,
                     "maxLevel": 16
                 }
@@ -7625,20 +7625,20 @@
             "SecretTrees": []
         },
         {
-        "Map": "R43",
+            "Map": "R43",
             "CommonMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 15,
                     "maxLevel": 16
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 15,
                     "maxLevel": 16
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 15,
                     "maxLevel": 16
                 },
@@ -7660,7 +7660,7 @@
             ],
             "RareMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 17,
                     "maxLevel": 18
                 },
@@ -7670,7 +7670,7 @@
                     "maxLevel": 18
                 },
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 17,
                     "maxLevel": 18
                 },
@@ -7914,7 +7914,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R44",
+            "Map": "R44",
             "CommonMons": [
                 {
                     "species": "SPECIES_SPEAROW",
@@ -7922,27 +7922,27 @@
                     "maxLevel": 22
                 },
                 {
-                    "species": "SPECIES_HERACROSS",
+                    "species": "SPECIES_PINSIR",
                     "minLevel": 21,
                     "maxLevel": 22
                 },
                 {
-                    "species": "SPECIES_HERACROSS",
+                    "species": "SPECIES_PINSIR",
                     "minLevel": 21,
                     "maxLevel": 22
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 21,
                     "maxLevel": 22
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 21,
                     "maxLevel": 22
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 21,
                     "maxLevel": 22
                 }
@@ -7964,17 +7964,17 @@
                     "maxLevel": 24
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 23,
                     "maxLevel": 24
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 23,
                     "maxLevel": 24
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 23,
                     "maxLevel": 24
                 }
@@ -8181,7 +8181,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R45",
+            "Map": "R45",
             "CommonMons": [
                 {
                     "species": "SPECIES_SPEAROW",
@@ -8189,27 +8189,27 @@
                     "maxLevel": 24
                 },
                 {
-                    "species": "SPECIES_HERACROSS",
+                    "species": "SPECIES_PINSIR",
                     "minLevel": 23,
                     "maxLevel": 24
                 },
                 {
-                    "species": "SPECIES_HERACROSS",
+                    "species": "SPECIES_PINSIR",
                     "minLevel": 23,
                     "maxLevel": 25
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 23,
                     "maxLevel": 24
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 23,
                     "maxLevel": 24
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 23,
                     "maxLevel": 24
                 }
@@ -8231,17 +8231,17 @@
                     "maxLevel": 27
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 26,
                     "maxLevel": 27
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 26,
                     "maxLevel": 27
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 26,
                     "maxLevel": 27
                 }
@@ -8282,7 +8282,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R46",
+            "Map": "R46",
             "CommonMons": [
                 {
                     "species": "SPECIES_SPEAROW",
@@ -8290,27 +8290,27 @@
                     "maxLevel": 3
                 },
                 {
-                    "species": "SPECIES_HERACROSS",
+                    "species": "SPECIES_PINSIR",
                     "minLevel": 2,
                     "maxLevel": 3
                 },
                 {
-                    "species": "SPECIES_HERACROSS",
+                    "species": "SPECIES_PINSIR",
                     "minLevel": 2,
                     "maxLevel": 3
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 2,
                     "maxLevel": 3
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 2,
                     "maxLevel": 3
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 2,
                     "maxLevel": 3
                 }
@@ -8332,17 +8332,17 @@
                     "maxLevel": 5
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 4,
                     "maxLevel": 5
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 4,
                     "maxLevel": 5
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 4,
                     "maxLevel": 5
                 }
@@ -8445,7 +8445,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T01",
+            "Map": "T01",
             "CommonMons": [
                 {
                     "species": "SPECIES_HOOTHOOT",
@@ -8692,7 +8692,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T02",
+            "Map": "T02",
             "CommonMons": [
                 {
                     "species": "SPECIES_HOOTHOOT",
@@ -8983,7 +8983,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T03",
+            "Map": "T03",
             "CommonMons": [
                 {
                     "species": "SPECIES_HOOTHOOT",
@@ -9360,7 +9360,7 @@
             ]
         },
         {
-        "Map": "T04",
+            "Map": "T04",
             "CommonMons": [
                 {
                     "species": "SPECIES_HOOTHOOT",
@@ -9621,7 +9621,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T05",
+            "Map": "T05",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -9629,7 +9629,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T06",
+            "Map": "T06",
             "CommonMons": [
                 {
                     "species": "SPECIES_SPEAROW",
@@ -9808,7 +9808,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T07",
+            "Map": "T07",
             "CommonMons": [
                 {
                     "species": "SPECIES_SPEAROW",
@@ -10215,7 +10215,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T08",
+            "Map": "T08",
             "CommonMons": [
                 {
                     "species": "SPECIES_HOOTHOOT",
@@ -10460,7 +10460,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T09",
+            "Map": "T09",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -10468,7 +10468,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T10",
+            "Map": "T10",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -10476,7 +10476,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T11",
+            "Map": "T11",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -10484,20 +10484,20 @@
             "SecretTrees": []
         },
         {
-        "Map": "T20",
+            "Map": "T20",
             "CommonMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 2,
                     "maxLevel": 3
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 2,
                     "maxLevel": 3
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 2,
                     "maxLevel": 3
                 },
@@ -10519,7 +10519,7 @@
             ],
             "RareMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 4,
                     "maxLevel": 5
                 },
@@ -10687,7 +10687,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T20R0101",
+            "Map": "T20R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -10695,7 +10695,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T20R0102",
+            "Map": "T20R0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -10703,7 +10703,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T20R0201",
+            "Map": "T20R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -10711,7 +10711,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T20R0202",
+            "Map": "T20R0202",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -10719,7 +10719,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T20R0301",
+            "Map": "T20R0301",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -10727,7 +10727,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T20R0401",
+            "Map": "T20R0401",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -10735,20 +10735,20 @@
             "SecretTrees": []
         },
         {
-        "Map": "T21",
+            "Map": "T21",
             "CommonMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 2,
                     "maxLevel": 3
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 2,
                     "maxLevel": 3
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 2,
                     "maxLevel": 3
                 },
@@ -10770,7 +10770,7 @@
             ],
             "RareMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 4,
                     "maxLevel": 5
                 },
@@ -10818,22 +10818,22 @@
                     "maxLevel": 20
                 },
                 {
-                    "species": "SPECIES_TAILLOW",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 18,
                     "maxLevel": 20
                 },
                 {
-                    "species": "SPECIES_TAILLOW",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 18,
                     "maxLevel": 20
                 },
                 {
-                    "species": "SPECIES_TAILLOW",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 18,
                     "maxLevel": 20
                 },
                 {
-                    "species": "SPECIES_TAILLOW",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 21,
                     "maxLevel": 25
                 }
@@ -10958,7 +10958,7 @@
             ]
         },
         {
-        "Map": "T21FS0101",
+            "Map": "T21FS0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -10966,7 +10966,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T21PC0101",
+            "Map": "T21PC0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -10974,7 +10974,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T21R0301",
+            "Map": "T21R0301",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -10982,7 +10982,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T21R0401",
+            "Map": "T21R0401",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -10990,7 +10990,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T21R0501",
+            "Map": "T21R0501",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -10998,20 +10998,20 @@
             "SecretTrees": []
         },
         {
-        "Map": "T22",
+            "Map": "T22",
             "CommonMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 2,
                     "maxLevel": 3
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 10,
                     "maxLevel": 10
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 10,
                     "maxLevel": 10
                 },
@@ -11033,17 +11033,17 @@
             ],
             "RareMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 4,
                     "maxLevel": 5
                 },
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 10,
                     "maxLevel": 10
                 },
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 10,
                     "maxLevel": 10
                 },
@@ -11355,7 +11355,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T23",
+            "Map": "T23",
             "CommonMons": [
                 {
                     "species": "SPECIES_SPEAROW",
@@ -11363,27 +11363,27 @@
                     "maxLevel": 5
                 },
                 {
-                    "species": "SPECIES_HERACROSS",
+                    "species": "SPECIES_PINSIR",
                     "minLevel": 3,
                     "maxLevel": 5
                 },
                 {
-                    "species": "SPECIES_HERACROSS",
+                    "species": "SPECIES_PINSIR",
                     "minLevel": 3,
                     "maxLevel": 5
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 3,
                     "maxLevel": 5
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 3,
                     "maxLevel": 5
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 3,
                     "maxLevel": 5
                 }
@@ -11405,17 +11405,17 @@
                     "maxLevel": 8
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 6,
                     "maxLevel": 8
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 6,
                     "maxLevel": 8
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 6,
                     "maxLevel": 8
                 }
@@ -11584,7 +11584,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T24",
+            "Map": "T24",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -11592,7 +11592,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T25",
+            "Map": "T25",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -11600,7 +11600,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T26",
+            "Map": "T26",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -11608,20 +11608,20 @@
             "SecretTrees": []
         },
         {
-        "Map": "T27",
+            "Map": "T27",
             "CommonMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 12,
                     "maxLevel": 14
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 12,
                     "maxLevel": 14
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 12,
                     "maxLevel": 14
                 },
@@ -11643,7 +11643,7 @@
             ],
             "RareMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 15,
                     "maxLevel": 17
                 },
@@ -11877,7 +11877,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T27FS0101",
+            "Map": "T27FS0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -11885,7 +11885,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T27GYM0101",
+            "Map": "T27GYM0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -11893,7 +11893,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T27PC0101",
+            "Map": "T27PC0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -11901,7 +11901,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T27R0101",
+            "Map": "T27R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -11909,7 +11909,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T27R0201",
+            "Map": "T27R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -11917,7 +11917,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T27R0801",
+            "Map": "T27R0801",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -11925,7 +11925,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T27R0401",
+            "Map": "T27R0401",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -11933,7 +11933,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T27R0501",
+            "Map": "T27R0501",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -11941,7 +11941,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T28",
+            "Map": "T28",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -11949,20 +11949,20 @@
             "SecretTrees": []
         },
         {
-        "Map": "T29",
+            "Map": "T29",
             "CommonMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 14,
                     "maxLevel": 16
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 14,
                     "maxLevel": 16
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 14,
                     "maxLevel": 16
                 },
@@ -11984,7 +11984,7 @@
             ],
             "RareMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 17,
                     "maxLevel": 19
                 },
@@ -11994,7 +11994,7 @@
                     "maxLevel": 19
                 },
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 17,
                     "maxLevel": 19
                 },
@@ -12260,7 +12260,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T30",
+            "Map": "T30",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -12268,67 +12268,67 @@
             "SecretTrees": []
         },
         {
-        "Map": "T31",
+            "Map": "T31",
             "CommonMons": [
                 {
-                    "species": "SPECIES_HERACROSS",
+                    "species": "SPECIES_PINSIR",
                     "minLevel": 39,
                     "maxLevel": 40
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 39,
                     "maxLevel": 40
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 39,
                     "maxLevel": 40
                 },
                 {
-                    "species": "SPECIES_NATU",
+                    "species": "SPECIES_PIDGEY",
                     "minLevel": 39,
                     "maxLevel": 40
                 },
                 {
-                    "species": "SPECIES_NATU",
+                    "species": "SPECIES_PIDGEY",
                     "minLevel": 39,
                     "maxLevel": 40
                 },
                 {
-                    "species": "SPECIES_NATU",
+                    "species": "SPECIES_PIDGEY",
                     "minLevel": 39,
                     "maxLevel": 40
                 }
             ],
             "RareMons": [
                 {
-                    "species": "SPECIES_HERACROSS",
+                    "species": "SPECIES_PINSIR",
                     "minLevel": 41,
                     "maxLevel": 43
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 41,
                     "maxLevel": 43
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 41,
                     "maxLevel": 43
                 },
                 {
-                    "species": "SPECIES_NATU",
+                    "species": "SPECIES_PIDGEY",
                     "minLevel": 41,
                     "maxLevel": 43
                 },
                 {
-                    "species": "SPECIES_NATU",
+                    "species": "SPECIES_PIDGEY",
                     "minLevel": 41,
                     "maxLevel": 43
                 },
                 {
-                    "species": "SPECIES_NATU",
+                    "species": "SPECIES_PIDGEY",
                     "minLevel": 41,
                     "maxLevel": 43
                 }
@@ -12389,7 +12389,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "W19",
+            "Map": "W19",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -12397,7 +12397,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "W20",
+            "Map": "W20",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -12405,7 +12405,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "W21",
+            "Map": "W21",
             "CommonMons": [
                 {
                     "species": "SPECIES_HOOTHOOT",
@@ -12512,7 +12512,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "W40",
+            "Map": "W40",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -12520,7 +12520,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "W41",
+            "Map": "W41",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -12528,20 +12528,20 @@
             "SecretTrees": []
         },
         {
-        "Map": "D22R0101",
+            "Map": "D22R0101",
             "CommonMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 10,
                     "maxLevel": 12
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 10,
                     "maxLevel": 12
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 10,
                     "maxLevel": 12
                 },
@@ -12563,7 +12563,7 @@
             ],
             "RareMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 13,
                     "maxLevel": 15
                 },
@@ -12611,22 +12611,22 @@
                     "maxLevel": 20
                 },
                 {
-                    "species": "SPECIES_CHERUBI",
+                    "species": "SPECIES_ODDISH",
                     "minLevel": 18,
                     "maxLevel": 20
                 },
                 {
-                    "species": "SPECIES_CHERUBI",
+                    "species": "SPECIES_ODDISH",
                     "minLevel": 18,
                     "maxLevel": 20
                 },
                 {
-                    "species": "SPECIES_CHERUBI",
+                    "species": "SPECIES_ODDISH",
                     "minLevel": 18,
                     "maxLevel": 20
                 },
                 {
-                    "species": "SPECIES_CHERUBI",
+                    "species": "SPECIES_ODDISH",
                     "minLevel": 21,
                     "maxLevel": 25
                 }
@@ -12923,7 +12923,7 @@
             ]
         },
         {
-        "Map": "R31R0101",
+            "Map": "R31R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -12931,7 +12931,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R32R0101",
+            "Map": "R32R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -12939,7 +12939,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D25R0101",
+            "Map": "D25R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -12947,7 +12947,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T23R0101",
+            "Map": "T23R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -12955,7 +12955,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R35R0101",
+            "Map": "R35R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -12963,7 +12963,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R35R0201",
+            "Map": "R35R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -12971,7 +12971,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R36R0101",
+            "Map": "R36R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -12979,7 +12979,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R36R0201",
+            "Map": "R36R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -12987,7 +12987,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T27R0601",
+            "Map": "T27R0601",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -12995,7 +12995,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D01R0101",
+            "Map": "D01R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -13003,7 +13003,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D02R0101",
+            "Map": "D02R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -13011,7 +13011,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D05R0101",
+            "Map": "D05R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -13019,7 +13019,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D10R0101",
+            "Map": "D10R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -13027,7 +13027,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D15R0101",
+            "Map": "D15R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -13035,7 +13035,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D17R0101",
+            "Map": "D17R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -13043,7 +13043,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D23R0101",
+            "Map": "D23R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -13051,7 +13051,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D24R0101",
+            "Map": "D24R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -13059,7 +13059,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D26R0101",
+            "Map": "D26R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -13067,7 +13067,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D27R0101",
+            "Map": "D27R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -13075,7 +13075,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D35R0101",
+            "Map": "D35R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -13083,10 +13083,10 @@
             "SecretTrees": []
         },
         {
-        "Map": "D36R0101",
+            "Map": "D36R0101",
             "CommonMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 3,
                     "maxLevel": 5
                 },
@@ -13107,7 +13107,7 @@
                     "maxLevel": 5
                 },
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 3,
                     "maxLevel": 5
                 },
@@ -13130,22 +13130,22 @@
             ],
             "RareMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 6,
                     "maxLevel": 8
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 6,
                     "maxLevel": 8
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 6,
                     "maxLevel": 8
                 },
                 {
-                    "species": "SPECIES_NOCTOWL",
+                    "species": "SPECIES_FEAROW",
                     "minLevel": 6,
                     "maxLevel": 8
                 },
@@ -13876,7 +13876,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D37R0101",
+            "Map": "D37R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -13884,7 +13884,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D38R0101",
+            "Map": "D38R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -13892,7 +13892,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D39R0101",
+            "Map": "D39R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -13900,7 +13900,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D40R0101",
+            "Map": "D40R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -13908,7 +13908,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D41R0101",
+            "Map": "D41R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -13916,7 +13916,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D42R0101",
+            "Map": "D42R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -13924,7 +13924,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D43R0101",
+            "Map": "D43R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -13932,7 +13932,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D44R0101",
+            "Map": "D44R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -13940,7 +13940,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D45R0101",
+            "Map": "D45R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -13948,7 +13948,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R30R0101",
+            "Map": "R30R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -13956,7 +13956,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T27PC0102",
+            "Map": "T27PC0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -13964,7 +13964,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T27PC0103",
+            "Map": "T27PC0103",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -13972,7 +13972,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T27PC0104",
+            "Map": "T27PC0104",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -13980,7 +13980,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T27PC0105",
+            "Map": "T27PC0105",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -13988,7 +13988,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R42R0101",
+            "Map": "R42R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -13996,7 +13996,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T28R0201",
+            "Map": "T28R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -14004,7 +14004,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R29R0101",
+            "Map": "R29R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -14012,7 +14012,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T22GYM0101",
+            "Map": "T22GYM0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -14020,7 +14020,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T23GYM0101",
+            "Map": "T23GYM0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -14028,7 +14028,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T25GYM0101",
+            "Map": "T25GYM0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -14036,7 +14036,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T26GYM0101",
+            "Map": "T26GYM0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -14044,7 +14044,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T24GYM0101",
+            "Map": "T24GYM0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -14052,7 +14052,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T28GYM0101",
+            "Map": "T28GYM0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -14060,7 +14060,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T30GYM0101",
+            "Map": "T30GYM0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -14068,7 +14068,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R43R0101",
+            "Map": "R43R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -14076,7 +14076,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R30R0201",
+            "Map": "R30R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -14084,7 +14084,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T21PC0102",
+            "Map": "T21PC0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -14092,7 +14092,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D03R0101",
+            "Map": "D03R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -14100,7 +14100,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D11R0101",
+            "Map": "D11R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -14108,7 +14108,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D46R0101",
+            "Map": "D46R0101",
             "CommonMons": [
                 {
                     "species": "SPECIES_HOOTHOOT",
@@ -14539,7 +14539,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R09R0101",
+            "Map": "R09R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -14547,7 +14547,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T22R0701",
+            "Map": "T22R0701",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -14555,7 +14555,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D22R0201",
+            "Map": "D22R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -14563,20 +14563,20 @@
             "SecretTrees": []
         },
         {
-        "Map": "R47",
+            "Map": "R47",
             "CommonMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 15,
                     "maxLevel": 16
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 15,
                     "maxLevel": 16
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 15,
                     "maxLevel": 16
                 },
@@ -14598,7 +14598,7 @@
             ],
             "RareMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 17,
                     "maxLevel": 18
                 },
@@ -14660,17 +14660,17 @@
                     "maxLevel": 28
                 },
                 {
-                    "species": "SPECIES_HERACROSS",
+                    "species": "SPECIES_PINSIR",
                     "minLevel": 25,
                     "maxLevel": 28
                 },
                 {
-                    "species": "SPECIES_HERACROSS",
+                    "species": "SPECIES_PINSIR",
                     "minLevel": 25,
                     "maxLevel": 28
                 },
                 {
-                    "species": "SPECIES_HERACROSS",
+                    "species": "SPECIES_PINSIR",
                     "minLevel": 27,
                     "maxLevel": 30
                 }
@@ -14837,20 +14837,20 @@
             ]
         },
         {
-        "Map": "R48",
+            "Map": "R48",
             "CommonMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 15,
                     "maxLevel": 16
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 15,
                     "maxLevel": 16
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 15,
                     "maxLevel": 16
                 },
@@ -14872,7 +14872,7 @@
             ],
             "RareMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 17,
                     "maxLevel": 18
                 },
@@ -14974,7 +14974,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D25R0102",
+            "Map": "D25R0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -14982,7 +14982,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D25R0103",
+            "Map": "D25R0103",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -14990,7 +14990,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D15R0102",
+            "Map": "D15R0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -14998,7 +14998,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D15R0103",
+            "Map": "D15R0103",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15006,7 +15006,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T22FS0101",
+            "Map": "T22FS0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15014,7 +15014,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T22PC0101",
+            "Map": "T22PC0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15022,7 +15022,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T22R0301",
+            "Map": "T22R0301",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15030,7 +15030,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T22R0401",
+            "Map": "T22R0401",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15038,7 +15038,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T22R0501",
+            "Map": "T22R0501",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15046,7 +15046,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T22R0601",
+            "Map": "T22R0601",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15054,7 +15054,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T23R0201",
+            "Map": "T23R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15062,7 +15062,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T23R0501",
+            "Map": "T23R0501",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15070,7 +15070,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T23FS0101",
+            "Map": "T23FS0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15078,7 +15078,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T23PC0101",
+            "Map": "T23PC0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15086,7 +15086,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T22PC0102",
+            "Map": "T22PC0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15094,7 +15094,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T23PC0102",
+            "Map": "T23PC0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15102,7 +15102,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R32PC0101",
+            "Map": "R32PC0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15110,7 +15110,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R32PC0102",
+            "Map": "R32PC0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15118,7 +15118,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R34R0201",
+            "Map": "R34R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15126,7 +15126,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R38R0101",
+            "Map": "R38R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15134,7 +15134,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D47R0101",
+            "Map": "D47R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15142,20 +15142,20 @@
             "SecretTrees": []
         },
         {
-        "Map": "D47",
+            "Map": "D47",
             "CommonMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 14,
                     "maxLevel": 16
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 14,
                     "maxLevel": 16
                 },
                 {
-                    "species": "SPECIES_PINECO",
+                    "species": "SPECIES_PARAS",
                     "minLevel": 14,
                     "maxLevel": 16
                 },
@@ -15177,7 +15177,7 @@
             ],
             "RareMons": [
                 {
-                    "species": "SPECIES_HOOTHOOT",
+                    "species": "SPECIES_SPEAROW",
                     "minLevel": 17,
                     "maxLevel": 19
                 },
@@ -15389,7 +15389,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T27R0301",
+            "Map": "T27R0301",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15397,7 +15397,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D42R0102",
+            "Map": "D42R0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15405,7 +15405,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D26R0102",
+            "Map": "D26R0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15413,7 +15413,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D43R0102",
+            "Map": "D43R0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15421,7 +15421,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D43R0103",
+            "Map": "D43R0103",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15429,7 +15429,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T23GYM0102",
+            "Map": "T23GYM0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15437,7 +15437,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D26R0103",
+            "Map": "D26R0103",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15445,7 +15445,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T25R0201",
+            "Map": "T25R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15453,7 +15453,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T25R1101",
+            "Map": "T25R1101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15461,7 +15461,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T25R0601",
+            "Map": "T25R0601",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15469,7 +15469,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T25PC0101",
+            "Map": "T25PC0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15477,7 +15477,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D23R0102",
+            "Map": "D23R0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15485,7 +15485,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D23R0103",
+            "Map": "D23R0103",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15493,7 +15493,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D23R0104",
+            "Map": "D23R0104",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15501,7 +15501,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D23R0105",
+            "Map": "D23R0105",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15509,7 +15509,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D23R0106",
+            "Map": "D23R0106",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15517,7 +15517,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T25R1001",
+            "Map": "T25R1001",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15525,7 +15525,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T25R1002",
+            "Map": "T25R1002",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15533,7 +15533,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T25R1003",
+            "Map": "T25R1003",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15541,7 +15541,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T25R1004",
+            "Map": "T25R1004",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15549,7 +15549,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T25R1005",
+            "Map": "T25R1005",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15557,7 +15557,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T25R1006",
+            "Map": "T25R1006",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15565,7 +15565,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T25R0501",
+            "Map": "T25R0501",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15573,7 +15573,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T25R0502",
+            "Map": "T25R0502",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15581,7 +15581,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D37R0102",
+            "Map": "D37R0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15589,7 +15589,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D37R0103",
+            "Map": "D37R0103",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15597,7 +15597,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D37R0104",
+            "Map": "D37R0104",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15605,7 +15605,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D37R0105",
+            "Map": "D37R0105",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15613,7 +15613,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T25R0401",
+            "Map": "T25R0401",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15621,7 +15621,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T25R0301",
+            "Map": "T25R0301",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15629,7 +15629,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T25R0801",
+            "Map": "T25R0801",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15637,7 +15637,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T25R0901",
+            "Map": "T25R0901",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15645,7 +15645,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T25R1201",
+            "Map": "T25R1201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15653,7 +15653,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T25R1301",
+            "Map": "T25R1301",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15661,7 +15661,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T25R1302",
+            "Map": "T25R1302",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15669,7 +15669,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T25R1303",
+            "Map": "T25R1303",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15677,7 +15677,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T25R1304",
+            "Map": "T25R1304",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15685,7 +15685,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T25R1305",
+            "Map": "T25R1305",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15693,7 +15693,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T25R1306",
+            "Map": "T25R1306",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15701,7 +15701,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R39R0101",
+            "Map": "R39R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15709,7 +15709,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R39R0201",
+            "Map": "R39R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15717,7 +15717,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T27R0202",
+            "Map": "T27R0202",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15725,7 +15725,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D18R0102",
+            "Map": "D18R0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15733,7 +15733,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D24R0201",
+            "Map": "D24R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15741,7 +15741,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T25PC0102",
+            "Map": "T25PC0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15749,7 +15749,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D27R0102",
+            "Map": "D27R0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15757,7 +15757,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D27R0103",
+            "Map": "D27R0103",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15765,7 +15765,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D27R0104",
+            "Map": "D27R0104",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15773,7 +15773,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D27R0105",
+            "Map": "D27R0105",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15781,7 +15781,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D27R0106",
+            "Map": "D27R0106",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15789,7 +15789,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D27R0107",
+            "Map": "D27R0107",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15797,7 +15797,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T26PC0101",
+            "Map": "T26PC0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15805,7 +15805,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T26FS0101",
+            "Map": "T26FS0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15813,7 +15813,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T26R0301",
+            "Map": "T26R0301",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15821,7 +15821,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T26R0501",
+            "Map": "T26R0501",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15829,7 +15829,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T26R0601",
+            "Map": "T26R0601",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15837,7 +15837,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T26R0701",
+            "Map": "T26R0701",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15845,7 +15845,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T24R0201",
+            "Map": "T24R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15853,7 +15853,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T24R0501",
+            "Map": "T24R0501",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15861,7 +15861,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T24R0601",
+            "Map": "T24R0601",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15869,7 +15869,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T24R0701",
+            "Map": "T24R0701",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15877,7 +15877,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T24PC0101",
+            "Map": "T24PC0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15885,7 +15885,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D39R0102",
+            "Map": "D39R0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15893,7 +15893,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D39R0103",
+            "Map": "D39R0103",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15901,7 +15901,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D39R0104",
+            "Map": "D39R0104",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15909,7 +15909,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "P01R0101",
+            "Map": "P01R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15917,7 +15917,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T24PC0102",
+            "Map": "T24PC0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15925,7 +15925,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D40R0102",
+            "Map": "D40R0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15933,7 +15933,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D40R0104",
+            "Map": "D40R0104",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15941,7 +15941,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D40R0107",
+            "Map": "D40R0107",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15949,7 +15949,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R43R0201",
+            "Map": "R43R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15957,7 +15957,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T28PC0101",
+            "Map": "T28PC0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15965,7 +15965,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D35R0102",
+            "Map": "D35R0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15973,7 +15973,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D35R0103",
+            "Map": "D35R0103",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15981,7 +15981,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D35R0104",
+            "Map": "D35R0104",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15989,7 +15989,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D38R0102",
+            "Map": "D38R0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -15997,7 +15997,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D38R0103",
+            "Map": "D38R0103",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16005,7 +16005,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D38R0104",
+            "Map": "D38R0104",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16013,7 +16013,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D44R0102",
+            "Map": "D44R0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16021,7 +16021,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "C11",
+            "Map": "C11",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16029,7 +16029,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "C11PC0101",
+            "Map": "C11PC0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16037,7 +16037,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "C11PC0102",
+            "Map": "C11PC0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16045,7 +16045,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "C11FS0101",
+            "Map": "C11FS0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16053,7 +16053,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "C11R0101",
+            "Map": "C11R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16061,7 +16061,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "C11R0201",
+            "Map": "C11R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16069,7 +16069,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "C11R0301",
+            "Map": "C11R0301",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16077,7 +16077,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "C11R0401",
+            "Map": "C11R0401",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16085,7 +16085,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "C11PC0103",
+            "Map": "C11PC0103",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16093,7 +16093,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D31",
+            "Map": "D31",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16101,7 +16101,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D31R0101",
+            "Map": "D31R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16109,7 +16109,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D31R0201",
+            "Map": "D31R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16117,7 +16117,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D31R0202",
+            "Map": "D31R0202",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16125,7 +16125,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D31R0203",
+            "Map": "D31R0203",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16133,7 +16133,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D31R0204",
+            "Map": "D31R0204",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16141,7 +16141,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D31R0205",
+            "Map": "D31R0205",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16149,7 +16149,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D31R0206",
+            "Map": "D31R0206",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16157,7 +16157,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D31R0207",
+            "Map": "D31R0207",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16165,7 +16165,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D32",
+            "Map": "D32",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16173,7 +16173,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D32R0101",
+            "Map": "D32R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16181,7 +16181,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D32R0201",
+            "Map": "D32R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16189,7 +16189,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D32R0301",
+            "Map": "D32R0301",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16197,7 +16197,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D32R0401",
+            "Map": "D32R0401",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16205,7 +16205,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D32R0501",
+            "Map": "D32R0501",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16213,7 +16213,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D32R0601",
+            "Map": "D32R0601",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16221,7 +16221,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D48R0101",
+            "Map": "D48R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16229,7 +16229,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D49",
+            "Map": "D49",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16237,7 +16237,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D49R0101",
+            "Map": "D49R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16245,7 +16245,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D49R0102",
+            "Map": "D49R0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16253,7 +16253,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D49R0103",
+            "Map": "D49R0103",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16261,7 +16261,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D49R0104",
+            "Map": "D49R0104",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16269,7 +16269,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D49R0105",
+            "Map": "D49R0105",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16277,7 +16277,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D49R0106",
+            "Map": "D49R0106",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16285,7 +16285,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D49R0107",
+            "Map": "D49R0107",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16293,7 +16293,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D44R0103",
+            "Map": "D44R0103",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16301,7 +16301,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T30R0201",
+            "Map": "T30R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16309,7 +16309,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T30R0301",
+            "Map": "T30R0301",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16317,7 +16317,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T30R0601",
+            "Map": "T30R0601",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16325,7 +16325,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T30FS0101",
+            "Map": "T30FS0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16333,7 +16333,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T30PC0101",
+            "Map": "T30PC0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16341,7 +16341,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T29R0101",
+            "Map": "T29R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16349,7 +16349,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T29R0201",
+            "Map": "T29R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16357,7 +16357,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R26R0101",
+            "Map": "R26R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16365,7 +16365,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R26R0201",
+            "Map": "R26R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16373,7 +16373,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D45R0102",
+            "Map": "D45R0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16381,7 +16381,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R22R0101",
+            "Map": "R22R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16389,7 +16389,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T10R0101",
+            "Map": "T10R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16397,7 +16397,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T10R0201",
+            "Map": "T10R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16405,7 +16405,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T10R0301",
+            "Map": "T10R0301",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16413,7 +16413,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T10R0401",
+            "Map": "T10R0401",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16421,7 +16421,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T10R0501",
+            "Map": "T10R0501",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16429,7 +16429,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T10R0601",
+            "Map": "T10R0601",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16437,7 +16437,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T10R0701",
+            "Map": "T10R0701",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16445,7 +16445,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "P01R0301",
+            "Map": "P01R0301",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16453,7 +16453,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "P01R0302",
+            "Map": "P01R0302",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16461,7 +16461,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "P01R0303",
+            "Map": "P01R0303",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16469,7 +16469,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "P01R0304",
+            "Map": "P01R0304",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16477,7 +16477,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "P01R0305",
+            "Map": "P01R0305",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16485,7 +16485,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D24R0202",
+            "Map": "D24R0202",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16493,7 +16493,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D24R0203",
+            "Map": "D24R0203",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16501,7 +16501,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D24R0204",
+            "Map": "D24R0204",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16509,7 +16509,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D24R0205",
+            "Map": "D24R0205",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16517,7 +16517,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D24R0206",
+            "Map": "D24R0206",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16525,7 +16525,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D24R0207",
+            "Map": "D24R0207",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16533,7 +16533,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D24R0208",
+            "Map": "D24R0208",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16541,7 +16541,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D24R0209",
+            "Map": "D24R0209",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16549,7 +16549,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D24R0210",
+            "Map": "D24R0210",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16557,7 +16557,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D24R0102",
+            "Map": "D24R0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16565,7 +16565,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R27R0101",
+            "Map": "R27R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16573,7 +16573,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D24R0211",
+            "Map": "D24R0211",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16581,7 +16581,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D24R0212",
+            "Map": "D24R0212",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16589,7 +16589,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D24R0213",
+            "Map": "D24R0213",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16597,7 +16597,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D24R0214",
+            "Map": "D24R0214",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16605,7 +16605,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D24R0215",
+            "Map": "D24R0215",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16613,7 +16613,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "P01R0306",
+            "Map": "P01R0306",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16621,7 +16621,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "P01R0307",
+            "Map": "P01R0307",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16629,7 +16629,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "P01R0102",
+            "Map": "P01R0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16637,7 +16637,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R34R0101",
+            "Map": "R34R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16645,7 +16645,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D17R0102",
+            "Map": "D17R0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16653,7 +16653,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D17R0103",
+            "Map": "D17R0103",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16661,7 +16661,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D17R0104",
+            "Map": "D17R0104",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16669,7 +16669,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D17R0105",
+            "Map": "D17R0105",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16677,7 +16677,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D17R0106",
+            "Map": "D17R0106",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16685,7 +16685,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D17R0107",
+            "Map": "D17R0107",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16693,7 +16693,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D17R0108",
+            "Map": "D17R0108",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16701,7 +16701,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D17R0109",
+            "Map": "D17R0109",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16709,7 +16709,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D17R0110",
+            "Map": "D17R0110",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16717,7 +16717,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D17R0112",
+            "Map": "D17R0112",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16725,7 +16725,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D50R0101",
+            "Map": "D50R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16733,7 +16733,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "SAF01",
+            "Map": "SAF01",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16741,7 +16741,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "SAF02",
+            "Map": "SAF02",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16749,7 +16749,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "SAF03",
+            "Map": "SAF03",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16757,7 +16757,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "SAF04",
+            "Map": "SAF04",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16765,7 +16765,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "SAF05",
+            "Map": "SAF05",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16773,7 +16773,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "SAF06",
+            "Map": "SAF06",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16781,7 +16781,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "SAF07",
+            "Map": "SAF07",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16789,7 +16789,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "SAF08",
+            "Map": "SAF08",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16797,7 +16797,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "SAF09",
+            "Map": "SAF09",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16805,7 +16805,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "SAF10",
+            "Map": "SAF10",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16813,7 +16813,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "SAF11",
+            "Map": "SAF11",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16821,7 +16821,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "SAF12",
+            "Map": "SAF12",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16829,7 +16829,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "SAF13",
+            "Map": "SAF13",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16837,7 +16837,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "SAF14",
+            "Map": "SAF14",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16845,7 +16845,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D47R0102",
+            "Map": "D47R0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16853,7 +16853,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T06PC0101",
+            "Map": "T06PC0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16861,7 +16861,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T06PC0102",
+            "Map": "T06PC0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16869,7 +16869,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T06FS0101",
+            "Map": "T06FS0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16877,7 +16877,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T06R0101",
+            "Map": "T06R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16885,7 +16885,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T06R0301",
+            "Map": "T06R0301",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16893,7 +16893,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T06R0401",
+            "Map": "T06R0401",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16901,7 +16901,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T06R0601",
+            "Map": "T06R0601",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16909,7 +16909,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T06GYM0101",
+            "Map": "T06GYM0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16917,7 +16917,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "W40R0101",
+            "Map": "W40R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16925,7 +16925,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T26PC0102",
+            "Map": "T26PC0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16933,7 +16933,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T28PC0102",
+            "Map": "T28PC0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16941,7 +16941,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T30PC0102",
+            "Map": "T30PC0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16949,7 +16949,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T07R0101",
+            "Map": "T07R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16957,7 +16957,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T07R0102",
+            "Map": "T07R0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16965,7 +16965,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T07R0103",
+            "Map": "T07R0103",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16973,7 +16973,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T07R0104",
+            "Map": "T07R0104",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16981,7 +16981,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T07R0105",
+            "Map": "T07R0105",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16989,7 +16989,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T07R0106",
+            "Map": "T07R0106",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -16997,7 +16997,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T07R0201",
+            "Map": "T07R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17005,7 +17005,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T07R0202",
+            "Map": "T07R0202",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17013,7 +17013,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T07R0203",
+            "Map": "T07R0203",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17021,7 +17021,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T07R0204",
+            "Map": "T07R0204",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17029,7 +17029,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T07R0205",
+            "Map": "T07R0205",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17037,7 +17037,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T07R0401",
+            "Map": "T07R0401",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17045,7 +17045,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T07R0501",
+            "Map": "T07R0501",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17053,7 +17053,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T07R0701",
+            "Map": "T07R0701",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17061,7 +17061,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T20R0402",
+            "Map": "T20R0402",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17069,7 +17069,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T24R0801",
+            "Map": "T24R0801",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17077,7 +17077,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "P01R0103",
+            "Map": "P01R0103",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17085,7 +17085,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "P01R0104",
+            "Map": "P01R0104",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17093,7 +17093,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R10R0101",
+            "Map": "R10R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17101,7 +17101,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R06R0201",
+            "Map": "R06R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17109,7 +17109,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R08R0201",
+            "Map": "R08R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17117,7 +17117,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R05R0301",
+            "Map": "R05R0301",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17125,7 +17125,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R15R0101",
+            "Map": "R15R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17133,7 +17133,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T07PC0101",
+            "Map": "T07PC0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17141,7 +17141,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T07PC0102",
+            "Map": "T07PC0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17149,7 +17149,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T07GYM0101",
+            "Map": "T07GYM0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17157,7 +17157,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T28GYM0102",
+            "Map": "T28GYM0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17165,7 +17165,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T28GYM0103",
+            "Map": "T28GYM0103",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17173,7 +17173,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T11R0101",
+            "Map": "T11R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17181,7 +17181,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T11R0501",
+            "Map": "T11R0501",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17189,7 +17189,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T11R0601",
+            "Map": "T11R0601",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17197,7 +17197,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T11R0602",
+            "Map": "T11R0602",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17205,7 +17205,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T11R0701",
+            "Map": "T11R0701",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17213,7 +17213,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T11R0702",
+            "Map": "T11R0702",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17221,7 +17221,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T11R0801",
+            "Map": "T11R0801",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17229,7 +17229,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T11R0802",
+            "Map": "T11R0802",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17237,7 +17237,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T11R0901",
+            "Map": "T11R0901",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17245,7 +17245,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T11PC0101",
+            "Map": "T11PC0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17253,7 +17253,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T11PC0102",
+            "Map": "T11PC0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17261,7 +17261,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T11FS0101",
+            "Map": "T11FS0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17269,7 +17269,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T11GYM0101",
+            "Map": "T11GYM0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17277,7 +17277,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D32R0102",
+            "Map": "D32R0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17285,7 +17285,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T25R1202",
+            "Map": "T25R1202",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17293,7 +17293,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T25R1203",
+            "Map": "T25R1203",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17301,7 +17301,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R02R0101",
+            "Map": "R02R0101",
             "CommonMons": [
                 {
                     "species": "SPECIES_HOOTHOOT",
@@ -17520,7 +17520,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R16R0101",
+            "Map": "R16R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17528,7 +17528,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "W20R0101",
+            "Map": "W20R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17536,7 +17536,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R02R0201",
+            "Map": "R02R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17544,7 +17544,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R02R0301",
+            "Map": "R02R0301",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17552,7 +17552,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R02R0401",
+            "Map": "R02R0401",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17560,7 +17560,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R02R0501",
+            "Map": "R02R0501",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17568,7 +17568,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R16R0201",
+            "Map": "R16R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17576,7 +17576,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R16R0301",
+            "Map": "R16R0301",
             "CommonMons": [
                 {
                     "species": "SPECIES_SPEAROW",
@@ -17701,7 +17701,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R18R0101",
+            "Map": "R18R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17709,7 +17709,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "W19R0101",
+            "Map": "W19R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17717,7 +17717,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R11R0101",
+            "Map": "R11R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17725,7 +17725,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T04FS0101",
+            "Map": "T04FS0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17733,7 +17733,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T04GYM0101",
+            "Map": "T04GYM0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17741,7 +17741,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T04PC0101",
+            "Map": "T04PC0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17749,7 +17749,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T04R0101",
+            "Map": "T04R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17757,7 +17757,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T04R0201",
+            "Map": "T04R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17765,7 +17765,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T04R0301",
+            "Map": "T04R0301",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17773,7 +17773,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T04R0401",
+            "Map": "T04R0401",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17781,7 +17781,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T05FS0101",
+            "Map": "T05FS0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17789,7 +17789,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T05PC0101",
+            "Map": "T05PC0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17797,7 +17797,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T05R0201",
+            "Map": "T05R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17805,7 +17805,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T05R0301",
+            "Map": "T05R0301",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17813,7 +17813,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T05R0401",
+            "Map": "T05R0401",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17821,7 +17821,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T05R0601",
+            "Map": "T05R0601",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17829,7 +17829,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T05R0701",
+            "Map": "T05R0701",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17837,7 +17837,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R25R0101",
+            "Map": "R25R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17845,7 +17845,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T25R1007",
+            "Map": "T25R1007",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17853,7 +17853,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T07R0107",
+            "Map": "T07R0107",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17861,7 +17861,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T07R0206",
+            "Map": "T07R0206",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17869,7 +17869,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T07R0207",
+            "Map": "T07R0207",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17877,7 +17877,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T11R0703",
+            "Map": "T11R0703",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17885,7 +17885,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D27R0108",
+            "Map": "D27R0108",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17893,7 +17893,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D23R0107",
+            "Map": "D23R0107",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17901,7 +17901,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D02R0102",
+            "Map": "D02R0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17909,7 +17909,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D02R0103",
+            "Map": "D02R0103",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17917,7 +17917,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D03R0102",
+            "Map": "D03R0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17925,7 +17925,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D03R0103",
+            "Map": "D03R0103",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17933,7 +17933,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D05R0102",
+            "Map": "D05R0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17941,7 +17941,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D11R0102",
+            "Map": "D11R0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17949,7 +17949,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D11R0103",
+            "Map": "D11R0103",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17957,7 +17957,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D11R0104",
+            "Map": "D11R0104",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17965,7 +17965,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D11R0105",
+            "Map": "D11R0105",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17973,7 +17973,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D11R0106",
+            "Map": "D11R0106",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17981,7 +17981,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D11R0107",
+            "Map": "D11R0107",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17989,7 +17989,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D41R0102",
+            "Map": "D41R0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -17997,67 +17997,67 @@
             "SecretTrees": []
         },
         {
-        "Map": "D41R0103",
+            "Map": "D41R0103",
             "CommonMons": [
                 {
-                    "species": "SPECIES_HERACROSS",
+                    "species": "SPECIES_PINSIR",
                     "minLevel": 42,
                     "maxLevel": 44
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 42,
                     "maxLevel": 44
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 42,
                     "maxLevel": 44
                 },
                 {
-                    "species": "SPECIES_NATU",
+                    "species": "SPECIES_PIDGEY",
                     "minLevel": 42,
                     "maxLevel": 44
                 },
                 {
-                    "species": "SPECIES_NATU",
+                    "species": "SPECIES_PIDGEY",
                     "minLevel": 42,
                     "maxLevel": 44
                 },
                 {
-                    "species": "SPECIES_NATU",
+                    "species": "SPECIES_PIDGEY",
                     "minLevel": 42,
                     "maxLevel": 44
                 }
             ],
             "RareMons": [
                 {
-                    "species": "SPECIES_HERACROSS",
+                    "species": "SPECIES_PINSIR",
                     "minLevel": 45,
                     "maxLevel": 48
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 45,
                     "maxLevel": 48
                 },
                 {
-                    "species": "SPECIES_AIPOM",
+                    "species": "SPECIES_MANKEY",
                     "minLevel": 45,
                     "maxLevel": 48
                 },
                 {
-                    "species": "SPECIES_NATU",
+                    "species": "SPECIES_PIDGEY",
                     "minLevel": 45,
                     "maxLevel": 48
                 },
                 {
-                    "species": "SPECIES_NATU",
+                    "species": "SPECIES_PIDGEY",
                     "minLevel": 45,
                     "maxLevel": 48
                 },
                 {
-                    "species": "SPECIES_NATU",
+                    "species": "SPECIES_PIDGEY",
                     "minLevel": 45,
                     "maxLevel": 48
                 }
@@ -18098,7 +18098,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D41R0104",
+            "Map": "D41R0104",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18106,7 +18106,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D41R0105",
+            "Map": "D41R0105",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18114,7 +18114,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D41R0106",
+            "Map": "D41R0106",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18122,7 +18122,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D41R0107",
+            "Map": "D41R0107",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18130,7 +18130,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D41R0108",
+            "Map": "D41R0108",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18138,7 +18138,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R10PC0101",
+            "Map": "R10PC0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18146,7 +18146,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R10R0201",
+            "Map": "R10R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18154,7 +18154,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R05R0101",
+            "Map": "R05R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18162,7 +18162,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R05R0201",
+            "Map": "R05R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18170,7 +18170,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R06R0101",
+            "Map": "R06R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18178,7 +18178,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T03R0101",
+            "Map": "T03R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18186,7 +18186,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T03R0201",
+            "Map": "T03R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18194,7 +18194,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T03GYM0101",
+            "Map": "T03GYM0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18202,7 +18202,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T03FS0101",
+            "Map": "T03FS0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18210,7 +18210,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T03PC0101",
+            "Map": "T03PC0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18218,7 +18218,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T03PC0102",
+            "Map": "T03PC0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18226,7 +18226,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T03R0601",
+            "Map": "T03R0601",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18234,7 +18234,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T08FS0101",
+            "Map": "T08FS0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18242,7 +18242,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T08R0201",
+            "Map": "T08R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18250,7 +18250,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T08GYM0101",
+            "Map": "T08GYM0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18258,7 +18258,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T08R0401",
+            "Map": "T08R0401",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18266,7 +18266,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T08PC0101",
+            "Map": "T08PC0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18274,7 +18274,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T08R0601",
+            "Map": "T08R0601",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18282,7 +18282,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R10PC0102",
+            "Map": "R10PC0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18290,7 +18290,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T08PC0102",
+            "Map": "T08PC0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18298,7 +18298,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D40R0106",
+            "Map": "D40R0106",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18306,7 +18306,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D22R0102",
+            "Map": "D22R0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18314,7 +18314,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D22R0103",
+            "Map": "D22R0103",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18322,7 +18322,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R10R0202",
+            "Map": "R10R0202",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18330,7 +18330,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D24R0216",
+            "Map": "D24R0216",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18338,7 +18338,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D24R0217",
+            "Map": "D24R0217",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18346,7 +18346,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D24R0218",
+            "Map": "D24R0218",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18354,7 +18354,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R07R0101",
+            "Map": "R07R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18362,7 +18362,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T05PC0102",
+            "Map": "T05PC0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18370,7 +18370,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T04PC0102",
+            "Map": "T04PC0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18378,7 +18378,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T02GYM0101",
+            "Map": "T02GYM0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18386,7 +18386,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T02R0201",
+            "Map": "T02R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18394,7 +18394,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T02R0301",
+            "Map": "T02R0301",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18402,7 +18402,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T02R0302",
+            "Map": "T02R0302",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18410,7 +18410,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T02FS0101",
+            "Map": "T02FS0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18418,7 +18418,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T02PC0101",
+            "Map": "T02PC0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18426,7 +18426,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T02PC0102",
+            "Map": "T02PC0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18434,7 +18434,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T01R0101",
+            "Map": "T01R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18442,7 +18442,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T01R0201",
+            "Map": "T01R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18450,7 +18450,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T01R0301",
+            "Map": "T01R0301",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18458,7 +18458,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T01R0102",
+            "Map": "T01R0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18466,7 +18466,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T01R0202",
+            "Map": "T01R0202",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18474,7 +18474,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T09PC0101",
+            "Map": "T09PC0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18482,7 +18482,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T09PC0102",
+            "Map": "T09PC0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18490,7 +18490,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R28R0101",
+            "Map": "R28R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18498,7 +18498,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R03PC0101",
+            "Map": "R03PC0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18506,7 +18506,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R03PC0102",
+            "Map": "R03PC0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18514,7 +18514,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D02R0104",
+            "Map": "D02R0104",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18522,7 +18522,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T31PC0101",
+            "Map": "T31PC0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18530,7 +18530,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T31PC0102",
+            "Map": "T31PC0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18538,7 +18538,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "HIROBA",
+            "Map": "HIROBA",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18546,7 +18546,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R05R0401",
+            "Map": "R05R0401",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18554,7 +18554,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D02FS0101",
+            "Map": "D02FS0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18562,7 +18562,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T25R0503",
+            "Map": "T25R0503",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18570,7 +18570,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T11R0603",
+            "Map": "T11R0603",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18578,7 +18578,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D51R0101",
+            "Map": "D51R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18586,7 +18586,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D51R0201",
+            "Map": "D51R0201",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18594,7 +18594,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D51R0301",
+            "Map": "D51R0301",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18602,7 +18602,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D52R0101",
+            "Map": "D52R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18610,7 +18610,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D52R0102",
+            "Map": "D52R0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18618,7 +18618,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D52R0103",
+            "Map": "D52R0103",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18626,7 +18626,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T02R0401",
+            "Map": "T02R0401",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18634,7 +18634,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D32PC0101",
+            "Map": "D32PC0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18642,7 +18642,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D32PC0102",
+            "Map": "D32PC0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18650,7 +18650,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D32FS0101",
+            "Map": "D32FS0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18658,7 +18658,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D32R0103",
+            "Map": "D32R0103",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18666,7 +18666,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R05R0202",
+            "Map": "R05R0202",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18674,7 +18674,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R12R0101",
+            "Map": "R12R0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18682,7 +18682,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D47PC0101",
+            "Map": "D47PC0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18690,7 +18690,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "D47PC0102",
+            "Map": "D47PC0102",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18698,7 +18698,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T25SP0101",
+            "Map": "T25SP0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18706,7 +18706,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T07SP0101",
+            "Map": "T07SP0101",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18714,7 +18714,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "R00",
+            "Map": "R00",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
@@ -18722,7 +18722,7 @@
             "SecretTrees": []
         },
         {
-        "Map": "T10R0801",
+            "Map": "T10R0801",
             "CommonMons": [],
             "RareMons": [],
             "SecretMons": [],
