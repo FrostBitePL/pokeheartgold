@@ -341,7 +341,7 @@
     },
     {
       "id": "obj_D35R0103_tsure_poke_static_murkrow",
-      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_DODUO",
+      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_DODRIO",
       "movement": 0,
       "type": 0,
       "eventFlag": "FLAG_HIDE_ROCKET_HIDEOUT_B2F_MURKROW_1",
@@ -358,7 +358,7 @@
     },
     {
       "id": "obj_D35R0103_tsure_poke_static_murkrow_2",
-      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_DODUO",
+      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_DODRIO",
       "movement": 0,
       "type": 0,
       "eventFlag": "FLAG_HIDE_ROCKET_HIDEOUT_B2F_MURKROW_2",
@@ -375,7 +375,7 @@
     },
     {
       "id": "obj_D35R0103_tsure_poke_static_murkrow_3",
-      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_DODUO",
+      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_DODRIO",
       "movement": 0,
       "type": 0,
       "eventFlag": "FLAG_HIDE_ROCKET_HIDEOUT_B2F_MURKROW_3",

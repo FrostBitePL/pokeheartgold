@@ -20,7 +20,7 @@
     },
     {
       "id": "obj_T08R0601_tsure_poke_static_aipom",
-      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_MANKEY",
+      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_MACHOP",
       "movement": 3,
       "type": 0,
       "eventFlag": "FLAG_NOTHING",
@@ -37,7 +37,7 @@
     },
     {
       "id": "obj_T08R0601_tsure_poke_static_aipom_2",
-      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_MANKEY",
+      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_MACHOP",
       "movement": 16,
       "type": 0,
       "eventFlag": "FLAG_NOTHING",
@@ -54,7 +54,7 @@
     },
     {
       "id": "obj_T08R0601_tsure_poke_static_aipom_3",
-      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_MANKEY",
+      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_MACHOP",
       "movement": 3,
       "type": 0,
       "eventFlag": "FLAG_NOTHING",

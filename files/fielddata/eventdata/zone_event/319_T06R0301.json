@@ -97,7 +97,7 @@
     },
     {
       "id": "obj_T06R0301_tsure_poke_static_bayleef",
-      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_IVYSAUR",
+      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_ODDISH",
       "movement": 42,
       "type": 0,
       "eventFlag": "FLAG_NOTHING",
