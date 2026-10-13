@@ -1,6 +1,7 @@
 #include "poke_overlay.h"
 #define _IN_SCRCMD_C
 
+#include "constants/flags.h"
 #include "constants/events.h"
 #include "constants/items.h"
 #include "constants/moves.h"
