@@ -312,7 +312,14 @@ _ClimaxC:
 	GetStaticEncounterOutcome VAR_TEMP_x4002
 	Compare VAR_TEMP_x4002, 4
 	CallIfEq _ClimaxMewtwoCaught
+	Compare VAR_TEMP_x4002, 4
+	GoToIfEq _ClimaxCCaught
 	NPCMsg msg_0070_D23R0106_00022
+	GoTo _ClimaxCRival
+
+_ClimaxCCaught:
+	NPCMsg msg_0070_D23R0106_00029
+_ClimaxCRival:
 	CloseMsg
 	BufferRivalsName 1
 	NPCMsg msg_0070_D23R0106_00026
@@ -334,7 +341,14 @@ _ClimaxMewtwo:
 	GetStaticEncounterOutcome VAR_TEMP_x4002
 	Compare VAR_TEMP_x4002, 4
 	CallIfEq _ClimaxMewtwoCaught
+	Compare VAR_TEMP_x4002, 4
+	GoToIfEq _ClimaxACaught
 	NPCMsg msg_0070_D23R0106_00020
+	GoTo _ClimaxARival
+
+_ClimaxACaught:
+	NPCMsg msg_0070_D23R0106_00028
+_ClimaxARival:
 	CloseMsg
 	BufferRivalsName 1
 	NPCMsg msg_0070_D23R0106_00024

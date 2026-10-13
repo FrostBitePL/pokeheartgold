@@ -112,4 +112,12 @@
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Z dziedzińca dobiega głos Mariusza:\n„Nie zamknęła się. Wisi i czeka.\fProwadzi tam, dokąd on poszedł.”\r„Zanim tam pójdziesz, dokończ to, co\nzacząłeś. Będziesz potrzebować\fwszystkiego, czego się nauczysz.”\r</language>
 	</row>
+	<row id="msg_0070_D23R0106_00028" index="28">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Mewtwo długo patrzy na Poké Ball w\ntwojej dłoni. Potem zrywa obrożę\fSygnału i ucisza wszystko, co w nim\nkrzyczało. Zostaje z tobą z własnej\fwoli.\r</language>
+	</row>
+	<row id="msg_0070_D23R0106_00029" index="29">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Mewtwo sprawdziło cię jedną walką i,\nzamiast zniknąć, wybiera twój Ball.\f„Nie szukaj mnie”, mówiło. Ale to\nnie znaczy, że nie może iść z tobą.\r</language>
+	</row>
 </body>
