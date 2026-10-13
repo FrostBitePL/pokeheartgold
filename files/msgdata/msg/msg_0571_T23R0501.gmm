@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0571_T23R0501_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hm? Kim jesteś?\r{STRVAR_1 3, 0, 0}, tak? Chcesz, żebym\nzrobił ci jakieś Bale?\rPrzykro mi, ale to będzie musiało\npoczekać.\rZnasz Team Rocket?\nAch, nie martw się. Powiem ci\ftak czy inaczej.\rTeam Rocket to zła banda, która\nwykorzystuje Pokémony do brudnej\froboty.\rPodobno rozwiązali się trzy\nlata temu.\rW każdym razie są teraz przy studni\ni obcinają SlowpokeTaile na sprzedaż!\rWięc idę dać im nauczkę!\rTrzymaj się, SLOWPOKE!\nStary Kurt już idzie!</language>
+		<language name="English">Hm? Kim jesteś?\r{STRVAR_1 3, 0, 0}, tak? Chcesz, żebym zrobił\nci jakieś Bale? Przykro mi, ale to\fbędzie musiało poczekać.\rZnasz tych z Genezy? Ach, nie martw\nsię. Powiem ci tak czy inaczej.\rMówią, że robią badania. Ale\npobierają od SLOWPOKE tkanki i coś,\fco wygląda jak ogony!\rWięc idę dać im nauczkę!\rTrzymaj się, SLOWPOKE! Stary Kurt\njuż idzie!</language>
 	</row>
 	<row id="msg_0571_T23R0501_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kurt: Cześć, {STRVAR_1 3, 0, 0}!\nSpisałeś się jak prawdziwy bohater.\rJak wspominałem wcześniej, Team\nRocket rozwiązał chłopak zwany Red,\ftrzy lata temu.\rSkoro teraz wrócili...\nMam co do tego złe przeczucie...\rW każdym razie, byłoby mi bardzo\nmiło zrobić Poké Bale dla Trenera\ftakiego jak ty, {STRVAR_1 3, 0, 0}.\fTo wszystko, co teraz mam, ale weź to.\r</language>
+		<language name="English">Kurt: Cześć, {STRVAR_1 3, 0, 0}! Spisałeś się\njak prawdziwy bohater.\rInstytut ma tu stypendia, pieczątki\ni dobrą prasę. Mam co do tego złe\fprzeczucie...\rW każdym razie byłoby mi bardzo miło\nzrobić Poké Bale dla Trenera takiego\fjak ty, {STRVAR_1 3, 0, 0}. To wszystko, co\nteraz mam, ale weź to.\r</language>
 	</row>
 	<row id="msg_0571_T23R0501_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
@@ -99,6 +99,6 @@
 	</row>
 	<row id="msg_0571_T23R0501_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Radio ogłasza powrót\nTeam Rocket!</language>
+		<language name="English">Radio ogłasza program Genezy!</language>
 	</row>
 </body>

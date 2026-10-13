@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0583_T25PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Och, jesteś członkiem Team Rocket...</language>
+		<language name="English">Och, jesteś pracownikiem Genezy...</language>
 	</row>
 	<row id="msg_0583_T25PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0583_T25PC0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team Rocket...!</language>
+		<language name="English">Geneza...!</language>
 	</row>
 	<row id="msg_0583_T25PC0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -26,6 +26,6 @@
 	</row>
 	<row id="msg_0583_T25PC0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hej, nie mam nic przeciwko leczeniu\nPokémona, nawet jeśli należy do\fTeam Rocket...\rAle trzymaj się z dala od innych\nmiejsc, dobrze?</language>
+		<language name="English">Hej, nie mam nic przeciwko leczeniu\nPokémona, nawet jeśli należy do\fkogoś z Genezy...\rAle trzymaj się z dala od innych\nmiejsc, dobrze?</language>
 	</row>
 </body>

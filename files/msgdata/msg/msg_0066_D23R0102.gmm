@@ -159,7 +159,7 @@
 	</row>
 	<row id="msg_0066_D23R0102_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ktoś musi w końcu zlać ten podły\nTeam Rocket!\fTak jak trzy lata temu!</language>
+		<language name="English">Ktoś musi w końcu zatrzymać ten cały\nInstytut!\rTak jak kiedyś zatrzymano „Silesię”!</language>
 	</row>
 	<row id="msg_0066_D23R0102_00040" index="40">
 		<attribute name="window_context_name">used</attribute>

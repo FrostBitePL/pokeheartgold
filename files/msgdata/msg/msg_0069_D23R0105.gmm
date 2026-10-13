@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0069_D23R0105_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ehem, słyszycie mnie?\r...Jestem Dyrektorem.\rPostanowiliśmy nadawać wspaniałe\nprogramy wychwalające Team Rocket!\rWszyscy, nie chcę słyszeć narzekań.\nPo prostu wykonujcie dobrze swoją\frobotę, żeby...\r</language>
+		<language name="English">Ehem, słyszycie mnie? ...Jestem\nDyrektorem.\rPostanowiliśmy nadawać wspaniałe\nprogramy wychwalające Genezę!\rWszyscy, nie chcę słyszeć narzekań.\nPo prostu wykonujcie dobrze swoją\frobotę, żeby...\r</language>
 	</row>
 	<row id="msg_0069_D23R0105_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0069_D23R0105_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Didier: Nie, nie, nie! Udawałem\nDyrektora, żeby wpłynąć na cały\fregion, by wspierał Team Rocket!\rTym razem się nie powstrzymam!\nPokaż, na co cię stać!\r</language>
+		<language name="English">Didier: Nie, nie, nie! Udawałem\nDyrektora, żeby wpłynąć na cały\fregion, by wspierał Genezę!\rTym razem się nie powstrzymam!\nPokaż, na co cię stać!\r</language>
 	</row>
 	<row id="msg_0069_D23R0105_00004" index="4">
 		<attribute name="window_context_name">used</attribute>

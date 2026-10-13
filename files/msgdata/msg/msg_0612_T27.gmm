@@ -74,7 +74,7 @@
 	</row>
 	<row id="msg_0612_T27_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1, 0}: Obserwowałeś mnie,\n{STRVAR_1 3, 0, 0}...\rTak, zgadza się!\rNigdy nie myślałem, że pokonanie\npięciu Dziewczyn w Kimonach będzie\ftakie trudne...\rZostałem zmasakrowany...\r...\rTy musisz być tu z tego samego\npowodu, prawda?\rNie bądź taki pewny siebie tylko\ndlatego, że pokonałeś Team Rocket!\rTe Dziewczyny w Kimonach są\nszalenie silne.\rŚmiało! Zobacz, czy potrafisz\nje pokonać.\rAle ja nie wracam.\nNie chcę oglądać twojej wygranej.\r</language>
+		<language name="English">{STRVAR_1 3, 1, 0}: Obserwowałeś mnie,\n{STRVAR_1 3, 0, 0}...\rTak, zgadza się!\rNigdy nie myślałem, że pokonanie\npięciu aktorów Teatru będzie takie\ftrudne...\rZostałem zmasakrowany...\r...\rTy musisz być tu z tego samego\npowodu, prawda?\rNie bądź taki pewny siebie tylko\ndlatego, że pokonałeś Genezę! Ci\faktorzy są szalenie silni.\rŚmiało! Zobacz, czy potrafisz ich\npokonać.\rAle ja nie wracam. Nie chcę oglądać\ntwojej wygranej.\r</language>
 	</row>
 	<row id="msg_0612_T27_00019" index="19">
 		<attribute name="window_context_name">used</attribute>

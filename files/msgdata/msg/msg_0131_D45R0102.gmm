@@ -10,15 +10,15 @@
 	</row>
 	<row id="msg_0131_D45R0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\nTu Wieża Radiowa.\fTu Wieża Radiowa.\fZ przyjemnością ogłaszamy\fodrodzenie Team Rocket.\f...Łukasz?\f...Słyszysz nas?\fWreszcie nam się udało!\f...\r</language>
+		<language name="English">...Tu Zamek. Tu Zamek.\rZ przyjemnością ogłaszamy\nrozpoczęcie nowego programu\fInstytutu Geneza.\r...Łukasz? ...Słyszysz nas? Wreszcie\nnam się udało!\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Moi dawni współpracownicy mnie\npotrzebują...\rNie powtórzymy porażki sprzed\ntrzech lat!\r{COLOR 1}Team Rocket{COLOR 0} narodzi się na nowo,\na ja będę rządzić światem!\r</language>
+		<language name="English">Moi współpracownicy mnie\npotrzebują...\rNie powtórzymy dawnych błędów!\n{COLOR 1}Geneza{COLOR 0} przejmie ten region, a ja\fbędę rządzić!\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Łukasz: Jak to możliwe...?\rOstatnie trzy lata poszły\nna marne...?\rJak dziecko takie jak ty zdołało\nznów zniszczyć moje marzenie?\rCenne marzenie Team Rocket stało się\nniewiele więcej niż złudzeniem...\r</language>
+		<language name="English">Łukasz: Jak to możliwe...?\rOstatnie lata poszły na marne...?\rJak dziecko takie jak ty zdołało\nznów zniszczyć moje marzenie?\rCenne marzenie Genezy stało się\nniewiele więcej niż złudzeniem...\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -54,19 +54,19 @@
 	</row>
 	<row id="msg_0131_D45R0102_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Słyszysz to, {STRVAR_1 3, 0, 0}?\nRadio mówi coś dziwnego!\rTeam Rocket zajęło Wieżę Radiową\nw Żarowie!\rTo niemożliwe! {STRVAR_1 3, 0, 0},\nprzecież już rozwiązałeś/aś tę sprawę!\r</language>
+		<language name="English">Słyszysz to, {STRVAR_1 3, 0, 0}? Radio mówi\ncoś dziwnego!\rGeneza zajęła Zamek w Żarowie!\rTo niemożliwe! {STRVAR_1 3, 0, 0}, przecież\njuż rozwiązałeś/aś tę sprawę!\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Słyszysz to, {STRVAR_1 3, 0, 0}?\nRadio mówi coś dziwnego!\rTeam Rocket zajęło Wieżę Radiową\nw Żarowie!\rTo niemożliwe! {STRVAR_1 3, 0, 0},\nprzecież już rozwiązałeś/aś tę sprawę!\r</language>
+		<language name="English">Słyszysz to, {STRVAR_1 3, 0, 0}? Radio mówi\ncoś dziwnego!\rGeneza zajęła Zamek w Żarowie!\rTo niemożliwe! {STRVAR_1 3, 0, 0}, przecież\njuż rozwiązałeś/aś tę sprawę!\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Ciągle wzywają swojego szefa.\nAż mi ich żal, że nie wiedzą, że on\fnie przyjdzie.\rPo tym, {STRVAR_1 3, 0, 0}, ich pokonasz!\r...Zaraz, chwileczkę!\r{STRVAR_1 3, 0, 0}, wciąż tu jesteś.\nWięc kto pokona Team Rocket...?\r</language>
+		<language name="English">Ethan: Ciągle wzywają swojego szefa.\nAż mi ich żal, że nie wiedzą, że on\fnie przyjdzie.\rPo tym, {STRVAR_1 3, 0, 0}, ich pokonasz!\r...Zaraz, chwileczkę!\r{STRVAR_1 3, 0, 0}, wciąż tu jesteś. Więc kto\npokona Genezę...?\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Ciągle wzywają swojego szefa.\nAż mi ich żal, że nie wiedzą, że on\fnie przyjdzie.\rPo tym, {STRVAR_1 3, 0, 0}, ich pokonasz!\r...Zaraz, chwileczkę!\r{STRVAR_1 3, 0, 0}, wciąż tu jesteś.\nWięc kto pokona Team Rocket...?\r</language>
+		<language name="English">Lyra: Ciągle wzywają swojego szefa.\nAż mi ich żal, że nie wiedzą, że on\fnie przyjdzie.\rPo tym, {STRVAR_1 3, 0, 0}, ich pokonasz!\r...Zaraz, chwileczkę!\r{STRVAR_1 3, 0, 0}, wciąż tu jesteś. Więc kto\npokona Genezę...?\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00017" index="17">
 		<attribute name="window_context_name">used</attribute>

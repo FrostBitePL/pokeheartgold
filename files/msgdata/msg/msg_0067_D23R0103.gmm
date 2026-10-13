@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0067_D23R0103_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dla Trenerów, Pokémony są ich\nukochanymi partnerami.\rTo okropne, jak Team Rocket próbuje\nkontrolować Pokémony.</language>
+		<language name="English">Dla Trenerów Pokémony są ukochanymi\npartnerami.\rTo okropne, jak Geneza próbuje\nkontrolować Pokémony.</language>
 	</row>
 	<row id="msg_0067_D23R0103_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0067_D23R0103_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Szef Team Rocket zamknął się\nod środka.\rAle Dyrektor może to otworzyć.\rJest na piątym piętrze.\nProszę, uratuj go!</language>
+		<language name="English">Szef Genezy zamknął się od środka.\rAle Dyrektor radia może to otworzyć.\nJest na piątym piętrze. Proszę,\furatuj go!</language>
 	</row>
 	<row id="msg_0067_D23R0103_00004" index="4">
 		<attribute name="window_context_name">used</attribute>

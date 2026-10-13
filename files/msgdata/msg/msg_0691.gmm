@@ -26,11 +26,11 @@
 	</row>
 	<row id="msg_0691_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, słyszałeś?\rRadio Tower w Żarowie zostało\nprzejęte przez Team Rocket!\r...Um... Co to jest Team Rocket?</language>
+		<language name="English">{STRVAR_1 3, 0, 0}, słyszałeś?\rZamek w Żarowie został przejęty\nprzez Genezę!\r...Um... Co to jest Geneza?</language>
 	</row>
 	<row id="msg_0691_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, słyszałeś?\rRadio Tower w Żarowie zostało\nprzejęte przez Team Rocket!\r...Um... Co to jest Team Rocket?</language>
+		<language name="English">{STRVAR_1 3, 0, 0}, słyszałeś?\rZamek w Żarowie został przejęty\nprzez Genezę!\r...Um... Co to jest Geneza?</language>
 	</row>
 	<row id="msg_0691_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -58,11 +58,11 @@
 	</row>
 	<row id="msg_0691_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Słyszałem, słyszałem, słyszałem!\rRozwaliłeś kryjówkę Team Rocket!\nJesteś jak bohater z filmu, nawet!\rAle, um... Co to był Team Rocket?\rZupełnie nie wiem, o co chodzi, prawda?</language>
+		<language name="English">Słyszałem, słyszałem, słyszałem!\rRozwaliłeś filię Genezy! Jesteś jak\nbohater z filmu, nawet!\rAle, um... Czym była Geneza?\nZupełnie nie wiem, o co chodzi,\fprawda?</language>
 	</row>
 	<row id="msg_0691_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Słyszałem, słyszałem, słyszałem!\rRozwaliłeś kryjówkę Team Rocket!\nJesteś jak bohater z filmu, nawet!\rAle, um... Co to był Team Rocket?\rZupełnie nie wiem, o co chodzi, prawda?</language>
+		<language name="English">Słyszałem, słyszałem, słyszałem!\rRozwaliłeś filię Genezy! Jesteś jak\nbohater z filmu, nawet!\rAle, um... Czym była Geneza?\nZupełnie nie wiem, o co chodzi,\fprawda?</language>
 	</row>
 	<row id="msg_0691_00016" index="16">
 		<attribute name="window_context_name">used</attribute>

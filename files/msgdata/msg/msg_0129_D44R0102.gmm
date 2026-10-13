@@ -63,11 +63,11 @@
 	</row>
 	<row id="msg_0129_D44R0102_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Karol: Cześć, {STRVAR_1 3, 0, 0}!\nI...ty.\fSpotkaliśmy się w kryjówce Team\fRocket.\r</language>
+		<language name="English">Karol: Cześć, {STRVAR_1 3, 0, 0}! I... ty.\nSpotkaliśmy się w filii Genezy.\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Karol: Cześć, {STRVAR_1 3, 0, 0}!\nI...ty.\fSpotkaliśmy się w kryjówce Team\fRocket.\r</language>
+		<language name="English">Karol: Cześć, {STRVAR_1 3, 0, 0}! I... ty.\nSpotkaliśmy się w filii Genezy.\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00017" index="17">
 		<attribute name="window_context_name">used</attribute>

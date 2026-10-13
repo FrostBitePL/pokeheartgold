@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0618_T27R0501_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ups!\nMam ważną misję.\rJeśli dowiedzą się, że marnowałem\ntu czas, każą mi zaczynać od nowa\fjako najniższy szeregowiec Team\fRocket!\rLepiej już sobie pójdę!\r</language>
+		<language name="English">Ups! Mam ważną misję.\rJeśli dowiedzą się, że marnowałem tu\nczas, każą mi zaczynać od nowa jako\fnajniższy laborant Genezy!\rLepiej już sobie pójdę!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -62,11 +62,11 @@
 	</row>
 	<row id="msg_0618_T27R0501_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jesteś dość silny.\rPomogłeś mi w Ilex Forest.\rMam na imię Naoko. To ja jestem\ntą, która nie radzi sobie zbyt\fdobrze z kierunkami.\rNa własne oczy widziałam, jak\npokonałeś Team Rocket, gdy Kurt\fmiał kłopoty przy Studni SLOWPOKE.\rPozwól, że rzucę ci wyzwanie,\ntobie i twojemu Pokémonowi!\r</language>
+		<language name="English">Jesteś dość silny.\rPomogłeś mi w Ilex Forest.\rMam na imię Naoko. To ja jestem tą,\nktóra nie radzi sobie zbyt dobrze z\fkierunkami.\rNa własne oczy widziałam, jak\npokonałeś ludzi z Genezy, gdy Kurt\fmiał kłopoty przy Studni SLOWPOKE.\rPozwól, że rzucę ci wyzwanie, tobie\ni twojemu Pokémonowi!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jesteś niezłym Trenerem.\rPamiętam, jak przegoniłeś tego\nszeregowca Team Rocket właśnie\fstąd.\rMuszę ci za to podziękować.\rChociaż tak naprawdę sama też\njestem Trenerem.\rTa, która wie najwięcej, mówi\nnajmniej!\fJestem Miki - Dziewczyna\nw Kimonie!\rPozwól, że rzucę ci wyzwanie,\ntobie i twojemu Pokémonowi!\r</language>
+		<language name="English">Jesteś niezłym Trenerem.\rPamiętam, jak przegoniłeś tego\nlaboranta Genezy właśnie stąd. Muszę\fci za to podziękować.\rChociaż tak naprawdę sama też jestem\nTrenerem.\rTa, która wie najwięcej, mówi\nnajmniej! Jestem Miki - Dziewczyna w\fKimonie!\rPozwól, że rzucę ci wyzwanie, tobie\ni twojemu Pokémonowi!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
@@ -74,7 +74,7 @@
 	</row>
 	<row id="msg_0618_T27R0501_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jestem ostatnia.\rByłeś tak niezawodny w Tunelu\npod Żarowem. To ja kręcę się nawet\fpod ziemią.\rJestem Kuni - Dziewczyna\nw Kimonie!\rPatrzyłam na ciebie z podziwem,\ngdy udaremniłeś misję Team Rocket,\fby przejąć Wieżę Radiową.\fTeraz musisz pokazać mi swoją siłę.\rPozwól, że rzucę ci wyzwanie,\ntobie i twojemu Pokémonowi!\r</language>
+		<language name="English">Jestem ostatnia.\rByłeś tak niezawodny w Tunelu pod\nŻarowem. To ja kręcę się nawet pod\fziemią.\rJestem Kuni - Dziewczyna w Kimonie!\rPatrzyłam na ciebie z podziwem, gdy\nudaremniłeś próbę przejęcia Zamku\fprzez Genezę. Teraz musisz pokazać\nmi swoją siłę.\rPozwól, że rzucę ci wyzwanie, tobie\ni twojemu Pokémonowi!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -102,7 +102,7 @@
 	</row>
 	<row id="msg_0618_T27R0501_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Co jest z tym szeregowcem Team\nRocket, czepiającym się mojej\fDziewczyny w Kimonie?\rJesteś Trenerem, prawda?\fProszę, pomóż jej!</language>
+		<language name="English">Co jest z tym laborantem Genezy,\nczepiającym się mojej Dziewczyny w\fKimonie?\rJesteś Trenerem, prawda? Proszę,\npomóż jej!</language>
 	</row>
 	<row id="msg_0618_T27R0501_00026" index="26">
 		<attribute name="window_context_name">used</attribute>

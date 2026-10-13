@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0060_D18R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: ..................\r......Och, to ty.\rMusisz tu być, żeby złapać\nlegendarnego Pokémona i uchodzić\fza silnego/ą.\rTo tylko marzenie.\rWidzisz, legendarny Pokémon pasuje\ndo Trenera takiego jak ja, który\fprzysiągł zostać najsilniejszym\fTrenerem.\rWalka z Grunciarzami Team Rocket\njest w sam raz dla ciebie!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}: ..................\r......Och, to ty.\rMusisz tu być, żeby złapać\nlegendarnego Pokémona i uchodzić za\fsilnego/ą.\rTo tylko marzenie.\rWidzisz, legendarny Pokémon pasuje\ndo Trenera takiego jak ja, który\fprzysiągł zostać najsilniejszym\nTrenerem.\rWalka z Laborantami Genezy jest w\nsam raz dla ciebie!\r</language>
 	</row>
 	<row id="msg_0060_D18R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>

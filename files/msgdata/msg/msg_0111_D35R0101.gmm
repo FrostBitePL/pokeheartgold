@@ -58,7 +58,7 @@
 	</row>
 	<row id="msg_0111_D35R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team Rocket ogłasza swój powrót\nprzez radio!</language>
+		<language name="English">Geneza ogłasza swoje plany przez\nradio!</language>
 	</row>
 	<row id="msg_0111_D35R0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>

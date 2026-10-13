@@ -268,10 +268,10 @@
 	</row>
 	<row id="msg_0115_D36R0101_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To wszystko było takie dziwne.\nAle teraz, gdy bezpiecznie wróciliśmy\fdo naszego czasu, a straszny plan\fTeam Rocket się nie powiódł,\fmożemy powiedzieć...\fwszystko dobre, co się dobrze kończy,\fprawda?\r{STRVAR_1 3, 0, 0}, ty nieustannie\ninspirujesz wspaniałe przygody!\rTo był jednak męczący dzień.\nLepiej już pójdę.\rDo zobaczenia!\r</language>
+		<language name="English">To wszystko było takie dziwne. Ale\nteraz, gdy bezpiecznie wróciliśmy do\fnaszego czasu, a straszny plan\nGenezy się nie powiódł, możemy\fpowiedzieć... wszystko dobre, co się\ndobrze kończy, prawda?\r{STRVAR_1 3, 0, 0}, ty nieustannie inspirujesz\nwspaniałe przygody!\rTo był jednak męczący dzień. Lepiej\njuż pójdę.\rDo zobaczenia!\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To wszystko było takie dziwne.\nAle teraz, gdy bezpiecznie wróciliśmy\fdo naszego czasu, a straszny plan\fTeam Rocket się nie powiódł,\fmożemy powiedzieć...\fwszystko dobre, co się dobrze kończy,\fprawda?\r{STRVAR_1 3, 0, 0}, ty nieustannie\ninspirujesz wspaniałe przygody!\rTo był jednak męczący dzień.\nLepiej już pójdę.\rDo zobaczenia!\r</language>
+		<language name="English">To wszystko było takie dziwne. Ale\nteraz, gdy bezpiecznie wróciliśmy do\fnaszego czasu, a straszny plan\nGenezy się nie powiódł, możemy\fpowiedzieć... wszystko dobre, co się\ndobrze kończy, prawda?\r{STRVAR_1 3, 0, 0}, ty nieustannie inspirujesz\nwspaniałe przygody!\rTo był jednak męczący dzień. Lepiej\njuż pójdę.\rDo zobaczenia!\r</language>
 	</row>
 </body>

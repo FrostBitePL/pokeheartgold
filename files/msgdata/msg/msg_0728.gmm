@@ -146,7 +146,7 @@
 	</row>
 	<row id="msg_0728_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmpf. To moja prawdziwa moc,\nsłabeuszu.\rZapiszę się w historii Team Rocket.\nI zetrę tego Karola\fswoimi butami.</language>
+		<language name="English">Hmpf. To moja prawdziwa moc,\nsłabeuszu.\rZapiszę się w historii Genezy. I\nzetrę tego Karola swoimi butami.</language>
 	</row>
 	<row id="msg_0728_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
@@ -162,7 +162,7 @@
 	</row>
 	<row id="msg_0728_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmpf. To moja prawdziwa moc,\nsłabeuszu.\rZapiszę się w historii Team Rocket.\nI zetrę tego Karola\fswoim butem.</language>
+		<language name="English">Hmpf. To moja prawdziwa moc,\nsłabeuszu.\rZapiszę się w historii Genezy. I\nzetrę tego Karola swoim butem.</language>
 	</row>
 	<row id="msg_0728_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
@@ -178,7 +178,7 @@
 	</row>
 	<row id="msg_0728_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmpf. To moja prawdziwa moc,\nsłabeuszu.\rZapiszę się w historii Team Rocket.\nI zetrę tego Karola\fswoim butem.</language>
+		<language name="English">Hmpf. To moja prawdziwa moc,\nsłabeuszu.\rZapiszę się w historii Genezy. I\nzetrę tego Karola swoim butem.</language>
 	</row>
 	<row id="msg_0728_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
@@ -4278,7 +4278,7 @@
 	</row>
 	<row id="msg_0728_01069" index="1069">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trzy lata temu Team Rocket\nzostał zmuszony do rozwiązania.\rAle wracamy właśnie tutaj!\r</language>
+		<language name="English">Żaden szlaban nas nie zatrzyma.\rWracamy właśnie tutaj!\r</language>
 	</row>
 	<row id="msg_0728_01070" index="1070">
 		<attribute name="window_context_name">used</attribute>
@@ -4290,7 +4290,7 @@
 	</row>
 	<row id="msg_0728_01072" index="1072">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jesteśmy Team Rocket!\nLubimy sprawiać kłopoty!\rOoh! Jesteś przestraszony?\r</language>
+		<language name="English">Jesteśmy z Genezy! Lubimy sprawiać\nkłopoty!\rOoh! Jesteś przestraszony?\r</language>
 	</row>
 	<row id="msg_0728_01073" index="1073">
 		<attribute name="window_context_name">used</attribute>
@@ -4338,7 +4338,7 @@
 	</row>
 	<row id="msg_0728_01084" index="1084">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Otrzymałem ścisłe rozkazy.\rMam zmiażdżyć każdego, kto\nwyzywa Team Rocket!\r</language>
+		<language name="English">Otrzymałem ścisłe rozkazy.\rMam zmiażdżyć każdego, kto wyzywa\nGenezę!\r</language>
 	</row>
 	<row id="msg_0728_01085" index="1085">
 		<attribute name="window_context_name">used</attribute>
@@ -4374,7 +4374,7 @@
 	</row>
 	<row id="msg_0728_01093" index="1093">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Melchior: No czekaj no\nsekundę!\rCzy to nie ty wszedłeś nam\nw drogę przy Studni SLOWPOKE?\rRozumiem... Robisz to wszystko,\nbo chcesz mnie rozzłościć.\fUważaj!\rAle skoro tak sobie tego\nżyczysz, pokażę ci pełny zakres\fgniewu Dyrektora Team Rocket!\r</language>
+		<language name="English">Melchior: No czekaj no sekundę!\rCzy to nie ty wszedłeś nam w drogę\nprzy Studni SLOWPOKE?\rRozumiem... Robisz to wszystko, bo\nchcesz mnie rozzłościć. Uważaj!\rAle skoro tak sobie tego życzysz,\npokażę ci pełny zakres gniewu\fKierownika Genezy!\r</language>
 	</row>
 	<row id="msg_0728_01094" index="1094">
 		<attribute name="window_context_name">used</attribute>
@@ -4390,7 +4390,7 @@
 	</row>
 	<row id="msg_0728_01097" index="1097">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Melchior: Mogłeś wygrać\ntym razem...\nAle wszystko, co zrobiłeś, to\fpowiększyłeś gniew Team Rocket...\n</language>
+		<language name="English">Melchior: Mogłeś wygrać tym razem...\rAle wszystko, co zrobiłeś, to\npowiększyłeś gniew Genezy...</language>
 	</row>
 	<row id="msg_0728_01098" index="1098">
 		<attribute name="window_context_name">used</attribute>
@@ -4402,7 +4402,7 @@
 	</row>
 	<row id="msg_0728_01100" index="1100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Czy naprawdę wierzysz, że\nmożesz zatrzymać Team Rocket?\n</language>
+		<language name="English">Czy naprawdę wierzysz, że możesz\nzatrzymać Genezę?</language>
 	</row>
 	<row id="msg_0728_01101" index="1101">
 		<attribute name="window_context_name">used</attribute>
@@ -4634,7 +4634,7 @@
 	</row>
 	<row id="msg_0728_01158" index="1158">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Przestać kraść SlowpokeTaile?\rJeśli byśmy cię słuchali,\nreputacja Team Rocket byłaby\fzniszczona!\r</language>
+		<language name="English">Przestać pobierać próbki z SLOWPOKE?\rJeśli byśmy cię słuchali, reputacja\nGenezy byłaby zniszczona!\r</language>
 	</row>
 	<row id="msg_0728_01159" index="1159">
 		<attribute name="window_context_name">used</attribute>
@@ -4642,7 +4642,7 @@
 	</row>
 	<row id="msg_0728_01160" index="1160">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Potrzebujemy pieniędzy,\nale sprzedawanie SlowpokeTaili?\rBycie Grunciakiem Team Rocket\njest trudne!\n</language>
+		<language name="English">Potrzebujemy pieniędzy, ale\nsprzedawanie próbek z SLOWPOKE?\rBycie Laborantem Genezy jest trudne!</language>
 	</row>
 	<row id="msg_0728_01161" index="1161">
 		<attribute name="window_context_name">used</attribute>
@@ -4654,7 +4654,7 @@
 	</row>
 	<row id="msg_0728_01163" index="1163">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasne, obcinaliśmy ogony\nSLOWPOKE i je sprzedawaliśmy.\rTeam Rocket zrobi wszystko\ndla pieniędzy!\n</language>
+		<language name="English">Jasne, pobieraliśmy tkanki SLOWPOKE\ni je sprzedawaliśmy.\rGeneza zrobi wszystko dla pieniędzy!</language>
 	</row>
 	<row id="msg_0728_01164" index="1164">
 		<attribute name="window_context_name">used</attribute>
@@ -4826,11 +4826,11 @@
 	</row>
 	<row id="msg_0728_01206" index="1206">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tch, naprawdę jesteś\nsilny.\rTo szkoda. Jeśli dołączyłbyś\ndo Team Rocket, mógłbyś stać\fsię Dyrektorem.\n</language>
+		<language name="English">Tch, naprawdę jesteś silny.\rTo szkoda. Jeśli dołączyłbyś do\nGenezy, mógłbyś stać się\fKierownikiem.</language>
 	</row>
 	<row id="msg_0728_01207" index="1207">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Drzwi się nie otwierają?\rCóż, oczywiście. Musi mieć\nhasło, które znają tylko\fczłonkowie Team Rocket.\r</language>
+		<language name="English">Drzwi się nie otwierają?\rCóż, oczywiście. Musi mieć hasło,\nktóre znają tylko pracownicy Genezy.\r</language>
 	</row>
 	<row id="msg_0728_01208" index="1208">
 		<attribute name="window_context_name">used</attribute>
@@ -4838,7 +4838,7 @@
 	</row>
 	<row id="msg_0728_01209" index="1209">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Heh, jestem tylko\nGrunciakiem Team Rocket.\nNie znam hasła.\fSzkoda dla ciebie.\n</language>
+		<language name="English">Heh, jestem tylko Laborantem Genezy.\nNie znam hasła.\rSzkoda dla ciebie.</language>
 	</row>
 	<row id="msg_0728_01210" index="1210">
 		<attribute name="window_context_name">used</attribute>
@@ -4882,7 +4882,7 @@
 	</row>
 	<row id="msg_0728_01220" index="1220">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kiedyś pracowałem dla\nSilph, ale teraz prowadzę\fbadania dla Team Rocket.\rWścibskie dziecko jak ty musi\nzostać ukarane.\r</language>
+		<language name="English">Kiedyś pracowałem dla Silph, ale\nteraz prowadzę badania dla Genezy.\rWścibskie dziecko jak ty musi zostać\nukarane.\r</language>
 	</row>
 	<row id="msg_0728_01221" index="1221">
 		<attribute name="window_context_name">used</attribute>
@@ -5022,7 +5022,7 @@
 	</row>
 	<row id="msg_0728_01255" index="1255">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Musisz mieć lód w żyłach,\nby wyzwać Team Rocket.\n</language>
+		<language name="English">Musisz mieć lód w żyłach, by wyzwać\nGenezę.</language>
 	</row>
 	<row id="msg_0728_01256" index="1256">
 		<attribute name="window_context_name">used</attribute>
@@ -5082,7 +5082,7 @@
 	</row>
 	<row id="msg_0728_01270" index="1270">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team Rocket będzie\nkontynuować, czekając na powrót\fGiovanniego.\rZrobimy wszystko, co potrzeba.\n</language>
+		<language name="English">Geneza będzie kontynuować, czekając\nna powrót Łukasza.\rZrobimy wszystko, co potrzeba.</language>
 	</row>
 	<row id="msg_0728_01271" index="1271">
 		<attribute name="window_context_name">used</attribute>
