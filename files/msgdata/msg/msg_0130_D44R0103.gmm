@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0130_D44R0103_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hm... Miło cię tu widzieć.\fNie trzeba tłumaczyć, dlaczego\fprzybyłeś/aś.\rClair cię tu wysłała, prawda?\fTa dziewczyna jest nie lada wyzwaniem...\rPrzykro mi, ale muszę cię sprawdzić.\rNie martw się, musisz odpowiedzieć\ntylko na kilka pytań.\fGotowy/a?\r</language>
+		<language name="English">Hm... Miło cię tu widzieć. Nie\ntrzeba tłumaczyć, dlaczego\fprzybyłeś/aś.\rKarol cię tu wysłał, prawda? Ten\nchłopak jest nie lada wyzwaniem...\rPrzykro mi, ale muszę cię sprawdzić.\rNie martw się, musisz odpowiedzieć\ntylko na kilka pytań. Gotowy/a?\r</language>
 	</row>
 	<row id="msg_0130_D44R0103_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -26,7 +26,7 @@
 	</row>
 	<row id="msg_0130_D44R0103_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hm... Rozumiem...\nGłęboko troszczysz się o Pokémony.\rBardzo godne pochwały.\fWłaśnie to przekonanie jest ważne!\r{STRVAR_1 3, 0, 0}, nie trać tej wiary.\rPomoże ci ona przetrwać w\nLidze Pokémon.\r</language>
+		<language name="English">Hm... Rozumiem... Głęboko troszczysz\nsię o Pokémony.\rBardzo godne pochwały. Właśnie to\nprzekonanie jest ważne!\r{STRVAR_1 3, 0, 0}, nie trać tej wiary. To, co\nstworzone, nie jest winne temu, że\fje stworzono.\rPomoże ci to przetrwać w Lidze\nPokémon.\r</language>
 	</row>
 	<row id="msg_0130_D44R0103_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -50,11 +50,11 @@
 	</row>
 	<row id="msg_0130_D44R0103_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kłamiesz!\nNawet ja nie zostałam zatwierdzona!\r</language>
+		<language name="English">Kłamiesz! Nawet ja nie zostałem\nzatwierdzony!\r</language>
 	</row>
 	<row id="msg_0130_D44R0103_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Karol!\rTo dziecko jest nieskazitelne,\nzarówno w umiejętnościach, jak\fi duchu!\rPrzyznaj się do porażki i przyznaj\nOdznakę Studni Smoka!\r...Czy muszę poinformować o tym\nLance’a?\r</language>
+		<language name="English">Karol!\rTo dziecko jest nieskazitelne,\nzarówno w umiejętnościach, jak i\fduchu!\rPrzyznaj się do porażki i przyznaj\nOdznakę Studni!\r...Czy muszę poinformować o tym radę\nLigi?\r</language>
 	</row>
 	<row id="msg_0130_D44R0103_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -62,15 +62,15 @@
 	</row>
 	<row id="msg_0130_D44R0103_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Proszę, oto Odznaka Studni\nSmoka... Pospiesz się! Weź ją!\r</language>
+		<language name="English">Proszę, oto Odznaka Studni...\nPospiesz się! Weź ją!\r</language>
 	</row>
 	<row id="msg_0130_D44R0103_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\nOdznakę Studni Smoka od Karol!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a) Odznakę Studni\nod Karola!</language>
 	</row>
 	<row id="msg_0130_D44R0103_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Odznaka Studni Smoka umożliwi\ntwojemu Pokémonowi używanie ataku\fdo wspinania się po wodospadach.\rPonadto wszystkie Pokémony rozpoznają\ncię jako Trenera i będą bez pytania\fsłuchać każdego twojego rozkazu.\r</language>
+		<language name="English">Odznaka Studni umożliwi twojemu\nPokémonowi używanie ataku do\fwspinania się po wodospadach.\rPonadto wszystkie Pokémony\nrozpoznają cię jako Trenera i będą\fbez pytania słuchać każdego twojego\nrozkazu.\r</language>
 	</row>
 	<row id="msg_0130_D44R0103_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
@@ -98,11 +98,11 @@
 	</row>
 	<row id="msg_0130_D44R0103_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Minęło sporo czasu, odkąd jakiś\nTrener zyskał rzadką aprobatę\fnaszego Mistrza.\rWłaściwie to nie od czasów\nMistrza Karola.</language>
+		<language name="English">Minęło sporo czasu, odkąd jakiś\nTrener zyskał rzadką aprobatę\fnaszego Mistrza.\rWłaściwie to nie od czasów, gdy sam\nKarol tu przyszedł.</language>
 	</row>
 	<row id="msg_0130_D44R0103_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Znasz młodego Mistrza Karola?\rBardzo przypomina naszego Mistrza\nz czasów jego młodości.\fTo w ich krwi.</language>
+		<language name="English">Znasz Karola?\rBardzo przypomina naszego Mistrza z\nczasów jego młodości. To w ich krwi.</language>
 	</row>
 	<row id="msg_0130_D44R0103_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
@@ -122,11 +122,11 @@
 	</row>
 	<row id="msg_0130_D44R0103_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wygląda na to, że Karol nauczyła\nsię od ciebie bezcennej lekcji.\rDziękuję ci jako jej dziadek.</language>
+		<language name="English">Wygląda na to, że Karol nauczył się\nod ciebie bezcennej lekcji.\rDziękuję ci jako jego dziadek.</language>
 	</row>
 	<row id="msg_0130_D44R0103_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chłopiec w twoim wieku trenuje\ntutaj.\rBardzo przypomina Karol, gdy była\nmłodsza. To trochę niepokojące...</language>
+		<language name="English">Chłopiec w twoim wieku trenuje\ntutaj.\rBardzo przypomina Karola, gdy był\nmłodszy. To trochę niepokojące...</language>
 	</row>
 	<row id="msg_0130_D44R0103_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
