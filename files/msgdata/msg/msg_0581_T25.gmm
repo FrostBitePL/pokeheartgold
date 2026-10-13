@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0581_T25_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Byłeś już w Kopule Pokéathlonu?\nTo ogromny obiekt sportowy, gdzie\fPokémony rywalizują ze sobą.\rTo było niesamowite widowisko!</language>
+		<language name="English">Byłeś już w Arenie GCKiS? To ogromny\nobiekt sportowy, gdzie Pokémony\frywalizują ze sobą.\rNa tabliczce przy wejściu stoi:\n„Ufundowano ze środków Fundacji\fGeneza”.\rTo było niesamowite widowisko!</language>
 	</row>
 	<row id="msg_0581_T25_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -34,7 +34,7 @@
 	</row>
 	<row id="msg_0581_T25_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">E-he-he-he...\nMiałem kłopoty za zabawę w piwnicy\fdomu towarowego.</language>
+		<language name="English">W dwa tysiące drugim staliśmy pod\nbramą i nikt do nas nie wyszedł.\rWyszedł dopiero pan Łukasz.\rWięc niech mi tu nikt złego słowa o\nInstytucie nie mówi.</language>
 	</row>
 	<row id="msg_0581_T25_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -46,11 +46,11 @@
 	</row>
 	<row id="msg_0581_T25_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Uff! To naprawdę duże miasto.\nNie wiem, gdzie co jest.</language>
+		<language name="English">Uff! To naprawdę duże miasto. Basen,\nstadion, targowisko... wszędzie\ftabliczka z Genezą.\rChyba bez nich nic by tu nie stało.</language>
 	</row>
 	<row id="msg_0581_T25_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wiem, że można znaleźć Kopułę\nPokéathlonu, idąc Trasą 35 na północ\fi mijając lewą bramę...\rAle wygląda na to, że gubię się\nza każdym razem, gdy tu przyjeżdżam...</language>
+		<language name="English">Wiem, że Arenę GCKiS można znaleźć,\nidąc Trasą 35 na północ i mijając\flewą bramę...\rAle wygląda na to, że gubię się za\nkażdym razem, gdy tu przyjeżdżam...</language>
 	</row>
 	<row id="msg_0581_T25_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
@@ -146,7 +146,7 @@
 	</row>
 	<row id="msg_0581_T25_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kolej Magnetyczna Żarów-Świdnica\nStacja Żarów</language>
+		<language name="English">Stacja Żarów\rIzba Historyczna. Kolej do Świdnicy:\nw remoncie do odwołania.</language>
 	</row>
 	<row id="msg_0581_T25_00037" index="37">
 		<attribute name="window_context_name">used</attribute>

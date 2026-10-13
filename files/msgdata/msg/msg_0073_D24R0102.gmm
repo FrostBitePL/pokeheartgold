@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0073_D24R0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mój personel tutaj, w Centrum Badań\nnad Ruinami, jest doskonały, a\fbadania robią dobre postępy zupełnie\fbez mojego wysiłku.\rJeśli masz jakieś pytania, śmiało\nporozmawiaj z moim personelem!</language>
+		<language name="English">Mój personel tutaj, w Centrum Badań\nnad Ruinami, jest doskonały, a\fbadania robią dobre postępy zupełnie\nbez mojego wysiłku.\rFundacja Geneza hojnie dofinansowała\nwykopaliska. W zamian dostaje kopie\fwszystkich próbek. Podobno tak jest\nuczciwie.\rJeśli masz jakieś pytania, śmiało\nporozmawiaj z moim personelem!</language>
 	</row>
 	<row id="msg_0073_D24R0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
