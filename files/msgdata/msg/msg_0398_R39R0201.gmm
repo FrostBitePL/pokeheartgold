@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0398_R39R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Muumuu jest chora...\fPotrzebuje mnóstwa Jagód Oran.\r</language>
+		<language name="English">TAUROS nie wstaje... Potrzebuje\nmnóstwa Jagód Oran.\r</language>
 	</row>
 	<row id="msg_0398_R39R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dziękuję!\nMuumuu jest znów całkowicie zdrowa!\rDam ci te Pieczątki za twój trud.\r</language>
+		<language name="English">Dziękuję! TAUROS znów stoi na\nnogach!\rDam ci te Pieczątki za twój trud.\r</language>
 	</row>
 	<row id="msg_0398_R39R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -18,15 +18,15 @@
 	</row>
 	<row id="msg_0398_R39R0201_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Muumuu jest znów całkowicie zdrowa!\r</language>
+		<language name="English">TAUROS znów stoi na nogach!\r</language>
 	</row>
 	<row id="msg_0398_R39R0201_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Muumuu jest chora...\fPotrzebuje mnóstwa Jagód Oran.\r</language>
+		<language name="English">TAUROS nie wstaje... Potrzebuje\nmnóstwa Jagód Oran.\r</language>
 	</row>
 	<row id="msg_0398_R39R0201_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dziękuję!\nMuumuu jest znów całkowicie zdrowa!\rDam ci to Pudełko na Pieczątki\nza twój trud.\r</language>
+		<language name="English">Dziękuję! TAUROS znów stoi na\nnogach!\rDam ci to Pudełko na Pieczątki za\ntwój trud.\r</language>
 	</row>
 	<row id="msg_0398_R39R0201_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -78,7 +78,7 @@
 	</row>
 	<row id="msg_0398_R39R0201_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} nie dał(a)\nJagody Oran.\rMILTANK wygląda na smutną.</language>
+		<language name="English">{STRVAR_1 3, 0, 0} nie dał(a) Jagody Oran.\rTAUROS wygląda na smutnego.</language>
 	</row>
 	<row id="msg_0398_R39R0201_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
