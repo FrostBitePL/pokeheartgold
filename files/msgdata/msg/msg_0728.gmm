@@ -4702,7 +4702,7 @@
 	</row>
 	<row id="msg_0728_01175" index="1175">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wojas używała kiedyś\nPokémonów typu Rock, jak ONIX.\n</language>
+		<language name="English">Wojas używał kiedyś\nPokémonów typu Rock, jak ONIX.\n</language>
 	</row>
 	<row id="msg_0728_01176" index="1176">
 		<attribute name="window_context_name">used</attribute>
@@ -4722,7 +4722,7 @@
 	</row>
 	<row id="msg_0728_01180" index="1180">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wojas jest Liderką Sali\ntego miasta. Zamierzam zabrać\fją ze sobą z powrotem.\rLepiej nikt mi nie wchodzi w\ndrogę!\r</language>
+		<language name="English">Wojas jest Liderem Sali tego miasta. Zamierzam zabrać go ze sobą z powrotem.\rLepiej nikt mi nie wchodzi w\ndrogę!\r</language>
 	</row>
 	<row id="msg_0728_01181" index="1181">
 		<attribute name="window_context_name">used</attribute>

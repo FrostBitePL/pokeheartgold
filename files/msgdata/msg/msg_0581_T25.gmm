@@ -114,7 +114,7 @@
 	</row>
 	<row id="msg_0581_T25_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Liderka Sali, Wiktor, przebiegła,\nmówiąc: „Muszę zdobyć\fKartę Radiową!”</language>
+		<language name="English">Lider Sali, Wiktor, przebiegł,\nmówiąc: „Muszę zdobyć\fKartę Radiową!”</language>
 	</row>
 	<row id="msg_0581_T25_00029" index="29">
 		<attribute name="window_context_name">used</attribute>

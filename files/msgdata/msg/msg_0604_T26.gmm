@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0604_T26_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Siedlimowicach\nLiderka: Wojas\fDziewczyna w Stalowej Zbroi</language>
+		<language name="English">Sala Pokémon w Siedlimowicach\nLider: Wojas Chłopak w Stalowej Zbroi</language>
 	</row>
 	<row id="msg_0604_T26_00008" index="8">
 		<attribute name="window_context_name">used</attribute>

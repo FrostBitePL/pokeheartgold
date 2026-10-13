@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0616_T27R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Daria, Lider Sali, wszedł na tę\nwieżę, by spróbować sprowadzić\fHO-OH z powrotem, ponieważ\fjuż się nie pojawia.\rNawet on nie zdołał go sprowadzić.\rWygląda na to, że nie masz Odznaki\nSali z Mrowin.\rJeśli nie potrafisz nawet pokonać\nMorty’ego, wejście tam będzie\fstratą czasu.\rPrzykro mi, ale musisz odejść.</language>
+		<language name="English">Daria, Liderka Sali, weszła na tę\nwieżę, by spróbować sprowadzić HO-OH\fz powrotem, ponieważ już się nie\npojawia.\rNawet ona nie zdołała go sprowadzić.\rWygląda na to, że nie masz Odznaki\nSali z Mrowin.\rJeśli nie potrafisz nawet pokonać\nDarii, wejście tam będzie stratą\fczasu.\rPrzykro mi, ale musisz odejść.</language>
 	</row>
 	<row id="msg_0616_T27R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>

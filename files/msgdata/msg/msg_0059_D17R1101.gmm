@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0059_D17R1101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Daria: Legendarny Pokémon mnie\nnie wybrał...\rAle to nie znaczy, że straciłem\nswoją przyszłość.\rBędę kontynuował trening, dopóki\nnie odkryję dla siebie nowej\fprzyszłości.\rPowiedz, chcesz wziąć udział\nw moim treningu? {YESNO 0}</language>
+		<language name="English">Daria: Legendarny Pokémon mnie nie\nwybrał...\rAle to nie znaczy, że straciłam\nswoją przyszłość.\rBędę kontynuować trening, dopóki nie\nodkryję dla siebie nowej\fprzyszłości.\rPowiedz, chcesz wziąć udział w moim\ntreningu? {YESNO 0}</language>
 	</row>
 	<row id="msg_0059_D17R1101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
