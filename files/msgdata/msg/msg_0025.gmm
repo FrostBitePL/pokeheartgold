@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0025_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is selected.</language>
+		<language name="English">Wybrano: {STRVAR_1 1, 0, 0}.</language>
 	</row>
 	<row id="msg_0025_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>
@@ -11,27 +11,27 @@
 	</row>
 	<row id="msg_0025_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Release this Pokémon?</language>
+		<language name="English">Wypuścić tego Pokémona?</language>
 	</row>
 	<row id="msg_0025_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} was released.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} został(a) wypuszczony(a).</language>
 	</row>
 	<row id="msg_0025_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bye-bye, {STRVAR_1 1, 0, 0}!</language>
+		<language name="English">Pa, pa, {STRVAR_1 1, 0, 0}!</language>
 	</row>
 	<row id="msg_0025_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your party’s full!</language>
+		<language name="English">Twoja drużyna jest pełna!</language>
 	</row>
 	<row id="msg_0025_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s your last Pokémon!</language>
+		<language name="English">To twój ostatni Pokémon!</language>
 	</row>
 	<row id="msg_0025_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What do you want to do?</language>
+		<language name="English">Co chcesz zrobić?</language>
 	</row>
 	<row id="msg_0025_00008" index="8">
 		<attribute name="window_context_name">garbage</attribute>
@@ -45,31 +45,31 @@
 	</row>
 	<row id="msg_0025_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pick the wallpaper.</language>
+		<language name="English">Wybierz tapetę.</language>
 	</row>
 	<row id="msg_0025_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Exit the Box?</language>
+		<language name="English">Zamknąć Skrzynię?</language>
 	</row>
 	<row id="msg_0025_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Continue Box operations?</language>
+		<language name="English">Kontynuować obsługę Skrzyń?</language>
 	</row>
 	<row id="msg_0025_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Box is full.</language>
+		<language name="English">Skrzynia jest pełna.</language>
 	</row>
 	<row id="msg_0025_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Bag is full.</language>
+		<language name="English">Torba jest pełna.</language>
 	</row>
 	<row id="msg_0025_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Took the {STRVAR_1 8, 0, 0}.</language>
+		<language name="English">Zabrano: {STRVAR_1 8, 0, 0}.</language>
 	</row>
 	<row id="msg_0025_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 0, 0} is now being held.</language>
+		<language name="English">{STRVAR_1 8, 0, 0} jest teraz w użyciu.</language>
 	</row>
 	<row id="msg_0025_00017" index="17">
 		<attribute name="window_context_name">garbage</attribute>
@@ -78,11 +78,11 @@
 	</row>
 	<row id="msg_0025_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which one will you take?</language>
+		<language name="English">Który zabierzesz?</language>
 	</row>
 	<row id="msg_0025_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Deposit where?</language>
+		<language name="English">Gdzie włożyć?</language>
 	</row>
 	<row id="msg_0025_00020" index="20">
 		<attribute name="window_context_name">garbage</attribute>
@@ -101,11 +101,11 @@
 	</row>
 	<row id="msg_0025_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Take this {STRVAR_1 8, 0, 0}?</language>
+		<language name="English">Zabrać {STRVAR_1 8, 0, 0}?</language>
 	</row>
 	<row id="msg_0025_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mail can’t be taken away.</language>
+		<language name="English">Listu nie można zabrać.</language>
 	</row>
 	<row id="msg_0025_00025" index="25">
 		<attribute name="window_context_name">garbage</attribute>
@@ -114,11 +114,11 @@
 	</row>
 	<row id="msg_0025_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Put away {STRVAR_1 8, 0, 0}?</language>
+		<language name="English">Schować {STRVAR_1 8, 0, 0}?</language>
 	</row>
 	<row id="msg_0025_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Placed {STRVAR_1 8, 0, 0} in the Bag.</language>
+		<language name="English">Włożono {STRVAR_1 8, 0, 0} do Torby.</language>
 	</row>
 	<row id="msg_0025_00028" index="28">
 		<attribute name="window_context_name">garbage</attribute>
@@ -127,47 +127,47 @@
 	</row>
 	<row id="msg_0025_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please detach the Ball Capsule.</language>
+		<language name="English">Odepnij Kapsułę Ball.</language>
 	</row>
 	<row id="msg_0025_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please remove the Mail.</language>
+		<language name="English">Zabierz list.</language>
 	</row>
 	<row id="msg_0025_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can’t release an Egg.</language>
+		<language name="English">Nie można wypuścić jajka.</language>
 	</row>
 	<row id="msg_0025_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} came back!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wrócił(a)!</language>
 	</row>
 	<row id="msg_0025_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Was it worried about you?</language>
+		<language name="English">Czy się o ciebie martwił(a)?</language>
 	</row>
 	<row id="msg_0025_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An Egg can’t hold an item.</language>
+		<language name="English">Jajko nie może trzymać przedmiotu.</language>
 	</row>
 	<row id="msg_0025_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Touch the Mark!</language>
+		<language name="English">Dotknij znacznika!</language>
 	</row>
 	<row id="msg_0025_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Place it in the Box!</language>
+		<language name="English">Włóż do Skrzyni!</language>
 	</row>
 	<row id="msg_0025_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can add it to your party!</language>
+		<language name="English">Możesz dodać do drużyny!</language>
 	</row>
 	<row id="msg_0025_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Box is full!</language>
+		<language name="English">Ta Skrzynia jest pełna!</language>
 	</row>
 	<row id="msg_0025_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your party is full!</language>
+		<language name="English">Twoja drużyna jest pełna!</language>
 	</row>
 	<row id="msg_0025_00040" index="40">
 		<attribute name="window_context_name">garbage</attribute>
@@ -221,46 +221,46 @@
 	</row>
 	<row id="msg_0025_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Deposit Pokémon</language>
+		<language name="English">Włóż Pokémona</language>
 	</row>
 	<row id="msg_0025_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Withdraw Pokémon</language>
+		<language name="English">Wyjmij Pokémona</language>
 	</row>
 	<row id="msg_0025_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Move Pokémon</language>
+		<language name="English">Przenieś Pokémona</language>
 	</row>
 	<row id="msg_0025_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Move Items</language>
+		<language name="English">Przenieś przedmioty</language>
 	</row>
 	<row id="msg_0025_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mail cannot be moved!</language>
+		<language name="English">Nie można przenieść listu!</language>
 	</row>
 	<row id="msg_0025_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cannot hold {STRVAR_1 8, 0, 0}!</language>
+		<language name="English">Nie może trzymać: {STRVAR_1 8, 0, 0}!</language>
 	</row>
 	<row id="msg_0025_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It has Mail!</language>
+		<language name="English">Ma list!</language>
 	</row>
 	<row id="msg_0025_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It has a Ball Capsule!</language>
+		<language name="English">Ma Kapsułę Ball!</language>
 	</row>
 	<row id="msg_0025_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re out of Pokémon that can fight!</language>
+		<language name="English">Nie masz już Pokémonów zdolnych do walki!</language>
 	</row>
 	<row id="msg_0025_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mail cannot be moved!</language>
+		<language name="English">Nie można przenieść listu!</language>
 	</row>
 	<row id="msg_0025_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can give this to a Pokémon to hold.</language>
+		<language name="English">Możesz dać to Pokémonowi do trzymania.</language>
 	</row>
 </body>

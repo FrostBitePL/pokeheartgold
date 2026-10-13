@@ -2,19 +2,19 @@
 <body language="English">
 	<row id="msg_0010_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">USE</language>
+		<language name="English">UŻYJ</language>
 	</row>
 	<row id="msg_0010_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TRASH</language>
+		<language name="English">WYRZUĆ</language>
 	</row>
 	<row id="msg_0010_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">REGISTER</language>
+		<language name="English">ZAREJ.</language>
 	</row>
 	<row id="msg_0010_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GIVE</language>
+		<language name="English">DAJ</language>
 	</row>
 	<row id="msg_0010_00004" index="4">
 		<attribute name="window_context_name">garbage</attribute>
@@ -23,11 +23,11 @@
 	</row>
 	<row id="msg_0010_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CONFIRM</language>
+		<language name="English">OK</language>
 	</row>
 	<row id="msg_0010_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WALK</language>
+		<language name="English">SPACER</language>
 	</row>
 	<row id="msg_0010_00007" index="7">
 		<attribute name="window_context_name">garbage</attribute>
@@ -36,7 +36,7 @@
 	</row>
 	<row id="msg_0010_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">ANULUJ</language>
 	</row>
 	<row id="msg_0010_00009" index="9">
 		<attribute name="window_context_name">garbage</attribute>
@@ -75,7 +75,7 @@
 	</row>
 	<row id="msg_0010_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHECK</language>
+		<language name="English">SPRAWDŹ</language>
 	</row>
 	<row id="msg_0010_00017" index="17">
 		<attribute name="window_context_name">garbage</attribute>
@@ -84,7 +84,7 @@
 	</row>
 	<row id="msg_0010_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DESELECT</language>
+		<language name="English">ODZNACZ</language>
 	</row>
 	<row id="msg_0010_00019" index="19">
 		<attribute name="window_context_name">garbage</attribute>
@@ -206,7 +206,7 @@
 	</row>
 	<row id="msg_0010_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {STRVAR_1 8, 0, 0} item is selected.</language>
+		<language name="English">Wybrano: {STRVAR_1 8, 0, 0}.</language>
 	</row>
 	<row id="msg_0010_00044" index="44">
 		<attribute name="window_context_name">garbage</attribute>
@@ -220,11 +220,11 @@
 	</row>
 	<row id="msg_0010_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Move the {STRVAR_1 8, 0, 0}.</language>
+		<language name="English">Przenieś: {STRVAR_1 8, 0, 0}.</language>
 	</row>
 	<row id="msg_0010_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {STRVAR_1 8, 0, 0} can’t be held.</language>
+		<language name="English">Nie można dać {STRVAR_1 8, 0, 0} Pokémonowi.</language>
 	</row>
 	<row id="msg_0010_00048" index="48">
 		<attribute name="window_context_name">garbage</attribute>
@@ -253,15 +253,15 @@
 	</row>
 	<row id="msg_0010_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Throw away how many\n{STRVAR_1 8, 0, 0}(s)?</language>
+		<language name="English">Ile sztuk wyrzucić?\n{STRVAR_1 8, 0, 0}</language>
 	</row>
 	<row id="msg_0010_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Threw away {STRVAR_1 51, 1, 0} {STRVAR_1 8, 0, 0}.</language>
+		<language name="English">Wyrzucono {STRVAR_1 51, 1, 0} szt.: {STRVAR_1 8, 0, 0}.</language>
 	</row>
 	<row id="msg_0010_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Is it OK to throw away\n{STRVAR_1 52, 1, 0} {STRVAR_1 8, 0, 0}?</language>
+		<language name="English">Wyrzucić {STRVAR_1 52, 1, 0} szt.\n{STRVAR_1 8, 0, 0}?</language>
 	</row>
 	<row id="msg_0010_00056" index="56">
 		<attribute name="window_context_name">garbage</attribute>
@@ -270,39 +270,39 @@
 	</row>
 	<row id="msg_0010_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can’t dismount your Bike here.</language>
+		<language name="English">Tutaj nie możesz zejść z roweru.</language>
 	</row>
 	<row id="msg_0010_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Coins: {STRVAR_1 54, 0, 0}</language>
+		<language name="English">Twoje żetony: {STRVAR_1 54, 0, 0}</language>
 	</row>
 	<row id="msg_0010_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Booted up a TM.{WAIT 3}{WAIT 4}\n</language>
+		<language name="English">Uruchomiono TM.{WAIT 3}{WAIT 4}\n</language>
 	</row>
 	<row id="msg_0010_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Booted up an HM.{WAIT 3}{WAIT 4}\n</language>
+		<language name="English">Uruchomiono HM.{WAIT 3}{WAIT 4}\n</language>
 	</row>
 	<row id="msg_0010_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It contained\n{STRVAR_1 6, 0, 0}.\rTeach {STRVAR_1 6, 0, 0}\nto a Pokémon?</language>
+		<language name="English">Zawiera\n{STRVAR_1 6, 0, 0}.\rNauczyć tego\nPokémona?</language>
 	</row>
 	<row id="msg_0010_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} used the\n{STRVAR_1 8, 1, 0}.</language>
+		<language name="English">{STRVAR_1 3, 0, 0} użył(a)\n{STRVAR_1 8, 1, 0}.</language>
 	</row>
 	<row id="msg_0010_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Since a Repel’s effects still linger,\nyou can’t use this now.</language>
+		<language name="English">Działanie Repela wciąż trwa,\nwięc nie możesz użyć tego teraz.</language>
 	</row>
 	<row id="msg_0010_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} used the\n{STRVAR_1 8, 1, 0}.\rWild Pokémon will be lured.</language>
+		<language name="English">{STRVAR_1 3, 0, 0} użył(a)\n{STRVAR_1 8, 1, 0}.\rDzikie Pokémony zostaną zwabione.</language>
 	</row>
 	<row id="msg_0010_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} used the\n{STRVAR_1 8, 1, 0}.\rWild Pokémon will be repelled.</language>
+		<language name="English">{STRVAR_1 3, 0, 0} użył(a)\n{STRVAR_1 8, 1, 0}.\rDzikie Pokémony zostaną odstraszone.</language>
 	</row>
 	<row id="msg_0010_00066" index="66">
 		<attribute name="window_context_name">garbage</attribute>
@@ -351,27 +351,27 @@
 	</row>
 	<row id="msg_0010_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MOVE</language>
+		<language name="English">PRZENIEŚ</language>
 	</row>
 	<row id="msg_0010_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 0, 0}? Oh, no.\nI can’t buy that.</language>
+		<language name="English">Nie kupuję: {STRVAR_1 8, 0, 0}.\nPrzykro mi.</language>
 	</row>
 	<row id="msg_0010_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 0, 0}? \nHow many will you sell?</language>
+		<language name="English">{STRVAR_1 8, 0, 0}?\nIle sztuk sprzedasz?</language>
 	</row>
 	<row id="msg_0010_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I can pay ${STRVAR_1 55, 0, 0}.\nWould that be OK?</language>
+		<language name="English">Mogę zapłacić ${STRVAR_1 55, 0, 0}.\nCzy to ci odpowiada?</language>
 	</row>
 	<row id="msg_0010_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Turned over the {STRVAR_1 8, 0, 0}\nand received ${STRVAR_1 55, 1, 0}.</language>
+		<language name="English">Oddano: {STRVAR_1 8, 0, 0}\ni otrzymano ${STRVAR_1 55, 1, 0}.</language>
 	</row>
 	<row id="msg_0010_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Money</language>
+		<language name="English">Kasa</language>
 	</row>
 	<row id="msg_0010_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
@@ -398,7 +398,7 @@
 	</row>
 	<row id="msg_0010_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SELL</language>
+		<language name="English">SPRZEDAJ</language>
 	</row>
 	<row id="msg_0010_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
@@ -415,15 +415,15 @@
 	</row>
 	<row id="msg_0010_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POWER</language>
+		<language name="English">MOC</language>
 	</row>
 	<row id="msg_0010_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ACCURACY</language>
+		<language name="English">CELNOŚĆ</language>
 	</row>
 	<row id="msg_0010_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CATEGORY</language>
+		<language name="English">KATEGORIA</language>
 	</row>
 	<row id="msg_0010_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
@@ -435,11 +435,11 @@
 	</row>
 	<row id="msg_0010_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Seals: {STRVAR_1 53, 0, 0}</language>
+		<language name="English">Naklejki: {STRVAR_1 53, 0, 0}</language>
 	</row>
 	<row id="msg_0010_00096" index="96">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Accessories: {STRVAR_1 52, 0, 0}\nBackdrops: {STRVAR_1 51, 1, 0}</language>
+		<language name="English">Dodatki: {STRVAR_1 52, 0, 0}\nTła: {STRVAR_1 51, 1, 0}</language>
 	</row>
 	<row id="msg_0010_00097" index="97">
 		<attribute name="window_context_name">garbage</attribute>
@@ -458,31 +458,31 @@
 	</row>
 	<row id="msg_0010_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saved Battle Points:\n{STRVAR_1 53, 0, 0} BP</language>
+		<language name="English">Zapisane Punkty Walki:\n{STRVAR_1 53, 0, 0} BP</language>
 	</row>
 	<row id="msg_0010_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TYPE</language>
+		<language name="English">TYP</language>
 	</row>
 	<row id="msg_0010_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Key Item in the Bag can be assigned\nto this button for instant use.</language>
+		<language name="English">Przedmiot Kluczowy z Torby można\nprzypisać do tego przycisku.</language>
 	</row>
 	<row id="msg_0010_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can only register up to two items\nto buttons!</language>
+		<language name="English">Możesz zarejestrować najwyżej\ndwa przedmioty na przyciskach!</language>
 	</row>
 	<row id="msg_0010_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Turned on the power for\nGB Sounds!</language>
+		<language name="English">Włączono zasilanie\nGB Sounds!</language>
 	</row>
 	<row id="msg_0010_00105" index="105">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Turned off the power for\nGB Sounds!</language>
+		<language name="English">Wyłączono zasilanie\nGB Sounds!</language>
 	</row>
 	<row id="msg_0010_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Can’t use the {STRVAR_1 8, 0, 0}.</language>
+		<language name="English">Nie można użyć: {STRVAR_1 8, 0, 0}.</language>
 	</row>
 	<row id="msg_0010_00107" index="107">
 		<attribute name="window_context_name">garbage</attribute>
@@ -541,43 +541,43 @@
 	</row>
 	<row id="msg_0010_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Can’t be used when you have someone\nwith you!</language>
+		<language name="English">Nie można użyć, gdy ktoś jest\nz tobą!</language>
 	</row>
 	<row id="msg_0010_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can’t be doing that now!</language>
+		<language name="English">Nie możesz tego teraz zrobić!</language>
 	</row>
 	<row id="msg_0010_00120" index="120">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Item Pocket\nFor items that will be useful during your\nadventure.</language>
+		<language name="English">Kieszeń na przedmioty\nPrzedmioty przydatne podczas\nprzygody.</language>
 	</row>
 	<row id="msg_0010_00121" index="121">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Medicine Pocket\nFor items to regain your Pokémon’s\nHP and PP.</language>
+		<language name="English">Kieszeń na leki\nPrzedmioty przywracające HP\ni PP Pokémonów.</language>
 	</row>
 	<row id="msg_0010_00122" index="122">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Poké Ball Pocket\nFor all different types of Poké Balls.</language>
+		<language name="English">Kieszeń na Poké Bale\nWszystkie rodzaje Poké Balów.</language>
 	</row>
 	<row id="msg_0010_00123" index="123">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TMs &amp; HMs Pocket\nFor all different types of TMs and HMs.</language>
+		<language name="English">Kieszeń na TM i HM\nWszystkie rodzaje TM i HM.</language>
 	</row>
 	<row id="msg_0010_00124" index="124">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Berry Pocket\nFor sorting and storing different\nBerries.</language>
+		<language name="English">Kieszeń na jagody\nDo sortowania i przechowywania\nróżnych jagód.</language>
 	</row>
 	<row id="msg_0010_00125" index="125">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mail Pocket\nFor sorting and storing vibrant\nstationery.</language>
+		<language name="English">Kieszeń na listy\nDo sortowania i przechowywania\nbarwnej papeterii.</language>
 	</row>
 	<row id="msg_0010_00126" index="126">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Items Pocket\nFor items that are useful during battle.</language>
+		<language name="English">Kieszeń na przedmioty bojowe\nPrzedmioty przydatne w walce.</language>
 	</row>
 	<row id="msg_0010_00127" index="127">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Key Items Pocket\nFor items that are indispensable for\nyour adventure.</language>
+		<language name="English">Kieszeń na przedmioty kluczowe\nNiezbędne w twojej przygodzie.</language>
 	</row>
 	<row id="msg_0010_00128" index="128">
 		<attribute name="window_context_name">used</attribute>

@@ -86,11 +86,11 @@
 	</row>
 	<row id="msg_0130_D44R0103_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nawiasem mówiąc...\nSłyszałeś/aś o LUGII?\fYy...\rMiędzy Siedlimowicami a Domanicami\nsą Wyspy na Zalewie.\rGłęboko w tamtejszej jaskini jest\nogromny wodospad. Podobno LUGIA\rspoczywa w głębi zbiornika\nwodospadu...\rSłyszałem, że potrzeba Silver Wing,\nżeby dotrzeć do zbiornika wodospadu...</language>
+		<language name="English">Nawiasem mówiąc...\nSłyszałeś/aś o LUGII?\fYy...\rMiędzy Siedlimowicami a Domanicami\nsą Wyspy na Zalewie.\rGłęboko w tamtejszej jaskini jest\nogromny wodospad. Podobno LUGIA\rspoczywa w głębi zbiornika\nwodospadu...\rSłyszałem, że potrzeba Srebrne Skrzydło,\nżeby dotrzeć do zbiornika wodospadu...</language>
 	</row>
 	<row id="msg_0130_D44R0103_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Głęboko w tamtejszej jaskini jest\nogromny wodospad. Podobno LUGIA\rspoczywa w głębi zbiornika\nwodospadu...\rSłyszałem, że potrzeba Silver Wing,\nżeby dotrzeć do zbiornika wodospadu...</language>
+		<language name="English">Głęboko w tamtejszej jaskini jest\nogromny wodospad. Podobno LUGIA\rspoczywa w głębi zbiornika\nwodospadu...\rSłyszałem, że potrzeba Srebrne Skrzydło,\nżeby dotrzeć do zbiornika wodospadu...</language>
 	</row>
 	<row id="msg_0130_D44R0103_00023" index="23">
 		<attribute name="window_context_name">used</attribute>

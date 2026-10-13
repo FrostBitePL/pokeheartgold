@@ -2,31 +2,31 @@
 <body language="English">
 	<row id="msg_0439_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m the Day-Care Man.\rWe look after the precious Pokémon\nof other Trainers.\rIf you’d like us to raise your\nPokémon, have a word with my wife.</language>
+		<language name="English">Jestem opiekunem z Przedszkola.\rOpiekujemy się cennymi Pokémonami\ninnych Trenerów.\rJeśli chcesz, byśmy wychowali\ntwojego Pokémona, porozmawiaj z moją\fżoną.</language>
 	</row>
 	<row id="msg_0439_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah, it’s you!\rWe were raising your Pokémon,\nand my goodness, were we surprised!\rYour Pokémon was holding an Egg!\rWe don’t know how it got there,\nbut your Pokémon had it.\rYou do want it, don’t you? {YESNO 0}</language>
+		<language name="English">O, to ty!\rWychowywaliśmy twojego Pokémona i,\nmój Boże, jakie to było zaskoczenie!\rTwój Pokémon trzymał jajko!\rNie wiemy, skąd się tam wzięło, ale\ntwój Pokémon je miał.\rChcesz je, prawda? {YESNO 0}</language>
 	</row>
 	<row id="msg_0439_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah, it’s you! Good to see you.\nYour {STRVAR_1 0, 0, 0}’s doing just fine.</language>
+		<language name="English">O, to ty! Miło cię widzieć.\rTwój {STRVAR_1 0, 0, 0} ma się świetnie.</language>
 	</row>
 	<row id="msg_0439_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well then, I’ll hang on to it.\nThanks!</language>
+		<language name="English">No dobrze, zatrzymam je. Dziękuję!</language>
 	</row>
 	<row id="msg_0439_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have no room for it right now...\nCome back when you’ve made room.</language>
+		<language name="English">Nie masz teraz miejsca...\rWróć, gdy zrobisz miejsce.</language>
 	</row>
 	<row id="msg_0439_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received the Egg from\nthe Day-Care Man.</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a) jajko od\nopiekuna z Przedszkola.</language>
 	</row>
 	<row id="msg_0439_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You take good care of it.</language>
+		<language name="English">Dobrze się nim opiekuj.</language>
 	</row>
 	<row id="msg_0439_00007" index="7">
 		<attribute name="window_context_name">garbage</attribute>
@@ -40,23 +40,23 @@
 	</row>
 	<row id="msg_0439_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah, it’s you!\nGood to see you!\rYour {STRVAR_1 0, 0, 0} and {STRVAR_1 0, 1, 0}\nare doing just fine.\r</language>
+		<language name="English">O, to ty! Miło cię widzieć!\rTwój {STRVAR_1 0, 0, 0} i {STRVAR_1 0, 1, 0} mają się\nświetnie.\r</language>
 	</row>
 	<row id="msg_0439_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I really will keep it.\nYou do want this Egg, yes? {YESNO 0}</language>
+		<language name="English">Naprawdę je zatrzymam.\rChcesz to jajko, tak? {YESNO 0}</language>
 	</row>
 	<row id="msg_0439_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Take good care of it!\rThat is, I don’t think we’ll ever find\nanother...\rNo, no, I’m sure we’ll find another one.\nI’m definitely sure of it!\r</language>
+		<language name="English">Dobrze się nim opiekuj!\rChoć... chyba już nigdy nie\nznajdziemy kolejnego...\rNie, nie, na pewno znajdziemy!\nJestem tego pewien!\r</language>
 	</row>
 	<row id="msg_0439_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well all right then, I’ll take it.\nThank you.\rThat is, I don’t think we’ll ever find\nanother...\rNo, no, I’m sure we’ll find another one.\nI’m definitely sure of it!\r</language>
+		<language name="English">No dobrze, wezmę je. Dziękuję.\rChoć... chyba już nigdy nie\nznajdziemy kolejnego...\rNie, nie, na pewno znajdziemy!\nJestem tego pewien!\r</language>
 	</row>
 	<row id="msg_0439_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}...\nIf we are looking after your Pokémon\fand notice one is holding an Egg, would\fyou like me to contact you by\fphone? Would that be all right? {YESNO 0}</language>
+		<language name="English">{STRVAR_1 3, 0, 0}...\rJeśli opiekujemy się twoimi\nPokémonami i zauważymy, że jeden ma\fjajko, czy mam zadzwonić? Czy to ci\nodpowiada? {YESNO 0}</language>
 	</row>
 	<row id="msg_0439_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -64,111 +64,111 @@
 	</row>
 	<row id="msg_0439_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can leave it up to us!\rAny Pokémon you’d like to have raised\nyou can leave in my wife’s care.</language>
+		<language name="English">Możesz na nas polegać!\rPokémony, które chcesz wychować,\nzostaw pod opieką mojej żony.</language>
 	</row>
 	<row id="msg_0439_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see. Well, that’s fine.\rAny Pokémon you’d like to have raised\nyou can leave in my wife’s care.</language>
+		<language name="English">Rozumiem. W porządku.\rPokémony, które chcesz wychować,\nzostaw pod opieką mojej żony.</language>
 	</row>
 	<row id="msg_0439_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The two seem to get along very well.</language>
+		<language name="English">Ta dwójka bardzo się lubi.</language>
 	</row>
 	<row id="msg_0439_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The two seem to get along.</language>
+		<language name="English">Ta dwójka jest zgodna.</language>
 	</row>
 	<row id="msg_0439_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The two don’t seem to like each\nother much.</language>
+		<language name="English">Ta dwójka niezbyt się lubi.</language>
 	</row>
 	<row id="msg_0439_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The two play with other\nPokémon rather than with each other...</language>
+		<language name="English">Ta dwójka woli bawić się z innymi\nPokémonami niż ze sobą...</language>
 	</row>
 	<row id="msg_0439_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m the Day-Care Lady.\nWe can raise Pokémon for you.\rWould you like us to raise your\nPokémon? {YESNO 0}</language>
+		<language name="English">Jestem opiekunką z Przedszkola.\nMożemy wychować Pokémona dla ciebie.\rChcesz, żebyśmy wychowali twojego\nPokémona? {YESNO 0}</language>
 	</row>
 	<row id="msg_0439_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which Pokémon should we raise for\nyou?\r</language>
+		<language name="English">Którego Pokémona mamy wychować?\r</language>
 	</row>
 	<row id="msg_0439_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fine, we’ll raise your {STRVAR_1 0, 0, 0}\nfor a while.\rCome back for it later.\r</language>
+		<language name="English">Dobrze, wychowamy twojego {STRVAR_1 0, 0, 0}\nprzez jakiś czas.\rWróć po niego później.\r</language>
 	</row>
 	<row id="msg_0439_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We can raise two of your Pokémon.\nWould you like us to raise another? {YESNO 0}</language>
+		<language name="English">Możemy wychować dwa twoje Pokémony.\rChcesz, żebyśmy wychowali jeszcze\njednego? {YESNO 0}</language>
 	</row>
 	<row id="msg_0439_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah, there you are!\nMy husband was looking for you.</language>
+		<language name="English">A, jesteś! Mój mąż cię szukał.</language>
 	</row>
 	<row id="msg_0439_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, fine, then.\nCome again.</language>
+		<language name="English">No dobrze. Przyjdź jeszcze.</language>
 	</row>
 	<row id="msg_0439_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t have enough money...</language>
+		<language name="English">Nie masz dość pieniędzy...</language>
 	</row>
 	<row id="msg_0439_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you want to take back the other\none, too? {YESNO 0}</language>
+		<language name="English">Chcesz odebrać też drugiego? {YESNO 0}</language>
 	</row>
 	<row id="msg_0439_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Very good.\nCome again.</language>
+		<language name="English">Bardzo dobrze. Przyjdź jeszcze.</language>
 	</row>
 	<row id="msg_0439_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah, it’s you! Good to see you.\nNow, about your Pokémon...\r</language>
+		<language name="English">O, to ty! Miło cię widzieć.\rA teraz o twoich Pokémonach...\r</language>
 	</row>
 	<row id="msg_0439_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">By level, your {STRVAR_1 0, 0, 0} has\ngrown by about {STRVAR_1 51, 1, 0}.\r</language>
+		<language name="English">Twój {STRVAR_1 0, 0, 0} urósł o około {STRVAR_1 51, 1, 0}\npoz.\r</language>
 	</row>
 	<row id="msg_0439_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Pokémon team is full.\nMake room, then come see me.</language>
+		<language name="English">Twoja drużyna jest pełna.\rZrób miejsce i wróć do mnie.</language>
 	</row>
 	<row id="msg_0439_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you want your {STRVAR_1 0, 0, 0} back,\nit will cost ${STRVAR_1 53, 1, 0}. {YESNO 0}</language>
+		<language name="English">Jeśli chcesz odebrać {STRVAR_1 0, 0, 0},\nbędzie to kosztować {STRVAR_1 53, 1, 0}. {YESNO 0}</language>
 	</row>
 	<row id="msg_0439_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excellent!\nHere’s your Pokémon.\r</language>
+		<language name="English">Doskonale! Oto twój Pokémon.\r</language>
 	</row>
 	<row id="msg_0439_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1, 0} took {STRVAR_1 0, 0, 0} back\nfrom the Day-Care Lady.\r</language>
+		<language name="English">{STRVAR_1 3, 1, 0} odebrał(a) {STRVAR_1 0, 0, 0} od\nopiekunki z Przedszkola.\r</language>
 	</row>
 	<row id="msg_0439_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh? But you only have one\nPokémon with you.\rYou can’t go off without a Pokémon.\nCome back another time.</language>
+		<language name="English">Och? Masz tylko jednego Pokémona.\rNie możesz odejść bez Pokémona. Wróć\nkiedy indziej.</language>
 	</row>
 	<row id="msg_0439_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you want your Pokémon back? {YESNO 0}</language>
+		<language name="English">Chcesz odebrać swojego Pokémona? {YESNO 0}</language>
 	</row>
 	<row id="msg_0439_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you leave me that Pokémon,\nwhat are you gonna battle with?\rCome back another time.</language>
+		<language name="English">Jeśli zostawisz mi tego Pokémona,\nczym będziesz walczyć?\rWróć kiedy indziej.</language>
 	</row>
 	<row id="msg_0439_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? Now, now.\rIf you leave that Pokémon with\nme, you’ll be left with just one.\rYou will be better off if you catch\nsome more, if I do say so myself.</language>
+		<language name="English">Co? Spokojnie.\rJeśli zostawisz tego Pokémona u\nmnie, zostanie ci tylko jeden.\rLepiej złap jeszcze kilka, jeśli\nmogę coś doradzić.</language>
 	</row>
 	<row id="msg_0439_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Now, now.\nThat is merely an Egg!</language>
+		<language name="English">Spokojnie. To tylko jajko!</language>
 	</row>
 	<row id="msg_0439_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fine, we’ll raise your {STRVAR_1 0, 0, 0}\nfor a while.\rCome back for it later.</language>
+		<language name="English">Dobrze, wychowamy twojego {STRVAR_1 0, 0, 0}\nprzez jakiś czas.\rWróć po niego później.</language>
 	</row>
 	<row id="msg_0439_00042" index="42">
 		<attribute name="window_context_name">garbage</attribute>
@@ -197,18 +197,18 @@
 	</row>
 	<row id="msg_0439_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The two seem to get along very well.\r</language>
+		<language name="English">Ta dwójka bardzo się lubi.\r</language>
 	</row>
 	<row id="msg_0439_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The two seem to get along.\r</language>
+		<language name="English">Ta dwójka jest zgodna.\r</language>
 	</row>
 	<row id="msg_0439_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The two don’t seem to like each\nother much.\r</language>
+		<language name="English">Ta dwójka niezbyt się lubi.\r</language>
 	</row>
 	<row id="msg_0439_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The two play with other\nPokémon rather than with each other...\r</language>
+		<language name="English">Ta dwójka woli bawić się z innymi\nPokémonami niż ze sobą...\r</language>
 	</row>
 </body>

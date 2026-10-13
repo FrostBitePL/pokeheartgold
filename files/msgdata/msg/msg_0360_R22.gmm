@@ -46,19 +46,19 @@
 	</row>
 	<row id="msg_0360_R22_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Gdzie my jesteśmy...?\r</language>
+		<language name="English">Emil: Gdzie my jesteśmy...?\r</language>
 	</row>
 	<row id="msg_0360_R22_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Gdzie my jesteśmy...?\r</language>
+		<language name="English">Emil: Gdzie my jesteśmy...?\r</language>
 	</row>
 	<row id="msg_0360_R22_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Las Wostówka zniknął!\r...Nie, to nie to. To raczej tak,\njakby przeniesiono nas gdzieś\findziej...?\r</language>
+		<language name="English">Emil: Las Wostówka zniknął!\r...Nie, to nie to. To raczej tak,\njakby przeniesiono nas gdzieś\findziej...?\r</language>
 	</row>
 	<row id="msg_0360_R22_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Las Wostówka zniknął!\r...Nie, to nie to. To raczej tak,\njakby przeniesiono nas gdzieś\findziej...?\r</language>
+		<language name="English">Emil: Las Wostówka zniknął!\r...Nie, to nie to. To raczej tak,\njakby przeniesiono nas gdzieś\findziej...?\r</language>
 	</row>
 	<row id="msg_0360_R22_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
@@ -86,11 +86,11 @@
 	</row>
 	<row id="msg_0360_R22_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Za kogo on się uważa?\nTo było niepotrzebne!\rAle o czym oni rozmawiali?\nO odrodzeniu {COLOR 1}Team Rocket{COLOR 0}...?\rMówią, że Team Rocket zostało\nusunięte z Regionu Świdnica przez\fdziecko trzy lata temu.\rWięc to naprawdę jest sprzed\ntrzech lat!\r</language>
+		<language name="English">Emil: Za kogo on się uważa?\nTo było niepotrzebne!\rAle o czym oni rozmawiali?\nO odrodzeniu {COLOR 1}Team Rocket{COLOR 0}...?\rMówią, że Team Rocket zostało\nusunięte z Regionu Świdnica przez\fdziecko trzy lata temu.\rWięc to naprawdę jest sprzed\ntrzech lat!\r</language>
 	</row>
 	<row id="msg_0360_R22_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Za kogo on się uważa?\nTo było niepotrzebne!\rAle o czym oni rozmawiali?\nO odrodzeniu {COLOR 1}Team Rocket{COLOR 0}...?\rMówią, że Team Rocket zostało\nusunięte z Regionu Świdnica przez\fdziecko trzy lata temu.\rWięc to naprawdę jest sprzed\ntrzech lat!\r</language>
+		<language name="English">Emil: Za kogo on się uważa?\nTo było niepotrzebne!\rAle o czym oni rozmawiali?\nO odrodzeniu {COLOR 1}Team Rocket{COLOR 0}...?\rMówią, że Team Rocket zostało\nusunięte z Regionu Świdnica przez\fdziecko trzy lata temu.\rWięc to naprawdę jest sprzed\ntrzech lat!\r</language>
 	</row>
 	<row id="msg_0360_R22_00023" index="23">
 		<attribute name="window_context_name">used</attribute>

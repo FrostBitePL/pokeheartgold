@@ -382,11 +382,11 @@
 	</row>
 	<row id="msg_0108_D32R0401_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Cześć, {STRVAR_1 3, 0, 0}.\nUwielbiam patrzeć, jak tu walczysz.\rBo...\nbawisz się dobrze, czy wygrywasz,\fczy przegrywasz!</language>
+		<language name="English">Emil: Cześć, {STRVAR_1 3, 0, 0}.\nUwielbiam patrzeć, jak tu walczysz.\rBo...\nbawisz się dobrze, czy wygrywasz,\fczy przegrywasz!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00096" index="96">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Battle Hall jest świetne dla\nfanów Pokémonów, takich jak ja!\rMogę zobaczyć tyle nowych rodzajów\nPokémonów, których nigdy nie\fwidziałem.\rTo takie super!</language>
+		<language name="English">Emil: Battle Hall jest świetne dla\nfanów Pokémonów, takich jak ja!\rMogę zobaczyć tyle nowych rodzajów\nPokémonów, których nigdy nie\fwidziałem.\rTo takie super!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00097" index="97">
 		<attribute name="window_context_name">used</attribute>

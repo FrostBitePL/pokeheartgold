@@ -42,15 +42,15 @@
 	</row>
 	<row id="msg_0618_T27R0501_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dla Dziewczyn w Kimonach takich\njak ja, taniec jest wszystkim.\rNigdy nie było dnia bez ćwiczeń\ntaneczych.\rZ Pokémonami jest tak samo.\rRosną z tobą po trochu każdego dnia.</language>
+		<language name="English">Dla Aktorek Teatru Bezdomnego takich\njak ja, taniec jest wszystkim.\rNigdy nie było dnia bez ćwiczeń\ntaneczych.\rZ Pokémonami jest tak samo.\rRosną z tobą po trochu każdego dnia.</language>
 	</row>
 	<row id="msg_0618_T27R0501_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Witaj.\nMam na imię Zuki.\fSpotkałam cię wcześniej w Łażanach.\rBy sprowadzić z powrotem HO-OH,\npotrzebowaliśmy kogoś z odpowiednią\fwięzią z Pokémonami.\rPoprosiliśmy Wacka, by dał to\nTajemnicze Jajko temu, kto pokaże\fprawdziwy potencjał.\rJajko trafiło od Wacka do Profesora\nMariusza, a następnie do ciebie.\rJednak sama czystość serca nie\nwystarczy, by stawić czoła mocy\ftego Pokémona.\fMuszę cię sprawdzić.\rJesteś gotowy? {YESNO 0}</language>
+		<language name="English">Dziękuję, że do nas dotarłeś/aś. Mam\nna imię Marta, jestem reżyserką\fTeatru Bezdomnego.\rNasz taniec ma ponad sto lat.\nPodobno kiedyś wołano nim Strażnika\fz Samotnej Wieży w Mrowinach.\rFiolka od Wacka, jajko od Mariusza,\na teraz ty tutaj. Nie sądzę, żeby to\fbył przypadek.\rSama dobra wola nie wystarczy, by\nstanąć przed tym, co jest pod tą\fwieżą. Muszę cię sprawdzić.\rJesteś gotowy/a? {YESNO 0}</language>
 	</row>
 	<row id="msg_0618_T27R0501_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Witaj.\nMam na imię Zuki.\fSpotkałam cię wcześniej w Łażanach.\rBy sprowadzić z powrotem LUGIĘ,\npotrzebowaliśmy kogoś z odpowiednią\fwięzią z Pokémonami.\rPoprosiliśmy Wacka, by dał to\nTajemnicze Jajko temu, kto pokaże\fprawdziwy potencjał.\rJajko trafiło od Wacka do Profesora\nMariusza, a następnie do ciebie.\rJednak sama czystość serca nie\nwystarczy, by stawić czoła mocy\ftego Pokémona.\fMuszę cię sprawdzić.\rJesteś gotowy? {YESNO 0}</language>
+		<language name="English">Dziękuję, że do nas dotarłeś/aś. Mam\nna imię Marta, jestem reżyserką\fTeatru Bezdomnego.\rNasz taniec ma ponad sto lat.\nPodobno kiedyś wołano nim Strażnika\fz Samotnej Wieży w Mrowinach.\rFiolka od Wacka, jajko od Mariusza,\na teraz ty tutaj. Nie sądzę, żeby to\fbył przypadek.\rSama dobra wola nie wystarczy, by\nstanąć przed tym, co jest pod tą\fwieżą. Muszę cię sprawdzić.\rJesteś gotowy/a? {YESNO 0}</language>
 	</row>
 	<row id="msg_0618_T27R0501_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
@@ -62,43 +62,43 @@
 	</row>
 	<row id="msg_0618_T27R0501_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jesteś dość silny.\rPomogłeś mi w Lesie Wostówka.\rMam na imię Naoko. To ja jestem tą,\nktóra nie radzi sobie zbyt dobrze z\fkierunkami.\rNa własne oczy widziałam, jak\npokonałeś ludzi z Genezy, gdy Kurt\fmiał kłopoty przy Studni SLOWPOKE.\rPozwól, że rzucę ci wyzwanie, tobie\ni twojemu Pokémonowi!\r</language>
+		<language name="English">Jesteś dość silny.\rPomogłeś mi w Lesie Wostówka.\rMam na imię Natalia. To ja jestem\ntą, która nie radzi sobie zbyt\fdobrze z kierunkami.\rNa własne oczy widziałam, jak\npokonałeś ludzi z Genezy, gdy Kurt\fmiał kłopoty przy Studni SLOWPOKE.\rPozwól, że rzucę ci wyzwanie, tobie\ni twojemu Pokémonowi!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jesteś niezłym Trenerem.\rPamiętam, jak przegoniłeś tego\nlaboranta Genezy właśnie stąd. Muszę\fci za to podziękować.\rChociaż tak naprawdę sama też jestem\nTrenerem.\rTa, która wie najwięcej, mówi\nnajmniej! Jestem Miki - Dziewczyna w\fKimonie!\rPozwól, że rzucę ci wyzwanie, tobie\ni twojemu Pokémonowi!\r</language>
+		<language name="English">Jesteś niezłym Trenerem.\rPamiętam, jak przegoniłeś tego\nlaboranta Genezy właśnie stąd. Muszę\fci za to podziękować.\rChociaż tak naprawdę sama też jestem\nTrenerem.\rTa, która wie najwięcej, mówi\nnajmniej! Jestem Sara - Aktorka\fTeatru Bezdomnego!\rPozwól, że rzucę ci wyzwanie, tobie\ni twojemu Pokémonowi!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Znakomity duch walki!\rZepchnąłeś mnie z lodu, popychając\nod tyłu.\rTo ja jeżdżę na łyżwach w sandałach.\fJestem Sayo - Dziewczyna\nw Kimonie!\rSłuchałam w Legowisku Smoków, gdy\nzdałeś próbę Starszego.\rPozwól, że rzucę ci wyzwanie,\ntobie i twojemu Pokémonowi!\r</language>
+		<language name="English">Znakomity duch walki!\rZepchnąłeś mnie z lodu, popychając\nod tyłu.\rTo ja jeżdżę na łyżwach w sandałach.\nJestem Zofia - Aktorka Teatru\fBezdomnego!\rSłuchałam w Smoczej Studni, gdy\nzdałeś próbę Starszego.\rPozwól, że rzucę ci wyzwanie, tobie\ni twojemu Pokémonowi!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jestem ostatnia.\rByłeś tak niezawodny w Tunelu pod\nŻarowem. To ja kręcę się nawet pod\fziemią.\rJestem Kuni - Dziewczyna w Kimonie!\rPatrzyłam na ciebie z podziwem, gdy\nudaremniłeś próbę przejęcia Zamku\fprzez Genezę. Teraz musisz pokazać\nmi swoją siłę.\rPozwól, że rzucę ci wyzwanie, tobie\ni twojemu Pokémonowi!\r</language>
+		<language name="English">Jestem ostatnia.\rByłeś tak niezawodny w Rozpadlinie.\nTo ja kręcę się nawet pod ziemią.\rJestem Kinga - Aktorka Teatru\nBezdomnego!\rPatrzyłam na ciebie z podziwem, gdy\nudaremniłeś próbę przejęcia Zamku\fprzez Genezę. Teraz musisz pokazać\nmi swoją siłę.\rPozwól, że rzucę ci wyzwanie, tobie\ni twojemu Pokémonowi!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Porozmawiaj z Zuki na środku,\ngdy będziesz gotowy.</language>
+		<language name="English">Porozmawiaj z Marta na środku, gdy\nbędziesz gotowy.</language>
 	</row>
 	<row id="msg_0618_T27R0501_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nie myliłyśmy się co do ciebie.\nRzeczywiście jesteś tego godny...\rProszę, weź to.\r</language>
+		<language name="English">Nie myliłyśmy się co do ciebie.\nRzeczywiście jesteś tego godny/a...\rProszę, weź to.\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Starsze siostry!\rWłaśnie zobaczyłam wielki cień\nPokémona nad Wieżą Dzwonów!\rTo może być...\r</language>
+		<language name="English">Reżyserko! Przy Samotnej Wieży coś\nsię poruszyło!\rWielki cień Pokémona nad samym\nszczytem...\rTo może być...\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Starsze siostry!\rWłaśnie zobaczyłam wielki cień\nPokémona w wodach Wysp Wirów!\rTo może być...\r</language>
+		<language name="English">Reżyserko! Przy Samotnej Wieży coś\nsię poruszyło!\rWielki cień Pokémona nad samym\nszczytem...\rTo może być...\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zuki: {STRVAR_1 3, 0, 0}!\nBędziemy w Wieży Dzwonów.\fDo zobaczenia tam!\r</language>
+		<language name="English">Marta: {STRVAR_1 3, 0, 0}! Będziemy przy\nSamotnej Wieży w Mrowinach. Do\fzobaczenia tam!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zuki: {STRVAR_1 3, 0, 0}!\nBędziemy na Wyspach Wirów.\fDo zobaczenia tam!\r</language>
+		<language name="English">Marta: {STRVAR_1 3, 0, 0}! Będziemy przy\nSamotnej Wieży w Mrowinach. Do\fzobaczenia tam!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
@@ -119,7 +119,7 @@
 	</row>
 	<row id="msg_0618_T27R0501_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dziewczyny w Kimonach to nie tylko\nznakomite tancerki, są też biegłe\fw Pokémonach.\rAle walczą tylko z dobrych powodów.\rNie wiem, czy zdołałbyś je pokonać,\ngdyby pokazały, na co je stać...</language>
+		<language name="English">Aktorki Teatru Bezdomnego to nie\ntylko znakomite tancerki, ale i\fbiegłe Trenerki.\rWalczą tylko z dobrych powodów.\rNie wiem, czy zdołałbyś je pokonać,\ngdyby pokazały, na co je stać...</language>
 	</row>
 	<row id="msg_0618_T27R0501_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
@@ -147,11 +147,11 @@
 	</row>
 	<row id="msg_0618_T27R0501_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dziewczyny w Kimonach są takie\npiękne...\rAle muszą przejść przez rygorystyczny\ntrening.\rI muszą nauczyć się przestrzegać\nzwyczajów, zanim pojawią się\fpublicznie.\rAle jeśli coś kochasz, wszystko\njest możliwe.</language>
+		<language name="English">Aktorki Teatru Bezdomnego są takie\npiękne...\rAle muszą przejść przez\nrygorystyczny trening.\rI muszą nauczyć się przestrzegać\nzwyczajów, zanim pojawią się\fpublicznie.\rAle jeśli coś kochasz, wszystko jest\nmożliwe.</language>
 	</row>
 	<row id="msg_0618_T27R0501_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zrobić coś tak strasznego\nDziewczynie w Kimonie!\rNie rozumiem, jak młodzi ludzie\nzachowują się w dzisiejszych czasach.</language>
+		<language name="English">Zrobić coś tak strasznego Aktorce\nTeatru Bezdomnego!\rNie rozumiem, jak młodzi ludzie\nzachowują się w dzisiejszych\fczasach.</language>
 	</row>
 	<row id="msg_0618_T27R0501_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
@@ -171,7 +171,7 @@
 	</row>
 	<row id="msg_0618_T27R0501_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dziękuję za pomoc onegdaj.\rPięknie udowodniłeś, że więź między\nludźmi może rozciągać się na więź\fmiędzy ludźmi a Pokémonami...\rWszystkie doceniamy, że sprostałeś\nnaszym oczekiwaniom, {STRVAR_1 3, 0, 0}!\rJeśli czujesz, że to doświadczenie\ncię czegoś nauczyło, osobami, którym\fpowinieneś podziękować, nie jesteśmy\fmy, lecz Wacek i Profesor Mariusz...</language>
+		<language name="English">Dziękujemy za pomoc.\rPięknie udowodniłeś/aś, że więź\nmiędzy ludźmi może rozciągać się na\fwięź między ludźmi a Pokémonami...\rWszyscy doceniamy, że sprostałeś/aś\nnaszym oczekiwaniom, {STRVAR_1 3, 0, 0}!\rJeśli czujesz, że to doświadczenie\ncię czegoś nauczyło, osobami, którym\fpowinieneś/powinnaś podziękować, nie\njesteśmy my, lecz Wacek i Profesor\fMariusz...</language>
 	</row>
 	<row id="msg_0618_T27R0501_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
@@ -183,6 +183,6 @@
 	</row>
 	<row id="msg_0618_T27R0501_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sprawdzę, jak silną więź masz\nze swoim Pokémonem!\r</language>
+		<language name="English">Sprawdzę, jak silną więź masz ze\nswoim Pokémonem!\r</language>
 	</row>
 </body>

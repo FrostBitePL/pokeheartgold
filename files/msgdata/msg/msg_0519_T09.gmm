@@ -26,7 +26,7 @@
 	</row>
 	<row id="msg_0519_T09_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue: Dobrze!\r</language>
+		<language name="English">Nadia: Dobrze!\r</language>
 	</row>
 	<row id="msg_0519_T09_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -74,7 +74,7 @@
 	</row>
 	<row id="msg_0519_T09_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Nieee!</language>
+		<language name="English">Oskar: Nieee!</language>
 	</row>
 	<row id="msg_0519_T09_00019" index="19">
 		<attribute name="window_context_name">used</attribute>

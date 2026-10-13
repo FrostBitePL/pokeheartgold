@@ -6,11 +6,11 @@
 	</row>
 	<row id="msg_0663_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Zupełnie zapomniałam! Wymieńmy\nsię numerami telefonów!</language>
+		<language name="English">Emil: Zupełnie zapomniałam! Wymieńmy\nsię numerami telefonów!</language>
 	</row>
 	<row id="msg_0663_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Dzwoń kiedy chcesz! Możemy\nwymieniać się informacjami o\fPokémonach!</language>
+		<language name="English">Emil: Dzwoń kiedy chcesz! Możemy\nwymieniać się informacjami o\fPokémonach!</language>
 	</row>
 	<row id="msg_0663_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -30,15 +30,15 @@
 	</row>
 	<row id="msg_0663_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Halo? Tu Lyra... Dzień dobry!\r</language>
+		<language name="English">Halo? Tu Emil... Dzień dobry!\r</language>
 	</row>
 	<row id="msg_0663_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Halo? Tu Lyra... Jak się masz?\r</language>
+		<language name="English">Halo? Tu Emil... Jak się masz?\r</language>
 	</row>
 	<row id="msg_0663_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Halo? Tu Lyra... Dobry wieczór!\r</language>
+		<language name="English">Halo? Tu Emil... Dobry wieczór!\r</language>
 	</row>
 	<row id="msg_0663_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
