@@ -40,4 +40,20 @@
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Izba Historyczna w Żarowie. Wstęp\nwolny.\rKolej do Świdnicy w remoncie do\nodwołania.</language>
 	</row>
+	<row id="msg_0587_T25R0501_00010" index="10">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Mariusz stoi przy gablocie z księgą.\nWygląda, jakby nie spał od tygodnia.\rMariusz: Ten wpis o włosie w\nbursztynie. Ja go przepisywałem na\fczysto, pierwszego dnia pracy.\r</language>
+	</row>
+	<row id="msg_0587_T25R0501_00011" index="11">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Mariusz: Potem z Łukaszem\nsiedzieliśmy nad tą próbką trzy\flata. To ja rozrysowałem kod Okazu\n151.\rOdszedłem, kiedy zobaczyłem, po co\nmu on jest.\r</language>
+	</row>
+	<row id="msg_0587_T25R0501_00012" index="12">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Mariusz: Fiolka od Wacka to\noryginał. Bez niego ich kopia się\fsypie. Dlatego przetrząsnęli mi\nlaboratorium.\rDlatego muszą dostać Mewa albo\nfiolkę. Pilnuj obu.\r</language>
+	</row>
+	<row id="msg_0587_T25R0501_00013" index="13">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Kustosz: Przepraszam, a czy pan\nprofesor mógłby wpisać się do księgi\fgości?\r</language>
+	</row>
 </body>

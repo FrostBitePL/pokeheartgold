@@ -36,6 +36,21 @@ scr_seq_T25R0501_000:
 	PlaySE SEQ_SE_DP_SELECT
 	LockAll
 	FacePlayer
+	CountBadges VAR_SPECIAL_RESULT
+	Compare VAR_SPECIAL_RESULT, 6
+	GoToIfLt _KustoszNormal
+	Compare VAR_UNK_4161, 0
+	GoToIfNe _KustoszNormal
+	NPCMsg msg_0587_T25R0501_00010
+	NPCMsg msg_0587_T25R0501_00011
+	NPCMsg msg_0587_T25R0501_00012
+	NPCMsg msg_0587_T25R0501_00013
+	CloseMsg
+	SetVar VAR_UNK_4161, 1
+	ReleaseAll
+	End
+
+_KustoszNormal:
 	GoToIfSet FLAG_RESTORED_POWER, _0078
 	NPCMsg msg_0587_T25R0501_00000
 	WaitButton
