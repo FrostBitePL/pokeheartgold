@@ -3733,9 +3733,20 @@ static void DebugSetup_FillParty(FieldSystem *fieldSystem) {
     PartyMonSetMoveInSlot(party, 1, 3, MOVE_FLASH);
 }
 
+static void DebugSetup_UnlockFlyPoints(FieldSystem *fieldSystem) {
+    SaveVarsFlags *varsFlags = Save_VarsFlags_Get(fieldSystem->saveData);
+    int i;
+
+    for (i = 0; i < 38; i++) {
+        Save_VarsFlags_FlypointFlagAction(varsFlags, FLAG_ACTION_SET, i);
+    }
+    Pokegear_SetMapUnlockLevel(SaveData_Pokegear_Get(fieldSystem->saveData), 2);
+}
+
 static void DebugSetup(FieldSystem *fieldSystem) {
     DebugSetup_GrantBadgesAndItems(fieldSystem);
     DebugSetup_FillParty(fieldSystem);
+    DebugSetup_UnlockFlyPoints(fieldSystem);
 }
 
 BOOL ScrCmd_DebugStartCheck(ScriptContext *ctx) {
