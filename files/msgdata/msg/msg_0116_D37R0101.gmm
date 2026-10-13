@@ -48,4 +48,28 @@
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Emil: Trzymaj Akcesoria w Fashion\nCase, dobra?\rMuszę już iść.\nDo zobaczenia!\r</language>
 	</row>
+	<row id="msg_0116_D37R0101_00012" index="12">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Z głębi tunelu dobiega ciężki,\ndudniący bas. W klubie „Rozpadlina”\fgra dziś zespół Zgon.\r</language>
+	</row>
+	<row id="msg_0116_D37R0101_00013" index="13">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Nagle światła migają, a dźwięk się\nzniekształca...\r</language>
+	</row>
+	<row id="msg_0116_D37R0101_00014" index="14">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Nad tłumem, w błysku stroboskopów,\ntańczy niewielki, różowy Pokémon.\fNaśladuje ruchy wokalisty!\r</language>
+	</row>
+	<row id="msg_0116_D37R0101_00015" index="15">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Dwóch mężczyzn w białych fartuchach\nskanuje salę urządzeniem. „Odczyty\fpsychiczne biją skalę. To ono.\nTrzeba to zgłosić panu Łukaszowi\fnatychmiast.”\r</language>
+	</row>
+	<row id="msg_0116_D37R0101_00016" index="16">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Pokémon spogląda na ciebie, śmieje\nsię i wskakuje prosto do twojej\ftorby. Agenci Genezy odjeżdżają z\npustymi rękami.\r</language>
+	</row>
+	<row id="msg_0116_D37R0101_00017" index="17">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a) Mew!\r</language>
+	</row>
 </body>

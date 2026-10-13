@@ -85,6 +85,7 @@ _0100:
 	HidePerson obj_D37R0101_tsure_poke_static_marill
 	WaitSE SEQ_SE_DP_KAIDAN2
 	CallStd std_fade_end_friend_music
+	Call _MewConcert
 	SetVar VAR_UNK_40F8, 1
 	SetFlag FLAG_UNK_14C
 	ReleaseAll
@@ -203,6 +204,7 @@ _0228:
 	HidePerson obj_D37R0101_tsure_poke_static_marill
 	WaitSE SEQ_SE_DP_KAIDAN2
 	CallStd std_fade_end_friend_music
+	Call _MewConcert
 	SetVar VAR_UNK_40F8, 1
 	SetFlag FLAG_UNK_14C
 	ReleaseAll
@@ -344,3 +346,24 @@ _04A9:
 	ReleaseAll
 	End
 	.balign 4, 0
+
+_MewConcert:
+	NPCMsg msg_0116_D37R0101_00012
+	CloseMsg
+	NPCMsg msg_0116_D37R0101_00013
+	CloseMsg
+	PlayCry SPECIES_MEW, 0
+	WaitCry
+	NPCMsg msg_0116_D37R0101_00014
+	CloseMsg
+	NPCMsg msg_0116_D37R0101_00015
+	CloseMsg
+	BufferPlayersName 0
+	NPCMsg msg_0116_D37R0101_00016
+	CloseMsg
+	PlayFanfare SEQ_ME_POKEGET
+	NPCMsg msg_0116_D37R0101_00017
+	WaitFanfare
+	GiveMon SPECIES_MEW, 25, 0, 0, 0, VAR_SPECIAL_RESULT
+	CloseMsg
+	Return
