@@ -4,4 +4,8 @@
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Dziadek Stefan: A, to ty jesteś tym\nmłodym Trenerem, o którym mówi cała\fwieś.\rUsiądź na chwilę, zanim pójdziesz\ndalej w świat.\rZa moich czasów w zakładzie mówiło\nsię o czymś, o czym dziś nikt już\fnie pamięta. O Okazie 151.\rNie wiem, czy to Pokémon, maszyna,\nczy plotka wymyślona, żeby straszyć\fdzieci.\rAle pamiętam, że ludzie, którzy\npytali o to zbyt głośno...\fprzestawali pytać.\rIdź, dziecko. I miej oczy szeroko\notwarte.</language>
 	</row>
+	<row id="msg_0547_T20R0301_00001" index="1">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Dziadek Stefan: Siadaj, dziecko.\nMuszę ci coś wyznać.\rWidziałem, jak Wacek wynosi z\nlaboratorium tę fiolkę. W dniu, w\fktórym zamykali bramę.\rDwadzieścia lat milczałem. Myślałem,\nże to tylko pamiątka po zakładzie.\rGdybym wtedy coś powiedział...\nWybacz staremu portierowi.\r</language>
+	</row>
 </body>

@@ -9,6 +9,12 @@
 	ScrDefEnd
 
 scr_seq_T20R0301_000:
+	Compare VAR_UNK_4160, 0
+	GoToIfNe _StefanConfession
 	SimpleNPCMsg msg_0547_T20R0301_00000
+	End
+
+_StefanConfession:
+	SimpleNPCMsg msg_0547_T20R0301_00001
 	End
 	.balign 4, 0
