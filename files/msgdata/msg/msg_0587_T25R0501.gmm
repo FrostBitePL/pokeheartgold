@@ -56,4 +56,8 @@
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Kustosz: Przepraszam, a czy pan\nprofesor mógłby wpisać się do księgi\fgości?\r</language>
 	</row>
+	<row id="msg_0587_T25R0501_00014" index="14">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Kustosz: Ach, pan od Pokédexu! Niech\npan patrzy, plan zakładu z tysiąc\fdziewięćset pięćdziesiątego ósmego.\rPiwnica huty „Ida” dochodzi aż do\nściany klubu „Rozpadlina”.\fZamurowano ją po zamknięciu.\rTechnik dźwięku ma młot kowalski.\nJeśli ktoś może rozbić ten mur, to\fon.\r</language>
+	</row>
 </body>

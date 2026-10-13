@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0114_D35R0104_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: ...\rWięc znowu się w nich mieszasz.\rHumph, musisz naprawdę bardzo lubić\nGenezę.\r...Powiedz mi, kim był ten facet w\npelerynie, który używał Pokémonów\ftypu Smoczy?\rMoje Pokémony nie miały z nim\nżadnych szans.\rNie obchodzi mnie, że przegrałem/am.\nMogę go pokonać, zdobywając\fsilniejsze Pokémony.\r...To, co powiedział, mnie trapi...\nPowiedział, że nie kocham i nie ufam\fmoim Pokémonom wystarczająco.\rJestem wściekły/a, że przegrałem/am\nz takim ckliwym sentymentalistą jak\fon.\r...Humph! Nie mam czasu dla takich\njak ty!\r</language>
+		<language name="English">{STRVAR_1 3, 1, 0}: ...To ty.\rOni dają mi coś, czego nikt mi nie\ndał. Szansę, żeby być kimś więcej\fniż kolejnym trenerem z prowincji.\rTy miałeś Mariusza. Ja mam ich. Nie\nstój mi na drodze.\r</language>
 	</row>
 	<row id="msg_0114_D35R0104_00004" index="4">
 		<attribute name="window_context_name">used</attribute>

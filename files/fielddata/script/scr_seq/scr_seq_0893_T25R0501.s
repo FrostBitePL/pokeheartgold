@@ -36,6 +36,8 @@ scr_seq_T25R0501_000:
 	PlaySE SEQ_SE_DP_SELECT
 	LockAll
 	FacePlayer
+	Compare VAR_SCENE_ROCKET_TAKEOVER, 4
+	GoToIfEq _KustoszPlan
 	CountBadges VAR_SPECIAL_RESULT
 	Compare VAR_SPECIAL_RESULT, 6
 	GoToIfLt _KustoszNormal
@@ -47,6 +49,13 @@ scr_seq_T25R0501_000:
 	NPCMsg msg_0587_T25R0501_00013
 	CloseMsg
 	SetVar VAR_UNK_4161, 1
+	ReleaseAll
+	End
+
+_KustoszPlan:
+	NPCMsg msg_0587_T25R0501_00014
+	WaitButton
+	CloseMsg
 	ReleaseAll
 	End
 
