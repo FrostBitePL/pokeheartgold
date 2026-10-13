@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0062_D22R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Uwaga, proszę!\r...Ojej, muszę przestać myśleć\njak nauczyciel(ka) przez cały czas.\rMusisz być Trenerem Pokémonów.\rSkoro tak ciężko pracujesz, chcę,\nżebyś to miał/a.\r</language>
+		<language name="English">Uwaga, proszę! ...Ojej, znowu\nzaczynam jak botanik.\rNazywam się Matuszka i opowiadam o\ndębach każdemu, kto stanie. Te w\fparku są starsze niż sam Żarów.\rSkoro tak ciężko pracujesz, chcę,\nżebyś to miał/a.\r</language>
 	</row>
 	<row id="msg_0062_D22R0101_00003" index="3">
 		<attribute name="window_context_name">garbage</attribute>
