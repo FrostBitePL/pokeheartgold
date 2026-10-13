@@ -87,7 +87,7 @@
 	</row>
 	<row id="msg_0571_T23R0501_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Widzisz trzy osoby, z krajobrazem\nw tle.\rTo Kurt, Profesor Oak, a pośrodku...\nkobieta o zdecydowanym spojrzeniu.</language>
+		<language name="English">Widzisz trzy osoby, z krajobrazem\nw tle.\rTo Kurt, Profesor Kunic, a pośrodku...\nkobieta o zdecydowanym spojrzeniu.</language>
 	</row>
 	<row id="msg_0571_T23R0501_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
@@ -95,7 +95,7 @@
 	</row>
 	<row id="msg_0571_T23R0501_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Radio jest włączone.\rTo Pogaduszki o Pokémonach\nProfesora Oaka!</language>
+		<language name="English">Radio jest włączone.\rTo Pogaduszki o Pokémonach\nprofesor Kunic!</language>
 	</row>
 	<row id="msg_0571_T23R0501_00024" index="24">
 		<attribute name="window_context_name">used</attribute>

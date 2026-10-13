@@ -38,11 +38,11 @@
 	</row>
 	<row id="msg_0255_P01R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Witaj!\nZaczynasz mieć postawę Mistrza,\f{STRVAR_1 3, 0, 0}!\rCzas, żeby twój Pokédex odpowiadał\ntemu, kim jesteś.\fPokaż mi swój Pokédex na chwilę.\rUlepszę twój Pokédex Trybem\nNarodowym.\r</language>
+		<language name="English">Profesor Kunic: Witaj!\nZaczynasz mieć postawę Mistrza,\f{STRVAR_1 3, 0, 0}!\rCzas, żeby twój Pokédex odpowiadał\ntemu, kim jesteś.\fPokaż mi swój Pokédex na chwilę.\rUlepszę twój Pokédex Trybem\nNarodowym.\r</language>
 	</row>
 	<row id="msg_0255_P01R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Witaj!\nZaczynasz mieć...\fpostawę Mistrza, {STRVAR_1 3, 0, 0}!\rCzas, żeby twój Pokédex odpowiadał\ntemu, kim jesteś.\fPokaż mi swój Pokédex na chwilę.\rUlepszę twój Pokédex Trybem\nNarodowym.\r</language>
+		<language name="English">Profesor Kunic: Witaj!\nZaczynasz mieć...\fpostawę Mistrza, {STRVAR_1 3, 0, 0}!\rCzas, żeby twój Pokédex odpowiadał\ntemu, kim jesteś.\fPokaż mi swój Pokédex na chwilę.\rUlepszę twój Pokédex Trybem\nNarodowym.\r</language>
 	</row>
 	<row id="msg_0255_P01R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -50,7 +50,7 @@
 	</row>
 	<row id="msg_0255_P01R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Nie będzie łatwo\nukończyć Narodowego Pokédexu...\rJednak jestem pewien, że podejmiesz\nszczerą próbę w naszym imieniu!\r</language>
+		<language name="English">Profesor Kunic: Nie będzie łatwo\nukończyć Narodowego Pokédexu...\rJednak jestem pewien, że podejmiesz\nszczerą próbę w naszym imieniu!\r</language>
 	</row>
 	<row id="msg_0255_P01R0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

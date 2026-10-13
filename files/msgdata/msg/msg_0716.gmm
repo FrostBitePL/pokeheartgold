@@ -102,11 +102,11 @@
 	</row>
 	<row id="msg_0716_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Halo, {STRVAR_1 3, 0, 0}?\rMam tu coś dla ciebie od\nprofesora Oaka.\rMógłbyś wpaść do mojego Laboratorium?\nDo zobaczenia później!</language>
+		<language name="English">Halo, {STRVAR_1 3, 0, 0}?\rMam tu coś dla ciebie od\nprofesor Kunic.\rMógłbyś wpaść do mojego Laboratorium?\nDo zobaczenia później!</language>
 	</row>
 	<row id="msg_0716_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Halo, {STRVAR_1 3, 0, 0}?\rMam tu coś dla ciebie od\nprofesora Oaka.\rMógłbyś wpaść do mojego Laboratorium?\nDo zobaczenia później!</language>
+		<language name="English">Halo, {STRVAR_1 3, 0, 0}?\rMam tu coś dla ciebie od\nprofesor Kunic.\rMógłbyś wpaść do mojego Laboratorium?\nDo zobaczenia później!</language>
 	</row>
 	<row id="msg_0716_00027" index="27">
 		<attribute name="window_context_name">used</attribute>

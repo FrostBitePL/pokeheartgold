@@ -46,7 +46,7 @@
 	</row>
 	<row id="msg_0685_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Everyone’s talking about\nProfessor Mariusz.\rHe used to be an assistant to the great\nProfessor Oak!\rThat is so cool! I envy him!\rSee you later!</language>
+		<language name="English">Everyone’s talking about\nProfessor Mariusz.\rHe used to be an assistant to the great\nProfesor Kunic!\rThat is so cool! I envy him!\rSee you later!</language>
 	</row>
 	<row id="msg_0685_00012" index="12">
 		<attribute name="window_context_name">used</attribute>

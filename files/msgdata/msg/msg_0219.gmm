@@ -27,7 +27,7 @@
 	</row>
 	<row id="msg_0219_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Przepraszam, że kazałem czekać!\rWitaj w świecie Pokémonów!\rNazywam się Profesor Oak.\rAle wszyscy nazywają mnie\nProfesorem Pokémonów.\rZanim ruszymy dalej, chciałbym\npowiedzieć Ci kilka rzeczy, które\fpowinieneś wiedzieć o tym świecie!\r</language>
+		<language name="English">Przepraszam, że kazałem czekać!\rWitaj w świecie Pokémonów!\rNazywam się Profesor Kunic.\rAle wszyscy nazywają mnie\nProfesorem Pokémonów.\rZanim ruszymy dalej, chciałabym\npowiedzieć Ci kilka rzeczy, które\fpowinieneś wiedzieć o tym świecie!\r</language>
 	</row>
 	<row id="msg_0219_00007" index="7">
 		<attribute name="window_context_name">used</attribute>

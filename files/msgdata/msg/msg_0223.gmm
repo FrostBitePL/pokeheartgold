@@ -1810,7 +1810,7 @@
 	</row>
 	<row id="msg_0223_00452" index="452">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 255}List Oaka{COLOR 0}</language>
+		<language name="English">{COLOR 255}List Kunic{COLOR 0}</language>
 	</row>
 	<row id="msg_0223_00453" index="453">
 		<attribute name="window_context_name">used</attribute>

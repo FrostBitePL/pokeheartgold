@@ -318,7 +318,7 @@
 	</row>
 	<row id="msg_0543_T20R0101_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak napisał o CELEBI i\n{COLOR 1}Podróży w Czasie{COLOR 0} w pracy, którą\fprzedstawił na konferencji!\r</language>
+		<language name="English">Profesor Kunic napisał o CELEBI i\n{COLOR 1}Podróży w Czasie{COLOR 0} w pracy, którą\fprzedstawił na konferencji!\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00080" index="80">
 		<attribute name="window_context_name">used</attribute>

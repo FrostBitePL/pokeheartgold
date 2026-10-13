@@ -22,15 +22,15 @@
 	</row>
 	<row id="msg_0527_T10R0601_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mary: Och, nie! Wszystko już się\nskończyło! Profesorze Oak, gdybyś\fnie był taki powolny...\r</language>
+		<language name="English">Mary: Och, nie! Wszystko już się\nskończyło! Profesor Kunic, gdybyś\fnie był taki powolny...\r</language>
 	</row>
 	<row id="msg_0527_T10R0601_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Ach, {STRVAR_1 3, 0, 0}!\nMinęło sporo czasu.\fWyglądasz naprawdę imponująco.\rTwoje zdobycie Ligi jest po prostu\nfantastyczne!\rTwoje poświęcenie, zaufanie i miłość\ndo Pokémonów sprawiły, że się to udało.\rTwoje Pokémony też były wybitne.\rPonieważ wierzyły w ciebie jako\nTrenera, wytrwały.\rGratulacje, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Profesor Kunic: Ach, {STRVAR_1 3, 0, 0}!\nMinęło sporo czasu.\fWyglądasz naprawdę imponująco.\rTwoje zdobycie Ligi jest po prostu\nfantastyczne!\rTwoje poświęcenie, zaufanie i miłość\ndo Pokémonów sprawiły, że się to udało.\rTwoje Pokémony też były wybitne.\rPonieważ wierzyły w ciebie jako\nTrenera, wytrwały.\rGratulacje, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0527_T10R0601_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Ach, {STRVAR_1 3, 0, 0}!\nMinęło sporo czasu.\fWyglądasz naprawdę imponująco.\rTwoje zdobycie Ligi jest po prostu\nfantastyczne!\rTwoje poświęcenie, zaufanie i miłość\ndo Pokémonów sprawiły, że się to udało.\rTwoje Pokémony też były wybitne.\rPonieważ wierzyły w ciebie jako\nTrenera, wytrwały.\rGratulacje, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Profesor Kunic: Ach, {STRVAR_1 3, 0, 0}!\nMinęło sporo czasu.\fWyglądasz naprawdę imponująco.\rTwoje zdobycie Ligi jest po prostu\nfantastyczne!\rTwoje poświęcenie, zaufanie i miłość\ndo Pokémonów sprawiły, że się to udało.\rTwoje Pokémony też były wybitne.\rPonieważ wierzyły w ciebie jako\nTrenera, wytrwały.\rGratulacje, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0527_T10R0601_00008" index="8">
 		<attribute name="window_context_name">used</attribute>

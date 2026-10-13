@@ -6,59 +6,59 @@
 	</row>
 	<row id="msg_0666_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Halo, tu profesor Oak...\rHmm... To dziwne.\nZnam twój głos, {STRVAR_1 3, 0, 0}, ale\fjakoś przez telefon brzmisz\ftak inaczej.</language>
+		<language name="English">Halo, tu profesor Kunic...\rHmm... To dziwne.\nZnam twój głos, {STRVAR_1 3, 0, 0}, ale\fjakoś przez telefon brzmisz\ftak inaczej.</language>
 	</row>
 	<row id="msg_0666_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Halo, tu profesor Oak...\rHmm... To dziwne.\nZnam twój głos, {STRVAR_1 3, 0, 0}, ale\fjakoś przez telefon brzmisz\ftak inaczej.</language>
+		<language name="English">Halo, tu profesor Kunic...\rHmm... To dziwne.\nZnam twój głos, {STRVAR_1 3, 0, 0}, ale\fjakoś przez telefon brzmisz\ftak inaczej.</language>
 	</row>
 	<row id="msg_0666_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Halo, tu profesor Oak!\rŁapiesz mnóstwo Pokémonów,\nprawda?</language>
+		<language name="English">Halo, tu profesor Kunic!\rŁapiesz mnóstwo Pokémonów,\nprawda?</language>
 	</row>
 	<row id="msg_0666_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Halo, tu profesor Oak!\nTwój Pokédex naprawdę się zapełnia!</language>
+		<language name="English">Halo, tu profesor Kunic!\nTwój Pokédex naprawdę się zapełnia!</language>
 	</row>
 	<row id="msg_0666_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Halo, tu profesor Oak!\rPoruszasz się w niesamowitym\ntempie! Przypominasz mi mnie\fsamego, gdy byłem młodszy!</language>
+		<language name="English">Halo, tu profesor Kunic!\rPoruszasz się w niesamowitym\ntempie! Przypominasz mi mnie\fsamego, gdy byłam młodszy!</language>
 	</row>
 	<row id="msg_0666_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Halo, tu profesor Oak!\rJeśli poczujesz się zmęczony, powinieneś\nzrobić przerwę. Nie przemęczaj się\fzbytnio!</language>
+		<language name="English">Halo, tu profesor Kunic!\rJeśli poczujesz się zmęczony, powinieneś\nzrobić przerwę. Nie przemęczaj się\fzbytnio!</language>
 	</row>
 	<row id="msg_0666_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tu profesor Oak...\rGdy nagrywam mój program radiowy,\nmuszę podróżować tam i z powrotem\fmiędzy Świdnicą a Żarowem. To trochę\fmęczące...\rOch, ale nieważne! Świetnie ci idzie\nzapełnianie Pokédexu!</language>
+		<language name="English">Tu profesor Kunic...\rGdy nagrywam mój program radiowy,\nmuszę podróżować tam i z powrotem\fmiędzy Świdnicą a Żarowem. To trochę\fmęczące...\rOch, ale nieważne! Świetnie ci idzie\nzapełnianie Pokédexu!</language>
 	</row>
 	<row id="msg_0666_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Halo, tu profesor Oak!\rWygląda na to, że znalazłeś jakieś\nPokémony, które nie pochodzą ani z\fŻarowa, ani ze Świdnicy, prawda?\rJesteś silnym trenerem i naprawdę\ndokonujesz odkryć!</language>
+		<language name="English">Halo, tu profesor Kunic!\rWygląda na to, że znalazłeś jakieś\nPokémony, które nie pochodzą ani z\fŻarowa, ani ze Świdnicy, prawda?\rJesteś silnym trenerem i naprawdę\ndokonujesz odkryć!</language>
 	</row>
 	<row id="msg_0666_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Tu profesor Oak.\nByłem tak zajęty moimi badaniami,\fże ostatnio niewiele\fspałem...\rOch, ale nieważne!\nZrobiłeś taki dobry postęp w swoim\fPokédexie. Nie mogę się doczekać, by go\fzobaczyć!</language>
+		<language name="English">...Tu profesor Kunic.\nByłam tak zajęty moimi badaniami,\fże ostatnio niewiele\fspałem...\rOch, ale nieważne!\nZrobiłeś taki dobry postęp w swoim\fPokédexie. Nie mogę się doczekać, by go\fzobaczyć!</language>
 	</row>
 	<row id="msg_0666_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Halo, tu profesor Oak!\rZauważyłeś, że twój krąg przyjaciół\nposzerzył się, odkąd zacząłeś\fpracować nad Pokédexem?\fTo najlepsza rzecz w Pokémonach!</language>
+		<language name="English">Halo, tu profesor Kunic!\rZauważyłeś, że twój krąg przyjaciół\nposzerzył się, odkąd zacząłeś\fpracować nad Pokédexem?\fTo najlepsza rzecz w Pokémonach!</language>
 	</row>
 	<row id="msg_0666_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Halo, tu profesor Oak!\nWiesz, nie widuję zbyt wielu wspaniałych\ftrenerów takich jak ty ostatnio!\rBędę musiał podziękować profesorowi\nElmowi za to, że nas przedstawił!</language>
+		<language name="English">Halo, tu profesor Kunic!\nWiesz, nie widuję zbyt wielu wspaniałych\ftrenerów takich jak ty ostatnio!\rBędę musiał podziękować profesorowi\nElmowi za to, że nas przedstawił!</language>
 	</row>
 	<row id="msg_0666_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Halo, tu profesor Oak!\nOch, nie musisz nic mówić!\fWiem lepiej niż ktokolwiek inny, jak\fciężko pracujesz!\rPomyślałem, że powinienem dać ci\nprezent czy coś w ramach podziękowania...\fCóż, coś wziąłem, ale\fcałkowicie zapomniałem ci to dać!\fHa ha ha!\rOch, nie musisz się w ogóle nad tym\nzastanawiać. Wiem, że to coś, co bardzo\fci się przyda. Powinieneś po prostu\ftu przyjść i to odebrać!\rBędę czekał na ciebie w moim\nLaboratorium w Grodziszczu!\n</language>
+		<language name="English">Halo, tu profesor Kunic!\nOch, nie musisz nic mówić!\fWiem lepiej niż ktokolwiek inny, jak\fciężko pracujesz!\rPomyślałem, że powinienem dać ci\nprezent czy coś w ramach podziękowania...\fCóż, coś wziąłem, ale\fcałkowicie zapomniałem ci to dać!\fHa ha ha!\rOch, nie musisz się w ogóle nad tym\nzastanawiać. Wiem, że to coś, co bardzo\fci się przyda. Powinieneś po prostu\ftu przyjść i to odebrać!\rBędę czekał na ciebie w moim\nLaboratorium w Grodziszczu!\n</language>
 	</row>
 	<row id="msg_0666_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Halo, tu profesor Oak...\nOch, cześć, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Halo, tu profesor Kunic...\nOch, cześć, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0666_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Halo, tu profesor Oak...\nOch, cześć, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Halo, tu profesor Kunic...\nOch, cześć, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0666_00015" index="15">
 		<attribute name="window_context_name">used</attribute>

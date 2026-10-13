@@ -34,7 +34,7 @@
 	</row>
 	<row id="msg_0065_D23R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow!\nZostało już tylko jedno pytanie.\rW popularnym programie Profesora Oaka,\nPokémon Talk, występuje on z Marie? {YESNO 0}</language>
+		<language name="English">Wow!\nZostało już tylko jedno pytanie.\rW popularnym programie profesor Kunic,\nPokémon Talk, występuje on z Marie? {YESNO 0}</language>
 	</row>
 	<row id="msg_0065_D23R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>

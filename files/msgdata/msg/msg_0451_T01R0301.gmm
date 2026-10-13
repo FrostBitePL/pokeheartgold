@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0451_T01R0301_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Ach, {STRVAR_1 3, 0, 0}!\nMiło, że pofatygowałeś/aś się\faż tutaj, do Regionu Świdnica.\rCo sądzisz o tutejszych Trenerach?\fCałkiem twardzi, co?\r</language>
+		<language name="English">Profesor Kunic: Ach, {STRVAR_1 3, 0, 0}!\nMiło, że pofatygowałeś/aś się\faż tutaj, do Regionu Świdnica.\rCo sądzisz o tutejszych Trenerach?\fCałkiem twardzi, co?\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Ach, {STRVAR_1 3, 0, 0}!\nMiło, że pofatygowałeś/aś się\faż tutaj, do Regionu Świdnica.\rCo sądzisz o tutejszych Trenerach?\fCałkiem twardzi, co?\r</language>
+		<language name="English">Profesor Kunic: Ach, {STRVAR_1 3, 0, 0}!\nMiło, że pofatygowałeś/aś się\faż tutaj, do Regionu Świdnica.\rCo sądzisz o tutejszych Trenerach?\fCałkiem twardzi, co?\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
@@ -27,87 +27,87 @@
 	</row>
 	<row id="msg_0451_T01R0301_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Te Odznaki, to...\rŁał! Nie tylko zostałeś/aś Mistrzem\nRegionu Żarów, ale zebrałeś/aś też\fwszystkie Odznaki z Regionu\nŚwidnica! Wspaniale!\rHmm... Nic dziwnego, że wyczułem w\ntobie coś szczególnego, gdy się\fpoznaliśmy.\rPowiem ci coś, {STRVAR_1 3, 0, 0}.\rZałatwię, żebyś mógł/mogła udać się\nna Ślężę.\rŚlęża to wielka góra, będąca domem\ndla wielu dzikich Pokémonów.\rJest zbyt niebezpieczna dla\nprzeciętnego Trenera, więc wstęp\fjest wzbroniony.\rAle w twoim przypadku, {STRVAR_1 3, 0, 0},\nmożemy zrobić wyjątek.\rIdź do Bramy Recepcyjnej Ligi\nPokémon.\rStamtąd dotrzesz na Ślężę.</language>
+		<language name="English">Profesor Kunic: Te Odznaki, to...\rŁał! Nie tylko zostałeś/aś Mistrzem\nRegionu Żarów, ale zebrałeś/aś też\fwszystkie Odznaki z Regionu\nŚwidnica! Wspaniale!\rHmm... Nic dziwnego, że wyczułam w\ntobie coś szczególnego, gdy się\fpoznaliśmy.\rPowiem ci coś, {STRVAR_1 3, 0, 0}.\rZałatwię, żebyś mógł/mogła udać się\nna Ślężę.\rŚlęża to wielka góra, będąca domem\ndla wielu dzikich Pokémonów.\rJest zbyt niebezpieczna dla\nprzeciętnego Trenera, więc wstęp\fjest wzbroniony.\rAle w twoim przypadku, {STRVAR_1 3, 0, 0},\nmożemy zrobić wyjątek.\rIdź do Bramy Recepcyjnej Ligi\nPokémon.\rStamtąd dotrzesz na Ślężę.</language>
 	</row>
 	<row id="msg_0451_T01R0301_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Te Odznaki, to...\rŁał! Nie tylko zostałeś/aś Mistrzem\nRegionu Żarów, ale zebrałeś/aś też\fwszystkie Odznaki z Regionu\nŚwidnica! Wspaniale!\rHmm... Nic dziwnego, że wyczułem w\ntobie coś szczególnego, gdy się\fpoznaliśmy.\rPowiem ci coś, {STRVAR_1 3, 0, 0}.\rZałatwię, żebyś mógł/mogła udać się\nna Ślężę.\rŚlęża to wielka góra, będąca domem\ndla wielu dzikich Pokémonów.\rJest zbyt niebezpieczna dla\nprzeciętnego Trenera, więc wstęp\fjest wzbroniony.\rAle w twoim przypadku, {STRVAR_1 3, 0, 0},\nmożemy zrobić wyjątek.\rIdź do Bramy Recepcyjnej Ligi\nPokémon.\rStamtąd dotrzesz na Ślężę.</language>
+		<language name="English">Profesor Kunic: Te Odznaki, to...\rŁał! Nie tylko zostałeś/aś Mistrzem\nRegionu Żarów, ale zebrałeś/aś też\fwszystkie Odznaki z Regionu\nŚwidnica! Wspaniale!\rHmm... Nic dziwnego, że wyczułam w\ntobie coś szczególnego, gdy się\fpoznaliśmy.\rPowiem ci coś, {STRVAR_1 3, 0, 0}.\rZałatwię, żebyś mógł/mogła udać się\nna Ślężę.\rŚlęża to wielka góra, będąca domem\ndla wielu dzikich Pokémonów.\rJest zbyt niebezpieczna dla\nprzeciętnego Trenera, więc wstęp\fjest wzbroniony.\rAle w twoim przypadku, {STRVAR_1 3, 0, 0},\nmożemy zrobić wyjątek.\rIdź do Bramy Recepcyjnej Ligi\nPokémon.\rStamtąd dotrzesz na Ślężę.</language>
 	</row>
 	<row id="msg_0451_T01R0301_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Hmm? Nie zbierasz\nOdznak z Sal w Regionie Świdnica?\rLiderzy Sal w Regionie Świdnica są\ntak samo twardzi jak ci, z którymi\fwalczyłeś/aś w Regionie Żarów.\fPolecam ci rzucić im wyzwanie.\r</language>
+		<language name="English">Profesor Kunic: Hmm? Nie zbierasz\nOdznak z Sal w Regionie Świdnica?\rLiderzy Sal w Regionie Świdnica są\ntak samo twardzi jak ci, z którymi\fwalczyłeś/aś w Regionie Żarów.\fPolecam ci rzucić im wyzwanie.\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Ach, zbierasz\nOdznaki z Sal w Regionie Świdnica.\rWyobrażam sobie, że to trudne, ale\ndoświadczenie z pewnością ci pomoże.\rPrzyjdź do mnie, gdy zbierzesz je\nwszystkie. Będę mieć dla ciebie\fprezent. Tak trzymaj, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Profesor Kunic: Ach, zbierasz\nOdznaki z Sal w Regionie Świdnica.\rWyobrażam sobie, że to trudne, ale\ndoświadczenie z pewnością ci pomoże.\rPrzyjdź do mnie, gdy zbierzesz je\nwszystkie. Będę mieć dla ciebie\fprezent. Tak trzymaj, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Ach, zbierasz\nOdznaki z Sal w Regionie Świdnica.\rWyobrażam sobie, że to trudne, ale\ndoświadczenie z pewnością ci pomoże.\rPrzyjdź do mnie, gdy zbierzesz je\nwszystkie. Będę mieć dla ciebie\fprezent. Tak trzymaj, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Profesor Kunic: Ach, zbierasz\nOdznaki z Sal w Regionie Świdnica.\rWyobrażam sobie, że to trudne, ale\ndoświadczenie z pewnością ci pomoże.\rPrzyjdź do mnie, gdy zbierzesz je\nwszystkie. Będę mieć dla ciebie\fprezent. Tak trzymaj, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Och, {STRVAR_1 3, 0, 0}!\nCo cię tu sprowadza?\r</language>
+		<language name="English">Profesor Kunic: Och, {STRVAR_1 3, 0, 0}!\nCo cię tu sprowadza?\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Och, {STRVAR_1 3, 0, 0}!\nCo cię tu sprowadza?\r</language>
+		<language name="English">Profesor Kunic: Och, {STRVAR_1 3, 0, 0}!\nCo cię tu sprowadza?\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Legendarne Pokémony\npojawiające się w micie Hoenn?\rNa pewno mówisz o KYOGRE\ni GROUDONIE!\r</language>
+		<language name="English">Profesor Kunic: Legendarne Pokémony\npojawiające się w micie Hoenn?\rNa pewno mówisz o KYOGRE\ni GROUDONIE!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Embedded Tower to\nprawdopodobnie ruiny mające coś\fwspólnego z mitem Hoenn.\fJeśli tak, to drugi z nich musi być\fgdzieś w pobliżu.\rMówi się, że KYOGRE i GROUDON\nukształtowały morza i lądy!\rMówi się, że tam, gdzie są ci dwaj,\npojawia się też ten trzeci Pokémon...\fTo wszystko jest jak najbardziej\fmożliwe!\r</language>
+		<language name="English">Profesor Kunic: Embedded Tower to\nprawdopodobnie ruiny mające coś\fwspólnego z mitem Hoenn.\fJeśli tak, to drugi z nich musi być\fgdzieś w pobliżu.\rMówi się, że KYOGRE i GROUDON\nukształtowały morza i lądy!\rMówi się, że tam, gdzie są ci dwaj,\npojawia się też ten trzeci Pokémon...\fTo wszystko jest jak najbardziej\fmożliwe!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Nietrudno wyobrazić\nsobie, że Czerwona Orbka sprawi, że\fGROUDON pojawi się przy Embedded\fTower...\rJednakże, według Pana Pokémona,\nGROUDON nie ukazuje się Trenerom\fo złotych sercach, tylko tym\fo lśniąco-srebrnych duszach.\rMoże być ci trudno dokonać tego\nsamemu, {STRVAR_1 3, 0, 0}.\rAle jeśli uda ci się zdobyć GROUDONA,\nktóry przybył z Embedded Tower,\rproszę, przyjdź i pokaż mi oba\nlegendarne Pokémony!\rWtedy podzielę się z tobą resztą\nmitu Hoenn!\r</language>
+		<language name="English">Profesor Kunic: Nietrudno wyobrazić\nsobie, że Czerwona Orbka sprawi, że\fGROUDON pojawi się przy Embedded\fTower...\rJednakże, według Pana Pokémona,\nGROUDON nie ukazuje się Trenerom\fo złotych sercach, tylko tym\fo lśniąco-srebrnych duszach.\rMoże być ci trudno dokonać tego\nsamemu, {STRVAR_1 3, 0, 0}.\rAle jeśli uda ci się zdobyć GROUDONA,\nktóry przybył z Embedded Tower,\rproszę, przyjdź i pokaż mi oba\nlegendarne Pokémony!\rWtedy podzielę się z tobą resztą\nmitu Hoenn!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Nietrudno wyobrazić\nsobie, że Czerwona Orbka sprawi, że\fGROUDON pojawi się przy Embedded\fTower...\rJednakże, według Pana Pokémona,\nGROUDON nie ukazuje się Trenerom\fo złotych sercach, tylko tym\fo lśniąco-srebrnych duszach.\rMoże być ci trudno dokonać tego\nsamemu, {STRVAR_1 3, 0, 0}.\rAle jeśli uda ci się zdobyć GROUDONA,\nktóry przybył z Embedded Tower,\rproszę, przyjdź i pokaż mi oba\nlegendarne Pokémony!\rWtedy podzielę się z tobą resztą\nmitu Hoenn!\r</language>
+		<language name="English">Profesor Kunic: Nietrudno wyobrazić\nsobie, że Czerwona Orbka sprawi, że\fGROUDON pojawi się przy Embedded\fTower...\rJednakże, według Pana Pokémona,\nGROUDON nie ukazuje się Trenerom\fo złotych sercach, tylko tym\fo lśniąco-srebrnych duszach.\rMoże być ci trudno dokonać tego\nsamemu, {STRVAR_1 3, 0, 0}.\rAle jeśli uda ci się zdobyć GROUDONA,\nktóry przybył z Embedded Tower,\rproszę, przyjdź i pokaż mi oba\nlegendarne Pokémony!\rWtedy podzielę się z tobą resztą\nmitu Hoenn!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Nietrudno wyobrazić\nsobie, że Niebieska Orbka sprawi, że\fKYOGRE pojawi się przy Embedded\fTower...\rJednakże, według Pana Pokémona,\nKYOGRE nie ukazuje się Trenerom\fo lśniąco-srebrnych duszach, tylko\ftym o złotych sercach.\rMoże być ci trudno dokonać tego\nsamemu, {STRVAR_1 3, 0, 0}.\rAle jeśli uda ci się zdobyć KYOGRE,\nktóry przybył z Embedded Tower,\rproszę, przyjdź i pokaż mi oba\nlegendarne Pokémony!\rWtedy podzielę się z tobą resztą\nmitu Hoenn!\r</language>
+		<language name="English">Profesor Kunic: Nietrudno wyobrazić\nsobie, że Niebieska Orbka sprawi, że\fKYOGRE pojawi się przy Embedded\fTower...\rJednakże, według Pana Pokémona,\nKYOGRE nie ukazuje się Trenerom\fo lśniąco-srebrnych duszach, tylko\ftym o złotych sercach.\rMoże być ci trudno dokonać tego\nsamemu, {STRVAR_1 3, 0, 0}.\rAle jeśli uda ci się zdobyć KYOGRE,\nktóry przybył z Embedded Tower,\rproszę, przyjdź i pokaż mi oba\nlegendarne Pokémony!\rWtedy podzielę się z tobą resztą\nmitu Hoenn!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Nietrudno wyobrazić\nsobie, że Niebieska Orbka sprawi, że\fKYOGRE pojawi się przy Embedded\fTower...\rJednakże, według Pana Pokémona,\nKYOGRE nie ukazuje się Trenerom\fo lśniąco-srebrnych duszach, tylko\ftym o złotych sercach.\rMoże być ci trudno dokonać tego\nsamemu, {STRVAR_1 3, 0, 0}.\rAle jeśli uda ci się zdobyć KYOGRE,\nktóry przybył z Embedded Tower,\rproszę, przyjdź i pokaż mi oba\nlegendarne Pokémony!\rWtedy podzielę się z tobą resztą\nmitu Hoenn!\r</language>
+		<language name="English">Profesor Kunic: Nietrudno wyobrazić\nsobie, że Niebieska Orbka sprawi, że\fKYOGRE pojawi się przy Embedded\fTower...\rJednakże, według Pana Pokémona,\nKYOGRE nie ukazuje się Trenerom\fo lśniąco-srebrnych duszach, tylko\ftym o złotych sercach.\rMoże być ci trudno dokonać tego\nsamemu, {STRVAR_1 3, 0, 0}.\rAle jeśli uda ci się zdobyć KYOGRE,\nktóry przybył z Embedded Tower,\rproszę, przyjdź i pokaż mi oba\nlegendarne Pokémony!\rWtedy podzielę się z tobą resztą\nmitu Hoenn!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Udało ci się,\n{STRVAR_1 3, 0, 0}!\fZłapałeś/aś zarówno KYOGRE, jak\fi GROUDONA!\fDobrze!\fChciałbym powierzyć ci to!\r</language>
+		<language name="English">Profesor Kunic: Udało ci się,\n{STRVAR_1 3, 0, 0}!\fZłapałeś/aś zarówno KYOGRE, jak\fi GROUDONA!\fDobrze!\fChciałabym powierzyć ci to!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Udało ci się,\n{STRVAR_1 3, 0, 0}!\fZłapałeś/aś zarówno KYOGRE, jak\fi GROUDONA!\fDobrze!\fChciałbym powierzyć ci to!\r</language>
+		<language name="English">Profesor Kunic: Udało ci się,\n{STRVAR_1 3, 0, 0}!\fZłapałeś/aś zarówno KYOGRE, jak\fi GROUDONA!\fDobrze!\fChciałabym powierzyć ci to!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Przypomina Orbkę, którą\notrzymałeś/aś od Pana Pokémona,\fprawda?\rNazywa się Nefrytowa Orbka.\nMa coś wspólnego z RAYQUAZĄ.\rLegenda głosi, że walka między\nGROUDONEM a KYOGRE\fukształtowała lądy i morza Hoenn.\rMówi się, że erupcje wulkanów i\nolbrzymie fale całkowicie zmieniły\ftam kształt lądu.\rAle wtedy zstąpiła RAYQUAZA, by\nprzerwać tę walkę.\rTo Pokémon, który panuje nad niebem!\rJeśli Embedded Tower jest powiązana\nz KYOGRE i GROUDONEM,\rto pójście tam z tą Nefrytową Orbką\nna pewno coś wywoła.\r</language>
+		<language name="English">Profesor Kunic: Przypomina Orbkę, którą\notrzymałeś/aś od Pana Pokémona,\fprawda?\rNazywa się Nefrytowa Orbka.\nMa coś wspólnego z RAYQUAZĄ.\rLegenda głosi, że walka między\nGROUDONEM a KYOGRE\fukształtowała lądy i morza Hoenn.\rMówi się, że erupcje wulkanów i\nolbrzymie fale całkowicie zmieniły\ftam kształt lądu.\rAle wtedy zstąpiła RAYQUAZA, by\nprzerwać tę walkę.\rTo Pokémon, który panuje nad niebem!\rJeśli Embedded Tower jest powiązana\nz KYOGRE i GROUDONEM,\rto pójście tam z tą Nefrytową Orbką\nna pewno coś wywoła.\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Idź do Embedded\nTower z Nefrytową Orbką!\r</language>
+		<language name="English">Profesor Kunic: Idź do Embedded\nTower z Nefrytową Orbką!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Udało ci się złapać\nRAYQUAZĘ!\rTo silna moc Nefrytowej Orbki\nmusiała przyciągnąć tam RAYQUAZĘ!\rPokémony są czasem mocno\nprzyciągane przez pewne Orbki\fi Kamienie. Nikt nie wie dlaczego.\rMoże to wspomnienia z dawnych czasów...\fgdy narodziła się ta planeta...\fi Pokémony, także...\fsprawiają, że Pokémony zachowują\fsię w ten sposób.\r</language>
+		<language name="English">Profesor Kunic: Udało ci się złapać\nRAYQUAZĘ!\rTo silna moc Nefrytowej Orbki\nmusiała przyciągnąć tam RAYQUAZĘ!\rPokémony są czasem mocno\nprzyciągane przez pewne Orbki\fi Kamienie. Nikt nie wie dlaczego.\rMoże to wspomnienia z dawnych czasów...\fgdy narodziła się ta planeta...\fi Pokémony, także...\fsprawiają, że Pokémony zachowują\fsię w ten sposób.\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Witaj, {STRVAR_1 3, 0, 0}!\nStudiowanie Pokémonów nigdy się\fnie kończy.\rTo taka czysta radość, dążyć\ndo perfekcji!\rSwoją drogą...\rHmm? Te Pokémony!\fByły przy Embedded Tower?\rTo KYOGRE i GROUDON--\nPokémony z mitu Hoenn!\rNigdy nie śniłem, że złapiesz\ntakie Pokémony...\rUdowodniłeś/aś swoją wartość!\nGratulacje!\rChciałbym powierzyć ci to,\n{STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Profesor Kunic: Witaj, {STRVAR_1 3, 0, 0}!\nStudiowanie Pokémonów nigdy się\fnie kończy.\rTo taka czysta radość, dążyć\ndo perfekcji!\rSwoją drogą...\rHmm? Te Pokémony!\fByły przy Embedded Tower?\rTo KYOGRE i GROUDON--\nPokémony z mitu Hoenn!\rNigdy nie śniłam, że złapiesz\ntakie Pokémony...\rUdowodniłeś/aś swoją wartość!\nGratulacje!\rChciałabym powierzyć ci to,\n{STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Witaj, {STRVAR_1 3, 0, 0}!\nStudiowanie Pokémonów nigdy się\fnie kończy.\rTo taka czysta radość, dążyć\ndo perfekcji!\rSwoją drogą...\rHmm? Te Pokémony!\fByły przy Embedded Tower?\rTo KYOGRE i GROUDON--\nPokémony z mitu Hoenn!\rNigdy nie śniłem, że złapiesz\ntakie Pokémony...\rUdowodniłeś/aś swoją wartość!\nGratulacje!\rChciałbym powierzyć ci to,\n{STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Profesor Kunic: Witaj, {STRVAR_1 3, 0, 0}!\nStudiowanie Pokémonów nigdy się\fnie kończy.\rTo taka czysta radość, dążyć\ndo perfekcji!\rSwoją drogą...\rHmm? Te Pokémony!\fByły przy Embedded Tower?\rTo KYOGRE i GROUDON--\nPokémony z mitu Hoenn!\rNigdy nie śniłam, że złapiesz\ntakie Pokémony...\rUdowodniłeś/aś swoją wartość!\nGratulacje!\rChciałabym powierzyć ci to,\n{STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Proszę, weź to!\r</language>
+		<language name="English">Profesor Kunic: Proszę, weź to!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00027" index="27">
 		<attribute name="window_context_name">garbage</attribute>
@@ -116,19 +116,19 @@
 	</row>
 	<row id="msg_0451_T01R0301_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Powiedz!\nMoże dla odmiany zrobimy sobie\fzdjęcie? {YESNO 0}</language>
+		<language name="English">Profesor Kunic: Powiedz!\nMoże dla odmiany zrobimy sobie\fzdjęcie? {YESNO 0}</language>
 	</row>
 	<row id="msg_0451_T01R0301_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Chcesz? Dobrze!\nJesteś gotowy/a?\r</language>
+		<language name="English">Profesor Kunic: Chcesz? Dobrze!\nJesteś gotowy/a?\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Tak!\nTo dobra pamiątka!</language>
+		<language name="English">Profesor Kunic: Tak!\nTo dobra pamiątka!</language>
 	</row>
 	<row id="msg_0451_T01R0301_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Naprawdę?\nNie ma potrzeby się krępować...</language>
+		<language name="English">Profesor Kunic: Naprawdę?\nNie ma potrzeby się krępować...</language>
 	</row>
 	<row id="msg_0451_T01R0301_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
@@ -136,7 +136,7 @@
 	</row>
 	<row id="msg_0451_T01R0301_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Program radiowy Profesora,\nPokémon Talk, jest nadawany tutaj,\fa także w Regionie Żarów.\rProfesor Oak jest taki...zajefajny!</language>
+		<language name="English">Program radiowy Profesora,\nPokémon Talk, jest nadawany tutaj,\fa także w Regionie Żarów.\rProfesor Kunic jest taki...zajefajny!</language>
 	</row>
 	<row id="msg_0451_T01R0301_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
@@ -152,27 +152,27 @@
 	</row>
 	<row id="msg_0451_T01R0301_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Na PC jest wiadomość e-mail.\r...\rCześć, Profesorze Oak!\nJak idą twoje badania?\rJa...mam się dobrze.\rSłyszałem, że {STRVAR_1 3, 0, 0} zyskuje\nsobie niezłą reputację.\rTak przynajmniej słyszeliśmy pocztą\npantoflową. Cieszę się, słysząc to.\f           Mariusz z Wierzbnej 8-)</language>
+		<language name="English">Na PC jest wiadomość e-mail.\r...\rCześć, Profesor Kunic!\nJak idą twoje badania?\rJa...mam się dobrze.\rSłyszałam, że {STRVAR_1 3, 0, 0} zyskuje\nsobie niezłą reputację.\rTak przynajmniej słyszeliśmy pocztą\npantoflową. Cieszę się, słysząc to.\f           Mariusz z Wierzbnej 8-)</language>
 	</row>
 	<row id="msg_0451_T01R0301_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Na PC jest wiadomość e-mail.\r...\rCześć, Profesorze Oak!\nJak idą twoje badania?\rJa...mam się dobrze.\rSłyszałem, że {STRVAR_1 3, 0, 0} zyskuje\nsobie niezłą reputację.\rTak przynajmniej słyszeliśmy pocztą\npantoflową. Cieszę się, słysząc to.\f           Mariusz z Wierzbnej 8-)</language>
+		<language name="English">Na PC jest wiadomość e-mail.\r...\rCześć, Profesor Kunic!\nJak idą twoje badania?\rJa...mam się dobrze.\rSłyszałam, że {STRVAR_1 3, 0, 0} zyskuje\nsobie niezłą reputację.\rTak przynajmniej słyszeliśmy pocztą\npantoflową. Cieszę się, słysząc to.\f           Mariusz z Wierzbnej 8-)</language>
 	</row>
 	<row id="msg_0451_T01R0301_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Witaj, {STRVAR_1 3, 0, 0}.\nMiło cię widzieć.\fSłyszałem o tobie wiele.\rTwój Pokédex musi być już\nblisko ukończenia?\rZa całą twoją ciężką pracę,\nchciałbym dać ci coś.\r</language>
+		<language name="English">Profesor Kunic: Witaj, {STRVAR_1 3, 0, 0}.\nMiło cię widzieć.\fSłyszałam o tobie wiele.\rTwój Pokédex musi być już\nblisko ukończenia?\rZa całą twoją ciężką pracę,\nchciałabym dać ci coś.\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Witaj, {STRVAR_1 3, 0, 0}.\nMiło cię widzieć.\fSłyszałem o tobie wiele.\rTwój Pokédex musi być już\nblisko ukończenia?\rZa całą twoją ciężką pracę,\nchciałbym dać ci coś.\r</language>
+		<language name="English">Profesor Kunic: Witaj, {STRVAR_1 3, 0, 0}.\nMiło cię widzieć.\fSłyszałam o tobie wiele.\rTwój Pokédex musi być już\nblisko ukończenia?\rZa całą twoją ciężką pracę,\nchciałabym dać ci coś.\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Haha!\rTo, co jest za mną...\nNa pewno od razu się domyśliłeś/aś.\rTak, to Pokémon!\r</language>
+		<language name="English">Profesor Kunic: Haha!\rTo, co jest za mną...\nNa pewno od razu się domyśliłeś/aś.\rTak, to Pokémon!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Nieczęsto widuje się\nje w Regionie Świdnica.\fWybierz jednego, a będzie twój!\r...Śmiało!</language>
+		<language name="English">Profesor Kunic: Nieczęsto widuje się\nje w Regionie Świdnica.\fWybierz jednego, a będzie twój!\r...Śmiało!</language>
 	</row>
 	<row id="msg_0451_T01R0301_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
@@ -196,7 +196,7 @@
 	</row>
 	<row id="msg_0451_T01R0301_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\n{STRVAR_1 0, 1, 0} od Profesora Oaka!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} otrzymał(a)\n{STRVAR_1 0, 1, 0} od profesor Kunic!</language>
 	</row>
 	<row id="msg_0451_T01R0301_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
@@ -212,23 +212,23 @@
 	</row>
 	<row id="msg_0451_T01R0301_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Jeśli pojawi się\ndziki Pokémon, twój Pokémon może\fz nim zawalczyć.\rMając go u boku, powinieneś/aś\nbyć w stanie dotrzeć do następnego\fmiasta...\rCo ja mówię?\nPrzecież to wszystko już wiesz!\fHahaha!</language>
+		<language name="English">Profesor Kunic: Jeśli pojawi się\ndziki Pokémon, twój Pokémon może\fz nim zawalczyć.\rMając go u boku, powinieneś/aś\nbyć w stanie dotrzeć do następnego\fmiasta...\rCo ja mówię?\nPrzecież to wszystko już wiesz!\fHahaha!</language>
 	</row>
 	<row id="msg_0451_T01R0301_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Nie ma już nic więcej,\nco mógłbym dla ciebie zrobić.\rCiesz się resztą podróży\nz tym nowym Pokémonem!</language>
+		<language name="English">Profesor Kunic: Nie ma już nic więcej,\nco mogłabym dla ciebie zrobić.\rCiesz się resztą podróży\nz tym nowym Pokémonem!</language>
 	</row>
 	<row id="msg_0451_T01R0301_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To Pokémon Profesora Oaka.\n{STRVAR_1 3, 1, 0} prawdopodobnie\fnie ukradnie go tak jak wcześniej...</language>
+		<language name="English">To Pokémon profesor Kunic.\n{STRVAR_1 3, 1, 0} prawdopodobnie\fnie ukradnie go tak jak wcześniej...</language>
 	</row>
 	<row id="msg_0451_T01R0301_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Miło cię widzieć!\nOto, co chciałem\fci dać!\r</language>
+		<language name="English">Profesor Kunic: Miło cię widzieć!\nOto, co chciałam\fci dać!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Oak: Ta Ukryta Maszyna\nzawiera atak Wspinaczka po Skałach!\rGdy nauczysz go Pokémona, będziesz\nmógł/mogła wchodzić na skalne\fściany z wyciosanymi w nich stopniami.\r</language>
+		<language name="English">Profesor Kunic: Ta Ukryta Maszyna\nzawiera atak Wspinaczka po Skałach!\rGdy nauczysz go Pokémona, będziesz\nmógł/mogła wchodzić na skalne\fściany z wyciosanymi w nich stopniami.\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00057" index="57">
 		<attribute name="window_context_name">used</attribute>

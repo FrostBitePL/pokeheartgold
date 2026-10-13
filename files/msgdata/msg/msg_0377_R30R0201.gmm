@@ -66,11 +66,11 @@
 	</row>
 	<row id="msg_0377_R30R0201_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hm? Ta Czerwona Łuska! Co to takiego?\nCzerwony GYARADOS?\fToż to rzadkość! Ja... ja go chcę...\r{STRVAR_1 3, 0, 0}, może wymienimy\nsię?\rMogę zaoferować Dzielony Exp.,\nktóry dostałem od Profesora Oaka. {YESNO 0}</language>
+		<language name="English">Hm? Ta Czerwona Łuska! Co to takiego?\nCzerwony GYARADOS?\fToż to rzadkość! Ja... ja go chcę...\r{STRVAR_1 3, 0, 0}, może wymienimy\nsię?\rMogę zaoferować Dzielony Exp.,\nktóry dostałem od profesor Kunic. {YESNO 0}</language>
 	</row>
 	<row id="msg_0377_R30R0201_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hm? Ta Czerwona Łuska! Co to takiego?\nCzerwony GYARADOS?\fToż to rzadkość! Ja... ja go chcę...\r{STRVAR_1 3, 0, 0}, może wymienimy\nsię?\rMogę zaoferować Dzielony Exp.,\nktóry dostałem od Profesora Oaka. {YESNO 0}</language>
+		<language name="English">Hm? Ta Czerwona Łuska! Co to takiego?\nCzerwony GYARADOS?\fToż to rzadkość! Ja... ja go chcę...\r{STRVAR_1 3, 0, 0}, może wymienimy\nsię?\rMogę zaoferować Dzielony Exp.,\nktóry dostałem od profesor Kunic. {YESNO 0}</language>
 	</row>
 	<row id="msg_0377_R30R0201_00018" index="18">
 		<attribute name="window_context_name">garbage</attribute>
