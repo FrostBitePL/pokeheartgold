@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0580_T24R0801_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Słyszałeś/aś o Wieży Dzwonów\nw Mrowinach?\rNa szczycie wieży są tak zwane\nPrzejrzyste Dzwonki.\rNie wydają żadnego dźwięku\nnawet w silnym wietrze.\rJest tylko jeden sposób, by je rozdzwonić.\rTrzeba zdobyć inny Przejrzysty Dzwonek,\ntaki jak te na szczycie wieży.\fSzukałem go, gdy byłem młody.\fAle nigdy żadnego nie znalazłem...</language>
+		<language name="English">Słyszałeś/aś o Samotnej Wieży\nw Mrowinach?\rNa szczycie wieży są tak zwane\nPrzejrzyste Dzwonki.\rNie wydają żadnego dźwięku\nnawet w silnym wietrze.\rJest tylko jeden sposób, by je rozdzwonić.\rTrzeba zdobyć inny Przejrzysty Dzwonek,\ntaki jak te na szczycie wieży.\fSzukałem go, gdy byłem młody.\fAle nigdy żadnego nie znalazłem...</language>
 	</row>
 	<row id="msg_0580_T24R0801_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0580_T24R0801_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Och! Udało ci się zdobyć Przejrzysty\nDzwonek?\rMoje dawne marzenie...\nRozumiem...\fUdało ci się...\r...\n...Słyszę go!\rDźwięk dzwonków niesiony wiatrem\nz kierunku\fWieży Dzwonów...</language>
+		<language name="English">Och! Udało ci się zdobyć Przejrzysty\nDzwonek?\rMoje dawne marzenie...\nRozumiem...\fUdało ci się...\r...\n...Słyszę go!\rDźwięk dzwonków niesiony wiatrem\nz kierunku\fSamotnej Wieży...</language>
 	</row>
 	<row id="msg_0580_T24R0801_00004" index="4">
 		<attribute name="window_context_name">used</attribute>

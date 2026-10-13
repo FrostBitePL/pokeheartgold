@@ -810,11 +810,11 @@
 	</row>
 	<row id="msg_0728_00202" index="202">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Znam sekret Pryce’a.\r</language>
+		<language name="English">Znam sekret Beniamin’a.\r</language>
 	</row>
 	<row id="msg_0728_00203" index="203">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK. Powiem ci sekret Pryce’a.\n</language>
+		<language name="English">OK. Powiem ci sekret Beniamin’a.\n</language>
 	</row>
 	<row id="msg_0728_00204" index="204">
 		<attribute name="window_context_name">used</attribute>
@@ -4462,7 +4462,7 @@
 	</row>
 	<row id="msg_0728_01115" index="1115">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nie!\nWybacz mi, Giovanni!\n</language>
+		<language name="English">Nie!\nWybacz mi, Łukasz!\n</language>
 	</row>
 	<row id="msg_0728_01116" index="1116">
 		<attribute name="window_context_name">used</attribute>

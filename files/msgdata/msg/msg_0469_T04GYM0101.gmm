@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0469_T04GYM0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sala Pokémon w Burkatowie\rLiderka: Misty\nCertyfikowany Trener!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Sala Pokémon w Burkatowie\rLiderka: Weronika\nCertyfikowany Trener!\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 	<row id="msg_0469_T04GYM0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>

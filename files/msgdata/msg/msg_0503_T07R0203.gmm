@@ -51,19 +51,19 @@
 	</row>
 	<row id="msg_0503_T07R0203_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Cześć, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Emil: Cześć, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0503_T07R0203_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Hej, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Emil: Hej, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0503_T07R0203_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Zgadnij co?\rTen Projektant Dźwięku tam pokazał\nmi coś fajnego.\rTo zaawansowane technologicznie,\nretro urządzenie, żeby słuchać\fmuzyki z Game Boya!\rMówił, że da je każdemu, kto zbierze\nwszystkie Odznaki z Regionu\fŚwidnica.\rMoże spróbujesz, {STRVAR_1 3, 0, 0}?\nDo zobaczenia!\r</language>
+		<language name="English">Emil: Zgadnij co?\rTen Projektant Dźwięku tam pokazał\nmi coś fajnego.\rTo zaawansowane technologicznie,\nretro urządzenie, żeby słuchać\fmuzyki z Game Boya!\rMówił, że da je każdemu, kto zbierze\nwszystkie Odznaki z Regionu\fŚwidnica.\rMoże spróbujesz, {STRVAR_1 3, 0, 0}?\nDo zobaczenia!\r</language>
 	</row>
 	<row id="msg_0503_T07R0203_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Zgadnij co?\rTen Projektant Dźwięku tam pokazał\nmi coś fajnego.\rTo zaawansowane technologicznie,\nretro urządzenie, żeby słuchać\fmuzyki z Game Boya!\rMówił, że da je każdemu, kto zbierze\nwszystkie Odznaki z Regionu\fŚwidnica.\rMoże spróbujesz, {STRVAR_1 3, 0, 0}?\nDo zobaczenia!\r</language>
+		<language name="English">Emil: Zgadnij co?\rTen Projektant Dźwięku tam pokazał\nmi coś fajnego.\rTo zaawansowane technologicznie,\nretro urządzenie, żeby słuchać\fmuzyki z Game Boya!\rMówił, że da je każdemu, kto zbierze\nwszystkie Odznaki z Regionu\fŚwidnica.\rMoże spróbujesz, {STRVAR_1 3, 0, 0}?\nDo zobaczenia!\r</language>
 	</row>
 	<row id="msg_0503_T07R0203_00016" index="16">
 		<attribute name="window_context_name">used</attribute>

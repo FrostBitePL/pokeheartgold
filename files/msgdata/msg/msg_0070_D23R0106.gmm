@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0070_D23R0106_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Och, prawie zapomniałem!\rWedług mojego przyjaciela z Domanic,\n legendarny Pokémon się nie pojawi,\fjeśli po prostu wejdziesz na szczyt\fWieży Dzwonów z samym tym\fTęczowym Skrzydłem.\rWygląda na to, że potrzebujesz\njeszcze czegoś innego... Czy jakoś tak.\rCiekawe, co to było...\rNie pamiętam.\r</language>
+		<language name="English">Och, prawie zapomniałem!\rWedług mojego przyjaciela z Domanic,\n legendarny Pokémon się nie pojawi,\fjeśli po prostu wejdziesz na szczyt\fSamotnej Wieży z samym tym\fTęczowym Skrzydłem.\rWygląda na to, że potrzebujesz\njeszcze czegoś innego... Czy jakoś tak.\rCiekawe, co to było...\rNie pamiętam.\r</language>
 	</row>
 	<row id="msg_0070_D23R0106_00008" index="8">
 		<attribute name="window_context_name">used</attribute>

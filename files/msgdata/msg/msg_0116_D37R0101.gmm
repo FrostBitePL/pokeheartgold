@@ -26,26 +26,26 @@
 	</row>
 	<row id="msg_0116_D37R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Cześć, {STRVAR_1 3, 0, 0}.\nWłaśnie w porę!\r</language>
+		<language name="English">Emil: Cześć, {STRVAR_1 3, 0, 0}.\nWłaśnie w porę!\r</language>
 	</row>
 	<row id="msg_0116_D37R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Jeśli pójdziesz tym tunelem,\nzobaczysz Sklep z Przebraniami.\rTam twój Pokémon może założyć\nAkcesoria, przebrać się i\fzrobić sobie zdjęcie!\rSwoją drogą, oto Fashion Case!\rPowiedziałeś/aś, że go chcesz?\nWiedziałam!\rTo prezent ode mnie!\r</language>
+		<language name="English">Emil: Jeśli pójdziesz tym tunelem,\nzobaczysz Sklep z Przebraniami.\rTam twój Pokémon może założyć\nAkcesoria, przebrać się i\fzrobić sobie zdjęcie!\rSwoją drogą, oto Fashion Case!\rPowiedziałeś/aś, że go chcesz?\nWiedziałam!\rTo prezent ode mnie!\r</language>
 	</row>
 	<row id="msg_0116_D37R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Trzymaj Akcesoria w Fashion\nCase, dobra?\rMuszę już iść.\nDo zobaczenia!\r</language>
+		<language name="English">Emil: Trzymaj Akcesoria w Fashion\nCase, dobra?\rMuszę już iść.\nDo zobaczenia!\r</language>
 	</row>
 	<row id="msg_0116_D37R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Cześć, {STRVAR_1 3, 0, 0}.\nWłaśnie w porę!\r</language>
+		<language name="English">Emil: Cześć, {STRVAR_1 3, 0, 0}.\nWłaśnie w porę!\r</language>
 	</row>
 	<row id="msg_0116_D37R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Jeśli pójdziesz tym tunelem,\nzobaczysz Sklep z Przebraniami.\rTam twój Pokémon może założyć\nAkcesoria, przebrać się i\fzrobić sobie zdjęcie!\rSwoją drogą, oto Fashion Case!\rPowiedziałeś/aś, że go chcesz?\nWiedziałem!\rTo prezent ode mnie!\r</language>
+		<language name="English">Emil: Jeśli pójdziesz tym tunelem,\nzobaczysz Sklep z Przebraniami.\rTam twój Pokémon może założyć\nAkcesoria, przebrać się i\fzrobić sobie zdjęcie!\rSwoją drogą, oto Fashion Case!\rPowiedziałeś/aś, że go chcesz?\nWiedziałem!\rTo prezent ode mnie!\r</language>
 	</row>
 	<row id="msg_0116_D37R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Trzymaj Akcesoria w Fashion\nCase, dobra?\rMuszę już iść.\nDo zobaczenia!\r</language>
+		<language name="English">Emil: Trzymaj Akcesoria w Fashion\nCase, dobra?\rMuszę już iść.\nDo zobaczenia!\r</language>
 	</row>
 </body>

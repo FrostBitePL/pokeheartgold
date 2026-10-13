@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0611_T26R0701_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Och... Rozumiem...</language>
+		<language name="English">Wojas: Och... Rozumiem...</language>
 	</row>
 	<row id="msg_0611_T26R0701_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -42,7 +42,7 @@
 	</row>
 	<row id="msg_0611_T26R0701_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Gotowy?\r</language>
+		<language name="English">Wojas: Gotowy?\r</language>
 	</row>
 	<row id="msg_0611_T26R0701_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -50,7 +50,7 @@
 	</row>
 	<row id="msg_0611_T26R0701_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Rozumiem...</language>
+		<language name="English">Wojas: Rozumiem...</language>
 	</row>
 	<row id="msg_0611_T26R0701_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

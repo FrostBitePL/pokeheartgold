@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0124_D40R0104_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dawno temu Whirl Islands było jedną\nwielką wyspą.\rWówczas dwa kraje toczyły o nią\nwalkę.\rLUGIA, strażnik wyspy, rozgniewał\nsię i zesłał pioruny, rozrywając\fwyspę na cztery części, po czym\fzniknął w głębi zbiornika\fwodospadu...\rPozwolę ci przejść, jeśli przyniesiesz\nSilver Wing, o którym mówi się, że\fspadł z LUGII.\rAle prawdziwym wyzwaniem jest to,\nczy LUGIA pojawi się przed tobą.\rTym, za czym tęskni LUGIA, jest\nniewidzialne zaufanie między ludźmi\fa Pokémonami...\rAlbo osoba, która potrafi przywrócić\ntaką więź...</language>
+		<language name="English">Dawno temu Whirl Islands było jedną\nwielką wyspą.\rWówczas dwa kraje toczyły o nią\nwalkę.\rLUGIA, strażnik wyspy, rozgniewał\nsię i zesłał pioruny, rozrywając\fwyspę na cztery części, po czym\fzniknął w głębi zbiornika\fwodospadu...\rPozwolę ci przejść, jeśli przyniesiesz\nSrebrne Skrzydło, o którym mówi się, że\fspadł z LUGII.\rAle prawdziwym wyzwaniem jest to,\nczy LUGIA pojawi się przed tobą.\rTym, za czym tęskni LUGIA, jest\nniewidzialne zaufanie między ludźmi\fa Pokémonami...\rAlbo osoba, która potrafi przywrócić\ntaką więź...</language>
 	</row>
 	<row id="msg_0124_D40R0104_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0124_D40R0104_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Silver Wing jedynie pozwoli ci\nzejść przy wodospadzie.\rJeśli nie jesteś osobą, która\nprzywróciłaby zaufanie między ludźmi\fa Pokémonami, LUGIA nigdy ci się\fnie ukaże...</language>
+		<language name="English">Srebrne Skrzydło jedynie pozwoli ci\nzejść przy wodospadzie.\rJeśli nie jesteś osobą, która\nprzywróciłaby zaufanie między ludźmi\fa Pokémonami, LUGIA nigdy ci się\fnie ukaże...</language>
 	</row>
 	<row id="msg_0124_D40R0104_00006" index="6">
 		<attribute name="window_context_name">used</attribute>

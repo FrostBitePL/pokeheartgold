@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0385_R34R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Babciu!\rPozwól, że przedstawię mojego\nprzyjaciela. To {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Emil: Babciu!\rPozwól, że przedstawię mojego\nprzyjaciela. To {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0385_R34R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -10,23 +10,23 @@
 	</row>
 	<row id="msg_0385_R34R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Co? Babciu...!\nO czym ty mówisz?\rOn po prostu mieszka niedaleko...\r</language>
+		<language name="English">Emil: Co? Babciu...!\nO czym ty mówisz?\rOn po prostu mieszka niedaleko...\r</language>
 	</row>
 	<row id="msg_0385_R34R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Babcia: Hahaha.\nWiem, wiem.\rSkoro go tu przyprowadziłaś, Lyra,\nmusisz być pewna jego talentu.\rPrawda, {STRVAR_1 3, 0, 0}?\nOdwiedzaj nas kiedykolwiek!\r</language>
+		<language name="English">Babcia: Hahaha.\nWiem, wiem.\rSkoro go tu przyprowadziłaś, Emil,\nmusisz być pewna jego talentu.\rPrawda, {STRVAR_1 3, 0, 0}?\nOdwiedzaj nas kiedykolwiek!\r</language>
 	</row>
 	<row id="msg_0385_R34R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: No cóż, lepiej już pójdę...\nNa razie!\r</language>
+		<language name="English">Emil: No cóż, lepiej już pójdę...\nNa razie!\r</language>
 	</row>
 	<row id="msg_0385_R34R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Och! Prawie zapomniałam!\r</language>
+		<language name="English">Emil: Och! Prawie zapomniałam!\r</language>
 	</row>
 	<row id="msg_0385_R34R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Proszę!\nTo mój numer do Pokégearu!\r</language>
+		<language name="English">Emil: Proszę!\nTo mój numer do Pokégearu!\r</language>
 	</row>
 	<row id="msg_0385_R34R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -34,15 +34,15 @@
 	</row>
 	<row id="msg_0385_R34R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Wiesz, że możesz rozmawiać\nze swoim Pokémonem, gdy za tobą\fchodzi?\rRobią najróżniejsze urocze rzeczy\nna drodze i w miastach.\rZapisuję sobie, za każdym razem,\ngdy robią coś zabawnego.\rZadzwoń do mnie, a podzielę się\nz tobą kilkoma z nich.\r</language>
+		<language name="English">Emil: Wiesz, że możesz rozmawiać\nze swoim Pokémonem, gdy za tobą\fchodzi?\rRobią najróżniejsze urocze rzeczy\nna drodze i w miastach.\rZapisuję sobie, za każdym razem,\ngdy robią coś zabawnego.\rZadzwoń do mnie, a podzielę się\nz tobą kilkoma z nich.\r</language>
 	</row>
 	<row id="msg_0385_R34R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Babciu!\rAni słowa.\rOboje jesteśmy Trenerami i mamy\nsobie po prostu wymienić numery.\fTo wszystko.\r</language>
+		<language name="English">Emil: Babciu!\rAni słowa.\rOboje jesteśmy Trenerami i mamy\nsobie po prostu wymienić numery.\fTo wszystko.\r</language>
 	</row>
 	<row id="msg_0385_R34R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Babciu!\rPozwól, że przedstawię moją\nprzyjaciółkę. To {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Emil: Babciu!\rPozwól, że przedstawię moją\nprzyjaciółkę. To {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0385_R34R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -50,23 +50,23 @@
 	</row>
 	<row id="msg_0385_R34R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Co? Babciu...!\nO czym ty mówisz?\rOna po prostu mieszka niedaleko...\r</language>
+		<language name="English">Emil: Co? Babciu...!\nO czym ty mówisz?\rOna po prostu mieszka niedaleko...\r</language>
 	</row>
 	<row id="msg_0385_R34R0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hahaha.\nWiem, wiem.\rSkoro ją tu przyprowadziłeś, Ethan,\nmusisz być pewien jej talentu.\rPrawda, {STRVAR_1 3, 0, 0}?\nOdwiedzaj nas kiedykolwiek!\r</language>
+		<language name="English">Hahaha.\nWiem, wiem.\rSkoro ją tu przyprowadziłeś, Emil,\nmusisz być pewien jej talentu.\rPrawda, {STRVAR_1 3, 0, 0}?\nOdwiedzaj nas kiedykolwiek!\r</language>
 	</row>
 	<row id="msg_0385_R34R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: No cóż, lepiej już pójdę...\nNa razie!\r</language>
+		<language name="English">Emil: No cóż, lepiej już pójdę...\nNa razie!\r</language>
 	</row>
 	<row id="msg_0385_R34R0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Och! Prawie zapomniałem!\r</language>
+		<language name="English">Emil: Och! Prawie zapomniałem!\r</language>
 	</row>
 	<row id="msg_0385_R34R0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Proszę!\nTo mój numer do Pokégearu!\r</language>
+		<language name="English">Emil: Proszę!\nTo mój numer do Pokégearu!\r</language>
 	</row>
 	<row id="msg_0385_R34R0101_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
@@ -74,10 +74,10 @@
 	</row>
 	<row id="msg_0385_R34R0101_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Wiesz, że możesz rozmawiać\nze swoim Pokémonem, gdy za tobą\fchodzi?\rRobią najróżniejsze urocze rzeczy\nna drodze i w miastach.\rZapisuję sobie, za każdym razem,\ngdy robią coś zabawnego.\rZadzwoń do mnie, a podzielę się\nz tobą kilkoma z nich.\r</language>
+		<language name="English">Emil: Wiesz, że możesz rozmawiać\nze swoim Pokémonem, gdy za tobą\fchodzi?\rRobią najróżniejsze urocze rzeczy\nna drodze i w miastach.\rZapisuję sobie, za każdym razem,\ngdy robią coś zabawnego.\rZadzwoń do mnie, a podzielę się\nz tobą kilkoma z nich.\r</language>
 	</row>
 	<row id="msg_0385_R34R0101_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Babciu!\rAni słowa.\rOboje jesteśmy Trenerami i mamy\nsobie po prostu wymienić numery.\fTo wszystko.\r</language>
+		<language name="English">Emil: Babciu!\rAni słowa.\rOboje jesteśmy Trenerami i mamy\nsobie po prostu wymienić numery.\fTo wszystko.\r</language>
 	</row>
 </body>

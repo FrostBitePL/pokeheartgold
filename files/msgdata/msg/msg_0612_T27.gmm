@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0612_T27_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Słyszałeś, że mówią o odbudowie\nSpalonej Wieży?\rZnów będą dwie wieże!\nNie mogę się doczekać!</language>
+		<language name="English">Słyszałeś, że mówią o odbudowie\nSpalonego Pałacu?\rZnów będą dwie wieże!\nNie mogę się doczekać!</language>
 	</row>
 	<row id="msg_0612_T27_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -58,11 +58,11 @@
 	</row>
 	<row id="msg_0612_T27_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spalona Wieża\nZostała zniszczona przez\ftajemniczy pożar.\rProszę, trzymaj się z dala,\ngdyż jest niebezpieczna.</language>
+		<language name="English">Spalony Pałac\nZostała zniszczona przez\ftajemniczy pożar.\rProszę, trzymaj się z dala,\ngdyż jest niebezpieczna.</language>
 	</row>
 	<row id="msg_0612_T27_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Posterunek Bariery do Wieży Dzwonów\nZakaz wstępu dla niegodnych</language>
+		<language name="English">Posterunek Bariery do Samotnej Wieży\nZakaz wstępu dla niegodnych</language>
 	</row>
 	<row id="msg_0612_T27_00016" index="16">
 		<attribute name="window_context_name">used</attribute>

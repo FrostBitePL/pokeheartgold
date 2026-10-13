@@ -98,11 +98,11 @@
 	</row>
 	<row id="msg_0543_T20R0101_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Chwileczkę! On nie ma z tym\nnic wspólnego!\rWidziałam to. Do budynku zaglądał\nchłopak o rudych włosach!\r</language>
+		<language name="English">Emil: Chwileczkę! On nie ma z tym\nnic wspólnego!\rWidziałam to. Do budynku zaglądał\nchłopak o rudych włosach!\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Chwileczkę! Ona nie ma z tym\nnic wspólnego!\rWidziałem to. Do budynku zaglądał\nchłopak o rudych włosach!\r</language>
+		<language name="English">Emil: Chwileczkę! Ona nie ma z tym\nnic wspólnego!\rWidziałem to. Do budynku zaglądał\nchłopak o rudych włosach!\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
@@ -122,11 +122,11 @@
 	</row>
 	<row id="msg_0543_T20R0101_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: {STRVAR_1 3, 0, 0}! Cieszę się, że\nzrozumieli, że jesteś niewinny/a.\rDo zobaczenia!\r</language>
+		<language name="English">Emil: {STRVAR_1 3, 0, 0}! Cieszę się, że\nzrozumieli, że jesteś niewinny/a.\rDo zobaczenia!\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: {STRVAR_1 3, 0, 0}! Cieszę się, że\nzrozumieli, że jesteś niewinny/a.\rDo zobaczenia!\r</language>
+		<language name="English">Emil: {STRVAR_1 3, 0, 0}! Cieszę się, że\nzrozumieli, że jesteś niewinny/a.\rDo zobaczenia!\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
@@ -234,11 +234,11 @@
 	</row>
 	<row id="msg_0543_T20R0101_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: {STRVAR_1 3, 0, 0}! Zebrałeś/aś już\nosiem Odznak? To takie fajne!\rProfesor na ciebie czeka.\r</language>
+		<language name="English">Emil: {STRVAR_1 3, 0, 0}! Zebrałeś/aś już\nosiem Odznak? To takie fajne!\rProfesor na ciebie czeka.\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: {STRVAR_1 3, 0, 0}! Zebrałeś/aś już\nosiem Odznak? To takie fajne!\rProfesor na ciebie czeka.\r</language>
+		<language name="English">Emil: {STRVAR_1 3, 0, 0}! Zebrałeś/aś już\nosiem Odznak? To takie fajne!\rProfesor na ciebie czeka.\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
@@ -270,11 +270,11 @@
 	</row>
 	<row id="msg_0543_T20R0101_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: {STRVAR_1 3, 0, 0}, ludzie o tobie\nmówią!\rSłyszałam, że pomogłeś/aś Teatrowi\nBezdomnemu?\rPomagasz tylu ludziom! Jestem dumna,\nże jesteś moim przyjacielem.\r</language>
+		<language name="English">Emil: {STRVAR_1 3, 0, 0}, ludzie o tobie\nmówią!\rSłyszałam, że pomogłeś/aś Teatrowi\nBezdomnemu?\rPomagasz tylu ludziom! Jestem dumna,\nże jesteś moim przyjacielem.\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: {STRVAR_1 3, 0, 0}, ludzie o tobie\nmówią!\rSłyszałem, że pomogłeś/aś Teatrowi\nBezdomnemu?\rPomagasz tylu ludziom! Jestem dumny,\nże jesteś moim przyjacielem.\r</language>
+		<language name="English">Emil: {STRVAR_1 3, 0, 0}, ludzie o tobie\nmówią!\rSłyszałem, że pomogłeś/aś Teatrowi\nBezdomnemu?\rPomagasz tylu ludziom! Jestem dumny,\nże jesteś moim przyjacielem.\r</language>
 	</row>
 	<row id="msg_0543_T20R0101_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
