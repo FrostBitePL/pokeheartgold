@@ -309,6 +309,9 @@ _ClimaxC:
 	CheckBattleWon VAR_SPECIAL_RESULT
 	Compare VAR_SPECIAL_RESULT, 0
 	GoToIfEq _025D
+	GetStaticEncounterOutcome VAR_TEMP_x4002
+	Compare VAR_TEMP_x4002, 4
+	CallIfEq _ClimaxMewtwoCaught
 	NPCMsg msg_0070_D23R0106_00022
 	CloseMsg
 	BufferRivalsName 1
@@ -328,6 +331,9 @@ _ClimaxMewtwo:
 	CheckBattleWon VAR_SPECIAL_RESULT
 	Compare VAR_SPECIAL_RESULT, 0
 	GoToIfEq _025D
+	GetStaticEncounterOutcome VAR_TEMP_x4002
+	Compare VAR_TEMP_x4002, 4
+	CallIfEq _ClimaxMewtwoCaught
 	NPCMsg msg_0070_D23R0106_00020
 	CloseMsg
 	BufferRivalsName 1
@@ -338,4 +344,8 @@ _ClimaxEnd:
 	CloseMsg
 	NPCMsg msg_0070_D23R0106_00027
 	CloseMsg
+	Return
+
+_ClimaxMewtwoCaught:
+	SetFlag FLAG_CAUGHT_MEWTWO
 	Return

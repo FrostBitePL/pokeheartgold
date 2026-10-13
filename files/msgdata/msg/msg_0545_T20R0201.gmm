@@ -134,11 +134,11 @@
 	</row>
 	<row id="msg_0545_T20R0201_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cześć, {STRVAR_1 3, 0, 0}!\nProfesor Mariusz powiedział mi,\fże ma coś dla ciebie!\r</language>
+		<language name="English">Cześć, {STRVAR_1 3, 0, 0}! Dzwonił Profesor\nMariusz.\rMówi, że szczelina nad Żarowem jest\nstabilna i że czeka na ciebie na\fszczycie Zamku.\rUważaj na siebie, kochanie.\nCokolwiek tam jest, wróć do domu.\r</language>
 	</row>
 	<row id="msg_0545_T20R0201_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Mariusz powiedział mi,\nże ma coś dla ciebie.\fMoże odwiedzisz jego laboratorium?</language>
+		<language name="English">Profesor Mariusz czeka na ciebie na\nszczycie Zamku w Żarowie. Mówi, że\fszczelina się nie zamyka.\rUważaj na siebie, kochanie.</language>
 	</row>
 	<row id="msg_0545_T20R0201_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
