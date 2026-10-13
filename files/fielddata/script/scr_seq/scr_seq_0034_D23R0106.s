@@ -32,6 +32,7 @@ scr_seq_D23R0106_001:
 	GoToIfEq _025D
 	NPCMsg msg_0070_D23R0106_00001
 	CloseMsg
+	Call _Climax
 	FadeScreen 6, 1, 0, RGB_BLACK
 	WaitFade
 	HidePerson obj_D23R0106_rkanbum
@@ -244,3 +245,86 @@ _0344:
 	WalkNormalEast 4
 	EndMovement
 	.balign 4, 0
+
+_Climax:
+	NPCMsg msg_0070_D23R0106_00010
+	CloseMsg
+	NPCMsg msg_0070_D23R0106_00011
+	CloseMsg
+	ScrCmd_517 SPECIES_MEW, VAR_SPECIAL_x8004
+	NPCMsg msg_0070_D23R0106_00012
+	TouchscreenMenuHide
+	MenuInit 1, 1, 0, 1, VAR_SPECIAL_RESULT
+	MenuItemAdd msg_0070_D23R0106_00013, 255, 0
+	MenuItemAdd msg_0070_D23R0106_00014, 255, 1
+	MenuItemAdd msg_0070_D23R0106_00015, 255, 2
+	MenuExec
+	CloseMsg
+	TouchscreenMenuShow
+	Switch VAR_SPECIAL_RESULT
+	Case 0, _ClimaxA
+	Case 1, _ClimaxB
+	GoTo _ClimaxC
+
+_ClimaxA:
+	SetVar VAR_UNK_4160, 1
+	Compare VAR_SPECIAL_x8004, 1
+	CallIfEq _ClimaxMewA
+	GoTo _ClimaxMewtwo
+
+_ClimaxMewA:
+	NPCMsg msg_0070_D23R0106_00016
+	CloseMsg
+	Return
+
+_ClimaxB:
+	SetVar VAR_UNK_4160, 2
+	Compare VAR_SPECIAL_x8004, 1
+	CallIfEq _ClimaxMewB
+	NPCMsg msg_0070_D23R0106_00019
+	CloseMsg
+	TrainerBattle TRAINER_ROCKET_BOSS_GIOVANNI, 0, 0, 0
+	CheckBattleWon VAR_SPECIAL_RESULT
+	Compare VAR_SPECIAL_RESULT, 0
+	GoToIfEq _025D
+	NPCMsg msg_0070_D23R0106_00021
+	CloseMsg
+	GoTo _ClimaxEnd
+
+_ClimaxMewB:
+	NPCMsg msg_0070_D23R0106_00017
+	CloseMsg
+	Return
+
+_ClimaxC:
+	SetVar VAR_UNK_4160, 3
+	Compare VAR_SPECIAL_x8004, 1
+	CallIfEq _ClimaxMewC
+	SetFlag FLAG_ENGAGING_STATIC_POKEMON
+	WildBattle SPECIES_MEWTWO, 70, 0
+	ClearFlag FLAG_ENGAGING_STATIC_POKEMON
+	CheckBattleWon VAR_SPECIAL_RESULT
+	Compare VAR_SPECIAL_RESULT, 0
+	GoToIfEq _025D
+	NPCMsg msg_0070_D23R0106_00022
+	CloseMsg
+	GoTo _ClimaxEnd
+
+_ClimaxMewC:
+	NPCMsg msg_0070_D23R0106_00018
+	CloseMsg
+	Return
+
+_ClimaxMewtwo:
+	SetFlag FLAG_ENGAGING_STATIC_POKEMON
+	WildBattle SPECIES_MEWTWO, 70, 0
+	ClearFlag FLAG_ENGAGING_STATIC_POKEMON
+	CheckBattleWon VAR_SPECIAL_RESULT
+	Compare VAR_SPECIAL_RESULT, 0
+	GoToIfEq _025D
+	NPCMsg msg_0070_D23R0106_00020
+	CloseMsg
+_ClimaxEnd:
+	NPCMsg msg_0070_D23R0106_00023
+	CloseMsg
+	Return

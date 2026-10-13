@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0070_D23R0106_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kiedyś stała tutaj wieża.\rGdy zastąpiono ją Zamkiem, to\nTęczowe Skrzydło znaleziono na jej\fszczycie.\rSłyszałem od przyjaciela z Domanic,\nże możesz wspiąć się na Wieżę\fDzwonów w Mrowinach, gdy masz\nTęczowe Skrzydło.\rMuszę wracać do biura. Do\nzobaczenia!\r</language>
+		<language name="English">Kiedyś stała tutaj wieża.\rGdy zastąpiono ją Zamkiem, to\nTęczowe Skrzydło znaleziono na jej\fszczycie.\rSłyszałem od przyjaciela z Domanic,\nże możesz wspiąć się na Samotną Wieżę w Mrowinach, gdy masz\nTęczowe Skrzydło.\rMuszę wracać do biura. Do\nzobaczenia!\r</language>
 	</row>
 	<row id="msg_0070_D23R0106_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -39,5 +39,61 @@
 	<row id="msg_0070_D23R0106_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Czegoś się spodziewasz?\nTo się nazywa Fałszywy Atak.\rTym razem naprawdę muszę wracać\ndo biura. Do zobaczenia!\r</language>
+	</row>
+	<row id="msg_0070_D23R0106_00010" index="10">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Łukasz: Dziewięćdziesiąt osiem\nprocent. Wiesz, skąd wziąłem\fostatnie?\rStąd. Każdy gatunek, który zapisałeś\nw Pokédexie, był linijką, której mi\fbrakowało.\rNie rób takiej miny. Zbudowałeś go\nrazem ze mną.\r</language>
+	</row>
+	<row id="msg_0070_D23R0106_00011" index="11">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Kapsuła się otwiera. Z mgły wychodzi\nblada, wysoka istota o oczach\fpełnych światła.\rŁukasz: Stworzyliśmy istotę\ndoskonalszą niż wszystko, co\furodziła natura.\rNazwaliśmy ją numerem z księgi.\nChociaż swoje imię miała wcześniej.\fWystarczyło je pożyczyć.\r</language>
+	</row>
+	<row id="msg_0070_D23R0106_00012" index="12">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Mewtwo patrzy na ciebie. W jego\nspojrzeniu jest szum, który znasz z\fradia. Co zrobisz?\r</language>
+	</row>
+	<row id="msg_0070_D23R0106_00013" index="13">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Uspokój go</language>
+	</row>
+	<row id="msg_0070_D23R0106_00014" index="14">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Zatrzymaj Łukasza</language>
+	</row>
+	<row id="msg_0070_D23R0106_00015" index="15">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Zapytaj, czego chce</language>
+	</row>
+	<row id="msg_0070_D23R0106_00016" index="16">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Mew wychodzi z Poké Balla sam i\nzawisa między wami. Mewtwo przestaje\fsię szarpać.\r</language>
+	</row>
+	<row id="msg_0070_D23R0106_00017" index="17">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Łukasz próbuje wyrwać ci Mewa z rąk.\nRywal patrzy na to i pierwszy raz\fsię waha.\r</language>
+	</row>
+	<row id="msg_0070_D23R0106_00018" index="18">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Mewtwo odwraca głowę w stronę Mewa,\nnie ciebie. Odpowiedzi nie słychać.\r</language>
+	</row>
+	<row id="msg_0070_D23R0106_00019" index="19">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Łukasz: Wiesz, ile to kosztowało?\nNie pozwolę ci tego zepsuć!\r</language>
+	</row>
+	<row id="msg_0070_D23R0106_00020" index="20">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Mewtwo zrywa obrożę Sygnału i unosi\nsię nad Zamkiem. Powoli się uspokaja\fi odlatuje.\rLudzie w mieście patrzą w górę.\nCzęść klaszcze, część stoi cicho.\r</language>
+	</row>
+	<row id="msg_0070_D23R0106_00021" index="21">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Zostawione samo Mewtwo wybucha\nenergią. Rozrywa antenę i znika w\fniebie. W Żarowie ludzie szepczą:\n„Zabrałeś nam pracę”.\r</language>
+	</row>
+	<row id="msg_0070_D23R0106_00022" index="22">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Mewtwo sprawdziło cię jedną walką i\nniszczy antenę oraz serwery.\r„Nie szukaj mnie”, mówi ktoś w\ntwojej głowie, i tak zostaje cisza.\fW mieście nikt nie wie, co było\nprawdą.\r</language>
+	</row>
+	<row id="msg_0070_D23R0106_00023" index="23">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Nad Zamkiem otwiera się szczelina w\nniebie. Łukasz chwyta notatki i\fwchodzi w nią, jakby czekał na ten\nmoment całe życie.\r</language>
 	</row>
 </body>

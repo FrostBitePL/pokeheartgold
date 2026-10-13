@@ -498,7 +498,7 @@
 	</row>
 	<row id="msg_0731_00124" index="124">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Rocket Boss</language>
+		<language name="English">Dyrektor</language>
 	</row>
 	<row id="msg_0731_00125" index="125">
 		<attribute name="window_context_name">used</attribute>
