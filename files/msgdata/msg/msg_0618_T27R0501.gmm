@@ -86,19 +86,19 @@
 	</row>
 	<row id="msg_0618_T27R0501_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reżyserko! Przy Samotnej Wieży coś\nsię poruszyło!\rWielki cień Pokémona nad samym\nszczytem...\rTo może być...\r</language>
+		<language name="English">Reżyserko! Szczelina nad Żarowem...\nwidać ją stąd!\rWszyscy ją widzą. Niebo wisi nad\nZamkiem jak rozdarte płótno.\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reżyserko! Przy Samotnej Wieży coś\nsię poruszyło!\rWielki cień Pokémona nad samym\nszczytem...\rTo może być...\r</language>
+		<language name="English">Reżyserko! Szczelina nad Żarowem...\nwidać ją stąd!\rWszyscy ją widzą. Niebo wisi nad\nZamkiem jak rozdarte płótno.\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Marta: {STRVAR_1 3, 0, 0}! Będziemy przy\nSamotnej Wieży w Mrowinach. Do\fzobaczenia tam!\r</language>
+		<language name="English">Marta: {STRVAR_1 3, 0, 0}! Tańczyliśmy przy\nSamotnej Wieży. Nic się nie stało.\rNie odpowiada. Nie stąd. Odkąd pękło\nniebo, patrzy z innej góry.\rJedziemy na festiwal do Świdnicy.\nJak tam dotrzesz, znajdź nas.\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Marta: {STRVAR_1 3, 0, 0}! Będziemy przy\nSamotnej Wieży w Mrowinach. Do\fzobaczenia tam!\r</language>
+		<language name="English">Marta: {STRVAR_1 3, 0, 0}! Tańczyliśmy przy\nSamotnej Wieży. Nic się nie stało.\rNie odpowiada. Nie stąd. Odkąd pękło\nniebo, patrzy z innej góry.\rJedziemy na festiwal do Świdnicy.\nJak tam dotrzesz, znajdź nas.\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
