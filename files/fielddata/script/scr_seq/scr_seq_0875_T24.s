@@ -101,7 +101,7 @@ scr_seq_T24_002:
 	LockAll
 	ApplyMovement obj_player, _0310
 	WaitMovement
-	PlayCry SPECIES_SUICUNE, 0
+	PlayCry SPECIES_ARTICUNO, 0
 	Release obj_T24_tsure_poke_static_suicune
 	ScrCmd_523 obj_T24_tsure_poke_static_suicune, 2, 90, 2, 0
 	Lock obj_T24_tsure_poke_static_suicune

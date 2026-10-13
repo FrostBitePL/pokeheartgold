@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0360_R22_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Liga Pokémon\nWejście do Victory Road</language>
+		<language name="English">Liga Pokémon Wejście do Traktu\nMistrzów</language>
 	</row>
 	<row id="msg_0360_R22_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -54,11 +54,11 @@
 	</row>
 	<row id="msg_0360_R22_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Ilex Forest zniknął!\r...Nie, to nie to.\nTo raczej tak, jakby przeniesiono\fnas gdzieś indziej...?\r</language>
+		<language name="English">Ethan: Las Wostówka zniknął!\r...Nie, to nie to. To raczej tak,\njakby przeniesiono nas gdzieś\findziej...?\r</language>
 	</row>
 	<row id="msg_0360_R22_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Ilex Forest zniknął!\r...Nie, to nie to.\nTo raczej tak, jakby przeniesiono\fnas gdzieś indziej...?\r</language>
+		<language name="English">Lyra: Las Wostówka zniknął!\r...Nie, to nie to. To raczej tak,\njakby przeniesiono nas gdzieś\findziej...?\r</language>
 	</row>
 	<row id="msg_0360_R22_00015" index="15">
 		<attribute name="window_context_name">used</attribute>

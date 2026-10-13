@@ -8,9 +8,9 @@
 	.rodata
 
 _020FC3B4:
-	.short SPECIES_RAIKOU | (22 << 10)
-	.short SPECIES_ENTEI | (23 << 10)
-	.short SPECIES_SUICUNE | (24 << 10)
+	.short SPECIES_ZAPDOS | (22 << 10)
+	.short SPECIES_MOLTRES | (23 << 10)
+	.short SPECIES_ARTICUNO | (24 << 10)
 	.short SPECIES_LUGIA | (26 << 10)
 	.short SPECIES_HO_OH | (25 << 10)
 	.short SPECIES_GROUDON | (27 << 10)

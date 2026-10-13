@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0460_T03_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nocą CLEFAIRY wychodzą się bawić\nna Mt. Moon.\rAle nie każdej nocy.</language>
+		<language name="English">Nocą CLEFAIRY wychodzą się bawić na\nStarej Kopalni.\rAle nie każdej nocy.</language>
 	</row>
 	<row id="msg_0460_T03_00002" index="2">
 		<attribute name="window_context_name">used</attribute>

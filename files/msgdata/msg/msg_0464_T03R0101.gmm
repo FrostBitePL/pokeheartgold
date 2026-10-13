@@ -26,7 +26,7 @@
 	</row>
 	<row id="msg_0464_T03R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hej!\nNie masz żadnych Skamieniałości.\rSłyszałem, że czasem znajduje się\nSkamieniałości, rozbijając skały przy\fRuins of Alph i w innych miejscach.</language>
+		<language name="English">Hej! Nie masz żadnych\nSkamieniałości.\rSłyszałem, że czasem znajduje się\nSkamieniałości, rozbijając skały\fprzy Wykopaliskach i w innych\nmiejscach.</language>
 	</row>
 	<row id="msg_0464_T03R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -46,7 +46,7 @@
 	</row>
 	<row id="msg_0464_T03R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Są dwa miejsca, które kocham! Jedno\nto Ruins of Alph w Regionie Żarów...\rDrugie to Muzeum Skamieniałości!\nJest tu tak cicho i spokojnie.\rCzujesz, jak jego godna podziwu\nhistoria bezgłośnie cię ogarnia?</language>
+		<language name="English">Są dwa miejsca, które kocham! Jedno\nto Wykopaliska w Regionie Żarów...\rDrugie to Muzeum Skamieniałości!\nJest tu tak cicho i spokojnie.\rCzujesz, jak jego godna podziwu\nhistoria bezgłośnie cię ogarnia?</language>
 	</row>
 	<row id="msg_0464_T03R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
@@ -110,7 +110,7 @@
 	</row>
 	<row id="msg_0464_T03R0101_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Na chropowatym kamieniu wyryte\nsą słowa...\r„To niezidentyfikowany obiekt\nznaleziony na Mt. Moon. Prawdopodobnie\fto kamień księżycowy”.</language>
+		<language name="English">Na chropowatym kamieniu wyryte są\nsłowa...\r„To niezidentyfikowany obiekt\nznaleziony na Starej Kopalni.\fPrawdopodobnie to kamień\nksiężycowy”.</language>
 	</row>
 	<row id="msg_0464_T03R0101_00028" index="28">
 		<attribute name="window_context_name">used</attribute>

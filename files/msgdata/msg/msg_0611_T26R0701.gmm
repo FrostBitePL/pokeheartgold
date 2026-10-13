@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0611_T26R0701_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ty!\nJak idzie trening twojego\nPokémona?\rZauważyłeś kiedyś, że w górach\nczasem są okrągłe głazy prosto\fna twojej drodze...?\rMożesz je przesunąć ukrytym\natakiem Siła!\rWędrowcy na Mt. Mortar czasem mają\nzapasowe, tak przynajmniej słyszałem...</language>
+		<language name="English">Ty! Jak idzie trening twojego\nPokémona?\rZauważyłeś kiedyś, że w górach\nczasem są okrągłe głazy prosto na\ftwojej drodze...?\rMożesz je przesunąć ukrytym atakiem\nSiła!\rWędrowcy na Górze Krzyżowej czasem\nmają zapasowe, tak przynajmniej\fsłyszałem...</language>
 	</row>
 	<row id="msg_0611_T26R0701_00001" index="1">
 		<attribute name="window_context_name">used</attribute>

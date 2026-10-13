@@ -2,15 +2,15 @@
 <body language="English">
 	<row id="msg_0535_T11R0601_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To jest problem!\rMaszyna w Power Plant jest\nzepsuta i nie mamy prądu!\rNie wiem, ile czasu minie, zanim\nznów uruchomimy Magnet Train.</language>
+		<language name="English">To jest problem!\rMaszyna w Elektrowni jest zepsuta i\nnie mamy prądu!\rNie wiem, ile czasu minie, zanim\nznów uruchomimy Kolej Magnetyczną.</language>
 	</row>
 	<row id="msg_0535_T11R0601_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dzięki komuś, kto uruchomił\nPower Plant, Magnet Train jest\fznów dostępny!\rPasażerowie muszą przejść przez\nbramkę do automatycznej kontroli\fbiletów...\r</language>
+		<language name="English">Dzięki komuś, kto uruchomił\nElektrownię, Kolej Magnetyczna jest\fznów dostępna!\rPasażerowie muszą przejść przez\nbramkę do automatycznej kontroli\fbiletów...\r</language>
 	</row>
 	<row id="msg_0535_T11R0601_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Piip!\rBardzo mi przykro, ale potrzebujesz\nMagnet Train Pass, żeby wsiąść\fdo Magnet Train...\r</language>
+		<language name="English">...Piip!\rBardzo mi przykro, ale potrzebujesz\nMagnet Train Pass, żeby wsiąść do\fKolei Magnetycznej...\r</language>
 	</row>
 	<row id="msg_0535_T11R0601_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -34,7 +34,7 @@
 	</row>
 	<row id="msg_0535_T11R0601_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Magnet Train to superowoczesny\npojazd szynowy, który wykorzystuje\felektryczność i magnesy, by\fosiągnąć niesamowite prędkości.\rJednak nie ma żadnego prądu.\nTo po prostu żelazna skrzynia.</language>
+		<language name="English">Kolej Magnetyczna to superowoczesny\npojazd szynowy, który wykorzystuje\felektryczność i magnesy, by osiągnąć\nniesamowite prędkości.\rJednak nie ma żadnego prądu. To po\nprostu żelazna skrzynia.</language>
 	</row>
 	<row id="msg_0535_T11R0601_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -46,11 +46,11 @@
 	</row>
 	<row id="msg_0535_T11R0601_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cześć. Masz Magnet Train Pass?\rJa mam.\rWszyscy w Świdnicy, którzy jeżdżą\nMagnet Train, mają Passy.</language>
+		<language name="English">Cześć. Masz Magnet Train Pass?\rJa mam.\rWszyscy w Świdnicy, którzy jeżdżą\nKoleją Magnetyczną, mają Passy.</language>
 	</row>
 	<row id="msg_0535_T11R0601_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kalina: Och! Nigdy nie\nspodziewałem się zobaczyć cię\fw takim miejscu! Co za zbieg\fokoliczności!\rCzuję wielką moc elektryczną wokół\nstacji Magnet Train!\rMiałeś/aś PIKACHU, prawda?\nMoże wymienimy go na mojego\ffrancuskiego PIKACHU? {YESNO 0}</language>
+		<language name="English">Kalina: Och! Nigdy nie spodziewałem\nsię zobaczyć cię w takim miejscu! Co\fza zbieg okoliczności!\rCzuję wielką moc elektryczną wokół\nstacji Kolei Magnetycznej!\rMiałeś/aś PIKACHU, prawda? Może\nwymienimy go na mojego francuskiego\fPIKACHU? {YESNO 0}</language>
 	</row>
 	<row id="msg_0535_T11R0601_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

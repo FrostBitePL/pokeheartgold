@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0487_T06R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jestem Wędkarskim Gościem, starszym\nz Braci Wędkarzy.\rSpotkałeś/aś już Guru Wędkarstwa\nprzy Lake of Rage?\rMarzy o zobaczeniu największego\nMAGIKARPA na świecie.\rJeśli nie masz nic przeciwko, może\npokazałbyś/pokazałabyś mu każdego\fMAGIKARPA, którego złapiesz?\rKto wie, może złapiesz MAGIKARPA\njego marzeń.</language>
+		<language name="English">Jestem Wędkarskim Gościem, starszym\nz Braci Wędkarzy.\rSpotkałeś/aś już Guru Wędkarstwa\nprzy Zalewie Andrzej?\rMarzy o zobaczeniu największego\nMAGIKARPA na świecie.\rJeśli nie masz nic przeciwko, może\npokazałbyś/pokazałabyś mu każdego\fMAGIKARPA, którego złapiesz?\rKto wie, może złapiesz MAGIKARPA\njego marzeń.</language>
 	</row>
 	<row id="msg_0487_T06R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>

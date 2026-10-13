@@ -22,11 +22,11 @@
 	</row>
 	<row id="msg_0626_T29_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Karol: Doskonale!\rWygląda na to, że MAGIKARPY z\nLake of Rage są zmuszane do ewolucji.\rTajemnicza audycja radiowa nadawana\nz Imbramowic jest pewnie tego\fprzyczyną.\rI ten podejrzany sklep z pamiątkami...\rBędę czekał na ciebie w\nImbramowicach, {STRVAR_1 3, 0, 0}.</language>
+		<language name="English">Karol: Doskonale!\rWygląda na to, że MAGIKARPY z Zalewu\nAndrzej są zmuszane do ewolucji.\rTajemnicza audycja radiowa nadawana\nz Imbramowic jest pewnie tego\fprzyczyną.\rI ten podejrzany sklep z\npamiątkami...\rBędę czekał na ciebie w\nImbramowicach, {STRVAR_1 3, 0, 0}.</language>
 	</row>
 	<row id="msg_0626_T29_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Karol: Doskonale!\rWygląda na to, że MAGIKARPY z\nLake of Rage są zmuszane\fdo ewolucji.\rTajemnicza audycja radiowa nadawana\nz Imbramowic jest tego przyczyną.\rBędę na ciebie czekał, {STRVAR_1 3, 0, 0}.</language>
+		<language name="English">Karol: Doskonale!\rWygląda na to, że MAGIKARPY z Zalewu\nAndrzej są zmuszane do ewolucji.\rTajemnicza audycja radiowa nadawana\nz Imbramowic jest tego przyczyną.\rBędę na ciebie czekał, {STRVAR_1 3, 0, 0}.</language>
 	</row>
 	<row id="msg_0626_T29_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -50,7 +50,7 @@
 	</row>
 	<row id="msg_0626_T29_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Czy wzrok mnie zmylił? Widziałem\nczerwonego GYARADOSA w Lake of Rage...\rAle myślałem, że GYARADOSY są\nzwykle niebieskie?</language>
+		<language name="English">Czy wzrok mnie zmylił? Widziałem\nczerwonego GYARADOSA w Zalewie\fAndrzej...\rAle myślałem, że GYARADOSY są zwykle\nniebieskie?</language>
 	</row>
 	<row id="msg_0626_T29_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
@@ -130,7 +130,7 @@
 	</row>
 	<row id="msg_0626_T29_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lake of Rage\nZnane Też Jako Jezioro GYARADOSÓW</language>
+		<language name="English">Zalew Andrzej Znane Też Jako Jezioro\nGYARADOSÓW</language>
 	</row>
 	<row id="msg_0626_T29_00031" index="31">
 		<attribute name="window_context_name">used</attribute>

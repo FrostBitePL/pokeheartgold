@@ -31,7 +31,7 @@
 	</row>
 	<row id="msg_0147_D51R0301_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dawno temu ludzie czerpali życie\nz Pokémonów, a także oddawali\fswoje życie tym Pokémonom...\rTo pokazuje, że ludzie i Pokémony\nbyli dawniej ze sobą znacznie\fbliżej związani.\rGdy ludzie przemieszczali się z\nmiejsca na miejsce, mity i legendy\fo Pokémonach oraz ich mocy\fprzenosiły się razem z nimi.\rTak właśnie mity i legendy z każdego\nregionu mieszają się ze sobą.\rTutejsze starożytne ruiny\nodziedziczyły legendy zarówno z\f{COLOR 1}Ruins of Alph{COLOR 0} w Regionie Żarów, jak\fi {COLOR 1}Spear Pillar{COLOR 0} w Sinnoh.\rTo dowód na to, że ludzie z Regionu\nŻarów i Sinnoh zmieszali się w jedną\fgrupę.</language>
+		<language name="English">Dawno temu ludzie czerpali życie z\nPokémonów, a także oddawali swoje\fżycie tym Pokémonom...\rTo pokazuje, że ludzie i Pokémony\nbyli dawniej ze sobą znacznie bliżej\fzwiązani.\rGdy ludzie przemieszczali się z\nmiejsca na miejsce, mity i legendy o\fPokémonach oraz ich mocy przenosiły\nsię razem z nimi.\rTak właśnie mity i legendy z każdego\nregionu mieszają się ze sobą.\rTutejsze starożytne ruiny\nodziedziczyły legendy zarówno z\f{COLOR 1}Wykopalisk{COLOR 0} w Regionie Żarów, jak i\n{COLOR 1}Spear Pillar{COLOR 0} w Sinnoh.\rTo dowód na to, że ludzie z Regionu\nŻarów i Sinnoh zmieszali się w jedną\fgrupę.</language>
 	</row>
 	<row id="msg_0147_D51R0301_00008" index="8">
 		<attribute name="window_context_name">used</attribute>

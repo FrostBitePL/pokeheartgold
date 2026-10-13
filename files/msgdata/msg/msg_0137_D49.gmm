@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0137_D49_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Co o tym sądzisz?\nTo Pokéathlon Dome!\r</language>
+		<language name="English">Co o tym sądzisz? To Arena GCKiS!\r</language>
 	</row>
 	<row id="msg_0137_D49_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -198,6 +198,6 @@
 	</row>
 	<row id="msg_0137_D49_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokéathlon Dome\nMiejsce dla Prawdziwych Pokéatletów!</language>
+		<language name="English">Arena GCKiS Miejsce dla Prawdziwych\nPokéatletów!</language>
 	</row>
 </body>

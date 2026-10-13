@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0580_T24R0801_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Słyszałeś/aś o Whirl Islands?\rW zbiorniku pod tamtejszym wodospadem\nsą tak zwane Morskie Dzwonki.\rNie wydają żadnego dźwięku\nnawet w rozbijających się falach.\rJest tylko jeden sposób, by je rozdzwonić.\rTrzeba zdobyć inny Morski Dzwonek,\ntaki jak te w zbiorniku pod wodospadem.\fSzukałem go, gdy byłem młody.\fAle nigdy żadnego nie znalazłem...</language>
+		<language name="English">Słyszałeś/aś o Wyspach na Zalewie?\rW zbiorniku pod tamtejszym\nwodospadem są tak zwane Morskie\fDzwonki.\rNie wydają żadnego dźwięku nawet w\nrozbijających się falach.\rJest tylko jeden sposób, by je\nrozdzwonić.\rTrzeba zdobyć inny Morski Dzwonek,\ntaki jak te w zbiorniku pod\fwodospadem. Szukałem go, gdy byłem\nmłody. Ale nigdy żadnego nie\fznalazłem...</language>
 	</row>
 	<row id="msg_0580_T24R0801_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -18,6 +18,6 @@
 	</row>
 	<row id="msg_0580_T24R0801_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Och! Udało ci się zdobyć Morski\nDzwonek?\rMoje dawne marzenie...\nRozumiem...\fUdało ci się...\r...\n...Słyszę go!\rDźwięk dzwonków niesiony morską\nbryzą z kierunku\fWhirl Islands...</language>
+		<language name="English">Och! Udało ci się zdobyć Morski\nDzwonek?\rMoje dawne marzenie... Rozumiem...\nUdało ci się...\r... ...Słyszę go!\rDźwięk dzwonków niesiony morską\nbryzą z kierunku Wysp na Zalewie...</language>
 	</row>
 </body>

@@ -181,11 +181,11 @@ void Save_CreateRoamerByID(SaveData *saveData, u8 idx) {
 
     switch (idx) {
     case ROAMER_RAIKOU:
-        species = SPECIES_RAIKOU;
+        species = SPECIES_ZAPDOS;
         level = 40;
         break;
     case ROAMER_ENTEI:
-        species = SPECIES_ENTEI;
+        species = SPECIES_MOLTRES;
         level = 40;
         break;
     case ROAMER_LATIAS:
@@ -219,9 +219,9 @@ void Save_CreateRoamerByID(SaveData *saveData, u8 idx) {
 
 u8 SpeciesToRoamerIdx(u16 species) {
     switch (species) {
-    case SPECIES_RAIKOU:
+    case SPECIES_ZAPDOS:
         return ROAMER_RAIKOU;
-    case SPECIES_ENTEI:
+    case SPECIES_MOLTRES:
         return ROAMER_ENTEI;
     case SPECIES_LATIOS:
         return ROAMER_LATIOS;

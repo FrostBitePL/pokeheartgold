@@ -27,7 +27,7 @@
 	</row>
 	<row id="msg_0129_D44R0102_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dragon Shrine\rŚwiątynia czcząca Pokémona typu\nSmoczego, który podobno mieszkał\fw Dragon’s Den.</language>
+		<language name="English">Dragon Shrine\rŚwiątynia czcząca Pokémona typu\nSmoczego, który podobno mieszkał w\fSmoczej Studni.</language>
 	</row>
 	<row id="msg_0129_D44R0102_00007" index="7">
 		<attribute name="window_context_name">used</attribute>

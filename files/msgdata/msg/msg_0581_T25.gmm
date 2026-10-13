@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0581_T25_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zbudowali nową Wieżę Radiową,\nby zastąpić starą, skrzypiącą.</language>
+		<language name="English">Zbudowali nowy Zamek, by zastąpić\nstary, skrzypiący.</language>
 	</row>
 	<row id="msg_0581_T25_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Byłeś już w Kopule Pokéathlonu?\nTo ogromny obiekt sportowy, gdzie\fPokémony rywalizują ze sobą.\rTo było niesamowite widowisko!</language>
+		<language name="English">Byłeś już w Arenie GCKiS? To ogromny\nobiekt sportowy, gdzie Pokémony\frywalizują ze sobą.\rNa tabliczce przy wejściu stoi:\n„Ufundowano ze środków Fundacji\fGeneza”.\rTo było niesamowite widowisko!</language>
 	</row>
 	<row id="msg_0581_T25_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -26,15 +26,15 @@
 	</row>
 	<row id="msg_0581_T25_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wieża Radiowa w Żarowie to\nzabytkowy punkt orientacyjny.\rProwadzą teraz kampanię promocyjną.\rZmodyfikują twój Pokégear, by mógł\ntakże działać jako radio.</language>
+		<language name="English">Zamek w Żarowie to zabytkowy punkt\norientacyjny.\rProwadzą teraz kampanię promocyjną.\rZmodyfikują twój Pokégear, by mógł\ntakże działać jako radio.</language>
 	</row>
 	<row id="msg_0581_T25_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wieża Radiowa w Żarowie to\nzabytkowy punkt orientacyjny.\rProwadzą teraz kampanię promocyjną.\rZmodyfikują twój Pokégear, by mógł\ntakże działać jako radio.\rOch, twój Pokégear działa jako radio!</language>
+		<language name="English">Zamek w Żarowie to zabytkowy punkt\norientacyjny.\rProwadzą teraz kampanię promocyjną.\rZmodyfikują twój Pokégear, by mógł\ntakże działać jako radio.\rOch, twój Pokégear działa jako\nradio!</language>
 	</row>
 	<row id="msg_0581_T25_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">E-he-he-he...\nMiałem kłopoty za zabawę w piwnicy\fdomu towarowego.</language>
+		<language name="English">W dwa tysiące drugim staliśmy pod\nbramą i nikt do nas nie wyszedł.\rWyszedł dopiero pan Łukasz.\rWięc niech mi tu nikt złego słowa o\nInstytucie nie mówi.</language>
 	</row>
 	<row id="msg_0581_T25_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -46,15 +46,15 @@
 	</row>
 	<row id="msg_0581_T25_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Uff! To naprawdę duże miasto.\nNie wiem, gdzie co jest.</language>
+		<language name="English">Uff! To naprawdę duże miasto. Basen,\nstadion, targowisko... wszędzie\ftabliczka z Genezą.\rChyba bez nich nic by tu nie stało.</language>
 	</row>
 	<row id="msg_0581_T25_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wiem, że można znaleźć Kopułę\nPokéathlonu, idąc Trasą 35 na północ\fi mijając lewą bramę...\rAle wygląda na to, że gubię się\nza każdym razem, gdy tu przyjeżdżam...</language>
+		<language name="English">Wiem, że Arenę GCKiS można znaleźć,\nidąc Trasą 35 na północ i mijając\flewą bramę...\rAle wygląda na to, że gubię się za\nkażdym razem, gdy tu przyjeżdżam...</language>
 	</row>
 	<row id="msg_0581_T25_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Więc to jest Wieża Radiowa...\r</language>
+		<language name="English">Więc to jest Zamek...\r</language>
 	</row>
 	<row id="msg_0581_T25_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -74,7 +74,7 @@
 	</row>
 	<row id="msg_0581_T25_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Przejąć Wieżę Radiową...\rCo? To nie twoja sprawa!</language>
+		<language name="English">Przejąć Zamek...\rCo? To nie twoja sprawa!</language>
 	</row>
 	<row id="msg_0581_T25_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -86,7 +86,7 @@
 	</row>
 	<row id="msg_0581_T25_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hej, hej!\nMam to pod kontrolą!\rMoże pójdziesz do Wieży Radiowej?</language>
+		<language name="English">Hej, hej! Mam to pod kontrolą!\rMoże pójdziesz do Zamku?</language>
 	</row>
 	<row id="msg_0581_T25_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
@@ -130,7 +130,7 @@
 	</row>
 	<row id="msg_0581_T25_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dokąd niby idziesz?\nWieża Radiowa nie jest tutaj!</language>
+		<language name="English">Dokąd niby idziesz? Zamek nie jest\ntutaj!</language>
 	</row>
 	<row id="msg_0581_T25_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
@@ -138,7 +138,7 @@
 	</row>
 	<row id="msg_0581_T25_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jeśli tak bardzo lubisz wymianę,\nzaczekaj, aż misja w Wieży Radiowej\fsię skończy.\rWtedy będziesz mieć mnóstwo czasu!</language>
+		<language name="English">Jeśli tak bardzo lubisz wymianę,\nzaczekaj, aż misja w Zamku się\fskończy.\rWtedy będziesz mieć mnóstwo czasu!</language>
 	</row>
 	<row id="msg_0581_T25_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
@@ -146,11 +146,11 @@
 	</row>
 	<row id="msg_0581_T25_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kolej Magnetyczna Żarów-Świdnica\nStacja Żarów</language>
+		<language name="English">Stacja Żarów\rIzba Historyczna. Kolej do Świdnicy:\nw remoncie do odwołania.</language>
 	</row>
 	<row id="msg_0581_T25_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wieża Radiowa w Żarowie\rSieć Dostarczająca Regionowi Żarów\nCiekawe Informacje</language>
+		<language name="English">Zamek w Żarowie\rSieć Dostarczająca Regionowi Żarów\nCiekawe Informacje</language>
 	</row>
 	<row id="msg_0581_T25_00038" index="38">
 		<attribute name="window_context_name">used</attribute>

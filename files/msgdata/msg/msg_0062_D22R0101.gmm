@@ -103,15 +103,15 @@
 	</row>
 	<row id="msg_0062_D22R0101_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Miejsce Wypoczynku dla Wszystkich\nNational Park</language>
+		<language name="English">Miejsce Wypoczynku dla Wszystkich\nParku Kulmizów</language>
 	</row>
 	<row id="msg_0062_D22R0101_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Co to za ogłoszenie?\rProszę walczyć tylko w trawie parku.\r           National Park\n           Biuro Strażnika</language>
+		<language name="English">Co to za ogłoszenie?\rProszę walczyć tylko w trawie parku.\rPark Kulmizów Biuro Strażnika</language>
 	</row>
 	<row id="msg_0062_D22R0101_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Co to za ogłoszenie?\rZabawa piłkami niedozwolona,\nz wyjątkiem Poké Balli.\r           National Park\n           Biuro Strażnika</language>
+		<language name="English">Co to za ogłoszenie?\rZabawa piłkami niedozwolona, z\nwyjątkiem Poké Balli.\rPark Kulmizów Biuro Strażnika</language>
 	</row>
 	<row id="msg_0062_D22R0101_00025" index="25">
 		<attribute name="window_context_name">garbage</attribute>

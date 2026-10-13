@@ -146,7 +146,7 @@
 	</row>
 	<row id="msg_0117_D37R0102_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\nTy też jesteś nowy/a?\rMusieliśmy zwerbować nowych członków\nna misję w Wieży Radiowej.\fPotem skończyły się nam mundury.\rSłyszałem, że to studio je ma, więc\npostanowiłem jeden „pożyczyć”.\rSkoro tu jesteś, czemu też się\nnie przebierzesz?\r</language>
+		<language name="English">Huh? Ty też jesteś nowy/a?\rMusieliśmy zwerbować nowych członków\nna misję w Zamku. Potem skończyły\fsię nam mundury.\rSłyszałem, że to studio je ma, więc\npostanowiłem jeden „pożyczyć”.\rSkoro tu jesteś, czemu też się nie\nprzebierzesz?\r</language>
 	</row>
 	<row id="msg_0117_D37R0102_00037" index="37">
 		<attribute name="window_context_name">used</attribute>

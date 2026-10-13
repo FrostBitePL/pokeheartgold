@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0550_T21_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To jest morze, jak widzisz.\rNiektóre Pokémony można znaleźć\ntylko w wodzie.\r</language>
+		<language name="English">To jest krzyż pokutny. Stoi tu od\nsiedmiuset lat.\rNapis głosi: „Gdy las spłonął”.\rPodobno stawiano je za winy, których\nnie dało się zapłacić inaczej.\r</language>
 	</row>
 	<row id="msg_0550_T21_00006" index="6">
 		<attribute name="window_context_name">used</attribute>

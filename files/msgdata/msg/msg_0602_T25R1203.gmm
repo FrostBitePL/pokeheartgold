@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0602_T25R1203_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spróbuję rapu na literki, używając\nGoldenrod, wiesz?\rG... Gdzie na południe stąd jest\nIlex Forest.\rO... O ziemi nie ma mowy, gdy\nszukasz Tunelu Goldenrod.\rL... Łobuzerski wygląd w białych\nfartuchach ma Geneza.\rD... Yy... D... to... Tak, wiem,\nsłabe. Spróbuj sam!</language>
+		<language name="English">Spróbuję rapu na literki, używając\nGoldenrod, wiesz?\rG... Gdzie na południe stąd jest Las\nWostówka.\rO... O ziemi nie ma mowy, gdy\nszukasz Tunelu Goldenrod.\rL... Łobuzerski wygląd w białych\nfartuchach ma Geneza.\rD... Yy... D... to... Tak, wiem,\nsłabe. Spróbuj sam!</language>
 	</row>
 	<row id="msg_0602_T25R1203_00008" index="8">
 		<attribute name="window_context_name">used</attribute>

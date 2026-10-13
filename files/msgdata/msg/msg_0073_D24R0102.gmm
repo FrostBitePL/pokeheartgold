@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0073_D24R0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mój personel tutaj, w Centrum Badań\nnad Ruinami, jest doskonały, a\fbadania robią dobre postępy zupełnie\fbez mojego wysiłku.\rJeśli masz jakieś pytania, śmiało\nporozmawiaj z moim personelem!</language>
+		<language name="English">Mój personel tutaj, w Centrum Badań\nnad Ruinami, jest doskonały, a\fbadania robią dobre postępy zupełnie\nbez mojego wysiłku.\rFundacja Geneza hojnie dofinansowała\nwykopaliska. W zamian dostaje kopie\fwszystkich próbek. Podobno tak jest\nuczciwie.\rJeśli masz jakieś pytania, śmiało\nporozmawiaj z moim personelem!</language>
 	</row>
 	<row id="msg_0073_D24R0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -86,7 +86,7 @@
 	</row>
 	<row id="msg_0073_D24R0102_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ruins of Alph\nRok Eksploracji 10</language>
+		<language name="English">Wykopaliska Rok Eksploracji 10</language>
 	</row>
 	<row id="msg_0073_D24R0102_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
@@ -94,7 +94,7 @@
 	</row>
 	<row id="msg_0073_D24R0102_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Raport Badawczy Ruins of Alph\rDedykuję ten raport założycielowi\nCentrum Badawczego,\fProfesorowi Silktree...</language>
+		<language name="English">Raport Badawczy Wykopalisk\rDedykuję ten raport założycielowi\nCentrum Badawczego, Profesorowi\fSilktree...</language>
 	</row>
 	<row id="msg_0073_D24R0102_00024" index="24">
 		<attribute name="window_context_name">used</attribute>

@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0057_D17R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Daria: Bell Tower to miejsce, gdzie\nludzie i Pokémony sprawdzają swoje\fzaufanie.\rMoże urodziłeś/aś się z jakimś\ntalentem... Czy możemy wymienić się\fnumerami?\rBardzo chciałbym zbadać zaufanie,\njakie masz ze swoim Pokémonem. {YESNO 0}</language>
+		<language name="English">Daria: Samotna Wieża to miejsce,\ngdzie ludzie i Pokémony sprawdzają\fswoje zaufanie.\rMoże urodziłeś/aś się z jakimś\ntalentem... Czy możemy wymienić się\fnumerami?\rBardzo chciałbym zbadać zaufanie,\njakie masz ze swoim Pokémonem. {YESNO 0}</language>
 	</row>
 	<row id="msg_0057_D17R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>

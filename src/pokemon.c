@@ -5,6 +5,7 @@
 #include "constants/abilities.h"
 #include "constants/balls.h"
 #include "constants/battle.h"
+#include "constants/flags.h"
 #include "constants/items.h"
 #include "constants/map_sections.h"
 #include "constants/moves.h"
@@ -18,6 +19,8 @@
 #include "move.h"
 #include "msgdata.h"
 #include "party.h"
+#include "save.h"
+#include "save_vars_flags.h"
 #include "seal_case.h"
 #include "sound_02004A44.h"
 #include "sprite.h"
@@ -3000,6 +3003,14 @@ u16 GetMonEvolution(Party *party, Pokemon *mon, u8 context, u16 usedItem, int *m
         break;
     }
     Heap_Free(evoTable);
+    // Region Żarów: evolutions into species after Gen 1 stay locked until
+    // the player reaches Region Świdnica (Part 2).
+    if (target > SPECIES_MEW) {
+        SaveData *saveData = SaveData_Get();
+        if (saveData != NULL && !Save_VarsFlags_CheckFlagInArray(Save_VarsFlags_Get(saveData), FLAG_UNLOCKED_WEST_KANTO)) {
+            target = SPECIES_NONE;
+        }
+    }
     return target;
 }
 

@@ -2,15 +2,15 @@
 <body language="English">
 	<row id="msg_0628_T29R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lake of Rage to tak naprawdę krater\npowstały od szału GYARADOSÓW.\rKrater wypełnił się deszczówką\ni tak powstało jezioro.\rTo historia przekazywana od pradziadka\nmojego dziadka.\rKiedyś można było tam łowić\nżywe MAGIKARPY, ale...\rNie rozumiem, co się dzieje.</language>
+		<language name="English">Zalew Andrzej to tak naprawdę krater\npowstały od szału GYARADOSÓW.\rKrater wypełnił się deszczówką i tak\npowstało jezioro.\rTo historia przekazywana od\npradziadka mojego dziadka.\rKiedyś można było tam łowić żywe\nMAGIKARPY, ale...\rNie rozumiem, co się dzieje.</language>
 	</row>
 	<row id="msg_0628_T29R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lake of Rage nie jest już normalne,\nodkąd przybyli ci ludzie w czerni.</language>
+		<language name="English">Zalew Andrzej nie jest już normalny,\nodkąd przybyli ci ludzie w czerni.</language>
 	</row>
 	<row id="msg_0628_T29R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lake of Rage wróciło do normy.\nMAGIKARPY wróciły.\rMoże jeszcze spełnię moje marzenie\nzobaczenia największego MAGIKARPA na świecie.\rMasz Wędkę?\nProszę, pomóż mi, jeśli tak.</language>
+		<language name="English">Zalew Andrzej wrócił do normy.\nMAGIKARPY wróciły.\rMoże jeszcze spełnię moje marzenie\nzobaczenia największego MAGIKARPA na\fświecie.\rMasz Wędkę? Proszę, pomóż mi, jeśli\ntak.</language>
 	</row>
 	<row id="msg_0628_T29R0201_00003" index="3">
 		<attribute name="window_context_name">used</attribute>

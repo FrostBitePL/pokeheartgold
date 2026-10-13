@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0056_D15R0103_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Starszy: Pokazałeś nam, na co cię\nstać, i rzeczywiście jest dobrze...\rWeź tę Maszynę Techniczną.\rJednak powinieneś bardziej dbać\no swojego Pokémona.\rSposób, w jaki go traktujesz,\npotrafi być zbyt surowy...\rPamiętaj, Pokémony nie są\nnarzędziami wojny...\r</language>
+		<language name="English">Baildon: Pokazałeś nam, na co cię\nstać, i rzeczywiście jest dobrze...\rWeź tę Maszynę Techniczną.\rJednak powinieneś bardziej dbać o\nswojego Pokémona.\rSposób, w jaki go traktujesz,\npotrafi być zbyt surowy...\rPamiętaj, most trzyma się razem\ntylko dlatego, że każde przęsło\fniesie to drugie.\r</language>
 	</row>
 	<row id="msg_0056_D15R0103_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -14,11 +14,11 @@
 	</row>
 	<row id="msg_0056_D15R0103_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jak dobrze, że tu przyszedłeś!\rSprout Tower to miejsce treningu.\nLudzie i Pokémony sprawdzają swoje\fwięzi, by razem budować lepszą\fprzyszłość. Jestem ostatnią próbą.\rPozwól, że sprawdzę więź między\ntobą a twoim Pokémonem!\r</language>
+		<language name="English">Jak dobrze, że tu przyszedłeś!\rWodna Wieża to miejsce treningu.\nLudzie i Pokémony sprawdzają swoje\fwięzi, jak przęsła mostu. Jestem\nostatnią próbą.\rPozwól, że sprawdzę więź między tobą\na twoim Pokémonem!\r</language>
 	</row>
 	<row id="msg_0056_D15R0103_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmmm...\nTwój styl walki jest dość elegancki.\rPowinieneś być w stanie stawić\nczoła Ani.\rI powinieneś dobrze wykorzystać\nto...\rTo Maszyna Techniczna zwana Flash.\nWeź ją ze sobą!\r</language>
+		<language name="English">Hmmm... Twój styl walki jest dość\nelegancki.\rPowinieneś być w stanie stawić czoła\nAni.\rI powinieneś dobrze wykorzystać\nto...\rTo Maszyna Techniczna zwana Flash.\nWeź ją ze sobą!\r</language>
 	</row>
 	<row id="msg_0056_D15R0103_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -30,10 +30,10 @@
 	</row>
 	<row id="msg_0056_D15R0103_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To potężny obraz\nBELLSPROUT.</language>
+		<language name="English">To portret hrabiego Burghaussa,\nfundatora mostu.\rObok wisi pamiątkowy medal z dnia\notwarcia, 1796 rok.</language>
 	</row>
 	<row id="msg_0056_D15R0103_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Posąg Pokémona...\nWygląda bardzo dostojnie.</language>
+		<language name="English">Pamiątkowy medal z otwarcia mostu.\rStarsi mówią, że było ich więcej,\nale większość rozeszła się po\fokolicy.</language>
 	</row>
 </body>

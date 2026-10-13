@@ -1925,7 +1925,7 @@
 	</row>
 	<row id="msg_0221_00475" index="475">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Klucz-karta, który otwiera roletę\nw Radio Tower.</language>
+		<language name="English">Klucz-karta, który otwiera roletę w\nZamku.</language>
 	</row>
 	<row id="msg_0221_00476" index="476">
 		<attribute name="window_context_name">used</attribute>
@@ -1949,7 +1949,7 @@
 	</row>
 	<row id="msg_0221_00481" index="481">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ważna część maszyny do\nPower Plant, która została\nskradziona.</language>
+		<language name="English">Ważna część maszyny do Elektrowni,\nktóra została skradziona.</language>
 	</row>
 	<row id="msg_0221_00482" index="482">
 		<attribute name="window_context_name">used</attribute>

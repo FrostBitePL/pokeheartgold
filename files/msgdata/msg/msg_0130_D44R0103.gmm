@@ -82,7 +82,7 @@
 	</row>
 	<row id="msg_0130_D44R0103_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nawiasem mówiąc...\nSłyszałeś/aś o LUGII?\rTo Pokémon, który podobno kiedyś\nżył w okolicach Whirl Islands...\f...Nieważne.\rTo tylko szalone słowa starca.\n</language>
+		<language name="English">Nawiasem mówiąc... Słyszałeś/aś o\nLUGII?\rTo Pokémon, który podobno kiedyś żył\nw okolicach Wysp na Zalewie...\f...Nieważne.\rTo tylko szalone słowa starca.</language>
 	</row>
 	<row id="msg_0130_D44R0103_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
