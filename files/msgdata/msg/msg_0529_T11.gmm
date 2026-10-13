@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0529_T11_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chrup... Żuj...\rKierownik Power Plant był kiedyś\nnaprawiaczem w małej fabryce.\rŻuj... Żuj...\rDzięki ciężkiej pracy piął się\nw górę, aż w końcu został\fkierownikiem Power Plant.\fŻuj... Łyk...\rCałkiem imponujące, nie sądzisz?\nHaaa, jestem najedzony/a!</language>
+		<language name="English">Chrup... Żuj...\rKierownik Elektrowni był kiedyś\nnaprawiaczem w małej fabryce.\rŻuj... Żuj...\rDzięki ciężkiej pracy piął się w\ngórę, aż w końcu został kierownikiem\fElektrowni. Żuj... Łyk...\rCałkiem imponujące, nie sądzisz?\nHaaa, jestem najedzony/a!</language>
 	</row>
 	<row id="msg_0529_T11_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -34,7 +34,7 @@
 	</row>
 	<row id="msg_0529_T11_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Przybyłeś/aś z Regionu Żarów?\rMożesz szybko wrócić do domu,\nwsiadając do Magnet Train.</language>
+		<language name="English">Przybyłeś/aś z Regionu Żarów?\rMożesz szybko wrócić do domu,\nwsiadając do Kolei Magnetycznej.</language>
 	</row>
 	<row id="msg_0529_T11_00009" index="9">
 		<attribute name="window_context_name">used</attribute>

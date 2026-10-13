@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0532_T11PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Właśnie przechodziłem/-am przez\nRock Tunnel. W Power Plant\fdziało się jakieś zamieszanie.</language>
+		<language name="English">Właśnie przechodziłem/-am przez\nPrzełęcz Sowią. W Elektrowni działo\fsię jakieś zamieszanie.</language>
 	</row>
 	<row id="msg_0532_T11PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,6 +14,6 @@
 	</row>
 	<row id="msg_0532_T11PC0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Główna siedziba Silph Co. i\nstacja Magnet Train--\fto miejsca, które trzeba zobaczyć\fw Świdnicy.</language>
+		<language name="English">Główna siedziba Silph Co. i stacja\nKolei Magnetycznej-- to miejsca,\fktóre trzeba zobaczyć w Świdnicy.</language>
 	</row>
 </body>

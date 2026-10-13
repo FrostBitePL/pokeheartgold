@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0342_R10PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ostatnim razem, gdy byłem w pobliżu\nPower Plant, słyszałem, jak ktoś\fkrzyczał: „O nie, to musi być\fzłodziej!”\rMyślę, że to był głos Kierownika.</language>
+		<language name="English">Ostatnim razem, gdy byłem w pobliżu\nElektrowni, słyszałem, jak ktoś\fkrzyczał: „O nie, to musi być\nzłodziej!”\rMyślę, że to był głos Kierownika.</language>
 	</row>
 	<row id="msg_0342_R10PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,6 +14,6 @@
 	</row>
 	<row id="msg_0342_R10PC0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nie widać go stąd, ale na południe\nod tego Centrum Pokémon jest\fPower Plant!</language>
+		<language name="English">Nie widać go stąd, ale na południe\nod tego Centrum Pokémon jest\fElektrownia!</language>
 	</row>
 </body>

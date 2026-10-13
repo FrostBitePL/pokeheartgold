@@ -6,11 +6,11 @@
 	</row>
 	<row id="msg_0570_T23R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SLOWPOKE wróciły...\rAle moje FARFETCH’D nie wróciły.\nMój uczeń poszedł ich szukać\fdo Ilex Forest.\rMinęło już mnóstwo czasu.\nGdzie u licha jest ten leniwiec?</language>
+		<language name="English">SLOWPOKE wróciły...\rAle moje FARFETCH’D nie wróciły. Mój\nuczeń poszedł ich szukać do Lasu\fWostówka.\rMinęło już mnóstwo czasu. Gdzie u\nlicha jest ten leniwiec?</language>
 	</row>
 	<row id="msg_0570_T23R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Przegoniłeś laborantów i sam\nposzedłeś do Ilex Forest? To wymaga\fodwagi!\rPodoba mi się to. Chodź trenować z\nnami.</language>
+		<language name="English">Przegoniłeś laborantów i sam\nposzedłeś do Lasu Wostówka? To\fwymaga odwagi!\rPodoba mi się to. Chodź trenować z\nnami.</language>
 	</row>
 	<row id="msg_0570_T23R0201_00003" index="3">
 		<attribute name="window_context_name">used</attribute>

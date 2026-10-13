@@ -42,7 +42,7 @@
 	</row>
 	<row id="msg_0452_T02_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Witaj w Viridian City,\nBramie do Indigo Plateau!</language>
+		<language name="English">Witaj w Viridian City, Bramie do\nPłaskowyżu!</language>
 	</row>
 	<row id="msg_0452_T02_00011" index="11">
 		<attribute name="window_context_name">used</attribute>

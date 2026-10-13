@@ -2,22 +2,22 @@
 <body language="English">
 	<row id="msg_0054_D15R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tylko ci, którzy dotrą na szczyt,\notrzymają wspaniały atak.</language>
+		<language name="English">Tylko ci, którzy dotrą na szczyt,\ndostaną od mistrza wspaniały atak.\rBractwo pilnuje ostatniego przęsła.</language>
 	</row>
 	<row id="msg_0054_D15R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sprout Tower została zbudowana\ndawno temu jako miejsce\ftreningu Pokémonów.</language>
+		<language name="English">Wodną Wieżę zbudowano przy moście,\nktóry stał tu sto pięćdziesiąt lat,\fzanim go wysadzono.\rDziś Bractwo Mostu szkoli tu\nTrenerów.</language>
 	</row>
 	<row id="msg_0054_D15R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BELLSPROUT wysoki na ponad 30 metrów...\rLudzie mówią, że stał się\nśrodkowym filarem tego miejsca.</language>
+		<language name="English">Mówią, że ostatnie przęsło wmurowano\nw środkowy filar.\rLudzie mówią, że sięga ponad\ntrzydzieści metrów...</language>
 	</row>
 	<row id="msg_0054_D15R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Widzisz, jak drży filar?\rLudzie trenują na górze.</language>
+		<language name="English">Widzisz, jak drży filar? To rzeka\npod nim.\rLudzie trenują na górze.</language>
 	</row>
 	<row id="msg_0054_D15R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Posąg Pokémona...\rWygląda bardzo dostojnie.</language>
+		<language name="English">Portret hrabiego Burghaussa,\nfundatora mostu.\rPatrzy surowo, jakby sprawdzał, czy\nnie rysujesz po ścianach.</language>
 	</row>
 </body>

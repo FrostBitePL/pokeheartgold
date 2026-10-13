@@ -26,7 +26,7 @@
 	</row>
 	<row id="msg_0069_D23R0105_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dyrektor: Witaj, to ty! Wiesz,\nnaprawdę kocham Pokémony.\rZbudowałem tę Wieżę Radiową tylko po\nto, by wyrazić moją miłość do nich.\rByłoby miło, gdyby ludzie cieszyli\nsię naszymi programami.</language>
+		<language name="English">Dyrektor: Witaj, to ty! Wiesz,\nnaprawdę kocham Pokémony.\rZbudowałem ten Zamek tylko po to, by\nwyrazić moją miłość do nich.\rByłoby miło, gdyby ludzie cieszyli\nsię naszymi programami.</language>
 	</row>
 	<row id="msg_0069_D23R0105_00007" index="7">
 		<attribute name="window_context_name">used</attribute>

@@ -54,11 +54,11 @@
 	</row>
 	<row id="msg_0641_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Och. Cześć, {STRVAR_1 3, 0, 0}!\nJak leci?\rAjć! To nie czas na to, bym rzucała\ngłupimi żartobliwymi powitaniami!\rRadio Tower ma poważne kłopoty!\n{STRVAR_1 3, 0, 0}, lepiej uważaj!</language>
+		<language name="English">Och. Cześć, {STRVAR_1 3, 0, 0}! Jak leci?\rAjć! To nie czas na to, bym rzucała\ngłupimi żartobliwymi powitaniami!\rZamek ma poważne kłopoty! {STRVAR_1 3, 0, 0},\nlepiej uważaj!</language>
 	</row>
 	<row id="msg_0641_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Och. Cześć, {STRVAR_1 3, 0, 0}!\nJak leci?\rAjć! To nie czas na to, bym rzucała\ngłupimi żartobliwymi powitaniami!\rRadio Tower ma poważne kłopoty!\n{STRVAR_1 3, 0, 0}, lepiej uważaj!</language>
+		<language name="English">Och. Cześć, {STRVAR_1 3, 0, 0}! Jak leci?\rAjć! To nie czas na to, bym rzucała\ngłupimi żartobliwymi powitaniami!\rZamek ma poważne kłopoty! {STRVAR_1 3, 0, 0},\nlepiej uważaj!</language>
 	</row>
 	<row id="msg_0641_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
@@ -90,7 +90,7 @@
 	</row>
 	<row id="msg_0641_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Znasz recepcjonistkę w Radio\nTower?\r„Witamy” to jedyne, co kiedykolwiek\nmówi.\rAle tak naprawdę jest najbardziej\ngadatliwą osobą w Radio Tower.\rWięc musi się powstrzymywać.\nCzy to nie ciekawe?\rDo zobaczenia!</language>
+		<language name="English">Znasz recepcjonistkę w Zamku?\r„Witamy” to jedyne, co kiedykolwiek\nmówi.\rAle tak naprawdę jest najbardziej\ngadatliwą osobą w Zamku.\rWięc musi się powstrzymywać. Czy to\nnie ciekawe?\rDo zobaczenia!</language>
 	</row>
 	<row id="msg_0641_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
@@ -118,7 +118,7 @@
 	</row>
 	<row id="msg_0641_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zgadnij co? Dyrektor Radio Tower\njest wielkim fanem telewizji!\rJakiś czas temu w pokazie mody\nw telewizji powiedzieli, że brązowe\fgarnitury są modne.\rTeraz nosi wyłącznie brązowe garnitury.\rAle to tajemnica, że nasz Dyrektor jest\nfanem telewizji, więc jeśli go zobaczysz,\fani się waż o tym wspominać!\rOch! Dyrektor zaraz tu będzie!\nDo zobaczenia! Słuchaj mojego programu!</language>
+		<language name="English">Zgadnij co? Dyrektor Zamku jest\nwielkim fanem telewizji!\rJakiś czas temu w pokazie mody w\ntelewizji powiedzieli, że brązowe\fgarnitury są modne.\rTeraz nosi wyłącznie brązowe\ngarnitury.\rAle to tajemnica, że nasz Dyrektor\njest fanem telewizji, więc jeśli go\fzobaczysz, ani się waż o tym\nwspominać!\rOch! Dyrektor zaraz tu będzie! Do\nzobaczenia! Słuchaj mojego programu!</language>
 	</row>
 	<row id="msg_0641_00030" index="30">
 		<attribute name="window_context_name">used</attribute>

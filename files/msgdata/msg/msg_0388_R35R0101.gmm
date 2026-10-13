@@ -54,7 +54,7 @@
 	</row>
 	<row id="msg_0388_R35R0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nie mogę uwierzyć, że taka mała\nzmiana zamienia Pokégear w radio!\rOch, twój Pokégear jeszcze nie ma\ntej funkcji?\rSzkoda!\rNa recepcji Wieży Radiowej na\npierwszym piętrze urządzają quizy.\rJeśli poprawnie odpowiesz, dadzą\nci Kartę Radiową!\rLepiej spróbuj, póki jeszcze\njakieś zostały!</language>
+		<language name="English">Nie mogę uwierzyć, że taka mała\nzmiana zamienia Pokégear w radio!\rOch, twój Pokégear jeszcze nie ma\ntej funkcji?\rSzkoda!\rNa recepcji Zamku na pierwszym\npiętrze urządzają quizy.\rJeśli poprawnie odpowiesz, dadzą ci\nKartę Radiową!\rLepiej spróbuj, póki jeszcze jakieś\nzostały!</language>
 	</row>
 	<row id="msg_0388_R35R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>

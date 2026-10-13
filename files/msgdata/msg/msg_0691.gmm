@@ -66,19 +66,19 @@
 	</row>
 	<row id="msg_0691_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Słyszałem, słyszałem, słyszałem!\rO twoim heroicznym wyzwoleniu\nRadio Tower! Jesteś tak zajefajny!\rPo prostu chciałem się upewnić, że\nwiesz, że jesteś niesamowity!\rZadzwonię później!</language>
+		<language name="English">Słyszałem, słyszałem, słyszałem!\rO twoim heroicznym wyzwoleniu Zamku!\nJesteś tak zajefajny!\rPo prostu chciałem się upewnić, że\nwiesz, że jesteś niesamowity!\rZadzwonię później!</language>
 	</row>
 	<row id="msg_0691_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Słyszałem, słyszałem, słyszałem!\rO twoim heroicznym wyzwoleniu\nRadio Tower! Jesteś tak zajefajny!\rPo prostu chciałem się upewnić, że\nwiesz, że jesteś niesamowity!\rZadzwonię później!</language>
+		<language name="English">Słyszałem, słyszałem, słyszałem!\rO twoim heroicznym wyzwoleniu Zamku!\nJesteś tak zajefajny!\rPo prostu chciałem się upewnić, że\nwiesz, że jesteś niesamowity!\rZadzwonię później!</language>
 	</row>
 	<row id="msg_0691_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Widziałem, widziałem, widziałem cię,\n{STRVAR_1 3, 0, 0}! Widziałem, jak wchodzisz\ndo Dragon’s Den!\rJestem pewny, że zdałeś! Aww, nie musisz\nbyć skromny! Nie możesz zawieść!\rZadzwonię później!</language>
+		<language name="English">Widziałem, widziałem, widziałem cię,\n{STRVAR_1 3, 0, 0}! Widziałem, jak wchodzisz\fdo Smoczej Studni!\rJestem pewny, że zdałeś! Aww, nie\nmusisz być skromny! Nie możesz\fzawieść!\rZadzwonię później!</language>
 	</row>
 	<row id="msg_0691_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Widziałem, widziałem, widziałem cię,\n{STRVAR_1 3, 0, 0}! Widziałem, jak wchodzisz\ndo Dragon’s Den!\rJestem pewny, że zdałeś! Aww, nie musisz\nbyć skromny! Nie możesz zawieść!\rZadzwonię później!</language>
+		<language name="English">Widziałem, widziałem, widziałem cię,\n{STRVAR_1 3, 0, 0}! Widziałem, jak wchodzisz\fdo Smoczej Studni!\rJestem pewny, że zdałeś! Aww, nie\nmusisz być skromny! Nie możesz\fzawieść!\rZadzwonię później!</language>
 	</row>
 	<row id="msg_0691_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
@@ -98,11 +98,11 @@
 	</row>
 	<row id="msg_0691_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Słyszałem, słyszałem!\rDostałeś Bilet na Magnet Train!\rGdy widziałem, jak odpływasz statkiem,\nzrobiło mi się smutno, że nie będę mógł\fzobaczyć cię przez jakiś czas.\rAle skoro masz ten Bilet, możesz\nwrócić błyskawicznie kiedy chcesz!\fTo takie uspokajające!\rCo? Możesz wrócić Lotem kiedy chcesz?\rCo masz na myśli, mówiąc Lot?\rZadzwonię później!</language>
+		<language name="English">Słyszałem, słyszałem!\rDostałeś Bilet na Kolei\nMagnetycznej!\rGdy widziałem, jak odpływasz\nstatkiem, zrobiło mi się smutno, że\fnie będę mógł zobaczyć cię przez\njakiś czas.\rAle skoro masz ten Bilet, możesz\nwrócić błyskawicznie kiedy chcesz!\fTo takie uspokajające!\rCo? Możesz wrócić Lotem kiedy\nchcesz?\rCo masz na myśli, mówiąc Lot?\rZadzwonię później!</language>
 	</row>
 	<row id="msg_0691_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Słyszałem, słyszałem!\rDostałeś Bilet na Magnet Train!\rGdy widziałem, jak odpływasz statkiem,\nzrobiło mi się smutno, że nie będę mógł\fzobaczyć cię przez jakiś czas.\rAle skoro masz ten Bilet, możesz\nwrócić błyskawicznie kiedy chcesz!\fTo takie uspokajające!\rCo? Możesz wrócić Lotem kiedy chcesz?\rCo masz na myśli, mówiąc Lot?\rZadzwonię później!</language>
+		<language name="English">Słyszałem, słyszałem!\rDostałeś Bilet na Kolei\nMagnetycznej!\rGdy widziałem, jak odpływasz\nstatkiem, zrobiło mi się smutno, że\fnie będę mógł zobaczyć cię przez\njakiś czas.\rAle skoro masz ten Bilet, możesz\nwrócić błyskawicznie kiedy chcesz!\fTo takie uspokajające!\rCo? Możesz wrócić Lotem kiedy\nchcesz?\rCo masz na myśli, mówiąc Lot?\rZadzwonię później!</language>
 	</row>
 	<row id="msg_0691_00026" index="26">
 		<attribute name="window_context_name">used</attribute>

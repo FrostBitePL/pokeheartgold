@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0326_R03_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Przed tobą Mt. Moon.\rMt. Moon Square znajduje się\nna drodze na szczyt!</language>
+		<language name="English">Przed tobą Stara Kopalnia.\rMt. Moon Square znajduje się na\ndrodze na szczyt!</language>
 	</row>
 	<row id="msg_0326_R03_00001" index="1">
 		<attribute name="window_context_name">used</attribute>

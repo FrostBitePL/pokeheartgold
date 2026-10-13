@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0345_R10R0202_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Złodziej włamał się do Power Plant...\nDo czego zmierza ten świat?</language>
+		<language name="English">Złodziej włamał się do Elektrowni...\nDo czego zmierza ten świat?</language>
 	</row>
 	<row id="msg_0345_R10R0202_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -22,15 +22,15 @@
 	</row>
 	<row id="msg_0345_R10R0202_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ta Power Plant była kiedyś opuszczona.\rPrzywróciliśmy ją do działania,\nżeby zasilać Magnet Train.</language>
+		<language name="English">Ta Elektrownia była kiedyś\nopuszczona.\rPrzywróciliśmy ją do działania, żeby\nzasilać Kolej Magnetyczną.</language>
 	</row>
 	<row id="msg_0345_R10R0202_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kierownik Power Plant jest tam\nz przodu.\rAle odkąd ktoś zniszczył generator,\njest zarówno smutny, jak i chwilami\fwściekły...\rCzasem wybucha śmiechem z\nrozpaczy.\fTyle musieliśmy przez to przejść...</language>
+		<language name="English">Kierownik Elektrowni jest tam z\nprzodu.\rAle odkąd ktoś zniszczył generator,\njest zarówno smutny, jak i chwilami\fwściekły...\rCzasem wybucha śmiechem z rozpaczy.\nTyle musieliśmy przez to przejść...</language>
 	</row>
 	<row id="msg_0345_R10R0202_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Magnet Train zużywa mnóstwo\nprądu.\rNie może jeździć, jeśli nowy\ngenerator nie działa.</language>
+		<language name="English">Kolej Magnetyczna zużywa mnóstwo\nprądu.\rNie może jeździć, jeśli nowy\ngenerator nie działa.</language>
 	</row>
 	<row id="msg_0345_R10R0202_00008" index="8">
 		<attribute name="window_context_name">used</attribute>

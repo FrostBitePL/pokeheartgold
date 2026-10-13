@@ -112,15 +112,15 @@
 	</row>
 	<row id="msg_0115_D36R0101_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Porady dla Trenerów!\rIlex Forest jest tak zarośnięty\ndrzewami, że nie widać nieba.\rUważaj na przedmioty, które mogły\nzostać upuszczone.</language>
+		<language name="English">Porady dla Trenerów!\rLas Wostówka jest tak zarośnięty\ndrzewami, że nie widać nieba.\rUważaj na przedmioty, które mogły\nzostać upuszczone.</language>
 	</row>
 	<row id="msg_0115_D36R0101_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Świątynia Ilex Forest...\rTo hołd dla opiekuna lasu...</language>
+		<language name="English">Świątynia Lasu Wostówka...\rTo hołd dla opiekuna lasu...</language>
 	</row>
 	<row id="msg_0115_D36R0101_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dziewczyna w Kimonie, Dziewczyna\nw Kimonie, zgubiona i samotna.\fBiedna dziewczyna zgubiona w mrocznym\fIlex Forest.\r</language>
+		<language name="English">Dziewczyna w Kimonie, Dziewczyna w\nKimonie, zgubiona i samotna. Biedna\fdziewczyna zgubiona w mrocznym Lesie\nWostówka.\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00030" index="30">
 		<attribute name="window_context_name">used</attribute>

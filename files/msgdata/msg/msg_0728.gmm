@@ -1650,7 +1650,7 @@
 	</row>
 	<row id="msg_0728_00412" index="412">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Słyszałem, że CLEFAIRY\npokazują się na Mt. Moon.\nAle gdzie mogłyby być?\n</language>
+		<language name="English">Słyszałem, że CLEFAIRY pokazują się\nna Starej Kopalni. Ale gdzie mogłyby\fbyć?</language>
 	</row>
 	<row id="msg_0728_00413" index="413">
 		<attribute name="window_context_name">used</attribute>
@@ -1726,11 +1726,11 @@
 	</row>
 	<row id="msg_0728_00431" index="431">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jak działa Magnet Train?\r</language>
+		<language name="English">Jak działa Kolej Magnetyczna?\r</language>
 	</row>
 	<row id="msg_0728_00432" index="432">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chciałbym mieć szansę\nzobaczyć Magnet Train...\n</language>
+		<language name="English">Chciałbym mieć szansę zobaczyć Kolej\nMagnetyczną...</language>
 	</row>
 	<row id="msg_0728_00433" index="433">
 		<attribute name="window_context_name">used</attribute>
@@ -1774,7 +1774,7 @@
 	</row>
 	<row id="msg_0728_00443" index="443">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mt. Silver jest w Regionie Żarów,\nprawda?\rTo musi być srebrna góra!\r</language>
+		<language name="English">Ślęża jest w Regionie Żarów, prawda?\rTo musi być srebrna góra!\r</language>
 	</row>
 	<row id="msg_0728_00444" index="444">
 		<attribute name="window_context_name">used</attribute>
@@ -2442,7 +2442,7 @@
 	</row>
 	<row id="msg_0728_00610" index="610">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">By dotrzeć do Ligi Pokémon,\nmusisz przejść przez Victory\fRoad.\rAle Victory Road jest trudna.\nPraktycznie nikt tam nie chodzi!\n</language>
+		<language name="English">By dotrzeć do Ligi Pokémon, musisz\nprzejść przez Trakt Mistrzów.\rAle Trakt Mistrzów jest trudny.\nPraktycznie nikt tam nie chodzi!</language>
 	</row>
 	<row id="msg_0728_00611" index="611">
 		<attribute name="window_context_name">used</attribute>
@@ -3294,7 +3294,7 @@
 	</row>
 	<row id="msg_0728_00823" index="823">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sekret o Whirl Islands...\nW środku jest całkowita\nciemność!\n</language>
+		<language name="English">Sekret o Wyspach na Zalewie... W\nśrodku jest całkowita ciemność!</language>
 	</row>
 	<row id="msg_0728_00824" index="824">
 		<attribute name="window_context_name">used</attribute>
@@ -3386,7 +3386,7 @@
 	</row>
 	<row id="msg_0728_00846" index="846">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jak wygląda druga strona\nMt. Mortar, wiesz?\rJeśli zdołasz mnie pokonać,\npowiem ci.\r</language>
+		<language name="English">Jak wygląda druga strona Góry\nKrzyżowej, wiesz?\rJeśli zdołasz mnie pokonać, powiem\nci.\r</language>
 	</row>
 	<row id="msg_0728_00847" index="847">
 		<attribute name="window_context_name">used</attribute>
@@ -3394,7 +3394,7 @@
 	</row>
 	<row id="msg_0728_00848" index="848">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Powiedziałem całkiem\nprzesadne kłamstwo. Przepraszam!\rJest tam ogromny wodospad na\ndrodze, więc nigdy nie byłem po\fdrugiej stronie Mt. Mortar!\n</language>
+		<language name="English">Powiedziałem całkiem przesadne\nkłamstwo. Przepraszam!\rJest tam ogromny wodospad na drodze,\nwięc nigdy nie byłem po drugiej\fstronie Góry Krzyżowej!</language>
 	</row>
 	<row id="msg_0728_00849" index="849">
 		<attribute name="window_context_name">used</attribute>
@@ -3618,7 +3618,7 @@
 	</row>
 	<row id="msg_0728_00904" index="904">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wrócę do Ice Path w\nPożarzysku i potrenuję jeszcze\ntrochę.\n</language>
+		<language name="English">Wrócę do Białej Kopalni w Pożarzysku\ni potrenuję jeszcze trochę.</language>
 	</row>
 	<row id="msg_0728_00905" index="905">
 		<attribute name="window_context_name">used</attribute>
@@ -3850,7 +3850,7 @@
 	</row>
 	<row id="msg_0728_00962" index="962">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Koniec ze statkami dla\nmnie. Następnym razem wezmę\nMagnet Train.\n</language>
+		<language name="English">Koniec ze statkami dla mnie.\nNastępnym razem wezmę Kolej\fMagnetyczną.</language>
 	</row>
 	<row id="msg_0728_00963" index="963">
 		<attribute name="window_context_name">used</attribute>
@@ -4022,7 +4022,7 @@
 	</row>
 	<row id="msg_0728_01005" index="1005">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Idę przesłuchać moje piosenki\nw Radio Tower w Żarowie.\r</language>
+		<language name="English">Idę przesłuchać moje piosenki w\nZamku w Żarowie.\r</language>
 	</row>
 	<row id="msg_0728_01006" index="1006">
 		<attribute name="window_context_name">used</attribute>
@@ -4030,7 +4030,7 @@
 	</row>
 	<row id="msg_0728_01007" index="1007">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A tak przy Radio Tower,\njakie jest dzisiejsze hasło Bueny?\n</language>
+		<language name="English">A tak przy Zamku, jakie jest\ndzisiejsze hasło Bueny?</language>
 	</row>
 	<row id="msg_0728_01008" index="1008">
 		<attribute name="window_context_name">used</attribute>
@@ -4178,7 +4178,7 @@
 	</row>
 	<row id="msg_0728_01044" index="1044">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tak dobrze, że tu\nprzybyłeś!\rSprout Tower to miejsce\ntreningu. Ludzie i Pokémony\ftestują swoje więzi, by budować\njasną przyszłość razem.\fJestem ostatnim testem.\rPozwól mi sprawdzić więzy\nmiędzy tobą a twoim Pokémonem!</language>
+		<language name="English">Tak dobrze, że tu przybyłeś!\rWodna Wieża to miejsce treningu.\nLudzie i Pokémony testują swoje\fwięzi, by budować jasną przyszłość\nrazem. Jestem ostatnim testem.\rPozwól mi sprawdzić więzy między\ntobą a twoim Pokémonem!</language>
 	</row>
 	<row id="msg_0728_01045" index="1045">
 		<attribute name="window_context_name">used</attribute>
@@ -4190,7 +4190,7 @@
 	</row>
 	<row id="msg_0728_01047" index="1047">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ćwiczę moje oddychanie\nogniem w Burned Tower! Nie\fpróbuj tego w domu!\r</language>
+		<language name="English">Ćwiczę moje oddychanie ogniem w\nSpalonym Pałacu! Nie próbuj tego w\fdomu!\r</language>
 	</row>
 	<row id="msg_0728_01048" index="1048">
 		<attribute name="window_context_name">used</attribute>
@@ -4394,7 +4394,7 @@
 	</row>
 	<row id="msg_0728_01098" index="1098">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wyśmienicie!\rTo Radio Tower spełni\nnasz wielki plan.\r</language>
+		<language name="English">Wyśmienicie!\rTo Zamek spełni nasz wielki plan.\r</language>
 	</row>
 	<row id="msg_0728_01099" index="1099">
 		<attribute name="window_context_name">used</attribute>

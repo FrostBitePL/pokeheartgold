@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0070_D23R0106_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chwalibóg: Och? Udało ci się zajść\naż tutaj...?\fMusisz być niezłym Trenerem.\rZamierzamy przejąć tę Wieżę Radiową\ni oficjalnie ogłosić nasz powrót.\rTo powinno sprowadzić naszego szefa\nGiovanniego z jego samotnego treningu.\rOdzyskamy naszą dawną\nchwałę...\rNie pozwolę ci ingerować w nasze\nskrupulatne plany!\r</language>
+		<language name="English">Chwalibóg: Och? Udało ci się zajść\naż tutaj...? Musisz być niezłym\fTrenerem.\rZamierzamy przejąć ten Zamek i\noficjalnie ogłosić nasz powrót.\rTo powinno sprowadzić naszego szefa\nGiovanniego z jego samotnego\ftreningu.\rOdzyskamy naszą dawną chwałę...\rNie pozwolę ci ingerować w nasze\nskrupulatne plany!\r</language>
 	</row>
 	<row id="msg_0070_D23R0106_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -22,11 +22,11 @@
 	</row>
 	<row id="msg_0070_D23R0106_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kiedyś stała tutaj wieża.\rGdy zastąpiono ją Wieżą Radiową, to\nTęczowe Skrzydło znaleziono na jej\fszczycie.\rSłyszałem od przyjaciela z Domanic,\n że możesz wspiąć się na Wieżę\fDzwonów w Mrowinach, gdy masz\fTęczowe Skrzydło.\rMuszę wracać do biura.\nDo zobaczenia!\r</language>
+		<language name="English">Kiedyś stała tutaj wieża.\rGdy zastąpiono ją Zamkiem, to\nTęczowe Skrzydło znaleziono na jej\fszczycie.\rSłyszałem od przyjaciela z Domanic,\nże możesz wspiąć się na Wieżę\fDzwonów w Mrowinach, gdy masz\nTęczowe Skrzydło.\rMuszę wracać do biura. Do\nzobaczenia!\r</language>
 	</row>
 	<row id="msg_0070_D23R0106_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kiedyś stała tutaj wieża.\rGdy zastąpiono ją Wieżą Radiową, to\nSrebrne Skrzydło znaleziono na jej\fszczycie.\rSłyszałem od przyjaciela z Domanic,\n że możesz zejść do jaskini na\fWhirl Islands, gdy masz\fSrebrne Skrzydło.\rMuszę wracać do biura.\nDo zobaczenia!\r</language>
+		<language name="English">Kiedyś stała tutaj wieża.\rGdy zastąpiono ją Zamkiem, to\nSrebrne Skrzydło znaleziono na jej\fszczycie.\rSłyszałem od przyjaciela z Domanic,\nże możesz zejść do jaskini na\fWyspach na Zalewie, gdy masz Srebrne\nSkrzydło.\rMuszę wracać do biura. Do\nzobaczenia!\r</language>
 	</row>
 	<row id="msg_0070_D23R0106_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -34,7 +34,7 @@
 	</row>
 	<row id="msg_0070_D23R0106_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Och, prawie zapomniałem!\rWedług mojego przyjaciela z Domanic,\n legendarny Pokémon się nie pojawi,\fjeśli po prostu zejdziesz do jaskini\fna Whirl Islands z samym tym\fSrebrnym Skrzydłem.\rWygląda na to, że potrzebujesz\njeszcze czegoś innego... Czy jakoś tak.\rCiekawe, co to było...\rNie pamiętam.\r</language>
+		<language name="English">Och, prawie zapomniałem!\rWedług mojego przyjaciela z Domanic,\nlegendarny Pokémon się nie pojawi,\fjeśli po prostu zejdziesz do jaskini\nna Wyspach na Zalewie z samym tym\fSrebrnym Skrzydłem.\rWygląda na to, że potrzebujesz\njeszcze czegoś innego... Czy jakoś\ftak.\rCiekawe, co to było...\rNie pamiętam.\r</language>
 	</row>
 	<row id="msg_0070_D23R0106_00009" index="9">
 		<attribute name="window_context_name">used</attribute>

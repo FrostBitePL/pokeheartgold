@@ -56,7 +56,7 @@
 	</row>
 	<row id="msg_0620_T28_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Widziałeś/aś tego faceta w czarnej\npelerynie?\rKrąży tam i z powrotem między tym\nmiejscem a Lake of Rage, mówiąc,\fże są nadawane dziwne fale radiowe.\rCiekawe, kim on jest.\n</language>
+		<language name="English">Widziałeś/aś tego faceta w czarnej\npelerynie?\rKrąży tam i z powrotem między tym\nmiejscem a Zalew Andrzej, mówiąc, że\fsą nadawane dziwne fale radiowe.\rCiekawe, kim on jest.</language>
 	</row>
 	<row id="msg_0620_T28_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -64,7 +64,7 @@
 	</row>
 	<row id="msg_0620_T28_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MAGIKARP wróciły do\nLake of Rage.\rTo powinna być świetna wiadomość\ndla tamtejszych wędkarzy.</language>
+		<language name="English">MAGIKARP wróciły do Zalewu Andrzej.\rTo powinna być świetna wiadomość dla\ntamtejszych wędkarzy.</language>
 	</row>
 	<row id="msg_0620_T28_00016" index="16">
 		<attribute name="window_context_name">used</attribute>

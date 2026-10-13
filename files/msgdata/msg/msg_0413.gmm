@@ -54,7 +54,7 @@
 	</row>
 	<row id="msg_0413_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kroniki Żarowskie: Akta Numer Dwa\nNasza Ekipa Radiowa to widziała! Słyszała!\nOgromny cień Pokémona pływa wokół\nWhirl Islands!\nCzy to legendarny Pokémon?\nCzy to nowy gatunek Pokémona?\nTen program przyjrzy się bliżej tego\nrodzaju sprawom, prowadząc dokładne\nśledztwo.\nZapraszamy do słuchania!</language>
+		<language name="English">Kroniki Żarowskie: Akta Numer Dwa\nNasza Ekipa Radiowa to widziała!\fSłyszała! Ogromny cień Pokémona\npływa wokół Wysp na Zalewie! Czy to\flegendarny Pokémon? Czy to nowy\ngatunek Pokémona? Ten program\fprzyjrzy się bliżej tego rodzaju\nsprawom, prowadząc dokładne\fśledztwo. Zapraszamy do słuchania!</language>
 	</row>
 	<row id="msg_0413_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
@@ -62,7 +62,7 @@
 	</row>
 	<row id="msg_0413_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kroniki Żarowskie: Akta Numer Cztery\nNasza Ekipa Radiowa to widziała! Słyszała!\nW środku nocy, bezzałogowy Magnet Train\nwjechał na stację Żarów!\nCzy to pociąg widmo?\nCzy to po prostu odbicie pociągu?\nTen program przyjrzy się bliżej tego\nrodzaju sprawom, prowadząc dokładne\nśledztwo.\nZapraszamy do słuchania!</language>
+		<language name="English">Kroniki Żarowskie: Akta Numer Cztery\nNasza Ekipa Radiowa to widziała!\fSłyszała! W środku nocy, bezzałogowy\nKolej Magnetyczna wjechał na stację\fŻarów! Czy to pociąg widmo? Czy to\npo prostu odbicie pociągu? Ten\fprogram przyjrzy się bliżej tego\nrodzaju sprawom, prowadząc dokładne\fśledztwo. Zapraszamy do słuchania!</language>
 	</row>
 	<row id="msg_0413_00016" index="16">
 		<attribute name="window_context_name">used</attribute>

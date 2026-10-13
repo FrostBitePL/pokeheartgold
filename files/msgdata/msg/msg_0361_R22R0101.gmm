@@ -6,15 +6,15 @@
 	</row>
 	<row id="msg_0361_R22R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ta droga prowadzi na\nMt. Silver.\rZobaczysz tam przerażająco silne\nPokémony.\fNie jesteś na to gotowy/a.</language>
+		<language name="English">Ta droga prowadzi na Ślężę.\rZobaczysz tam przerażająco silne\nPokémony. Nie jesteś na to gotowy/a.</language>
 	</row>
 	<row id="msg_0361_R22R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ta droga prowadzi na\nMt. Silver.\rZobaczysz tam przerażająco silne\nPokémony.\fNie jesteś na to gotowy/a.\r</language>
+		<language name="English">Ta droga prowadzi na Ślężę.\rZobaczysz tam przerażająco silne\nPokémony. Nie jesteś na to gotowy/a.\r</language>
 	</row>
 	<row id="msg_0361_R22R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ta droga prowadzi na\nMt. Silver.\rZobaczysz tam przerażająco silne\nPokémony.\rAle powinno ci nic nie grozić.\nTylko uważaj na siebie.</language>
+		<language name="English">Ta droga prowadzi na Ślężę.\rZobaczysz tam przerażająco silne\nPokémony.\rAle powinno ci nic nie grozić. Tylko\nuważaj na siebie.</language>
 	</row>
 	<row id="msg_0361_R22R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -26,7 +26,7 @@
 	</row>
 	<row id="msg_0361_R22R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Na zachód do Mt. Silver.\nNa wschód do Regionu Świdnica.\rNa północ do Elitarnej Czwórki!\nAle to już powinieneś/aś wiedzieć,\fskoro pokonałeś/aś Mistrza!</language>
+		<language name="English">Na zachód do Ślęży. Na wschód do\nRegionu Świdnica.\rNa północ do Elitarnej Czwórki! Ale\nto już powinieneś/aś wiedzieć, skoro\fpokonałeś/aś Mistrza!</language>
 	</row>
 	<row id="msg_0361_R22R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>

@@ -92,7 +92,7 @@
 	</row>
 	<row id="msg_0401_R43_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trasa 43\nNa północ do Lake of Rage</language>
+		<language name="English">Trasa 43 Na północ do Zalewu Andrzej</language>
 	</row>
 	<row id="msg_0401_R43_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -100,6 +100,6 @@
 	</row>
 	<row id="msg_0401_R43_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Na północ do Lake of Rage\nNa południe do Imbramowic</language>
+		<language name="English">Na północ do Zalewu Andrzej Na\npołudnie do Imbramowic</language>
 	</row>
 </body>

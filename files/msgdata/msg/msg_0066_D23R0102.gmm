@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0066_D23R0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Czemu chcieliby przejąć\nWieżę Radiową?</language>
+		<language name="English">Czemu chcieliby przejąć Zamek?</language>
 	</row>
 	<row id="msg_0066_D23R0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
