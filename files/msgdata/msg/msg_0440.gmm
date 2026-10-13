@@ -2,15 +2,15 @@
 <body language="English">
 	<row id="msg_0440_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 1}{ALN_CENTER} Pokémon HeartGold Version\n{COLOR 0}\n{ALN_CENTER} Staff Credits\n\n</language>
+		<language name="English">{COLOR 1}{ALN_CENTER} Pokémon: Region Żarów\n{COLOR 0}\n{ALN_CENTER} Koniec Części Pierwszej\n\n</language>
 	</row>
 	<row id="msg_0440_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 1}{ALN_CENTER} Pokémon SoulSilver Version\n{COLOR 0}\n{ALN_CENTER} Staff Credits\n\n</language>
+		<language name="English">{COLOR 1}{ALN_CENTER} Pokémon: Region Żarów\n{COLOR 0}\n{ALN_CENTER} Koniec Części Pierwszej\n\n</language>
 	</row>
 	<row id="msg_0440_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Staff Credits</language>
+		<language name="English">Koniec Części Pierwszej</language>
 	</row>
 	<row id="msg_0440_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
