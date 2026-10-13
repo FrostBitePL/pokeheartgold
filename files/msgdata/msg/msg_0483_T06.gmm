@@ -58,7 +58,7 @@
 	</row>
 	<row id="msg_0483_T06_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Robert: To było tak blisko!\nMyślałem, że uda mi się je\fzapędzić w kozi róg, urządzając tu\fzasadzkę...\rAle bieganie po wodzie...\njest ponad moje możliwości.\rMimo to zaczynam dostrzegać\nwzorzec. SUICUNE preferuje wodę!\fTo znaczy...\r</language>
+		<language name="English">Robert: To było tak blisko!\nMyślałem, że uda mi się je zapędzić\fw kozi róg, urządzając tu\nzasadzkę...\rAle bieganie po wodzie... jest ponad\nmoje możliwości.\rMimo to zaczynam dostrzegać wzorzec.\nARTICUNO trzyma się wody i chłodu!\fTo znaczy...\r</language>
 	</row>
 	<row id="msg_0483_T06_00015" index="15">
 		<attribute name="window_context_name">used</attribute>

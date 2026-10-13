@@ -330,7 +330,7 @@
 	</row>
 	<row id="msg_0728_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">W porządku!\nSUICUNE, obserwowałeś nas?\n</language>
+		<language name="English">W porządku!\nARTICUNO, obserwowałeś nas?\n</language>
 	</row>
 	<row id="msg_0728_00083" index="83">
 		<attribute name="window_context_name">used</attribute>

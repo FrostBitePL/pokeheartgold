@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0061_D18R0102_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Robert: Widziałeś/aś to?\rSUICUNE przemknęło jak błysk, tuż\nprzed moimi oczami!\rGonię SUICUNE od prawie dziesięciu\nlat, ale nigdy nie byłem tak blisko!\fMam gulę w gardle!\r</language>
+		<language name="English">Robert: Widziałeś/aś to?\rARTICUNO przemknął jak błysk, tuż\nprzed moimi oczami!\rGonię ARTICUNO od prawie dziesięciu\nlat, ale nigdy nie byłem tak blisko!\fMam gulę w gardle!\r</language>
 	</row>
 	<row id="msg_0061_D18R0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nawiasem mówiąc...\nByło dla mnie jasne, że SUICUNE\fzauważyło twoją obecność.\rMówi się, że legendarne Pokémony\nz Mrowin przychodzą do ludzi\ftylko wtedy, gdy rozpoznają ich\ftalenty.\rMoże powinienem być bardziej\nagresywny wobec SUICUNE...\rW każdym razie, {STRVAR_1 3, 0, 0},\njeszcze się spotkamy!\r</language>
+		<language name="English">Nawiasem mówiąc... Było dla mnie\njasne, że ARTICUNO zauważył twoją\fobecność.\rMówi się, że legendarne ptaki z\nMrowin przychodzą do ludzi tylko\fwtedy, gdy rozpoznają ich talenty.\rMoże powinienem być bardziej\nagresywny wobec ARTICUNO...\rW każdym razie, {STRVAR_1 3, 0, 0}, jeszcze\nsię spotkamy!\r</language>
 	</row>
 </body>

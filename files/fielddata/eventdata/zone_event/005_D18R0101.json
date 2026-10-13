@@ -106,7 +106,7 @@
     },
     {
       "id": "obj_D18R0101_tsure_poke_static_suicune",
-      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_SUICUNE",
+      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_ARTICUNO",
       "movement": 15,
       "type": 0,
       "eventFlag": "FLAG_HIDE_BURNED_TOWER_1F_SUICUNE",
@@ -123,7 +123,7 @@
     },
     {
       "id": "obj_D18R0101_tsure_poke_static_raikou",
-      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_RAIKOU",
+      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_ZAPDOS",
       "movement": 15,
       "type": 0,
       "eventFlag": "FLAG_HIDE_BURNED_TOWER_1F_RAIKOU",
@@ -140,7 +140,7 @@
     },
     {
       "id": "obj_D18R0101_tsure_poke_static_entei",
-      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_ENTEI",
+      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_MOLTRES",
       "movement": 15,
       "type": 0,
       "eventFlag": "FLAG_HIDE_BURNED_TOWER_1F_ENTEI",
@@ -242,7 +242,7 @@
     },
     {
       "id": "obj_D18R0101_tsure_poke_static_suicune_2",
-      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_SUICUNE",
+      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_ARTICUNO",
       "movement": 15,
       "type": 0,
       "eventFlag": "FLAG_HIDE_BURNED_TOWER_STATIC_SUICUNE",

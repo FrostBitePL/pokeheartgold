@@ -67,18 +67,18 @@
 	</row>
 	<row id="msg_0363_R25_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Robert: Puf, puf...\nJa...nie dorównuję ci.\f...Tak jak przewidywałem.\r..................\n...Śmiało, idź dalej.\rOdkąd spotkałem cię w Burned\nTower w Mrowinach, w jakiś\fsposób wiedziałem, że SUICUNE\fwybierze ciebie.\r</language>
+		<language name="English">Robert: Puf, puf... Ja...nie\ndorównuję ci. ...Tak jak\fprzewidywałem.\r.................. ...Śmiało, idź\ndalej.\rOdkąd spotkałem cię w Burned Tower w\nMrowinach, w jakiś sposób\fwiedziałem, że ARTICUNO wybierze\nciebie.\r</language>
 	</row>
 	<row id="msg_0363_R25_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Robert: Spójrz na nie!\nSUICUNE czeka na ciebie!\fCzekało na walkę z godnym\fTrenerem, któremu mogłoby się\fpowierzyć!</language>
+		<language name="English">Robert: Spójrz na nie! ARTICUNO\nczeka na ciebie! Czekał na walkę z\fgodnym Trenerem, któremu mogłoby się\npowierzyć!</language>
 	</row>
 	<row id="msg_0363_R25_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Robert: {STRVAR_1 3, 0, 0}...\nWy dwoje jesteście naprawdę\fniesamowici...\rNigdy nie widziałem tak intensywnej\nwalki!\fNie mam żadnych żalów...\rŻegnaj, SUICUNE!\nŻegnaj...{STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Robert: {STRVAR_1 3, 0, 0}... Wy dwoje\njesteście naprawdę niesamowici...\rNigdy nie widziałem tak intensywnej\nwalki! Nie mam żadnych żalów...\rŻegnaj, ARTICUNO! Żegnaj...{STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0363_R25_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Robert: {STRVAR_1 3, 0, 0}...\nNie ma się czego wstydzić.\rNikt nie może cię za to krytykować,\nże uciekłeś/aś przed SUICUNE.\rTo po prostu takie niesamowite\nPokémon, i tyle.\fW każdym razie, SUICUNE znów\fzniknęło.\fWracamy do punktu wyjścia...\r</language>
+		<language name="English">Robert: {STRVAR_1 3, 0, 0}... Nie ma się czego\nwstydzić.\rNikt nie może cię za to krytykować,\nże uciekłeś/aś przed ARTICUNO.\rTo po prostu taki niesamowity\nPokémon, i tyle. W każdym razie,\fARTICUNO znów zniknął. Wracamy do\npunktu wyjścia...\r</language>
 	</row>
 </body>

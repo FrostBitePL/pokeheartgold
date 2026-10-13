@@ -30,14 +30,14 @@
 	</row>
 	<row id="msg_0399_R42_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Robert: SUICUNE...\nJakie ono odważne!\fJakie orzeźwiające!\fJakie piękne!\fI jak szybko się porusza!\r</language>
+		<language name="English">Robert: ARTICUNO... Jaki odważny!\nJaki orzeźwiający! Jaki piękny! I\fjak szybko leci!\r</language>
 	</row>
 	<row id="msg_0399_R42_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}!\nWygląda na to, że jesteś w pobliżu\fmiejsc, gdzie pojawia się SUICUNE.\rCóż, to w porządku.\nMoje pragnienie poszukiwania SUICUNE\fjest o wiele większe niż twoje...\rMój dziadek był...dość zafascynowany\nmitami. Słyszałem od niego tak\fwiele opowieści o SUICUNE.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}! Wygląda na to, że jesteś w\npobliżu miejsc, gdzie pojawia się\fARTICUNO.\rCóż, to w porządku. Moje pragnienie\nposzukiwania ARTICUNO jest o wiele\fwiększe niż twoje...\rMój dziadek był...dość zafascynowany\nmitami. Słyszałem od niego tak wiele\fopowieści o ARTICUNO.\r</language>
 	</row>
 	<row id="msg_0399_R42_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SUICUNE...\rNie przestanę cię śledzić, dopóki\nnie dowiem się, o co ci chodzi...\rSłyszysz mnie!\r</language>
+		<language name="English">ARTICUNO...\rNie przestanę cię śledzić, dopóki\nnie dowiem się, o co ci chodzi...\rSłyszysz mnie!\r</language>
 	</row>
 </body>

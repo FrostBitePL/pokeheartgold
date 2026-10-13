@@ -431,7 +431,7 @@ scr_seq_R25_004:
 	ShowPerson obj_R25_minaki
 	ApplyMovement obj_player, _0648
 	WaitMovement
-	PlayCry SPECIES_SUICUNE, 0
+	PlayCry SPECIES_ARTICUNO, 0
 	Release obj_R25_tsure_poke_static_suicune
 	ScrCmd_523 obj_R25_tsure_poke_static_suicune, 2, 90, 2, 0
 	Lock obj_R25_tsure_poke_static_suicune
@@ -550,13 +550,13 @@ scr_seq_R25_007:
 	PlaySE SEQ_SE_DP_SELECT
 	LockAll
 	FacePlayer
-	PlayCry SPECIES_SUICUNE, 0
+	PlayCry SPECIES_ARTICUNO, 0
 	Release obj_R25_tsure_poke_static_suicune
 	ScrCmd_523 obj_R25_tsure_poke_static_suicune, 2, 90, 2, 0
 	Lock obj_R25_tsure_poke_static_suicune
 	WaitCry
 	SetFlag FLAG_ENGAGING_STATIC_POKEMON
-	WildBattle SPECIES_SUICUNE, 40, 0
+	WildBattle SPECIES_ARTICUNO, 40, 0
 	ClearFlag FLAG_ENGAGING_STATIC_POKEMON
 	CheckBattleWon VAR_SPECIAL_RESULT
 	Compare VAR_SPECIAL_RESULT, 0

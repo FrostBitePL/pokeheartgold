@@ -23,17 +23,17 @@ _001B:
 scr_seq_D18R0102_000:
 	ScrCmd_609
 	LockAll
-	PlayCry SPECIES_RAIKOU, 0
+	PlayCry SPECIES_ZAPDOS, 0
 	Release obj_D18R0102_tsure_poke_static_raikou
 	ScrCmd_523 obj_D18R0102_tsure_poke_static_raikou, 2, 90, 2, 0
 	Lock obj_D18R0102_tsure_poke_static_raikou
 	WaitCry
-	PlayCry SPECIES_ENTEI, 0
+	PlayCry SPECIES_MOLTRES, 0
 	Release obj_D18R0102_tsure_poke_static_entei
 	ScrCmd_523 obj_D18R0102_tsure_poke_static_entei, 2, 90, 2, 0
 	Lock obj_D18R0102_tsure_poke_static_entei
 	WaitCry
-	PlayCry SPECIES_SUICUNE, 0
+	PlayCry SPECIES_ARTICUNO, 0
 	Release obj_D18R0102_tsure_poke_static_suicune
 	ScrCmd_523 obj_D18R0102_tsure_poke_static_suicune, 2, 90, 2, 0
 	Lock obj_D18R0102_tsure_poke_static_suicune
@@ -47,7 +47,7 @@ scr_seq_D18R0102_000:
 	GoToIfNe _00C8
 	ApplyMovement obj_D18R0102_tsure_poke_static_suicune, _0244
 	WaitMovement
-	PlayCry SPECIES_SUICUNE, 0
+	PlayCry SPECIES_ARTICUNO, 0
 	ApplyMovement obj_D18R0102_tsure_poke_static_suicune, _0254
 	WaitCry
 	GoTo _00E2
@@ -55,7 +55,7 @@ scr_seq_D18R0102_000:
 _00C8:
 	ApplyMovement obj_D18R0102_tsure_poke_static_suicune, _0268
 	WaitMovement
-	PlayCry SPECIES_SUICUNE, 0
+	PlayCry SPECIES_ARTICUNO, 0
 	ApplyMovement obj_D18R0102_tsure_poke_static_suicune, _0278
 	WaitCry
 _00E2:
@@ -241,10 +241,10 @@ scr_seq_D18R0102_001:
 	PlaySE SEQ_SE_DP_SELECT
 	LockAll
 	FacePlayer
-	PlayCry SPECIES_SUICUNE, 0
+	PlayCry SPECIES_ARTICUNO, 0
 	WaitCry
 	SetFlag FLAG_ENGAGING_STATIC_POKEMON
-	WildBattle SPECIES_SUICUNE, 40, 0
+	WildBattle SPECIES_ARTICUNO, 40, 0
 	ClearFlag FLAG_ENGAGING_STATIC_POKEMON
 	CheckBattleWon VAR_SPECIAL_RESULT
 	Compare VAR_SPECIAL_RESULT, 0

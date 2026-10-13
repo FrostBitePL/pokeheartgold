@@ -192,7 +192,7 @@ _0272:
 	ApplyMovement obj_player, _0450
 	WaitMovement
 _027C:
-	PlayCry SPECIES_SUICUNE, 0
+	PlayCry SPECIES_ARTICUNO, 0
 	Release obj_R14_tsure_poke_static_suicune
 	ScrCmd_523 obj_R14_tsure_poke_static_suicune, 2, 90, 2, 0
 	Lock obj_R14_tsure_poke_static_suicune

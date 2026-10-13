@@ -21,7 +21,7 @@
   "objects": [
     {
       "id": "obj_D41R0105_tsure_poke_static_moltres",
-      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_MOLTRES",
+      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_ENTEI",
       "movement": 15,
       "type": 0,
       "eventFlag": "FLAG_HIDE_MT_SILVER_CAVE_MOLTRES",

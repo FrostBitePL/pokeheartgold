@@ -63,11 +63,11 @@
 	</row>
 	<row id="msg_0572_T24_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Robert: Ej, {STRVAR_1 3, 0, 0}.\rCzy to przed chwilą nie było SUICUNE?\rZłapałem tylko krótkie spojrzenie,\nale wydawało mi się, że widziałem\fSUICUNE biegnące po falach.\rSUICUNE jest piękne i wspaniałe.\nA do tego pędzi przez miasta\fi drogi w niesamowitym tempie.\rTo cudowne...\rChcę zobaczyć SUICUNE z bliska...\rZdecydowałem.\nStoczę z tobą pojedynek jako Trener,\fżeby zdobyć szacunek SUICUNE!\rChodź, {STRVAR_1 3, 0, 0}.\nWalczmy teraz!</language>
+		<language name="English">Robert: Ej, {STRVAR_1 3, 0, 0}.\rCzy to przed chwilą nie było\nARTICUNO?\rZłapałem tylko krótkie spojrzenie,\nale wydawało mi się, że widziałem\fARTICUNO lecącego nad falami.\rARTICUNO jest piękny i wspaniały. A\ndo tego pędzi nad miastami i drogami\fw niesamowitym tempie.\rTo cudowne...\rChcę zobaczyć ARTICUNO z bliska...\rZdecydowałem. Stoczę z tobą\npojedynek jako Trener, żeby zdobyć\fszacunek ARTICUNO!\rChodź, {STRVAR_1 3, 0, 0}. Walczmy teraz!</language>
 	</row>
 	<row id="msg_0572_T24_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jesteś niesamowity/a, {STRVAR_1 3, 0, 0}!\rZaczynam rozumieć, czemu SUICUNE\nma na ciebie oko.\rBędę dalej szukał\nSUICUNE.\rCzuję, że jeszcze się spotkamy.\nDo zobaczenia!\r</language>
+		<language name="English">Jesteś niesamowity/a, {STRVAR_1 3, 0, 0}!\rZaczynam rozumieć, czemu ARTICUNO ma\nna ciebie oko.\rBędę dalej szukał ARTICUNO.\rCzuję, że jeszcze się spotkamy. Do\nzobaczenia!\r</language>
 	</row>
 	<row id="msg_0572_T24_00017" index="17">
 		<attribute name="window_context_name">used</attribute>

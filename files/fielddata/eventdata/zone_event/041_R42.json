@@ -232,7 +232,7 @@
     },
     {
       "id": "obj_R42_tsure_poke_static_suicune",
-      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_SUICUNE",
+      "spriteId": "SPRITE_FOLLOWER_MON_STATIC_ARTICUNO",
       "movement": 0,
       "type": 0,
       "eventFlag": "FLAG_HIDE_ROUTE_42_SUICUNE",

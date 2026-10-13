@@ -204,7 +204,7 @@ scr_seq_T06_011:
 _0270:
 	ApplyMovement obj_player, _040C
 	WaitMovement
-	PlayCry SPECIES_SUICUNE, 0
+	PlayCry SPECIES_ARTICUNO, 0
 	Release obj_T06_tsure_poke_static_suicune
 	ScrCmd_523 obj_T06_tsure_poke_static_suicune, 2, 90, 2, 0
 	Lock obj_T06_tsure_poke_static_suicune
@@ -266,7 +266,7 @@ _037F:
 	ApplyMovement obj_player, _040C
 	ApplyMovement obj_T06_tsure_poke_static_suicune, _0458
 	WaitMovement
-	PlayCry SPECIES_SUICUNE, 0
+	PlayCry SPECIES_ARTICUNO, 0
 	Release obj_T06_tsure_poke_static_suicune
 	ScrCmd_523 obj_T06_tsure_poke_static_suicune, 2, 90, 2, 0
 	Lock obj_T06_tsure_poke_static_suicune
@@ -421,7 +421,7 @@ scr_seq_T06_012:
 	ShowPerson obj_T06_minaki_2
 	ApplyMovement obj_player, _040C
 	WaitMovement
-	PlayCry SPECIES_SUICUNE, 0
+	PlayCry SPECIES_ARTICUNO, 0
 	Release obj_T06_tsure_poke_static_suicune
 	ScrCmd_523 obj_T06_tsure_poke_static_suicune, 2, 90, 2, 0
 	Lock obj_T06_tsure_poke_static_suicune
