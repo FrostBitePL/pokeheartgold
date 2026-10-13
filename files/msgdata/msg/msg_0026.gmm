@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0026_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Hall of Fame entries</language>
+		<language name="English">Liczba wpisów w Galerii Sławy</language>
 	</row>
 	<row id="msg_0026_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>
@@ -71,19 +71,19 @@
 	</row>
 	<row id="msg_0026_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Contests entered alone</language>
+		<language name="English">Konkursy rozegrane samodzielnie</language>
 	</row>
 	<row id="msg_0026_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Contests entered with\nfriends</language>
+		<language name="English">Konkursy rozegrane ze\nznajomymi</language>
 	</row>
 	<row id="msg_0026_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Contests entered alone and\nwon</language>
+		<language name="English">Konkursy wygrane samodzielnie</language>
 	</row>
 	<row id="msg_0026_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Contests entered with\nfriends and won</language>
+		<language name="English">Konkursy wygrane ze\nznajomymi</language>
 	</row>
 	<row id="msg_0026_00018" index="18">
 		<attribute name="window_context_name">garbage</attribute>
@@ -112,7 +112,7 @@
 	</row>
 	<row id="msg_0026_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of times wild Pokémon fled</language>
+		<language name="English">Ucieczki dzikich Pokémonów</language>
 	</row>
 	<row id="msg_0026_00024" index="24">
 		<attribute name="window_context_name">garbage</attribute>
@@ -121,43 +121,43 @@
 	</row>
 	<row id="msg_0026_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Berries planted</language>
+		<language name="English">Zasadzone jagody</language>
 	</row>
 	<row id="msg_0026_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of steps walked</language>
+		<language name="English">Przebyte kroki</language>
 	</row>
 	<row id="msg_0026_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of times battled wild Pokémon</language>
+		<language name="English">Walki z dzikimi Pokémonami</language>
 	</row>
 	<row id="msg_0026_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Trainer battles excluding\nUnion Room and Frontier</language>
+		<language name="English">Walki z Trenerami poza Union Room\ni Frontier</language>
 	</row>
 	<row id="msg_0026_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Pokémon caught</language>
+		<language name="English">Złapane Pokémony</language>
 	</row>
 	<row id="msg_0026_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Pokémon caught fishing</language>
+		<language name="English">Pokémony złapane na wędkę</language>
 	</row>
 	<row id="msg_0026_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Eggs hatched</language>
+		<language name="English">Wyklute jajka</language>
 	</row>
 	<row id="msg_0026_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of times own Pokémon evolved</language>
+		<language name="English">Ewolucje własnych Pokémonów</language>
 	</row>
 	<row id="msg_0026_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Game Corner slot jackpots</language>
+		<language name="English">Jackpoty w Salonie Gier</language>
 	</row>
 	<row id="msg_0026_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Battle Tower challenges</language>
+		<language name="English">Wyzwania w Battle Tower</language>
 	</row>
 	<row id="msg_0026_00035" index="35">
 		<attribute name="window_context_name">garbage</attribute>
@@ -181,11 +181,11 @@
 	</row>
 	<row id="msg_0026_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of completed GTS Pokémon\ntrades</language>
+		<language name="English">Zakończone wymiany GTS</language>
 	</row>
 	<row id="msg_0026_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of battles won over Nintendo\nWi-Fi Connection</language>
+		<language name="English">Walki wygrane przez\nNintendo Wi-Fi Connection</language>
 	</row>
 	<row id="msg_0026_00041" index="41">
 		<attribute name="window_context_name">garbage</attribute>
@@ -194,159 +194,159 @@
 	</row>
 	<row id="msg_0026_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of battles tied over Nintendo\nWi-Fi Connection</language>
+		<language name="English">Walki zremisowane przez\nNintendo Wi-Fi Connection</language>
 	</row>
 	<row id="msg_0026_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of battles won at the Battle\nTower</language>
+		<language name="English">Walki wygrane w Battle Tower</language>
 	</row>
 	<row id="msg_0026_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The total money spent shopping</language>
+		<language name="English">Łączna kwota wydana w sklepach</language>
 	</row>
 	<row id="msg_0026_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Pokémon left with the Day\nCare</language>
+		<language name="English">Pokémony oddane do Przedszkola</language>
 	</row>
 	<row id="msg_0026_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Pokémon defeated</language>
+		<language name="English">Pokonane Pokémony</language>
 	</row>
 	<row id="msg_0026_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Pokémon offered on GTS</language>
+		<language name="English">Pokémony wystawione w GTS</language>
 	</row>
 	<row id="msg_0026_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of times Pokémon were traded\nwith friends at the Wi-Fi Club</language>
+		<language name="English">Wymiany ze znajomymi w Wi-Fi Club</language>
 	</row>
 	<row id="msg_0026_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of times you signed your\nTrainer Card</language>
+		<language name="English">Podpisy na Karcie Trenera</language>
 	</row>
 	<row id="msg_0026_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Pokémon extracted from\nFossils</language>
+		<language name="English">Pokémony wydobyte ze skamielin</language>
 	</row>
 	<row id="msg_0026_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of times footprints were\nchecked by Dr. Footstep</language>
+		<language name="English">Sprawdzenia śladów u Dr. Footstep</language>
 	</row>
 	<row id="msg_0026_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of times Mail was sent</language>
+		<language name="English">Wysłane listy</language>
 	</row>
 	<row id="msg_0026_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of wild Pokémon lured using\nHoney</language>
+		<language name="English">Dzikie Pokémony zwabione miodem</language>
 	</row>
 	<row id="msg_0026_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of times you talked to someone\nin the Wi-Fi Plaza</language>
+		<language name="English">Rozmowy na Wi-Fi Plaza</language>
 	</row>
 	<row id="msg_0026_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Number of Spheres buried in the\nUnderground</language>
+		<language name="English">Kule zakopane w Podziemiu</language>
 	</row>
 	<row id="msg_0026_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of times watched TV</language>
+		<language name="English">Obejrzane programy w TV</language>
 	</row>
 	<row id="msg_0026_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of times Pokémon were given\nnicknames</language>
+		<language name="English">Nadane przezwiska Pokémonom</language>
 	</row>
 	<row id="msg_0026_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Premier Balls received</language>
+		<language name="English">Otrzymane Premier Balle</language>
 	</row>
 	<row id="msg_0026_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Items found by Pokémon in Amity\nSquare</language>
+		<language name="English">Przedmioty znalezione przez\nPokémony na Amity Square</language>
 	</row>
 	<row id="msg_0026_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Poffins cooked alone</language>
+		<language name="English">Poffiny ugotowane samodzielnie</language>
 	</row>
 	<row id="msg_0026_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Poffins cooked with friends</language>
+		<language name="English">Poffiny ugotowane ze znajomymi</language>
 	</row>
 	<row id="msg_0026_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Pokémon Dress-Up Data\nphotos taken</language>
+		<language name="English">Zrobione zdjęcia Pokémon Dress-Up</language>
 	</row>
 	<row id="msg_0026_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of boulders pushed using the\nhidden move Strength</language>
+		<language name="English">Głazy przesunięte ukrytym\nruchem Siła</language>
 	</row>
 	<row id="msg_0026_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of times mired in a swamp</language>
+		<language name="English">Ugrzęźnięcia w bagnie</language>
 	</row>
 	<row id="msg_0026_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of matches against your rival &amp;\nGym Leaders at the Battleground</language>
+		<language name="English">Walki z rywalem i Liderami\nSal na Battleground</language>
 	</row>
 	<row id="msg_0026_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of facilities challenged at the\nBattle Frontier</language>
+		<language name="English">Obiekty wyzwane w Battle Frontier</language>
 	</row>
 	<row id="msg_0026_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of times you met the Frontier\nBrains</language>
+		<language name="English">Spotkania z Frontier Brains</language>
 	</row>
 	<row id="msg_0026_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of wins at the Battle Factory</language>
+		<language name="English">Wygrane w Battle Factory</language>
 	</row>
 	<row id="msg_0026_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of wins at the Battle Castle</language>
+		<language name="English">Wygrane w Battle Castle</language>
 	</row>
 	<row id="msg_0026_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of wins at the Battle Hall</language>
+		<language name="English">Wygrane w Battle Hall</language>
 	</row>
 	<row id="msg_0026_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of wins at the Battle Arcade</language>
+		<language name="English">Wygrane w Battle Arcade</language>
 	</row>
 	<row id="msg_0026_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Pokémon trades at the\nBattle Factory</language>
+		<language name="English">Wymiany Pokémonów w Battle Factory</language>
 	</row>
 	<row id="msg_0026_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Total Castle Points earned at the\nBattle Castle</language>
+		<language name="English">Łączne Castle Points\nw Battle Castle</language>
 	</row>
 	<row id="msg_0026_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of wins over Rank 10 Pokémon\nat the Battle Hall</language>
+		<language name="English">Wygrane z Pokémonami rangi 10\nw Battle Hall</language>
 	</row>
 	<row id="msg_0026_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Points earned from the\nBattle Arcade game board</language>
+		<language name="English">Battle Points z planszy\nw Battle Arcade</language>
 	</row>
 	<row id="msg_0026_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Total Battle Points won</language>
+		<language name="English">Łącznie zdobyte Battle Points</language>
 	</row>
 	<row id="msg_0026_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Total Battle Points spent</language>
+		<language name="English">Łącznie wydane Battle Points</language>
 	</row>
 	<row id="msg_0026_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Wi-Fi Plaza Games played</language>
+		<language name="English">Gry rozegrane na Wi-Fi Plaza</language>
 	</row>
 	<row id="msg_0026_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Eggs traded using Spin Trade</language>
+		<language name="English">Jajka wymienione przez Spin Trade</language>
 	</row>
 	<row id="msg_0026_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No. of Star Pieces traded at the\nFuego Ironworks</language>
+		<language name="English">Star Pieces oddane w\nFuego Ironworks</language>
 	</row>
 	<row id="msg_0026_00081" index="81">
 		<attribute name="window_context_name">garbage</attribute>

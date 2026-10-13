@@ -29,75 +29,75 @@
 	</row>
 	<row id="msg_0024_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BOX 1</language>
+		<language name="English">SKRZYNIA 1</language>
 	</row>
 	<row id="msg_0024_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BOX 2</language>
+		<language name="English">SKRZYNIA 2</language>
 	</row>
 	<row id="msg_0024_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BOX 3</language>
+		<language name="English">SKRZYNIA 3</language>
 	</row>
 	<row id="msg_0024_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BOX 4</language>
+		<language name="English">SKRZYNIA 4</language>
 	</row>
 	<row id="msg_0024_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BOX 5</language>
+		<language name="English">SKRZYNIA 5</language>
 	</row>
 	<row id="msg_0024_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BOX 6</language>
+		<language name="English">SKRZYNIA 6</language>
 	</row>
 	<row id="msg_0024_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BOX 7</language>
+		<language name="English">SKRZYNIA 7</language>
 	</row>
 	<row id="msg_0024_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BOX 8</language>
+		<language name="English">SKRZYNIA 8</language>
 	</row>
 	<row id="msg_0024_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BOX 9</language>
+		<language name="English">SKRZYNIA 9</language>
 	</row>
 	<row id="msg_0024_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BOX 10</language>
+		<language name="English">SKRZYNIA 10</language>
 	</row>
 	<row id="msg_0024_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BOX 11</language>
+		<language name="English">SKRZYNIA 11</language>
 	</row>
 	<row id="msg_0024_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BOX 12</language>
+		<language name="English">SKRZYNIA 12</language>
 	</row>
 	<row id="msg_0024_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BOX 13</language>
+		<language name="English">SKRZYNIA 13</language>
 	</row>
 	<row id="msg_0024_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BOX 14</language>
+		<language name="English">SKRZYNIA 14</language>
 	</row>
 	<row id="msg_0024_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BOX 15</language>
+		<language name="English">SKRZYNIA 15</language>
 	</row>
 	<row id="msg_0024_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BOX 16</language>
+		<language name="English">SKRZYNIA 16</language>
 	</row>
 	<row id="msg_0024_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BOX 17</language>
+		<language name="English">SKRZYNIA 17</language>
 	</row>
 	<row id="msg_0024_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BOX 18</language>
+		<language name="English">SKRZYNIA 18</language>
 	</row>
 	<row id="msg_0024_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
@@ -110,11 +110,11 @@
 	</row>
 	<row id="msg_0024_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WALLPAPER</language>
+		<language name="English">TAPETA</language>
 	</row>
 	<row id="msg_0024_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NAME</language>
+		<language name="English">NAZWA</language>
 	</row>
 	<row id="msg_0024_00028" index="28">
 		<attribute name="window_context_name">garbage</attribute>
@@ -153,79 +153,79 @@
 	</row>
 	<row id="msg_0024_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FOREST</language>
+		<language name="English">LAS</language>
 	</row>
 	<row id="msg_0024_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CITY</language>
+		<language name="English">MIASTO</language>
 	</row>
 	<row id="msg_0024_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DESERT</language>
+		<language name="English">PUSTYNIA</language>
 	</row>
 	<row id="msg_0024_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SAVANNA</language>
+		<language name="English">SAWANNA</language>
 	</row>
 	<row id="msg_0024_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CRAG</language>
+		<language name="English">SKAŁY</language>
 	</row>
 	<row id="msg_0024_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">VOLCANO</language>
+		<language name="English">WULKAN</language>
 	</row>
 	<row id="msg_0024_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SNOW</language>
+		<language name="English">ŚNIEG</language>
 	</row>
 	<row id="msg_0024_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CAVE</language>
+		<language name="English">JASKINIA</language>
 	</row>
 	<row id="msg_0024_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BEACH</language>
+		<language name="English">PLAŻA</language>
 	</row>
 	<row id="msg_0024_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SEAFLOOR</language>
+		<language name="English">MORSKIE DNO</language>
 	</row>
 	<row id="msg_0024_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RIVER</language>
+		<language name="English">RZEKA</language>
 	</row>
 	<row id="msg_0024_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SKY</language>
+		<language name="English">NIEBO</language>
 	</row>
 	<row id="msg_0024_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POKé CENTER</language>
+		<language name="English">CENTRUM POKé</language>
 	</row>
 	<row id="msg_0024_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MACHINE</language>
+		<language name="English">MASZYNA</language>
 	</row>
 	<row id="msg_0024_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHECKS</language>
+		<language name="English">KRATKA</language>
 	</row>
 	<row id="msg_0024_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SIMPLE</language>
+		<language name="English">PROSTA</language>
 	</row>
 	<row id="msg_0024_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">HEART</language>
+		<language name="English">SERCE</language>
 	</row>
 	<row id="msg_0024_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SOUL</language>
+		<language name="English">DUSZA</language>
 	</row>
 	<row id="msg_0024_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BIG BROTHER</language>
+		<language name="English">STARSZY BRAT</language>
 	</row>
 	<row id="msg_0024_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
@@ -237,15 +237,15 @@
 	</row>
 	<row id="msg_0024_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SPIKY PIKA</language>
+		<language name="English">KOLCZASTY PIKA</language>
 	</row>
 	<row id="msg_0024_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">KIMONO GIRL</language>
+		<language name="English">AKTORKA</language>
 	</row>
 	<row id="msg_0024_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">REVIVAL</language>
+		<language name="English">WSKRZESZENIE</language>
 	</row>
 	<row id="msg_0024_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
@@ -253,91 +253,91 @@
 	</row>
 	<row id="msg_0024_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PARTY ₧₦</language>
+		<language name="English">DRUŻYNA ₧₦</language>
 	</row>
 	<row id="msg_0024_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MOVE</language>
+		<language name="English">PRZENIEŚ</language>
 	</row>
 	<row id="msg_0024_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RETURN</language>
+		<language name="English">WRÓĆ</language>
 	</row>
 	<row id="msg_0024_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHANGE BOX</language>
+		<language name="English">ZMIEŃ SKRZYNIĘ</language>
 	</row>
 	<row id="msg_0024_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SORT ITEMS</language>
+		<language name="English">SORTUJ</language>
 	</row>
 	<row id="msg_0024_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SUMMARY</language>
+		<language name="English">INFO</language>
 	</row>
 	<row id="msg_0024_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">HELD ITEMS</language>
+		<language name="English">PRZEDMIOTY</language>
 	</row>
 	<row id="msg_0024_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MARKING</language>
+		<language name="English">ZNACZNIKI</language>
 	</row>
 	<row id="msg_0024_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RELEASE</language>
+		<language name="English">WYPUŚĆ</language>
 	</row>
 	<row id="msg_0024_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WITHDRAW</language>
+		<language name="English">WYJMIJ</language>
 	</row>
 	<row id="msg_0024_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DEPOSIT</language>
+		<language name="English">WŁÓŻ</language>
 	</row>
 	<row id="msg_0024_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">WYJDŹ</language>
 	</row>
 	<row id="msg_0024_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CONFIRM</language>
+		<language name="English">OK</language>
 	</row>
 	<row id="msg_0024_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">ANULUJ</language>
 	</row>
 	<row id="msg_0024_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SWITCH</language>
+		<language name="English">ZAMIEŃ</language>
 	</row>
 	<row id="msg_0024_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">WYJDŹ</language>
 	</row>
 	<row id="msg_0024_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">WYJDŹ</language>
 	</row>
 	<row id="msg_0024_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHANGE\nBOX</language>
+		<language name="English">ZMIEŃ\nSKRZYNIĘ</language>
 	</row>
 	<row id="msg_0024_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHANGE\nWALLPAPER</language>
+		<language name="English">ZMIEŃ\nTAPETĘ</language>
 	</row>
 	<row id="msg_0024_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DEPOSIT\nPOKéMON</language>
+		<language name="English">WŁÓŻ\nPOKéMONA</language>
 	</row>
 	<row id="msg_0024_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BAG</language>
+		<language name="English">TORBA</language>
 	</row>
 	<row id="msg_0024_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GIVE</language>
+		<language name="English">DAJ</language>
 	</row>
 	<row id="msg_0024_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
@@ -361,15 +361,15 @@
 	</row>
 	<row id="msg_0024_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NATURE</language>
+		<language name="English">CHARAKTER</language>
 	</row>
 	<row id="msg_0024_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ABILITY</language>
+		<language name="English">ZDOLNOŚĆ</language>
 	</row>
 	<row id="msg_0024_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ITEM</language>
+		<language name="English">PRZEDMIOT</language>
 	</row>
 	<row id="msg_0024_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
@@ -381,7 +381,7 @@
 	</row>
 	<row id="msg_0024_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">None</language>
+		<language name="English">Brak</language>
 	</row>
 	<row id="msg_0024_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
