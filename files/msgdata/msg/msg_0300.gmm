@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0300_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POTWIERDŹ</language>
+		<language name="English">OK</language>
 	</row>
 	<row id="msg_0300_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -570,7 +570,7 @@
 	</row>
 	<row id="msg_0300_00130" index="130">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PRZEDMIOT</language>
+		<language name="English">ITEM</language>
 	</row>
 	<row id="msg_0300_00131" index="131">
 		<attribute name="window_context_name">used</attribute>
@@ -578,19 +578,19 @@
 	</row>
 	<row id="msg_0300_00132" index="132">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CZYTAJ</language>
+		<language name="English">CZYT</language>
 	</row>
 	<row id="msg_0300_00133" index="133">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ZABIERZ</language>
+		<language name="English">WEŹ</language>
 	</row>
 	<row id="msg_0300_00134" index="134">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SCHOWAJ</language>
+		<language name="English">SCHOW</language>
 	</row>
 	<row id="msg_0300_00135" index="135">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WYJDŹ</language>
+		<language name="English">EXIT</language>
 	</row>
 	<row id="msg_0300_00136" index="136">
 		<attribute name="window_context_name">garbage</attribute>
@@ -603,7 +603,7 @@
 	</row>
 	<row id="msg_0300_00138" index="138">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NIE WEJDZIE</language>
+		<language name="English">NIE WEJ.</language>
 	</row>
 	<row id="msg_0300_00139" index="139">
 		<attribute name="window_context_name">used</attribute>
@@ -627,7 +627,7 @@
 	</row>
 	<row id="msg_0300_00144" index="144">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ZABIERZ</language>
+		<language name="English">WEŹ</language>
 	</row>
 	<row id="msg_0300_00145" index="145">
 		<attribute name="window_context_name">used</attribute>
@@ -647,7 +647,7 @@
 	</row>
 	<row id="msg_0300_00149" index="149">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">USTAW</language>
+		<language name="English">SET</language>
 	</row>
 	<row id="msg_0300_00150" index="150">
 		<attribute name="window_context_name">used</attribute>
@@ -655,39 +655,39 @@
 	</row>
 	<row id="msg_0300_00151" index="151">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ZAKAZANY</language>
+		<language name="English">ZAKAZ</language>
 	</row>
 	<row id="msg_0300_00152" index="152">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PIERWSZY</language>
+		<language name="English">1.</language>
 	</row>
 	<row id="msg_0300_00153" index="153">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DRUGI</language>
+		<language name="English">2.</language>
 	</row>
 	<row id="msg_0300_00154" index="154">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TRZECI</language>
+		<language name="English">3.</language>
 	</row>
 	<row id="msg_0300_00155" index="155">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CZWARTY</language>
+		<language name="English">4.</language>
 	</row>
 	<row id="msg_0300_00156" index="156">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PIĄTY</language>
+		<language name="English">5.</language>
 	</row>
 	<row id="msg_0300_00157" index="157">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SZÓSTY</language>
+		<language name="English">6.</language>
 	</row>
 	<row id="msg_0300_00158" index="158">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MOŻE!</language>
+		<language name="English">TAK!</language>
 	</row>
 	<row id="msg_0300_00159" index="159">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NIE MOŻE!</language>
+		<language name="English">NIE!</language>
 	</row>
 	<row id="msg_0300_00160" index="160">
 		<attribute name="window_context_name">used</attribute>
@@ -695,19 +695,19 @@
 	</row>
 	<row id="msg_0300_00161" index="161">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MOŻE!</language>
+		<language name="English">TAK!</language>
 	</row>
 	<row id="msg_0300_00162" index="162">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NIE MOŻE!</language>
+		<language name="English">NIE!</language>
 	</row>
 	<row id="msg_0300_00163" index="163">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MOŻE!</language>
+		<language name="English">TAK!</language>
 	</row>
 	<row id="msg_0300_00164" index="164">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NIE MOŻE!</language>
+		<language name="English">NIE!</language>
 	</row>
 	<row id="msg_0300_00165" index="165">
 		<attribute name="window_context_name">used</attribute>
@@ -727,7 +727,7 @@
 	</row>
 	<row id="msg_0300_00169" index="169">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MAKS. HP</language>
+		<language name="English">HP</language>
 	</row>
 	<row id="msg_0300_00170" index="170">
 		<attribute name="window_context_name">used</attribute>
@@ -739,15 +739,15 @@
 	</row>
 	<row id="msg_0300_00172" index="172">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">AT. SPEC.</language>
+		<language name="English">AT.SP</language>
 	</row>
 	<row id="msg_0300_00173" index="173">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OB. SPEC.</language>
+		<language name="English">OB.SP</language>
 	</row>
 	<row id="msg_0300_00174" index="174">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SZYBKOŚĆ</language>
+		<language name="English">SZYB.</language>
 	</row>
 	<row id="msg_0300_00175" index="175">
 		<attribute name="window_context_name">used</attribute>
@@ -796,7 +796,7 @@
 	</row>
 	<row id="msg_0300_00186" index="186">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POTWIERDŹ</language>
+		<language name="English">OK</language>
 	</row>
 	<row id="msg_0300_00187" index="187">
 		<attribute name="window_context_name">used</attribute>
