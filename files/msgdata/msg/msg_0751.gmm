@@ -14,11 +14,11 @@
 	</row>
 	<row id="msg_0751_double_slap" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PODWÓJNY KLAPS</language>
+		<language name="English">PODW. KLAPS</language>
 	</row>
 	<row id="msg_0751_comet_punch" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">KOMETOWY CIOS</language>
+		<language name="English">KOMETA CIOS</language>
 	</row>
 	<row id="msg_0751_mega_punch" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -26,7 +26,7 @@
 	</row>
 	<row id="msg_0751_pay_day" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DZIEŃ WYPŁATY</language>
+		<language name="English">WYPŁATA</language>
 	</row>
 	<row id="msg_0751_fire_punch" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -38,7 +38,7 @@
 	</row>
 	<row id="msg_0751_thunder_punch" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PIORUNOWY CIOS</language>
+		<language name="English">CIOS PIORUNA</language>
 	</row>
 	<row id="msg_0751_scratch" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -58,7 +58,7 @@
 	</row>
 	<row id="msg_0751_swords_dance" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TANIEC MIECZY</language>
+		<language name="English">TAN. MIECZY</language>
 	</row>
 	<row id="msg_0751_cut" index="15">
 		<attribute name="window_context_name">used</attribute>
@@ -70,11 +70,11 @@
 	</row>
 	<row id="msg_0751_wing_attack" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ATAK SKRZYDŁEM</language>
+		<language name="English">CIOS SKRZYDŁ</language>
 	</row>
 	<row id="msg_0751_whirlwind" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TRĄBA POWIETRZNA</language>
+		<language name="English">WICHER</language>
 	</row>
 	<row id="msg_0751_fly" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -98,7 +98,7 @@
 	</row>
 	<row id="msg_0751_double_kick" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PODWÓJNY KOPNIAK</language>
+		<language name="English">PODWÓJNY KOP</language>
 	</row>
 	<row id="msg_0751_mega_kick" index="25">
 		<attribute name="window_context_name">used</attribute>
@@ -106,19 +106,19 @@
 	</row>
 	<row id="msg_0751_jump_kick" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">KOPNIAK Z WYSKOKU</language>
+		<language name="English">KOP W SKOKU</language>
 	</row>
 	<row id="msg_0751_rolling_kick" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">KOPNIAK OBROTOWY</language>
+		<language name="English">OBROTOWY KOP</language>
 	</row>
 	<row id="msg_0751_sand_attack" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PIASKOWY ATAK</language>
+		<language name="English">PIASEK W OKO</language>
 	</row>
 	<row id="msg_0751_headbutt" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">UDERZENIE GŁOWĄ</language>
+		<language name="English">UDERZ. GŁOWĄ</language>
 	</row>
 	<row id="msg_0751_horn_attack" index="30">
 		<attribute name="window_context_name">used</attribute>
@@ -126,11 +126,11 @@
 	</row>
 	<row id="msg_0751_fury_attack" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WŚCIEKŁY ATAK</language>
+		<language name="English">ATAK FURII</language>
 	</row>
 	<row id="msg_0751_horn_drill" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WIERTŁO ROGIEM</language>
+		<language name="English">WIERTŁO ROGU</language>
 	</row>
 	<row id="msg_0751_tackle" index="33">
 		<attribute name="window_context_name">used</attribute>
@@ -138,7 +138,7 @@
 	</row>
 	<row id="msg_0751_body_slam" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">UDERZENIE CIAŁEM</language>
+		<language name="English">TARAN CIAŁEM</language>
 	</row>
 	<row id="msg_0751_wrap" index="35">
 		<attribute name="window_context_name">used</attribute>
@@ -154,27 +154,27 @@
 	</row>
 	<row id="msg_0751_double_edge" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PODWÓJNA KRAWĘDŹ</language>
+		<language name="English">PODW. OSTRZE</language>
 	</row>
 	<row id="msg_0751_tail_whip" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MACHNIĘCIE OGONEM</language>
+		<language name="English">BICZ OGONEM</language>
 	</row>
 	<row id="msg_0751_poison_sting" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TRUJĄCE ŻĄDŁO</language>
+		<language name="English">TRUJ. ŻĄDŁO</language>
 	</row>
 	<row id="msg_0751_twineedle" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PODWÓJNE ŻĄDŁO</language>
+		<language name="English">PODW. IGŁA</language>
 	</row>
 	<row id="msg_0751_pin_missile" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POCISKI KOLCZASTE</language>
+		<language name="English">POCISK IGIEŁ</language>
 	</row>
 	<row id="msg_0751_leer" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ZŁOWROGIE SPOJRZENIE</language>
+		<language name="English">GROŹNY WZROK</language>
 	</row>
 	<row id="msg_0751_bite" index="44">
 		<attribute name="window_context_name">used</attribute>
@@ -198,7 +198,7 @@
 	</row>
 	<row id="msg_0751_sonic_boom" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DŹWIĘKOWY BUM</language>
+		<language name="English">DŹWIĘK. BUM</language>
 	</row>
 	<row id="msg_0751_disable" index="50">
 		<attribute name="window_context_name">used</attribute>
@@ -214,7 +214,7 @@
 	</row>
 	<row id="msg_0751_flamethrower" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MIOTACZ OGNIA</language>
+		<language name="English">MIOTACZ OGN.</language>
 	</row>
 	<row id="msg_0751_mist" index="54">
 		<attribute name="window_context_name">used</attribute>
@@ -222,7 +222,7 @@
 	</row>
 	<row id="msg_0751_water_gun" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PISTOLET WODNY</language>
+		<language name="English">PIST. WODNY</language>
 	</row>
 	<row id="msg_0751_hydro_pump" index="56">
 		<attribute name="window_context_name">used</attribute>
@@ -242,15 +242,15 @@
 	</row>
 	<row id="msg_0751_psybeam" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PSYCHOPROMIEŃ</language>
+		<language name="English">PSY-PROMIEŃ</language>
 	</row>
 	<row id="msg_0751_bubble_beam" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WIĄZKA BĄBELKÓW</language>
+		<language name="English">WIĄZKA BĄBLI</language>
 	</row>
 	<row id="msg_0751_aurora_beam" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PROMIEŃ AURORY</language>
+		<language name="English">PROM. AURORY</language>
 	</row>
 	<row id="msg_0751_hyper_beam" index="63">
 		<attribute name="window_context_name">used</attribute>
@@ -262,7 +262,7 @@
 	</row>
 	<row id="msg_0751_drill_peck" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WIERTNICZY DZIÓB</language>
+		<language name="English">WIERT. DZIÓB</language>
 	</row>
 	<row id="msg_0751_submission" index="66">
 		<attribute name="window_context_name">used</attribute>
@@ -270,7 +270,7 @@
 	</row>
 	<row id="msg_0751_low_kick" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NISKI KOPNIAK</language>
+		<language name="English">NISKI KOP</language>
 	</row>
 	<row id="msg_0751_counter" index="68">
 		<attribute name="window_context_name">used</attribute>
@@ -278,7 +278,7 @@
 	</row>
 	<row id="msg_0751_seismic_toss" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SEJSMICZNY RZUT</language>
+		<language name="English">SEJSM. RZUT</language>
 	</row>
 	<row id="msg_0751_strength" index="70">
 		<attribute name="window_context_name">used</attribute>
@@ -290,11 +290,11 @@
 	</row>
 	<row id="msg_0751_mega_drain" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MEGA WYSYSANIE</language>
+		<language name="English">MEGA WYSYS.</language>
 	</row>
 	<row id="msg_0751_leech_seed" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PIJAWCZE ZIARNO</language>
+		<language name="English">ZIARNO PIJAW</language>
 	</row>
 	<row id="msg_0751_growth" index="74">
 		<attribute name="window_context_name">used</attribute>
@@ -306,7 +306,7 @@
 	</row>
 	<row id="msg_0751_solar_beam" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PROMIEŃ SŁONECZNY</language>
+		<language name="English">SŁON. PROM.</language>
 	</row>
 	<row id="msg_0751_poison_powder" index="77">
 		<attribute name="window_context_name">used</attribute>
@@ -314,15 +314,15 @@
 	</row>
 	<row id="msg_0751_stun_spore" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ODURZAJĄCY PYŁEK</language>
+		<language name="English">PYŁEK ODURZ.</language>
 	</row>
 	<row id="msg_0751_sleep_powder" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">USYPIAJĄCY PYŁEK</language>
+		<language name="English">PYŁ UŚPIENIA</language>
 	</row>
 	<row id="msg_0751_petal_dance" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TANIEC PŁATKÓW</language>
+		<language name="English">TAN. PŁATKÓW</language>
 	</row>
 	<row id="msg_0751_string_shot" index="81">
 		<attribute name="window_context_name">used</attribute>
@@ -338,15 +338,15 @@
 	</row>
 	<row id="msg_0751_thunder_shock" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WSTRZĄS ELEKTRYCZNY</language>
+		<language name="English">SZOK ELEKTR.</language>
 	</row>
 	<row id="msg_0751_thunderbolt" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PIORUN KULISTY</language>
+		<language name="English">PIORUN</language>
 	</row>
 	<row id="msg_0751_thunder_wave" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FALA PIORUNOWA</language>
+		<language name="English">FALA PIORUNA</language>
 	</row>
 	<row id="msg_0751_thunder" index="87">
 		<attribute name="window_context_name">used</attribute>
@@ -354,11 +354,11 @@
 	</row>
 	<row id="msg_0751_rock_throw" index="88">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RZUT KAMIENIEM</language>
+		<language name="English">RZUT SKAŁĄ</language>
 	</row>
 	<row id="msg_0751_earthquake" index="89">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TRZĘSIENIE ZIEMI</language>
+		<language name="English">TRZĘSIENIE</language>
 	</row>
 	<row id="msg_0751_fissure" index="90">
 		<attribute name="window_context_name">used</attribute>
@@ -374,7 +374,7 @@
 	</row>
 	<row id="msg_0751_confusion" index="93">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DEZORIENTACJA</language>
+		<language name="English">SPLĄTANIE</language>
 	</row>
 	<row id="msg_0751_psychic" index="94">
 		<attribute name="window_context_name">used</attribute>
@@ -418,7 +418,7 @@
 	</row>
 	<row id="msg_0751_double_team" index="104">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PODWÓJNY OBRAZ</language>
+		<language name="English">PODW. OBRAZ</language>
 	</row>
 	<row id="msg_0751_recover" index="105">
 		<attribute name="window_context_name">used</attribute>
@@ -434,11 +434,11 @@
 	</row>
 	<row id="msg_0751_smokescreen" index="108">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ZASŁONA DYMNA</language>
+		<language name="English">ZASŁ. DYMNA</language>
 	</row>
 	<row id="msg_0751_confuse_ray" index="109">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MROCZNY PROMIEŃ</language>
+		<language name="English">PROM. ZAMĘTU</language>
 	</row>
 	<row id="msg_0751_withdraw" index="110">
 		<attribute name="window_context_name">used</attribute>
@@ -446,7 +446,7 @@
 	</row>
 	<row id="msg_0751_defense_curl" index="111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ZWINIĘCIE W OBRONIE</language>
+		<language name="English">ZWINIĘCIE</language>
 	</row>
 	<row id="msg_0751_barrier" index="112">
 		<attribute name="window_context_name">used</attribute>
@@ -454,7 +454,7 @@
 	</row>
 	<row id="msg_0751_light_screen" index="113">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ŚCIANA ŚWIATŁA</language>
+		<language name="English">TARCZA ŚW.</language>
 	</row>
 	<row id="msg_0751_haze" index="114">
 		<attribute name="window_context_name">used</attribute>
@@ -466,7 +466,7 @@
 	</row>
 	<row id="msg_0751_focus_energy" index="116">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SKUPIENIE ENERGII</language>
+		<language name="English">SKUPIENIE</language>
 	</row>
 	<row id="msg_0751_bide" index="117">
 		<attribute name="window_context_name">used</attribute>
@@ -478,15 +478,15 @@
 	</row>
 	<row id="msg_0751_mirror_move" index="119">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LUSTRZANY RUCH</language>
+		<language name="English">LUSTRZ. RUCH</language>
 	</row>
 	<row id="msg_0751_self_destruct" index="120">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SAMOZNISZCZENIE</language>
+		<language name="English">SAMOZNISZCZ.</language>
 	</row>
 	<row id="msg_0751_egg_bomb" index="121">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BOMBA JAJECZNA</language>
+		<language name="English">BOMBA JAJOWA</language>
 	</row>
 	<row id="msg_0751_lick" index="122">
 		<attribute name="window_context_name">used</attribute>
@@ -502,11 +502,11 @@
 	</row>
 	<row id="msg_0751_bone_club" index="125">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MACZUGA KOSTNA</language>
+		<language name="English">KOSTNA PAŁKA</language>
 	</row>
 	<row id="msg_0751_fire_blast" index="126">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OGNISTY WYBUCH</language>
+		<language name="English">OGNISTY WYB.</language>
 	</row>
 	<row id="msg_0751_waterfall" index="127">
 		<attribute name="window_context_name">used</attribute>
@@ -522,11 +522,11 @@
 	</row>
 	<row id="msg_0751_skull_bash" index="130">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">UDERZENIE CZASZKĄ</language>
+		<language name="English">CIOS CZASZKĄ</language>
 	</row>
 	<row id="msg_0751_spike_cannon" index="131">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">KOLCZASTE SALWY</language>
+		<language name="English">KOLCE-DZIAŁO</language>
 	</row>
 	<row id="msg_0751_constrict" index="132">
 		<attribute name="window_context_name">used</attribute>
@@ -542,11 +542,11 @@
 	</row>
 	<row id="msg_0751_soft_boiled" index="135">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MIĘKKIE GOTOWANIE</language>
+		<language name="English">NA MIĘKKO</language>
 	</row>
 	<row id="msg_0751_high_jump_kick" index="136">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WYSOKI KOPNIAK</language>
+		<language name="English">WYSOKI KOP</language>
 	</row>
 	<row id="msg_0751_glare" index="137">
 		<attribute name="window_context_name">used</attribute>
@@ -554,7 +554,7 @@
 	</row>
 	<row id="msg_0751_dream_eater" index="138">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POŻERACZ SNÓW</language>
+		<language name="English">POŻER. SNÓW</language>
 	</row>
 	<row id="msg_0751_poison_gas" index="139">
 		<attribute name="window_context_name">used</attribute>
@@ -566,19 +566,19 @@
 	</row>
 	<row id="msg_0751_leech_life" index="141">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PIJAWCZE ŻYCIE</language>
+		<language name="English">WYSS. ŻYCIA</language>
 	</row>
 	<row id="msg_0751_lovely_kiss" index="142">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CZUŁY POCAŁUNEK</language>
+		<language name="English">CZUŁY CAŁUS</language>
 	</row>
 	<row id="msg_0751_sky_attack" index="143">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NIEBIAŃSKI ATAK</language>
+		<language name="English">ATAK Z NIEBA</language>
 	</row>
 	<row id="msg_0751_transform" index="144">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TRANSFORMACJA</language>
+		<language name="English">PRZEMIANA</language>
 	</row>
 	<row id="msg_0751_bubble" index="145">
 		<attribute name="window_context_name">used</attribute>
@@ -586,7 +586,7 @@
 	</row>
 	<row id="msg_0751_dizzy_punch" index="146">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OSZAŁAMIAJĄCY CIOS</language>
+		<language name="English">ZAWRÓT CIOSU</language>
 	</row>
 	<row id="msg_0751_spore" index="147">
 		<attribute name="window_context_name">used</attribute>
@@ -606,7 +606,7 @@
 	</row>
 	<row id="msg_0751_acid_armor" index="151">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ZBROJA KWASOWA</language>
+		<language name="English">KWASOWA ZBR.</language>
 	</row>
 	<row id="msg_0751_crabhammer" index="152">
 		<attribute name="window_context_name">used</attribute>
@@ -618,11 +618,11 @@
 	</row>
 	<row id="msg_0751_fury_swipes" index="154">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WŚCIEKŁE DRAPANIE</language>
+		<language name="English">WŚCIEK. DRAP</language>
 	</row>
 	<row id="msg_0751_bonemerang" index="155">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">KOSTNY BUMERANG</language>
+		<language name="English">KOSTNY BUM.</language>
 	</row>
 	<row id="msg_0751_rest" index="156">
 		<attribute name="window_context_name">used</attribute>
@@ -630,7 +630,7 @@
 	</row>
 	<row id="msg_0751_rock_slide" index="157">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OSUWISKO SKALNE</language>
+		<language name="English">OSUW. SKALNE</language>
 	</row>
 	<row id="msg_0751_hyper_fang" index="158">
 		<attribute name="window_context_name">used</attribute>
@@ -646,7 +646,7 @@
 	</row>
 	<row id="msg_0751_tri_attack" index="161">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POTRÓJNY ATAK</language>
+		<language name="English">TRÓJ-ATAK</language>
 	</row>
 	<row id="msg_0751_super_fang" index="162">
 		<attribute name="window_context_name">used</attribute>
@@ -670,7 +670,7 @@
 	</row>
 	<row id="msg_0751_triple_kick" index="167">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POTRÓJNY KOPNIAK</language>
+		<language name="English">POTRÓJNY KOP</language>
 	</row>
 	<row id="msg_0751_thief" index="168">
 		<attribute name="window_context_name">used</attribute>
@@ -682,7 +682,7 @@
 	</row>
 	<row id="msg_0751_mind_reader" index="170">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CZYTANIE MYŚLI</language>
+		<language name="English">CZYT. MYŚLI</language>
 	</row>
 	<row id="msg_0751_nightmare" index="171">
 		<attribute name="window_context_name">used</attribute>
@@ -714,7 +714,7 @@
 	</row>
 	<row id="msg_0751_cotton_spore" index="178">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BAWEŁNIANY ZARODNIK</language>
+		<language name="English">BAWEŁN. PYŁ</language>
 	</row>
 	<row id="msg_0751_reversal" index="179">
 		<attribute name="window_context_name">used</attribute>
@@ -726,7 +726,7 @@
 	</row>
 	<row id="msg_0751_powder_snow" index="181">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PUDROWY ŚNIEG</language>
+		<language name="English">PUCH. ŚNIEG</language>
 	</row>
 	<row id="msg_0751_protect" index="182">
 		<attribute name="window_context_name">used</attribute>
@@ -738,19 +738,19 @@
 	</row>
 	<row id="msg_0751_scary_face" index="184">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">STRASZNA MINA</language>
+		<language name="English">STR. MINA</language>
 	</row>
 	<row id="msg_0751_feint_attack" index="185">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PODSTĘPNY ATAK</language>
+		<language name="English">PODST. ATAK</language>
 	</row>
 	<row id="msg_0751_sweet_kiss" index="186">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SŁODKI POCAŁUNEK</language>
+		<language name="English">SŁODKI CAŁUS</language>
 	</row>
 	<row id="msg_0751_belly_drum" index="187">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BĘBEN BRZUCHA</language>
+		<language name="English">BĘB. BRZUCHA</language>
 	</row>
 	<row id="msg_0751_sludge_bomb" index="188">
 		<attribute name="window_context_name">used</attribute>
@@ -758,7 +758,7 @@
 	</row>
 	<row id="msg_0751_mud_slap" index="189">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BŁOTNY CHLUST</language>
+		<language name="English">BŁOTNY CHLAP</language>
 	</row>
 	<row id="msg_0751_octazooka" index="190">
 		<attribute name="window_context_name">used</attribute>
@@ -770,23 +770,23 @@
 	</row>
 	<row id="msg_0751_zap_cannon" index="192">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DZIAŁO ELEKTRYCZNE</language>
+		<language name="English">DZIAŁO ZAP</language>
 	</row>
 	<row id="msg_0751_foresight" index="193">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DALEKOWZROCZNOŚĆ</language>
+		<language name="English">PRZECZUCIE</language>
 	</row>
 	<row id="msg_0751_destiny_bond" index="194">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WIĘŹ PRZEZNACZENIA</language>
+		<language name="English">WIĘŹ LOSU</language>
 	</row>
 	<row id="msg_0751_perish_song" index="195">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PIEŚŃ ZAGŁADY</language>
+		<language name="English">PIEŚŃ ZGUBY</language>
 	</row>
 	<row id="msg_0751_icy_wind" index="196">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LODOWATY WIATR</language>
+		<language name="English">LODOWY WIATR</language>
 	</row>
 	<row id="msg_0751_detect" index="197">
 		<attribute name="window_context_name">used</attribute>
@@ -806,11 +806,11 @@
 	</row>
 	<row id="msg_0751_sandstorm" index="201">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PIASKOWA BURZA</language>
+		<language name="English">BURZA PIASKU</language>
 	</row>
 	<row id="msg_0751_giga_drain" index="202">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GIGA WYSYSANIE</language>
+		<language name="English">GIGA WYSYS.</language>
 	</row>
 	<row id="msg_0751_endure" index="203">
 		<attribute name="window_context_name">used</attribute>
@@ -826,7 +826,7 @@
 	</row>
 	<row id="msg_0751_false_swipe" index="206">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FAŁSZYWE CIĘCIE</language>
+		<language name="English">FAŁSZ. CIOS</language>
 	</row>
 	<row id="msg_0751_swagger" index="207">
 		<attribute name="window_context_name">used</attribute>
@@ -834,7 +834,7 @@
 	</row>
 	<row id="msg_0751_milk_drink" index="208">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MLECZNY NAPÓJ</language>
+		<language name="English">PIJ MLEKO</language>
 	</row>
 	<row id="msg_0751_spark" index="209">
 		<attribute name="window_context_name">used</attribute>
@@ -842,15 +842,15 @@
 	</row>
 	<row id="msg_0751_fury_cutter" index="210">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WŚCIEKŁE CIĘCIE</language>
+		<language name="English">CIĘCIE FURII</language>
 	</row>
 	<row id="msg_0751_steel_wing" index="211">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">STALOWE SKRZYDŁO</language>
+		<language name="English">STALOWE SKR.</language>
 	</row>
 	<row id="msg_0751_mean_look" index="212">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ZŁE SPOJRZENIE</language>
+		<language name="English">ZŁE SPOJRZ.</language>
 	</row>
 	<row id="msg_0751_attract" index="213">
 		<attribute name="window_context_name">used</attribute>
@@ -858,15 +858,15 @@
 	</row>
 	<row id="msg_0751_sleep_talk" index="214">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GADANIE PRZEZ SEN</language>
+		<language name="English">SEN-GADANIE</language>
 	</row>
 	<row id="msg_0751_heal_bell" index="215">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DZWON LECZĄCY</language>
+		<language name="English">DZWON ZDROW.</language>
 	</row>
 	<row id="msg_0751_return" index="216">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ODWZAJEMNIENIE</language>
+		<language name="English">ODWDZIĘCZ.</language>
 	</row>
 	<row id="msg_0751_present" index="217">
 		<attribute name="window_context_name">used</attribute>
@@ -894,7 +894,7 @@
 	</row>
 	<row id="msg_0751_dynamic_punch" index="223">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DYNAMICZNY CIOS</language>
+		<language name="English">DYNAM. CIOS</language>
 	</row>
 	<row id="msg_0751_megahorn" index="224">
 		<attribute name="window_context_name">used</attribute>
@@ -902,11 +902,11 @@
 	</row>
 	<row id="msg_0751_dragon_breath" index="225">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SMOCZY ODDECH</language>
+		<language name="English">SMOCZY DECH</language>
 	</row>
 	<row id="msg_0751_baton_pass" index="226">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PRZEKAZANIE PAŁECZKI</language>
+		<language name="English">PAŁECZKA</language>
 	</row>
 	<row id="msg_0751_encore" index="227">
 		<attribute name="window_context_name">used</attribute>
@@ -922,7 +922,7 @@
 	</row>
 	<row id="msg_0751_sweet_scent" index="230">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SŁODKI ZAPACH</language>
+		<language name="English">SŁODKA WOŃ</language>
 	</row>
 	<row id="msg_0751_iron_tail" index="231">
 		<attribute name="window_context_name">used</attribute>
@@ -930,15 +930,15 @@
 	</row>
 	<row id="msg_0751_metal_claw" index="232">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">METALOWY PAZUR</language>
+		<language name="English">METAL. PAZUR</language>
 	</row>
 	<row id="msg_0751_vital_throw" index="233">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RZUT Z ROZMACHEM</language>
+		<language name="English">RZUT ŻYCIOWY</language>
 	</row>
 	<row id="msg_0751_morning_sun" index="234">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PORANNE SŁOŃCE</language>
+		<language name="English">SŁOŃCE RANO</language>
 	</row>
 	<row id="msg_0751_synthesis" index="235">
 		<attribute name="window_context_name">used</attribute>
@@ -946,7 +946,7 @@
 	</row>
 	<row id="msg_0751_moonlight" index="236">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BLASK KSIĘŻYCA</language>
+		<language name="English">BLASK KSIĘŻ.</language>
 	</row>
 	<row id="msg_0751_hidden_power" index="237">
 		<attribute name="window_context_name">used</attribute>
@@ -954,7 +954,7 @@
 	</row>
 	<row id="msg_0751_cross_chop" index="238">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">KRZYŻOWE CIĘCIE</language>
+		<language name="English">KRZYŻ. CIOS</language>
 	</row>
 	<row id="msg_0751_twister" index="239">
 		<attribute name="window_context_name">used</attribute>
@@ -962,11 +962,11 @@
 	</row>
 	<row id="msg_0751_rain_dance" index="240">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TANIEC DESZCZU</language>
+		<language name="English">TAN. DESZCZU</language>
 	</row>
 	<row id="msg_0751_sunny_day" index="241">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SŁONECZNY DZIEŃ</language>
+		<language name="English">SŁON. DZIEŃ</language>
 	</row>
 	<row id="msg_0751_crunch" index="242">
 		<attribute name="window_context_name">used</attribute>
@@ -974,31 +974,31 @@
 	</row>
 	<row id="msg_0751_mirror_coat" index="243">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LUSTRZANA POWŁOKA</language>
+		<language name="English">LUSTRZ. OSŁ.</language>
 	</row>
 	<row id="msg_0751_psych_up" index="244">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NAKRĘCENIE PSYCHICZNE</language>
+		<language name="English">PODKRĘCENIE</language>
 	</row>
 	<row id="msg_0751_extreme_speed" index="245">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EKSTREMALNA SZYBKOŚĆ</language>
+		<language name="English">EKSTRA PĘD</language>
 	</row>
 	<row id="msg_0751_ancient_power" index="246">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">STAROŻYTNA MOC</language>
+		<language name="English">PRASTARA MOC</language>
 	</row>
 	<row id="msg_0751_shadow_ball" index="247">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CIENISTA KULA</language>
+		<language name="English">CIEŃ. KULA</language>
 	</row>
 	<row id="msg_0751_future_sight" index="248">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PRZYSZŁOWIDZENIE</language>
+		<language name="English">PRZYSZŁOŚĆ</language>
 	</row>
 	<row id="msg_0751_rock_smash" index="249">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ROZBICIE SKAŁY</language>
+		<language name="English">ROZBIJ SKAŁĘ</language>
 	</row>
 	<row id="msg_0751_whirlpool" index="250">
 		<attribute name="window_context_name">used</attribute>
@@ -1006,7 +1006,7 @@
 	</row>
 	<row id="msg_0751_beat_up" index="251">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SOLIDNE LANIE</language>
+		<language name="English">LANIE</language>
 	</row>
 	<row id="msg_0751_fake_out" index="252">
 		<attribute name="window_context_name">used</attribute>
@@ -1058,11 +1058,11 @@
 	</row>
 	<row id="msg_0751_focus_punch" index="264">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SKUPIONY CIOS</language>
+		<language name="English">SKUP. CIOS</language>
 	</row>
 	<row id="msg_0751_smelling_salts" index="265">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SOLE TRZEŹWIĄCE</language>
+		<language name="English">SOLE TRZEŹW.</language>
 	</row>
 	<row id="msg_0751_follow_me" index="266">
 		<attribute name="window_context_name">used</attribute>
@@ -1090,7 +1090,7 @@
 	</row>
 	<row id="msg_0751_role_play" index="272">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ODGRYWANIE ROLI</language>
+		<language name="English">ODGRYW. ROLI</language>
 	</row>
 	<row id="msg_0751_wish" index="273">
 		<attribute name="window_context_name">used</attribute>
@@ -1102,7 +1102,7 @@
 	</row>
 	<row id="msg_0751_ingrain" index="275">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ZAKORZENIENIE</language>
+		<language name="English">KORZENIE</language>
 	</row>
 	<row id="msg_0751_superpower" index="276">
 		<attribute name="window_context_name">used</attribute>
@@ -1110,7 +1110,7 @@
 	</row>
 	<row id="msg_0751_magic_coat" index="277">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MAGICZNA POWŁOKA</language>
+		<language name="English">MAGIA OSŁONA</language>
 	</row>
 	<row id="msg_0751_recycle" index="278">
 		<attribute name="window_context_name">used</attribute>
@@ -1122,7 +1122,7 @@
 	</row>
 	<row id="msg_0751_brick_break" index="280">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ROZBICIE CEGŁY</language>
+		<language name="English">ROZBIJ CEGŁĘ</language>
 	</row>
 	<row id="msg_0751_yawn" index="281">
 		<attribute name="window_context_name">used</attribute>
@@ -1134,7 +1134,7 @@
 	</row>
 	<row id="msg_0751_endeavor" index="283">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WYSIŁEK OSTATECZNY</language>
+		<language name="English">SUPERMOC</language>
 	</row>
 	<row id="msg_0751_eruption" index="284">
 		<attribute name="window_context_name">used</attribute>
@@ -1142,7 +1142,7 @@
 	</row>
 	<row id="msg_0751_skill_swap" index="285">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ZAMIANA UMIEJĘTNOŚCI</language>
+		<language name="English">ZMIEŃ UMIEJ.</language>
 	</row>
 	<row id="msg_0751_imprison" index="286">
 		<attribute name="window_context_name">used</attribute>
@@ -1170,7 +1170,7 @@
 	</row>
 	<row id="msg_0751_arm_thrust" index="292">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PCHNIĘCIE RAMIENIEM</language>
+		<language name="English">PCHNIĘCIE</language>
 	</row>
 	<row id="msg_0751_camouflage" index="293">
 		<attribute name="window_context_name">used</attribute>
@@ -1182,7 +1182,7 @@
 	</row>
 	<row id="msg_0751_luster_purge" index="295">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OCZYSZCZENIE BLASKIEM</language>
+		<language name="English">CZYSTKA</language>
 	</row>
 	<row id="msg_0751_mist_ball" index="296">
 		<attribute name="window_context_name">used</attribute>
@@ -1194,11 +1194,11 @@
 	</row>
 	<row id="msg_0751_teeter_dance" index="298">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TANIEC CHWIEJNY</language>
+		<language name="English">TAN. CHWIEJ.</language>
 	</row>
 	<row id="msg_0751_blaze_kick" index="299">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PŁOMIENNY KOPNIAK</language>
+		<language name="English">PŁOMIEŃ. KOP</language>
 	</row>
 	<row id="msg_0751_mud_sport" index="300">
 		<attribute name="window_context_name">used</attribute>
@@ -1210,7 +1210,7 @@
 	</row>
 	<row id="msg_0751_needle_arm" index="302">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">KOLCZASTE RAMIĘ</language>
+		<language name="English">IGŁOWE RAMIĘ</language>
 	</row>
 	<row id="msg_0751_slack_off" index="303">
 		<attribute name="window_context_name">used</attribute>
@@ -1226,7 +1226,7 @@
 	</row>
 	<row id="msg_0751_crush_claw" index="306">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MIAŻDŻĄCY PAZUR</language>
+		<language name="English">KRUSZY PAZUR</language>
 	</row>
 	<row id="msg_0751_blast_burn" index="307">
 		<attribute name="window_context_name">used</attribute>
@@ -1238,7 +1238,7 @@
 	</row>
 	<row id="msg_0751_meteor_mash" index="309">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">METEOROWY CIOS</language>
+		<language name="English">METEOR. CIOS</language>
 	</row>
 	<row id="msg_0751_astonish" index="310">
 		<attribute name="window_context_name">used</attribute>
@@ -1246,7 +1246,7 @@
 	</row>
 	<row id="msg_0751_weather_ball" index="311">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">KULA POGODOWA</language>
+		<language name="English">POGOD. KULA</language>
 	</row>
 	<row id="msg_0751_aromatherapy" index="312">
 		<attribute name="window_context_name">used</attribute>
@@ -1258,7 +1258,7 @@
 	</row>
 	<row id="msg_0751_air_cutter" index="314">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CIĘCIE POWIETRZEM</language>
+		<language name="English">WIETRZNY NÓŻ</language>
 	</row>
 	<row id="msg_0751_overheat" index="315">
 		<attribute name="window_context_name">used</attribute>
@@ -1266,23 +1266,23 @@
 	</row>
 	<row id="msg_0751_odor_sleuth" index="316">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WĘCH TROPICIELA</language>
+		<language name="English">WĘCH TROPIC.</language>
 	</row>
 	<row id="msg_0751_rock_tomb" index="317">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SKALNY GROBOWIEC</language>
+		<language name="English">SKALNY GRÓB</language>
 	</row>
 	<row id="msg_0751_silver_wind" index="318">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SREBRNY WIATR</language>
+		<language name="English">SREBR. WIATR</language>
 	</row>
 	<row id="msg_0751_metal_sound" index="319">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">METALICZNY DŹWIĘK</language>
+		<language name="English">METALOWY TON</language>
 	</row>
 	<row id="msg_0751_grass_whistle" index="320">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TRAWIASTY ŚWIST</language>
+		<language name="English">TRAWNY ŚWIST</language>
 	</row>
 	<row id="msg_0751_tickle" index="321">
 		<attribute name="window_context_name">used</attribute>
@@ -1290,7 +1290,7 @@
 	</row>
 	<row id="msg_0751_cosmic_power" index="322">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">KOSMICZNA MOC</language>
+		<language name="English">KOSM. MOC</language>
 	</row>
 	<row id="msg_0751_water_spout" index="323">
 		<attribute name="window_context_name">used</attribute>
@@ -1298,27 +1298,27 @@
 	</row>
 	<row id="msg_0751_signal_beam" index="324">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SYGNAŁOWY PROMIEŃ</language>
+		<language name="English">SYGNAŁ PROM.</language>
 	</row>
 	<row id="msg_0751_shadow_punch" index="325">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CIENISTY CIOS</language>
+		<language name="English">CIEŃ. CIOS</language>
 	</row>
 	<row id="msg_0751_extrasensory" index="326">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NADWRAŻLIWOŚĆ</language>
+		<language name="English">NADWRAŻLIW.</language>
 	</row>
 	<row id="msg_0751_sky_uppercut" index="327">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NIEBIAŃSKI SIERPOWY</language>
+		<language name="English">CIOS Z NIEBA</language>
 	</row>
 	<row id="msg_0751_sand_tomb" index="328">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PIASKOWY GROBOWIEC</language>
+		<language name="English">PIASK. GRÓB</language>
 	</row>
 	<row id="msg_0751_sheer_cold" index="329">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BEZWZGLĘDNE ZIMNO</language>
+		<language name="English">LODOWY KRES</language>
 	</row>
 	<row id="msg_0751_muddy_water" index="330">
 		<attribute name="window_context_name">used</attribute>
@@ -1334,11 +1334,11 @@
 	</row>
 	<row id="msg_0751_icicle_spear" index="333">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WŁÓCZNIA SOPLI</language>
+		<language name="English">SOPEL-WŁÓCZ.</language>
 	</row>
 	<row id="msg_0751_iron_defense" index="334">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ŻELAZNA OBRONA</language>
+		<language name="English">ŻELAZNA OBR.</language>
 	</row>
 	<row id="msg_0751_block" index="335">
 		<attribute name="window_context_name">used</attribute>
@@ -1358,15 +1358,15 @@
 	</row>
 	<row id="msg_0751_bulk_up" index="339">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NABRANIE MASY</language>
+		<language name="English">NABR. MASY</language>
 	</row>
 	<row id="msg_0751_bounce" index="340">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ODBICIE W GÓRĘ</language>
+		<language name="English">ODBICIE</language>
 	</row>
 	<row id="msg_0751_mud_shot" index="341">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BŁOTNY STRZAŁ</language>
+		<language name="English">BŁOTO-STRZAŁ</language>
 	</row>
 	<row id="msg_0751_poison_tail" index="342">
 		<attribute name="window_context_name">used</attribute>
@@ -1378,11 +1378,11 @@
 	</row>
 	<row id="msg_0751_volt_tackle" index="344">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WOLTOWY SZTURM</language>
+		<language name="English">WOLTOWY SZT.</language>
 	</row>
 	<row id="msg_0751_magical_leaf" index="345">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MAGICZNY LIŚĆ</language>
+		<language name="English">MAGI. LIŚĆ</language>
 	</row>
 	<row id="msg_0751_water_sport" index="346">
 		<attribute name="window_context_name">used</attribute>
@@ -1390,23 +1390,23 @@
 	</row>
 	<row id="msg_0751_calm_mind" index="347">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SPOKÓJ UMYSŁU</language>
+		<language name="English">SPOKÓJ DUCHA</language>
 	</row>
 	<row id="msg_0751_leaf_blade" index="348">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LIŚCIASTE OSTRZE</language>
+		<language name="English">LIŚĆ-OSTRZE</language>
 	</row>
 	<row id="msg_0751_dragon_dance" index="349">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SMOCZY TANIEC</language>
+		<language name="English">SMOCZY TAN.</language>
 	</row>
 	<row id="msg_0751_rock_blast" index="350">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">KANONADA SKAŁ</language>
+		<language name="English">KANONADA SK.</language>
 	</row>
 	<row id="msg_0751_shock_wave" index="351">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FALA WSTRZĄSOWA</language>
+		<language name="English">FALA SZOKU</language>
 	</row>
 	<row id="msg_0751_water_pulse" index="352">
 		<attribute name="window_context_name">used</attribute>
@@ -1414,11 +1414,11 @@
 	</row>
 	<row id="msg_0751_doom_desire" index="353">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ZAGŁADA ZAOCZNA</language>
+		<language name="English">ZAOCZNA ZAG.</language>
 	</row>
 	<row id="msg_0751_psycho_boost" index="354">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PSYCHICZNY WYBUCH</language>
+		<language name="English">PSY-WYBUCH</language>
 	</row>
 	<row id="msg_0751_roost" index="355">
 		<attribute name="window_context_name">used</attribute>
@@ -1434,7 +1434,7 @@
 	</row>
 	<row id="msg_0751_wake_up_slap" index="358">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BUDZĄCE KLEPNIĘCIE</language>
+		<language name="English">KLEPNIĘCIE</language>
 	</row>
 	<row id="msg_0751_hammer_arm" index="359">
 		<attribute name="window_context_name">used</attribute>
@@ -1442,11 +1442,11 @@
 	</row>
 	<row id="msg_0751_gyro_ball" index="360">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ŻYROSKOPOWA KULA</language>
+		<language name="English">ŻYRO-KULA</language>
 	</row>
 	<row id="msg_0751_healing_wish" index="361">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">UZDRAWIAJĄCE ŻYCZENIE</language>
+		<language name="English">ŻYCZENIE</language>
 	</row>
 	<row id="msg_0751_brine" index="362">
 		<attribute name="window_context_name">used</attribute>
@@ -1454,7 +1454,7 @@
 	</row>
 	<row id="msg_0751_natural_gift" index="363">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NATURALNY DAR</language>
+		<language name="English">NATUR. DAR</language>
 	</row>
 	<row id="msg_0751_feint" index="364">
 		<attribute name="window_context_name">used</attribute>
@@ -1466,7 +1466,7 @@
 	</row>
 	<row id="msg_0751_tailwind" index="366">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PODMUCH OGONA</language>
+		<language name="English">WIATR W OGON</language>
 	</row>
 	<row id="msg_0751_acupressure" index="367">
 		<attribute name="window_context_name">used</attribute>
@@ -1474,7 +1474,7 @@
 	</row>
 	<row id="msg_0751_metal_burst" index="368">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">METALOWY WYBUCH</language>
+		<language name="English">METAL-WYBUCH</language>
 	</row>
 	<row id="msg_0751_u_turn" index="369">
 		<attribute name="window_context_name">used</attribute>
@@ -1482,7 +1482,7 @@
 	</row>
 	<row id="msg_0751_close_combat" index="370">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BLISKI KONTAKT</language>
+		<language name="English">BLISKA WALKA</language>
 	</row>
 	<row id="msg_0751_payback" index="371">
 		<attribute name="window_context_name">used</attribute>
@@ -1502,15 +1502,15 @@
 	</row>
 	<row id="msg_0751_psycho_shift" index="375">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ZMIANA PSYCHICZNA</language>
+		<language name="English">ZMIANA PSY.</language>
 	</row>
 	<row id="msg_0751_trump_card" index="376">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">KARTA ATUTOWA</language>
+		<language name="English">AS W RĘKAWIE</language>
 	</row>
 	<row id="msg_0751_heal_block" index="377">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BLOKADA LECZENIA</language>
+		<language name="English">BLOK LECZEN.</language>
 	</row>
 	<row id="msg_0751_wring_out" index="378">
 		<attribute name="window_context_name">used</attribute>
@@ -1518,15 +1518,15 @@
 	</row>
 	<row id="msg_0751_power_trick" index="379">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SZTUCZKA MOCY</language>
+		<language name="English">TRIK MOCY</language>
 	</row>
 	<row id="msg_0751_gastro_acid" index="380">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ŻOŁĄDKOWY KWAS</language>
+		<language name="English">KWAS ŻOŁĄD.</language>
 	</row>
 	<row id="msg_0751_lucky_chant" index="381">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SZCZĘŚLIWA ZAŚPIEWKA</language>
+		<language name="English">PIEŚŃ SZCZĘŚ</language>
 	</row>
 	<row id="msg_0751_me_first" index="382">
 		<attribute name="window_context_name">used</attribute>
@@ -1542,7 +1542,7 @@
 	</row>
 	<row id="msg_0751_guard_swap" index="385">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ZAMIANA OSŁON</language>
+		<language name="English">ZAMIANA OSŁ.</language>
 	</row>
 	<row id="msg_0751_punishment" index="386">
 		<attribute name="window_context_name">used</attribute>
@@ -1550,19 +1550,19 @@
 	</row>
 	<row id="msg_0751_last_resort" index="387">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OSTATNIA DESKA RATUNKU</language>
+		<language name="English">OSTAT. DESKA</language>
 	</row>
 	<row id="msg_0751_worry_seed" index="388">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ZMARTWIONE ZIARNO</language>
+		<language name="English">ZIARNO LĘKU</language>
 	</row>
 	<row id="msg_0751_sucker_punch" index="389">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CIOS Z ZASKOCZENIA</language>
+		<language name="English">ZASKOCZENIE</language>
 	</row>
 	<row id="msg_0751_toxic_spikes" index="390">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TOKSYCZNE KOLCE</language>
+		<language name="English">TOKS. KOLCE</language>
 	</row>
 	<row id="msg_0751_heart_swap" index="391">
 		<attribute name="window_context_name">used</attribute>
@@ -1570,15 +1570,15 @@
 	</row>
 	<row id="msg_0751_aqua_ring" index="392">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WODNY PIERŚCIEŃ</language>
+		<language name="English">WODNY KRĄG</language>
 	</row>
 	<row id="msg_0751_magnet_rise" index="393">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MAGNETYCZNA LEWITACJA</language>
+		<language name="English">LEWITACJA</language>
 	</row>
 	<row id="msg_0751_flare_blitz" index="394">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PŁOMIENNY SZTURM</language>
+		<language name="English">FLARA-SZTURM</language>
 	</row>
 	<row id="msg_0751_force_palm" index="395">
 		<attribute name="window_context_name">used</attribute>
@@ -1590,7 +1590,7 @@
 	</row>
 	<row id="msg_0751_rock_polish" index="397">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POLEROWANIE SKAŁ</language>
+		<language name="English">SZLIF SKAŁ</language>
 	</row>
 	<row id="msg_0751_poison_jab" index="398">
 		<attribute name="window_context_name">used</attribute>
@@ -1610,11 +1610,11 @@
 	</row>
 	<row id="msg_0751_seed_bomb" index="402">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BOMBA NASIENNA</language>
+		<language name="English">BOMBA NASION</language>
 	</row>
 	<row id="msg_0751_air_slash" index="403">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POWIETRZNE CIĘCIE</language>
+		<language name="English">CIĘCIE WIATR</language>
 	</row>
 	<row id="msg_0751_x_scissor" index="404">
 		<attribute name="window_context_name">used</attribute>
@@ -1622,7 +1622,7 @@
 	</row>
 	<row id="msg_0751_bug_buzz" index="405">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OWADZI ZGIEŁK</language>
+		<language name="English">OWADZI BRZĘK</language>
 	</row>
 	<row id="msg_0751_dragon_pulse" index="406">
 		<attribute name="window_context_name">used</attribute>
@@ -1630,7 +1630,7 @@
 	</row>
 	<row id="msg_0751_dragon_rush" index="407">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SMOCZY SZTURM</language>
+		<language name="English">SMOCZY SZT.</language>
 	</row>
 	<row id="msg_0751_power_gem" index="408">
 		<attribute name="window_context_name">used</attribute>
@@ -1638,7 +1638,7 @@
 	</row>
 	<row id="msg_0751_drain_punch" index="409">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WYSYSAJĄCY CIOS</language>
+		<language name="English">WYSYS. CIOS</language>
 	</row>
 	<row id="msg_0751_vacuum_wave" index="410">
 		<attribute name="window_context_name">used</attribute>
@@ -1646,11 +1646,11 @@
 	</row>
 	<row id="msg_0751_focus_blast" index="411">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SKUPIONA SFERA</language>
+		<language name="English">SKUP. SFERA</language>
 	</row>
 	<row id="msg_0751_energy_ball" index="412">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ENERGETYCZNA KULA</language>
+		<language name="English">ENERG. KULA</language>
 	</row>
 	<row id="msg_0751_brave_bird" index="413">
 		<attribute name="window_context_name">used</attribute>
@@ -1666,11 +1666,11 @@
 	</row>
 	<row id="msg_0751_giga_impact" index="416">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GIGA UDERZENIE</language>
+		<language name="English">GIGA CIOS</language>
 	</row>
 	<row id="msg_0751_nasty_plot" index="417">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NIKCZEMNY PLAN</language>
+		<language name="English">ZŁY PLAN</language>
 	</row>
 	<row id="msg_0751_bullet_punch" index="418">
 		<attribute name="window_context_name">used</attribute>
@@ -1686,11 +1686,11 @@
 	</row>
 	<row id="msg_0751_shadow_claw" index="421">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CIENISTY PAZUR</language>
+		<language name="English">CIEŃ. PAZUR</language>
 	</row>
 	<row id="msg_0751_thunder_fang" index="422">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PIORUNOWY KIEŁ</language>
+		<language name="English">PIORU. KIEŁ</language>
 	</row>
 	<row id="msg_0751_ice_fang" index="423">
 		<attribute name="window_context_name">used</attribute>
@@ -1702,7 +1702,7 @@
 	</row>
 	<row id="msg_0751_shadow_sneak" index="425">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CIENISTY PODSTĘP</language>
+		<language name="English">CIEŃ. PODST.</language>
 	</row>
 	<row id="msg_0751_mud_bomb" index="426">
 		<attribute name="window_context_name">used</attribute>
@@ -1710,23 +1710,23 @@
 	</row>
 	<row id="msg_0751_psycho_cut" index="427">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PSYCHICZNE CIĘCIE</language>
+		<language name="English">PSY-CIĘCIE</language>
 	</row>
 	<row id="msg_0751_zen_headbutt" index="428">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ZENOWE UDERZENIE GŁOWĄ</language>
+		<language name="English">ZEN. UDERZ.</language>
 	</row>
 	<row id="msg_0751_mirror_shot" index="429">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LUSTRZANY STRZAŁ</language>
+		<language name="English">LUST. STRZAŁ</language>
 	</row>
 	<row id="msg_0751_flash_cannon" index="430">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BŁYSKAWE DZIAŁO</language>
+		<language name="English">BŁYSK-DZIAŁO</language>
 	</row>
 	<row id="msg_0751_rock_climb" index="431">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WSPINACZKA SKALNA</language>
+		<language name="English">WSPINACZKA</language>
 	</row>
 	<row id="msg_0751_defog" index="432">
 		<attribute name="window_context_name">used</attribute>
@@ -1734,11 +1734,11 @@
 	</row>
 	<row id="msg_0751_trick_room" index="433">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POKÓJ SZTUCZEK</language>
+		<language name="English">POKÓJ TRIKÓW</language>
 	</row>
 	<row id="msg_0751_draco_meteor" index="434">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SMOCZY METEOR</language>
+		<language name="English">SMOK. METEOR</language>
 	</row>
 	<row id="msg_0751_discharge" index="435">
 		<attribute name="window_context_name">used</attribute>
@@ -1750,35 +1750,35 @@
 	</row>
 	<row id="msg_0751_leaf_storm" index="437">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LIŚCIASTA BURZA</language>
+		<language name="English">BURZA LIŚCI</language>
 	</row>
 	<row id="msg_0751_power_whip" index="438">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ROŚLINNY BICZ</language>
+		<language name="English">BICZ MOCY</language>
 	</row>
 	<row id="msg_0751_rock_wrecker" index="439">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">KRUSZARKA SKALNA</language>
+		<language name="English">KRUSZARKA</language>
 	</row>
 	<row id="msg_0751_cross_poison" index="440">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">KRZYŻOWA TRUCIZNA</language>
+		<language name="English">TRUJ. KRZYŻ</language>
 	</row>
 	<row id="msg_0751_gunk_shot" index="441">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">STRZAŁ SZLAMEM</language>
+		<language name="English">SZLAM-STRZAŁ</language>
 	</row>
 	<row id="msg_0751_iron_head" index="442">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ŻELAZNA GŁOWA</language>
+		<language name="English">ŻELAZNY ŁEB</language>
 	</row>
 	<row id="msg_0751_magnet_bomb" index="443">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MAGNETYCZNA BOMBA</language>
+		<language name="English">MAGNES-BOMBA</language>
 	</row>
 	<row id="msg_0751_stone_edge" index="444">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">KAMIENNA KRAWĘDŹ</language>
+		<language name="English">SKAŁ. OSTRZE</language>
 	</row>
 	<row id="msg_0751_captivate" index="445">
 		<attribute name="window_context_name">used</attribute>
@@ -1786,11 +1786,11 @@
 	</row>
 	<row id="msg_0751_stealth_rock" index="446">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">KAMIEŃ ZASADZKI</language>
+		<language name="English">PUŁAPKA SKAŁ</language>
 	</row>
 	<row id="msg_0751_grass_knot" index="447">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TRAWIASTY WĘZEŁ</language>
+		<language name="English">TRAW. WĘZEŁ</language>
 	</row>
 	<row id="msg_0751_chatter" index="448">
 		<attribute name="window_context_name">used</attribute>
@@ -1802,15 +1802,15 @@
 	</row>
 	<row id="msg_0751_bug_bite" index="450">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">UKĄSZENIE OWADA</language>
+		<language name="English">UGRYZ. OWADA</language>
 	</row>
 	<row id="msg_0751_charge_beam" index="451">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PROMIEŃ ŁADUJĄCY</language>
+		<language name="English">PROM. ŁADUN.</language>
 	</row>
 	<row id="msg_0751_wood_hammer" index="452">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DREWNIANY MŁOT</language>
+		<language name="English">DREWN. MŁOT</language>
 	</row>
 	<row id="msg_0751_aqua_jet" index="453">
 		<attribute name="window_context_name">used</attribute>
@@ -1822,19 +1822,19 @@
 	</row>
 	<row id="msg_0751_defend_order" index="455">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ROZKAZ OBRONY</language>
+		<language name="English">ROZK. OBRONY</language>
 	</row>
 	<row id="msg_0751_heal_order" index="456">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ROZKAZ LECZENIA</language>
+		<language name="English">ROZK. ZDROW.</language>
 	</row>
 	<row id="msg_0751_head_smash" index="457">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DRUZGOCĄCA GŁOWA</language>
+		<language name="English">DRUZG. GŁOWA</language>
 	</row>
 	<row id="msg_0751_double_hit" index="458">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PODWÓJNE UDERZENIE</language>
+		<language name="English">PODW. CIOS</language>
 	</row>
 	<row id="msg_0751_roar_of_time" index="459">
 		<attribute name="window_context_name">used</attribute>
@@ -1842,15 +1842,15 @@
 	</row>
 	<row id="msg_0751_spacial_rend" index="460">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ROZDARCIE PRZESTRZENI</language>
+		<language name="English">ROZDARCIE</language>
 	</row>
 	<row id="msg_0751_lunar_dance" index="461">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">KSIĘŻYCOWY TANIEC</language>
+		<language name="English">TAN. KSIĘŻ.</language>
 	</row>
 	<row id="msg_0751_crush_grip" index="462">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MIAŻDŻĄCY UŚCISK</language>
+		<language name="English">UŚCISK MOCY</language>
 	</row>
 	<row id="msg_0751_magma_storm" index="463">
 		<attribute name="window_context_name">used</attribute>
@@ -1858,15 +1858,15 @@
 	</row>
 	<row id="msg_0751_dark_void" index="464">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MROCZNA PUSTKA</language>
+		<language name="English">PUSTKA MROKU</language>
 	</row>
 	<row id="msg_0751_seed_flare" index="465">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NASIENNY ROZBŁYSK</language>
+		<language name="English">ZIARNO-BŁYSK</language>
 	</row>
 	<row id="msg_0751_ominous_wind" index="466">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ZŁOWIESZCZY WIATR</language>
+		<language name="English">ZŁY WIATR</language>
 	</row>
 	<row id="msg_0751_shadow_force" index="467">
 		<attribute name="window_context_name">used</attribute>

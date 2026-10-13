@@ -3707,7 +3707,7 @@
 	</row>
 	<row id="msg_0197_00925" index="925">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TORBA</language>
+		<language name="English">BAG</language>
 	</row>
 	<row id="msg_0197_00926" index="926">
 		<attribute name="window_context_name">used</attribute>
@@ -3715,7 +3715,7 @@
 	</row>
 	<row id="msg_0197_00927" index="927">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">UCIECZKA</language>
+		<language name="English">RUN</language>
 	</row>
 	<row id="msg_0197_00928" index="928">
 		<attribute name="window_context_name">used</attribute>
@@ -3735,7 +3735,7 @@
 	</row>
 	<row id="msg_0197_00932" index="932">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PRZYNĘTA</language>
+		<language name="English">PASZA</language>
 	</row>
 	<row id="msg_0197_00933" index="933">
 		<attribute name="window_context_name">used</attribute>
@@ -3753,7 +3753,7 @@
 	</row>
 	<row id="msg_0197_00936" index="936">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">UCIECZKA</language>
+		<language name="English">RUN</language>
 	</row>
 	<row id="msg_0197_00937" index="937">
 		<attribute name="window_context_name">used</attribute>
@@ -4910,7 +4910,7 @@
 	</row>
 	<row id="msg_0197_01224" index="1224">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">UCIECZKA</language>
+		<language name="English">RUN</language>
 	</row>
 	<row id="msg_0197_01225" index="1225">
 		<attribute name="window_context_name">used</attribute>

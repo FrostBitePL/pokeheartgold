@@ -14,11 +14,11 @@
 	</row>
 	<row id="msg_0750_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Podwójny Klaps</language>
+		<language name="English">Podw. Klaps</language>
 	</row>
 	<row id="msg_0750_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kometowy Cios</language>
+		<language name="English">Kometa Cios</language>
 	</row>
 	<row id="msg_0750_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -26,7 +26,7 @@
 	</row>
 	<row id="msg_0750_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dzień Wypłaty</language>
+		<language name="English">Wypłata</language>
 	</row>
 	<row id="msg_0750_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
@@ -38,7 +38,7 @@
 	</row>
 	<row id="msg_0750_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Piorunowy Cios</language>
+		<language name="English">Cios Pioruna</language>
 	</row>
 	<row id="msg_0750_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
@@ -58,7 +58,7 @@
 	</row>
 	<row id="msg_0750_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Taniec Mieczy</language>
+		<language name="English">Tan. Mieczy</language>
 	</row>
 	<row id="msg_0750_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
@@ -70,11 +70,11 @@
 	</row>
 	<row id="msg_0750_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Atak Skrzydłem</language>
+		<language name="English">Cios Skrzydł</language>
 	</row>
 	<row id="msg_0750_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trąba Powietrzna</language>
+		<language name="English">Wicher</language>
 	</row>
 	<row id="msg_0750_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -98,7 +98,7 @@
 	</row>
 	<row id="msg_0750_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Podwójny Kopniak</language>
+		<language name="English">Podwójny Kop</language>
 	</row>
 	<row id="msg_0750_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
@@ -106,19 +106,19 @@
 	</row>
 	<row id="msg_0750_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kopniak z Wyskoku</language>
+		<language name="English">Kop w Skoku</language>
 	</row>
 	<row id="msg_0750_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kopniak Obrotowy</language>
+		<language name="English">Obrotowy Kop</language>
 	</row>
 	<row id="msg_0750_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Piaskowy Atak</language>
+		<language name="English">Piasek w Oko</language>
 	</row>
 	<row id="msg_0750_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Uderzenie Głową</language>
+		<language name="English">Uderz. Głową</language>
 	</row>
 	<row id="msg_0750_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
@@ -126,11 +126,11 @@
 	</row>
 	<row id="msg_0750_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wściekły Atak</language>
+		<language name="English">Atak Furii</language>
 	</row>
 	<row id="msg_0750_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wiertło Rogiem</language>
+		<language name="English">Wiertło Rogu</language>
 	</row>
 	<row id="msg_0750_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
@@ -138,7 +138,7 @@
 	</row>
 	<row id="msg_0750_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Uderzenie Ciałem</language>
+		<language name="English">Taran Ciałem</language>
 	</row>
 	<row id="msg_0750_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
@@ -154,27 +154,27 @@
 	</row>
 	<row id="msg_0750_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Podwójna Krawędź</language>
+		<language name="English">Podw. Ostrze</language>
 	</row>
 	<row id="msg_0750_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Machnięcie Ogonem</language>
+		<language name="English">Bicz Ogonem</language>
 	</row>
 	<row id="msg_0750_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trujące Żądło</language>
+		<language name="English">Truj. Żądło</language>
 	</row>
 	<row id="msg_0750_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Podwójne Żądło</language>
+		<language name="English">Podw. Igła</language>
 	</row>
 	<row id="msg_0750_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pociski Kolczaste</language>
+		<language name="English">Pocisk Igieł</language>
 	</row>
 	<row id="msg_0750_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Złowrogie Spojrzenie</language>
+		<language name="English">Groźny Wzrok</language>
 	</row>
 	<row id="msg_0750_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
@@ -198,7 +198,7 @@
 	</row>
 	<row id="msg_0750_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dźwiękowy Bum</language>
+		<language name="English">Dźwięk. Bum</language>
 	</row>
 	<row id="msg_0750_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
@@ -214,7 +214,7 @@
 	</row>
 	<row id="msg_0750_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Miotacz Ognia</language>
+		<language name="English">Miotacz Ogn.</language>
 	</row>
 	<row id="msg_0750_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
@@ -222,7 +222,7 @@
 	</row>
 	<row id="msg_0750_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pistolet Wodny</language>
+		<language name="English">Pist. Wodny</language>
 	</row>
 	<row id="msg_0750_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
@@ -242,15 +242,15 @@
 	</row>
 	<row id="msg_0750_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Psychopromień</language>
+		<language name="English">Psy-promień</language>
 	</row>
 	<row id="msg_0750_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wiązka Bąbelków</language>
+		<language name="English">Wiązka Bąbli</language>
 	</row>
 	<row id="msg_0750_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Promień Aurory</language>
+		<language name="English">Prom. Aurory</language>
 	</row>
 	<row id="msg_0750_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
@@ -262,7 +262,7 @@
 	</row>
 	<row id="msg_0750_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wiertniczy Dziób</language>
+		<language name="English">Wiert. Dziób</language>
 	</row>
 	<row id="msg_0750_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
@@ -270,7 +270,7 @@
 	</row>
 	<row id="msg_0750_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Niski Kopniak</language>
+		<language name="English">Niski Kop</language>
 	</row>
 	<row id="msg_0750_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
@@ -278,7 +278,7 @@
 	</row>
 	<row id="msg_0750_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sejsmiczny Rzut</language>
+		<language name="English">Sejsm. Rzut</language>
 	</row>
 	<row id="msg_0750_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
@@ -290,11 +290,11 @@
 	</row>
 	<row id="msg_0750_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mega Wysysanie</language>
+		<language name="English">Mega Wysys.</language>
 	</row>
 	<row id="msg_0750_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pijawcze Ziarno</language>
+		<language name="English">Ziarno Pijaw</language>
 	</row>
 	<row id="msg_0750_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
@@ -306,7 +306,7 @@
 	</row>
 	<row id="msg_0750_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Promień Słoneczny</language>
+		<language name="English">Słon. Prom.</language>
 	</row>
 	<row id="msg_0750_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
@@ -314,15 +314,15 @@
 	</row>
 	<row id="msg_0750_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Odurzający Pyłek</language>
+		<language name="English">Pyłek Odurz.</language>
 	</row>
 	<row id="msg_0750_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Usypiający Pyłek</language>
+		<language name="English">Pył Uśpienia</language>
 	</row>
 	<row id="msg_0750_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Taniec Płatków</language>
+		<language name="English">Tan. Płatków</language>
 	</row>
 	<row id="msg_0750_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
@@ -338,15 +338,15 @@
 	</row>
 	<row id="msg_0750_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wstrząs Elektryczny</language>
+		<language name="English">Szok Elektr.</language>
 	</row>
 	<row id="msg_0750_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Piorun Kulisty</language>
+		<language name="English">Piorun</language>
 	</row>
 	<row id="msg_0750_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fala Piorunowa</language>
+		<language name="English">Fala Pioruna</language>
 	</row>
 	<row id="msg_0750_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
@@ -354,11 +354,11 @@
 	</row>
 	<row id="msg_0750_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rzut Kamieniem</language>
+		<language name="English">Rzut Skałą</language>
 	</row>
 	<row id="msg_0750_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trzęsienie Ziemi</language>
+		<language name="English">Trzęsienie</language>
 	</row>
 	<row id="msg_0750_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
@@ -374,7 +374,7 @@
 	</row>
 	<row id="msg_0750_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dezorientacja</language>
+		<language name="English">Splątanie</language>
 	</row>
 	<row id="msg_0750_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
@@ -418,7 +418,7 @@
 	</row>
 	<row id="msg_0750_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Podwójny Obraz</language>
+		<language name="English">Podw. Obraz</language>
 	</row>
 	<row id="msg_0750_00105" index="105">
 		<attribute name="window_context_name">used</attribute>
@@ -434,11 +434,11 @@
 	</row>
 	<row id="msg_0750_00108" index="108">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zasłona Dymna</language>
+		<language name="English">Zasł. Dymna</language>
 	</row>
 	<row id="msg_0750_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mroczny Promień</language>
+		<language name="English">Prom. Zamętu</language>
 	</row>
 	<row id="msg_0750_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
@@ -446,7 +446,7 @@
 	</row>
 	<row id="msg_0750_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zwinięcie w Obronie</language>
+		<language name="English">Zwinięcie</language>
 	</row>
 	<row id="msg_0750_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
@@ -454,7 +454,7 @@
 	</row>
 	<row id="msg_0750_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ściana Światła</language>
+		<language name="English">Tarcza Św.</language>
 	</row>
 	<row id="msg_0750_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
@@ -466,7 +466,7 @@
 	</row>
 	<row id="msg_0750_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Skupienie Energii</language>
+		<language name="English">Skupienie</language>
 	</row>
 	<row id="msg_0750_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
@@ -478,15 +478,15 @@
 	</row>
 	<row id="msg_0750_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lustrzany Ruch</language>
+		<language name="English">Lustrz. Ruch</language>
 	</row>
 	<row id="msg_0750_00120" index="120">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Samozniszczenie</language>
+		<language name="English">Samozniszcz.</language>
 	</row>
 	<row id="msg_0750_00121" index="121">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bomba Jajeczna</language>
+		<language name="English">Bomba Jajowa</language>
 	</row>
 	<row id="msg_0750_00122" index="122">
 		<attribute name="window_context_name">used</attribute>
@@ -502,11 +502,11 @@
 	</row>
 	<row id="msg_0750_00125" index="125">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Maczuga Kostna</language>
+		<language name="English">Kostna Pałka</language>
 	</row>
 	<row id="msg_0750_00126" index="126">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ognisty Wybuch</language>
+		<language name="English">Ognisty Wyb.</language>
 	</row>
 	<row id="msg_0750_00127" index="127">
 		<attribute name="window_context_name">used</attribute>
@@ -522,11 +522,11 @@
 	</row>
 	<row id="msg_0750_00130" index="130">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Uderzenie Czaszką</language>
+		<language name="English">Cios Czaszką</language>
 	</row>
 	<row id="msg_0750_00131" index="131">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kolczaste Salwy</language>
+		<language name="English">Kolce-Działo</language>
 	</row>
 	<row id="msg_0750_00132" index="132">
 		<attribute name="window_context_name">used</attribute>
@@ -542,11 +542,11 @@
 	</row>
 	<row id="msg_0750_00135" index="135">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Miękkie Gotowanie</language>
+		<language name="English">Na Miękko</language>
 	</row>
 	<row id="msg_0750_00136" index="136">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wysoki Kopniak</language>
+		<language name="English">Wysoki Kop</language>
 	</row>
 	<row id="msg_0750_00137" index="137">
 		<attribute name="window_context_name">used</attribute>
@@ -554,7 +554,7 @@
 	</row>
 	<row id="msg_0750_00138" index="138">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pożeracz Snów</language>
+		<language name="English">Pożer. Snów</language>
 	</row>
 	<row id="msg_0750_00139" index="139">
 		<attribute name="window_context_name">used</attribute>
@@ -566,19 +566,19 @@
 	</row>
 	<row id="msg_0750_00141" index="141">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pijawcze Życie</language>
+		<language name="English">Wyss. Życia</language>
 	</row>
 	<row id="msg_0750_00142" index="142">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Czuły Pocałunek</language>
+		<language name="English">Czuły Całus</language>
 	</row>
 	<row id="msg_0750_00143" index="143">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Niebiański Atak</language>
+		<language name="English">Atak z Nieba</language>
 	</row>
 	<row id="msg_0750_00144" index="144">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Transformacja</language>
+		<language name="English">Przemiana</language>
 	</row>
 	<row id="msg_0750_00145" index="145">
 		<attribute name="window_context_name">used</attribute>
@@ -586,7 +586,7 @@
 	</row>
 	<row id="msg_0750_00146" index="146">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oszałamiający Cios</language>
+		<language name="English">Zawrót Ciosu</language>
 	</row>
 	<row id="msg_0750_00147" index="147">
 		<attribute name="window_context_name">used</attribute>
@@ -606,7 +606,7 @@
 	</row>
 	<row id="msg_0750_00151" index="151">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zbroja Kwasowa</language>
+		<language name="English">Kwasowa Zbr.</language>
 	</row>
 	<row id="msg_0750_00152" index="152">
 		<attribute name="window_context_name">used</attribute>
@@ -618,11 +618,11 @@
 	</row>
 	<row id="msg_0750_00154" index="154">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wściekłe Drapanie</language>
+		<language name="English">Wściek. Drap</language>
 	</row>
 	<row id="msg_0750_00155" index="155">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kostny Bumerang</language>
+		<language name="English">Kostny Bum.</language>
 	</row>
 	<row id="msg_0750_00156" index="156">
 		<attribute name="window_context_name">used</attribute>
@@ -630,7 +630,7 @@
 	</row>
 	<row id="msg_0750_00157" index="157">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Osuwisko Skalne</language>
+		<language name="English">Osuw. Skalne</language>
 	</row>
 	<row id="msg_0750_00158" index="158">
 		<attribute name="window_context_name">used</attribute>
@@ -646,7 +646,7 @@
 	</row>
 	<row id="msg_0750_00161" index="161">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Potrójny Atak</language>
+		<language name="English">Trój-Atak</language>
 	</row>
 	<row id="msg_0750_00162" index="162">
 		<attribute name="window_context_name">used</attribute>
@@ -670,7 +670,7 @@
 	</row>
 	<row id="msg_0750_00167" index="167">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Potrójny Kopniak</language>
+		<language name="English">Potrójny Kop</language>
 	</row>
 	<row id="msg_0750_00168" index="168">
 		<attribute name="window_context_name">used</attribute>
@@ -682,7 +682,7 @@
 	</row>
 	<row id="msg_0750_00170" index="170">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Czytanie Myśli</language>
+		<language name="English">Czyt. Myśli</language>
 	</row>
 	<row id="msg_0750_00171" index="171">
 		<attribute name="window_context_name">used</attribute>
@@ -714,7 +714,7 @@
 	</row>
 	<row id="msg_0750_00178" index="178">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bawełniany Zarodnik</language>
+		<language name="English">Bawełn. Pył</language>
 	</row>
 	<row id="msg_0750_00179" index="179">
 		<attribute name="window_context_name">used</attribute>
@@ -726,7 +726,7 @@
 	</row>
 	<row id="msg_0750_00181" index="181">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pudrowy Śnieg</language>
+		<language name="English">Puch. Śnieg</language>
 	</row>
 	<row id="msg_0750_00182" index="182">
 		<attribute name="window_context_name">used</attribute>
@@ -738,19 +738,19 @@
 	</row>
 	<row id="msg_0750_00184" index="184">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Straszna Mina</language>
+		<language name="English">Str. Mina</language>
 	</row>
 	<row id="msg_0750_00185" index="185">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Podstępny Atak</language>
+		<language name="English">Podst. Atak</language>
 	</row>
 	<row id="msg_0750_00186" index="186">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Słodki Pocałunek</language>
+		<language name="English">Słodki Całus</language>
 	</row>
 	<row id="msg_0750_00187" index="187">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bęben Brzucha</language>
+		<language name="English">Bęb. Brzucha</language>
 	</row>
 	<row id="msg_0750_00188" index="188">
 		<attribute name="window_context_name">used</attribute>
@@ -758,7 +758,7 @@
 	</row>
 	<row id="msg_0750_00189" index="189">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Błotny Chlust</language>
+		<language name="English">Błotny Chlap</language>
 	</row>
 	<row id="msg_0750_00190" index="190">
 		<attribute name="window_context_name">used</attribute>
@@ -770,23 +770,23 @@
 	</row>
 	<row id="msg_0750_00192" index="192">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Działo Elektryczne</language>
+		<language name="English">Działo Zap</language>
 	</row>
 	<row id="msg_0750_00193" index="193">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dalekowzroczność</language>
+		<language name="English">Przeczucie</language>
 	</row>
 	<row id="msg_0750_00194" index="194">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Więź Przeznaczenia</language>
+		<language name="English">Więź Losu</language>
 	</row>
 	<row id="msg_0750_00195" index="195">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pieśń Zagłady</language>
+		<language name="English">Pieśń Zguby</language>
 	</row>
 	<row id="msg_0750_00196" index="196">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lodowaty Wiatr</language>
+		<language name="English">Lodowy Wiatr</language>
 	</row>
 	<row id="msg_0750_00197" index="197">
 		<attribute name="window_context_name">used</attribute>
@@ -806,11 +806,11 @@
 	</row>
 	<row id="msg_0750_00201" index="201">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Piaskowa Burza</language>
+		<language name="English">Burza Piasku</language>
 	</row>
 	<row id="msg_0750_00202" index="202">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Giga Wysysanie</language>
+		<language name="English">Giga Wysys.</language>
 	</row>
 	<row id="msg_0750_00203" index="203">
 		<attribute name="window_context_name">used</attribute>
@@ -826,7 +826,7 @@
 	</row>
 	<row id="msg_0750_00206" index="206">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fałszywe Cięcie</language>
+		<language name="English">Fałsz. Cios</language>
 	</row>
 	<row id="msg_0750_00207" index="207">
 		<attribute name="window_context_name">used</attribute>
@@ -834,7 +834,7 @@
 	</row>
 	<row id="msg_0750_00208" index="208">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mleczny Napój</language>
+		<language name="English">Pij Mleko</language>
 	</row>
 	<row id="msg_0750_00209" index="209">
 		<attribute name="window_context_name">used</attribute>
@@ -842,15 +842,15 @@
 	</row>
 	<row id="msg_0750_00210" index="210">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wściekłe Cięcie</language>
+		<language name="English">Cięcie Furii</language>
 	</row>
 	<row id="msg_0750_00211" index="211">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stalowe Skrzydło</language>
+		<language name="English">Stalowe Skr.</language>
 	</row>
 	<row id="msg_0750_00212" index="212">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Złe Spojrzenie</language>
+		<language name="English">Złe Spojrz.</language>
 	</row>
 	<row id="msg_0750_00213" index="213">
 		<attribute name="window_context_name">used</attribute>
@@ -858,15 +858,15 @@
 	</row>
 	<row id="msg_0750_00214" index="214">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gadanie przez Sen</language>
+		<language name="English">Sen-Gadanie</language>
 	</row>
 	<row id="msg_0750_00215" index="215">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dzwon Leczący</language>
+		<language name="English">Dzwon Zdrow.</language>
 	</row>
 	<row id="msg_0750_00216" index="216">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Odwzajemnienie</language>
+		<language name="English">Odwdzięcz.</language>
 	</row>
 	<row id="msg_0750_00217" index="217">
 		<attribute name="window_context_name">used</attribute>
@@ -894,7 +894,7 @@
 	</row>
 	<row id="msg_0750_00223" index="223">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dynamiczny Cios</language>
+		<language name="English">Dynam. Cios</language>
 	</row>
 	<row id="msg_0750_00224" index="224">
 		<attribute name="window_context_name">used</attribute>
@@ -902,11 +902,11 @@
 	</row>
 	<row id="msg_0750_00225" index="225">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Smoczy Oddech</language>
+		<language name="English">Smoczy Dech</language>
 	</row>
 	<row id="msg_0750_00226" index="226">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Przekazanie Pałeczki</language>
+		<language name="English">Pałeczka</language>
 	</row>
 	<row id="msg_0750_00227" index="227">
 		<attribute name="window_context_name">used</attribute>
@@ -922,7 +922,7 @@
 	</row>
 	<row id="msg_0750_00230" index="230">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Słodki Zapach</language>
+		<language name="English">Słodka Woń</language>
 	</row>
 	<row id="msg_0750_00231" index="231">
 		<attribute name="window_context_name">used</attribute>
@@ -930,15 +930,15 @@
 	</row>
 	<row id="msg_0750_00232" index="232">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Metalowy Pazur</language>
+		<language name="English">Metal. Pazur</language>
 	</row>
 	<row id="msg_0750_00233" index="233">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rzut z Rozmachem</language>
+		<language name="English">Rzut Życiowy</language>
 	</row>
 	<row id="msg_0750_00234" index="234">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Poranne Słońce</language>
+		<language name="English">Słońce Rano</language>
 	</row>
 	<row id="msg_0750_00235" index="235">
 		<attribute name="window_context_name">used</attribute>
@@ -946,7 +946,7 @@
 	</row>
 	<row id="msg_0750_00236" index="236">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blask Księżyca</language>
+		<language name="English">Blask Księż.</language>
 	</row>
 	<row id="msg_0750_00237" index="237">
 		<attribute name="window_context_name">used</attribute>
@@ -954,7 +954,7 @@
 	</row>
 	<row id="msg_0750_00238" index="238">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Krzyżowe Cięcie</language>
+		<language name="English">Krzyż. Cios</language>
 	</row>
 	<row id="msg_0750_00239" index="239">
 		<attribute name="window_context_name">used</attribute>
@@ -962,11 +962,11 @@
 	</row>
 	<row id="msg_0750_00240" index="240">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Taniec Deszczu</language>
+		<language name="English">Tan. Deszczu</language>
 	</row>
 	<row id="msg_0750_00241" index="241">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Słoneczny Dzień</language>
+		<language name="English">Słon. Dzień</language>
 	</row>
 	<row id="msg_0750_00242" index="242">
 		<attribute name="window_context_name">used</attribute>
@@ -974,31 +974,31 @@
 	</row>
 	<row id="msg_0750_00243" index="243">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lustrzana Powłoka</language>
+		<language name="English">Lustrz. Osł.</language>
 	</row>
 	<row id="msg_0750_00244" index="244">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nakręcenie Psychiczne</language>
+		<language name="English">Podkręcenie</language>
 	</row>
 	<row id="msg_0750_00245" index="245">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ekstremalna Szybkość</language>
+		<language name="English">Ekstra Pęd</language>
 	</row>
 	<row id="msg_0750_00246" index="246">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Starożytna Moc</language>
+		<language name="English">Prastara Moc</language>
 	</row>
 	<row id="msg_0750_00247" index="247">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cienista Kula</language>
+		<language name="English">Cień. Kula</language>
 	</row>
 	<row id="msg_0750_00248" index="248">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Przyszłowidzenie</language>
+		<language name="English">Przyszłość</language>
 	</row>
 	<row id="msg_0750_00249" index="249">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rozbicie Skały</language>
+		<language name="English">Rozbij Skałę</language>
 	</row>
 	<row id="msg_0750_00250" index="250">
 		<attribute name="window_context_name">used</attribute>
@@ -1006,7 +1006,7 @@
 	</row>
 	<row id="msg_0750_00251" index="251">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Solidne Lanie</language>
+		<language name="English">Lanie</language>
 	</row>
 	<row id="msg_0750_00252" index="252">
 		<attribute name="window_context_name">used</attribute>
@@ -1058,11 +1058,11 @@
 	</row>
 	<row id="msg_0750_00264" index="264">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Skupiony Cios</language>
+		<language name="English">Skup. Cios</language>
 	</row>
 	<row id="msg_0750_00265" index="265">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sole Trzeźwiące</language>
+		<language name="English">Sole Trzeźw.</language>
 	</row>
 	<row id="msg_0750_00266" index="266">
 		<attribute name="window_context_name">used</attribute>
@@ -1090,7 +1090,7 @@
 	</row>
 	<row id="msg_0750_00272" index="272">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Odgrywanie Roli</language>
+		<language name="English">Odgryw. Roli</language>
 	</row>
 	<row id="msg_0750_00273" index="273">
 		<attribute name="window_context_name">used</attribute>
@@ -1102,7 +1102,7 @@
 	</row>
 	<row id="msg_0750_00275" index="275">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zakorzenienie</language>
+		<language name="English">Korzenie</language>
 	</row>
 	<row id="msg_0750_00276" index="276">
 		<attribute name="window_context_name">used</attribute>
@@ -1110,7 +1110,7 @@
 	</row>
 	<row id="msg_0750_00277" index="277">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Magiczna Powłoka</language>
+		<language name="English">Magia Osłona</language>
 	</row>
 	<row id="msg_0750_00278" index="278">
 		<attribute name="window_context_name">used</attribute>
@@ -1122,7 +1122,7 @@
 	</row>
 	<row id="msg_0750_00280" index="280">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rozbicie Cegły</language>
+		<language name="English">Rozbij Cegłę</language>
 	</row>
 	<row id="msg_0750_00281" index="281">
 		<attribute name="window_context_name">used</attribute>
@@ -1134,7 +1134,7 @@
 	</row>
 	<row id="msg_0750_00283" index="283">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wysiłek Ostateczny</language>
+		<language name="English">Supermoc</language>
 	</row>
 	<row id="msg_0750_00284" index="284">
 		<attribute name="window_context_name">used</attribute>
@@ -1142,7 +1142,7 @@
 	</row>
 	<row id="msg_0750_00285" index="285">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zamiana Umiejętności</language>
+		<language name="English">Zmień Umiej.</language>
 	</row>
 	<row id="msg_0750_00286" index="286">
 		<attribute name="window_context_name">used</attribute>
@@ -1170,7 +1170,7 @@
 	</row>
 	<row id="msg_0750_00292" index="292">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pchnięcie Ramieniem</language>
+		<language name="English">Pchnięcie</language>
 	</row>
 	<row id="msg_0750_00293" index="293">
 		<attribute name="window_context_name">used</attribute>
@@ -1182,7 +1182,7 @@
 	</row>
 	<row id="msg_0750_00295" index="295">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oczyszczenie Blaskiem</language>
+		<language name="English">Czystka</language>
 	</row>
 	<row id="msg_0750_00296" index="296">
 		<attribute name="window_context_name">used</attribute>
@@ -1194,11 +1194,11 @@
 	</row>
 	<row id="msg_0750_00298" index="298">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Taniec Chwiejny</language>
+		<language name="English">Tan. Chwiej.</language>
 	</row>
 	<row id="msg_0750_00299" index="299">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Płomienny Kopniak</language>
+		<language name="English">Płomień. Kop</language>
 	</row>
 	<row id="msg_0750_00300" index="300">
 		<attribute name="window_context_name">used</attribute>
@@ -1210,7 +1210,7 @@
 	</row>
 	<row id="msg_0750_00302" index="302">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kolczaste Ramię</language>
+		<language name="English">Igłowe Ramię</language>
 	</row>
 	<row id="msg_0750_00303" index="303">
 		<attribute name="window_context_name">used</attribute>
@@ -1226,7 +1226,7 @@
 	</row>
 	<row id="msg_0750_00306" index="306">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Miażdżący Pazur</language>
+		<language name="English">Kruszy Pazur</language>
 	</row>
 	<row id="msg_0750_00307" index="307">
 		<attribute name="window_context_name">used</attribute>
@@ -1238,7 +1238,7 @@
 	</row>
 	<row id="msg_0750_00309" index="309">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Meteorowy Cios</language>
+		<language name="English">Meteor. Cios</language>
 	</row>
 	<row id="msg_0750_00310" index="310">
 		<attribute name="window_context_name">used</attribute>
@@ -1246,7 +1246,7 @@
 	</row>
 	<row id="msg_0750_00311" index="311">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kula Pogodowa</language>
+		<language name="English">Pogod. Kula</language>
 	</row>
 	<row id="msg_0750_00312" index="312">
 		<attribute name="window_context_name">used</attribute>
@@ -1258,7 +1258,7 @@
 	</row>
 	<row id="msg_0750_00314" index="314">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cięcie Powietrzem</language>
+		<language name="English">Wietrzny Nóż</language>
 	</row>
 	<row id="msg_0750_00315" index="315">
 		<attribute name="window_context_name">used</attribute>
@@ -1266,23 +1266,23 @@
 	</row>
 	<row id="msg_0750_00316" index="316">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Węch Tropiciela</language>
+		<language name="English">Węch Tropic.</language>
 	</row>
 	<row id="msg_0750_00317" index="317">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Skalny Grobowiec</language>
+		<language name="English">Skalny Grób</language>
 	</row>
 	<row id="msg_0750_00318" index="318">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Srebrny Wiatr</language>
+		<language name="English">Srebr. Wiatr</language>
 	</row>
 	<row id="msg_0750_00319" index="319">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Metaliczny Dźwięk</language>
+		<language name="English">Metalowy Ton</language>
 	</row>
 	<row id="msg_0750_00320" index="320">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trawiasty Świst</language>
+		<language name="English">Trawny Świst</language>
 	</row>
 	<row id="msg_0750_00321" index="321">
 		<attribute name="window_context_name">used</attribute>
@@ -1290,7 +1290,7 @@
 	</row>
 	<row id="msg_0750_00322" index="322">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kosmiczna Moc</language>
+		<language name="English">Kosm. Moc</language>
 	</row>
 	<row id="msg_0750_00323" index="323">
 		<attribute name="window_context_name">used</attribute>
@@ -1298,27 +1298,27 @@
 	</row>
 	<row id="msg_0750_00324" index="324">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sygnałowy Promień</language>
+		<language name="English">Sygnał Prom.</language>
 	</row>
 	<row id="msg_0750_00325" index="325">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cienisty Cios</language>
+		<language name="English">Cień. Cios</language>
 	</row>
 	<row id="msg_0750_00326" index="326">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nadwrażliwość</language>
+		<language name="English">Nadwrażliw.</language>
 	</row>
 	<row id="msg_0750_00327" index="327">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Niebiański Sierpowy</language>
+		<language name="English">Cios z Nieba</language>
 	</row>
 	<row id="msg_0750_00328" index="328">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Piaskowy Grobowiec</language>
+		<language name="English">Piask. Grób</language>
 	</row>
 	<row id="msg_0750_00329" index="329">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bezwzględne Zimno</language>
+		<language name="English">Lodowy Kres</language>
 	</row>
 	<row id="msg_0750_00330" index="330">
 		<attribute name="window_context_name">used</attribute>
@@ -1334,11 +1334,11 @@
 	</row>
 	<row id="msg_0750_00333" index="333">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Włócznia Sopli</language>
+		<language name="English">Sopel-Włócz.</language>
 	</row>
 	<row id="msg_0750_00334" index="334">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Żelazna Obrona</language>
+		<language name="English">Żelazna Obr.</language>
 	</row>
 	<row id="msg_0750_00335" index="335">
 		<attribute name="window_context_name">used</attribute>
@@ -1358,15 +1358,15 @@
 	</row>
 	<row id="msg_0750_00339" index="339">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nabranie Masy</language>
+		<language name="English">Nabr. Masy</language>
 	</row>
 	<row id="msg_0750_00340" index="340">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Odbicie w Górę</language>
+		<language name="English">Odbicie</language>
 	</row>
 	<row id="msg_0750_00341" index="341">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Błotny Strzał</language>
+		<language name="English">Błoto-Strzał</language>
 	</row>
 	<row id="msg_0750_00342" index="342">
 		<attribute name="window_context_name">used</attribute>
@@ -1378,11 +1378,11 @@
 	</row>
 	<row id="msg_0750_00344" index="344">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Woltowy Szturm</language>
+		<language name="English">Woltowy Szt.</language>
 	</row>
 	<row id="msg_0750_00345" index="345">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Magiczny Liść</language>
+		<language name="English">Magi. Liść</language>
 	</row>
 	<row id="msg_0750_00346" index="346">
 		<attribute name="window_context_name">used</attribute>
@@ -1390,23 +1390,23 @@
 	</row>
 	<row id="msg_0750_00347" index="347">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spokój Umysłu</language>
+		<language name="English">Spokój Ducha</language>
 	</row>
 	<row id="msg_0750_00348" index="348">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Liściaste Ostrze</language>
+		<language name="English">Liść-Ostrze</language>
 	</row>
 	<row id="msg_0750_00349" index="349">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Smoczy Taniec</language>
+		<language name="English">Smoczy Tan.</language>
 	</row>
 	<row id="msg_0750_00350" index="350">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kanonada Skał</language>
+		<language name="English">Kanonada Sk.</language>
 	</row>
 	<row id="msg_0750_00351" index="351">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fala Wstrząsowa</language>
+		<language name="English">Fala Szoku</language>
 	</row>
 	<row id="msg_0750_00352" index="352">
 		<attribute name="window_context_name">used</attribute>
@@ -1414,11 +1414,11 @@
 	</row>
 	<row id="msg_0750_00353" index="353">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zagłada Zaoczna</language>
+		<language name="English">Zaoczna Zag.</language>
 	</row>
 	<row id="msg_0750_00354" index="354">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Psychiczny Wybuch</language>
+		<language name="English">Psy-Wybuch</language>
 	</row>
 	<row id="msg_0750_00355" index="355">
 		<attribute name="window_context_name">used</attribute>
@@ -1434,7 +1434,7 @@
 	</row>
 	<row id="msg_0750_00358" index="358">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Budzące Klepnięcie</language>
+		<language name="English">Klepnięcie</language>
 	</row>
 	<row id="msg_0750_00359" index="359">
 		<attribute name="window_context_name">used</attribute>
@@ -1442,11 +1442,11 @@
 	</row>
 	<row id="msg_0750_00360" index="360">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Żyroskopowa Kula</language>
+		<language name="English">Żyro-Kula</language>
 	</row>
 	<row id="msg_0750_00361" index="361">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Uzdrawiające Życzenie</language>
+		<language name="English">Życzenie</language>
 	</row>
 	<row id="msg_0750_00362" index="362">
 		<attribute name="window_context_name">used</attribute>
@@ -1454,7 +1454,7 @@
 	</row>
 	<row id="msg_0750_00363" index="363">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Naturalny Dar</language>
+		<language name="English">Natur. Dar</language>
 	</row>
 	<row id="msg_0750_00364" index="364">
 		<attribute name="window_context_name">used</attribute>
@@ -1466,7 +1466,7 @@
 	</row>
 	<row id="msg_0750_00366" index="366">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Podmuch Ogona</language>
+		<language name="English">Wiatr w Ogon</language>
 	</row>
 	<row id="msg_0750_00367" index="367">
 		<attribute name="window_context_name">used</attribute>
@@ -1474,7 +1474,7 @@
 	</row>
 	<row id="msg_0750_00368" index="368">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Metalowy Wybuch</language>
+		<language name="English">Metal-Wybuch</language>
 	</row>
 	<row id="msg_0750_00369" index="369">
 		<attribute name="window_context_name">used</attribute>
@@ -1482,7 +1482,7 @@
 	</row>
 	<row id="msg_0750_00370" index="370">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bliski Kontakt</language>
+		<language name="English">Bliska Walka</language>
 	</row>
 	<row id="msg_0750_00371" index="371">
 		<attribute name="window_context_name">used</attribute>
@@ -1502,15 +1502,15 @@
 	</row>
 	<row id="msg_0750_00375" index="375">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zmiana Psychiczna</language>
+		<language name="English">Zmiana Psy.</language>
 	</row>
 	<row id="msg_0750_00376" index="376">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Karta Atutowa</language>
+		<language name="English">As w Rękawie</language>
 	</row>
 	<row id="msg_0750_00377" index="377">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blokada Leczenia</language>
+		<language name="English">Blok Leczen.</language>
 	</row>
 	<row id="msg_0750_00378" index="378">
 		<attribute name="window_context_name">used</attribute>
@@ -1518,15 +1518,15 @@
 	</row>
 	<row id="msg_0750_00379" index="379">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sztuczka Mocy</language>
+		<language name="English">Trik Mocy</language>
 	</row>
 	<row id="msg_0750_00380" index="380">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Żołądkowy Kwas</language>
+		<language name="English">Kwas Żołąd.</language>
 	</row>
 	<row id="msg_0750_00381" index="381">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Szczęśliwa Zaśpiewka</language>
+		<language name="English">Pieśń Szczęś</language>
 	</row>
 	<row id="msg_0750_00382" index="382">
 		<attribute name="window_context_name">used</attribute>
@@ -1542,7 +1542,7 @@
 	</row>
 	<row id="msg_0750_00385" index="385">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zamiana Osłon</language>
+		<language name="English">Zamiana Osł.</language>
 	</row>
 	<row id="msg_0750_00386" index="386">
 		<attribute name="window_context_name">used</attribute>
@@ -1550,19 +1550,19 @@
 	</row>
 	<row id="msg_0750_00387" index="387">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ostatnia Deska Ratunku</language>
+		<language name="English">Ostat. Deska</language>
 	</row>
 	<row id="msg_0750_00388" index="388">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zmartwione Ziarno</language>
+		<language name="English">Ziarno Lęku</language>
 	</row>
 	<row id="msg_0750_00389" index="389">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cios z Zaskoczenia</language>
+		<language name="English">Zaskoczenie</language>
 	</row>
 	<row id="msg_0750_00390" index="390">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Toksyczne Kolce</language>
+		<language name="English">Toks. Kolce</language>
 	</row>
 	<row id="msg_0750_00391" index="391">
 		<attribute name="window_context_name">used</attribute>
@@ -1570,15 +1570,15 @@
 	</row>
 	<row id="msg_0750_00392" index="392">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wodny Pierścień</language>
+		<language name="English">Wodny Krąg</language>
 	</row>
 	<row id="msg_0750_00393" index="393">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Magnetyczna Lewitacja</language>
+		<language name="English">Lewitacja</language>
 	</row>
 	<row id="msg_0750_00394" index="394">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Płomienny Szturm</language>
+		<language name="English">Flara-Szturm</language>
 	</row>
 	<row id="msg_0750_00395" index="395">
 		<attribute name="window_context_name">used</attribute>
@@ -1590,7 +1590,7 @@
 	</row>
 	<row id="msg_0750_00397" index="397">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Polerowanie Skał</language>
+		<language name="English">Szlif Skał</language>
 	</row>
 	<row id="msg_0750_00398" index="398">
 		<attribute name="window_context_name">used</attribute>
@@ -1610,11 +1610,11 @@
 	</row>
 	<row id="msg_0750_00402" index="402">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bomba Nasienna</language>
+		<language name="English">Bomba Nasion</language>
 	</row>
 	<row id="msg_0750_00403" index="403">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Powietrzne Cięcie</language>
+		<language name="English">Cięcie Wiatr</language>
 	</row>
 	<row id="msg_0750_00404" index="404">
 		<attribute name="window_context_name">used</attribute>
@@ -1622,7 +1622,7 @@
 	</row>
 	<row id="msg_0750_00405" index="405">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Owadzi Zgiełk</language>
+		<language name="English">Owadzi Brzęk</language>
 	</row>
 	<row id="msg_0750_00406" index="406">
 		<attribute name="window_context_name">used</attribute>
@@ -1630,7 +1630,7 @@
 	</row>
 	<row id="msg_0750_00407" index="407">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Smoczy Szturm</language>
+		<language name="English">Smoczy Szt.</language>
 	</row>
 	<row id="msg_0750_00408" index="408">
 		<attribute name="window_context_name">used</attribute>
@@ -1638,7 +1638,7 @@
 	</row>
 	<row id="msg_0750_00409" index="409">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wysysający Cios</language>
+		<language name="English">Wysys. Cios</language>
 	</row>
 	<row id="msg_0750_00410" index="410">
 		<attribute name="window_context_name">used</attribute>
@@ -1646,11 +1646,11 @@
 	</row>
 	<row id="msg_0750_00411" index="411">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Skupiona Sfera</language>
+		<language name="English">Skup. Sfera</language>
 	</row>
 	<row id="msg_0750_00412" index="412">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Energetyczna Kula</language>
+		<language name="English">Energ. Kula</language>
 	</row>
 	<row id="msg_0750_00413" index="413">
 		<attribute name="window_context_name">used</attribute>
@@ -1666,11 +1666,11 @@
 	</row>
 	<row id="msg_0750_00416" index="416">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Giga Uderzenie</language>
+		<language name="English">Giga Cios</language>
 	</row>
 	<row id="msg_0750_00417" index="417">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nikczemny Plan</language>
+		<language name="English">Zły Plan</language>
 	</row>
 	<row id="msg_0750_00418" index="418">
 		<attribute name="window_context_name">used</attribute>
@@ -1686,11 +1686,11 @@
 	</row>
 	<row id="msg_0750_00421" index="421">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cienisty Pazur</language>
+		<language name="English">Cień. Pazur</language>
 	</row>
 	<row id="msg_0750_00422" index="422">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Piorunowy Kieł</language>
+		<language name="English">Pioru. Kieł</language>
 	</row>
 	<row id="msg_0750_00423" index="423">
 		<attribute name="window_context_name">used</attribute>
@@ -1702,7 +1702,7 @@
 	</row>
 	<row id="msg_0750_00425" index="425">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cienisty Podstęp</language>
+		<language name="English">Cień. Podst.</language>
 	</row>
 	<row id="msg_0750_00426" index="426">
 		<attribute name="window_context_name">used</attribute>
@@ -1710,23 +1710,23 @@
 	</row>
 	<row id="msg_0750_00427" index="427">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Psychiczne Cięcie</language>
+		<language name="English">Psy-Cięcie</language>
 	</row>
 	<row id="msg_0750_00428" index="428">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zenowe Uderzenie Głową</language>
+		<language name="English">Zen. Uderz.</language>
 	</row>
 	<row id="msg_0750_00429" index="429">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lustrzany Strzał</language>
+		<language name="English">Lust. Strzał</language>
 	</row>
 	<row id="msg_0750_00430" index="430">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Błyskawe Działo</language>
+		<language name="English">Błysk-Działo</language>
 	</row>
 	<row id="msg_0750_00431" index="431">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wspinaczka Skalna</language>
+		<language name="English">Wspinaczka</language>
 	</row>
 	<row id="msg_0750_00432" index="432">
 		<attribute name="window_context_name">used</attribute>
@@ -1734,11 +1734,11 @@
 	</row>
 	<row id="msg_0750_00433" index="433">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokój Sztuczek</language>
+		<language name="English">Pokój Trików</language>
 	</row>
 	<row id="msg_0750_00434" index="434">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Smoczy Meteor</language>
+		<language name="English">Smok. Meteor</language>
 	</row>
 	<row id="msg_0750_00435" index="435">
 		<attribute name="window_context_name">used</attribute>
@@ -1750,35 +1750,35 @@
 	</row>
 	<row id="msg_0750_00437" index="437">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Liściasta Burza</language>
+		<language name="English">Burza Liści</language>
 	</row>
 	<row id="msg_0750_00438" index="438">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Roślinny Bicz</language>
+		<language name="English">Bicz Mocy</language>
 	</row>
 	<row id="msg_0750_00439" index="439">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kruszarka Skalna</language>
+		<language name="English">Kruszarka</language>
 	</row>
 	<row id="msg_0750_00440" index="440">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Krzyżowa Trucizna</language>
+		<language name="English">Truj. Krzyż</language>
 	</row>
 	<row id="msg_0750_00441" index="441">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Strzał Szlamem</language>
+		<language name="English">Szlam-Strzał</language>
 	</row>
 	<row id="msg_0750_00442" index="442">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Żelazna Głowa</language>
+		<language name="English">Żelazny Łeb</language>
 	</row>
 	<row id="msg_0750_00443" index="443">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Magnetyczna Bomba</language>
+		<language name="English">Magnes-Bomba</language>
 	</row>
 	<row id="msg_0750_00444" index="444">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kamienna Krawędź</language>
+		<language name="English">Skał. Ostrze</language>
 	</row>
 	<row id="msg_0750_00445" index="445">
 		<attribute name="window_context_name">used</attribute>
@@ -1786,11 +1786,11 @@
 	</row>
 	<row id="msg_0750_00446" index="446">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kamień Zasadzki</language>
+		<language name="English">Pułapka Skał</language>
 	</row>
 	<row id="msg_0750_00447" index="447">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trawiasty Węzeł</language>
+		<language name="English">Traw. Węzeł</language>
 	</row>
 	<row id="msg_0750_00448" index="448">
 		<attribute name="window_context_name">used</attribute>
@@ -1802,15 +1802,15 @@
 	</row>
 	<row id="msg_0750_00450" index="450">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ukąszenie Owada</language>
+		<language name="English">Ugryz. Owada</language>
 	</row>
 	<row id="msg_0750_00451" index="451">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Promień Ładujący</language>
+		<language name="English">Prom. Ładun.</language>
 	</row>
 	<row id="msg_0750_00452" index="452">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Drewniany Młot</language>
+		<language name="English">Drewn. Młot</language>
 	</row>
 	<row id="msg_0750_00453" index="453">
 		<attribute name="window_context_name">used</attribute>
@@ -1822,19 +1822,19 @@
 	</row>
 	<row id="msg_0750_00455" index="455">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rozkaz Obrony</language>
+		<language name="English">Rozk. Obrony</language>
 	</row>
 	<row id="msg_0750_00456" index="456">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rozkaz Leczenia</language>
+		<language name="English">Rozk. Zdrow.</language>
 	</row>
 	<row id="msg_0750_00457" index="457">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Druzgocąca Głowa</language>
+		<language name="English">Druzg. Głowa</language>
 	</row>
 	<row id="msg_0750_00458" index="458">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Podwójne Uderzenie</language>
+		<language name="English">Podw. Cios</language>
 	</row>
 	<row id="msg_0750_00459" index="459">
 		<attribute name="window_context_name">used</attribute>
@@ -1842,15 +1842,15 @@
 	</row>
 	<row id="msg_0750_00460" index="460">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rozdarcie Przestrzeni</language>
+		<language name="English">Rozdarcie</language>
 	</row>
 	<row id="msg_0750_00461" index="461">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Księżycowy Taniec</language>
+		<language name="English">Tan. Księż.</language>
 	</row>
 	<row id="msg_0750_00462" index="462">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Miażdżący Uścisk</language>
+		<language name="English">Uścisk Mocy</language>
 	</row>
 	<row id="msg_0750_00463" index="463">
 		<attribute name="window_context_name">used</attribute>
@@ -1858,15 +1858,15 @@
 	</row>
 	<row id="msg_0750_00464" index="464">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mroczna Pustka</language>
+		<language name="English">Pustka Mroku</language>
 	</row>
 	<row id="msg_0750_00465" index="465">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nasienny Rozbłysk</language>
+		<language name="English">Ziarno-Błysk</language>
 	</row>
 	<row id="msg_0750_00466" index="466">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Złowieszczy Wiatr</language>
+		<language name="English">Zły Wiatr</language>
 	</row>
 	<row id="msg_0750_00467" index="467">
 		<attribute name="window_context_name">used</attribute>
