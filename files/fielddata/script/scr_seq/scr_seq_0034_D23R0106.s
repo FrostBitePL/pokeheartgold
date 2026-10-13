@@ -289,6 +289,9 @@ _ClimaxB:
 	GoToIfEq _025D
 	NPCMsg msg_0070_D23R0106_00021
 	CloseMsg
+	BufferRivalsName 1
+	NPCMsg msg_0070_D23R0106_00025
+	CloseMsg
 	GoTo _ClimaxEnd
 
 _ClimaxMewB:
@@ -308,6 +311,9 @@ _ClimaxC:
 	GoToIfEq _025D
 	NPCMsg msg_0070_D23R0106_00022
 	CloseMsg
+	BufferRivalsName 1
+	NPCMsg msg_0070_D23R0106_00026
+	CloseMsg
 	GoTo _ClimaxEnd
 
 _ClimaxMewC:
@@ -323,6 +329,9 @@ _ClimaxMewtwo:
 	Compare VAR_SPECIAL_RESULT, 0
 	GoToIfEq _025D
 	NPCMsg msg_0070_D23R0106_00020
+	CloseMsg
+	BufferRivalsName 1
+	NPCMsg msg_0070_D23R0106_00024
 	CloseMsg
 _ClimaxEnd:
 	NPCMsg msg_0070_D23R0106_00023

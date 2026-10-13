@@ -22,15 +22,15 @@
 	</row>
 	<row id="msg_0527_T10R0601_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mary: Och, nie! Wszystko już się\nskończyło! Profesor Kunic, gdybyś\fnie był taki powolny...\r</language>
+		<language name="English">Mary: Och, nie! Wszystko już się\nskończyło! Profesor Mariusz, gdybyś\fnie był taki powolny...\r</language>
 	</row>
 	<row id="msg_0527_T10R0601_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Kunic: Ach, {STRVAR_1 3, 0, 0}!\nMinęło sporo czasu.\fWyglądasz naprawdę imponująco.\rTwoje zdobycie Ligi jest po prostu\nfantastyczne!\rTwoje poświęcenie, zaufanie i miłość\ndo Pokémonów sprawiły, że się to udało.\rTwoje Pokémony też były wybitne.\rPonieważ wierzyły w ciebie jako\nTrenera, wytrwały.\rGratulacje, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Profesor Mariusz: Ach, {STRVAR_1 3, 0, 0}!\nMinęło sporo czasu.\fWyglądasz naprawdę imponująco.\rTwoje zdobycie Ligi jest po prostu\nfantastyczne!\rTwoje poświęcenie, zaufanie i miłość\ndo Pokémonów sprawiły, że się to udało.\rTwoje Pokémony też były wybitne.\rPonieważ wierzyły w ciebie jako\nTrenera, wytrwały.\rGratulacje, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0527_T10R0601_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Kunic: Ach, {STRVAR_1 3, 0, 0}!\nMinęło sporo czasu.\fWyglądasz naprawdę imponująco.\rTwoje zdobycie Ligi jest po prostu\nfantastyczne!\rTwoje poświęcenie, zaufanie i miłość\ndo Pokémonów sprawiły, że się to udało.\rTwoje Pokémony też były wybitne.\rPonieważ wierzyły w ciebie jako\nTrenera, wytrwały.\rGratulacje, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Profesor Mariusz: Ach, {STRVAR_1 3, 0, 0}!\nMinęło sporo czasu.\fWyglądasz naprawdę imponująco.\rTwoje zdobycie Ligi jest po prostu\nfantastyczne!\rTwoje poświęcenie, zaufanie i miłość\ndo Pokémonów sprawiły, że się to udało.\rTwoje Pokémony też były wybitne.\rPonieważ wierzyły w ciebie jako\nTrenera, wytrwały.\rGratulacje, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0527_T10R0601_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -47,5 +47,21 @@
 	<row id="msg_0527_T10R0601_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Mary: Och, czekajcie!\nJeszcze nie zrobiliśmy wywiadu!</language>
+	</row>
+	<row id="msg_0527_T10R0601_00012" index="12">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">{STRVAR_1 3, 1, 0}: Dotarłeś/aś aż tu.\nWiedziałem.\rMiałem stypendium, sprzęt i cały\nInstytut za plecami. A i tak jesteś\ftu przede mną...\rTego już nie da się załatwić\npieczątką. Walczmy, {STRVAR_1 3, 0, 0}. Raz,\fuczciwie.\r</language>
+	</row>
+	<row id="msg_0527_T10R0601_00013" index="13">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">{STRVAR_1 3, 1, 0}: Dotarłeś/aś aż tu.\nWiedziałem.\rNie mam już mecenasa. Mam tylko\nswoje Pokémony.\rWalczmy, {STRVAR_1 3, 0, 0}. Raz, uczciwie.\r</language>
+	</row>
+	<row id="msg_0527_T10R0601_00014" index="14">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">{STRVAR_1 3, 1, 0}: ...Wygrałeś/aś.\rPrzez cały ten czas myślałem, że\nktoś musi mi coś dać, żebym był\fkimś.\rDopiero teraz widzę, że nikt nigdy\nnie był tak blisko jak ty. Dziękuję.\r</language>
+	</row>
+	<row id="msg_0527_T10R0601_00015" index="15">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">{STRVAR_1 3, 1, 0}: ...Wygrałeś/aś.\rDobrze. Przynajmniej wiem, na czym\nstoję.\rIdź. Ja jeszcze coś muszę sobie\nwyjaśnić.\r</language>
 	</row>
 </body>

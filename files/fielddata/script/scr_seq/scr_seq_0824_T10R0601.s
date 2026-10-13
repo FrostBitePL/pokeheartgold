@@ -66,6 +66,50 @@ _00AE:
 	ApplyMovement obj_T10R0601_wataru, _02C0
 	WaitMovement
 	BufferPlayersName 0
+	BufferRivalsName 1
+	Compare VAR_UNK_4160, 0
+	GoToIfEq _ChampKarol
+	Compare VAR_UNK_4160, 2
+	GoToIfEq _ChampKarol
+	Compare VAR_UNK_4160, 1
+	GoToIfEq _ChampRivalA
+	NPCMsg msg_0527_T10R0601_00013
+	GoTo _ChampRivalGo
+
+_ChampRivalA:
+	NPCMsg msg_0527_T10R0601_00012
+_ChampRivalGo:
+	CloseMsg
+	GetStarterChoice VAR_SPECIAL_RESULT
+	Compare VAR_SPECIAL_RESULT, 152
+	GoToIfNe _ChampRival2
+	TrainerBattle TRAINER_RIVAL_SILVER_15, 0, 0, 0
+	GoTo _ChampRivalWon
+
+_ChampRival2:
+	Compare VAR_SPECIAL_RESULT, 155
+	GoToIfNe _ChampRival3
+	TrainerBattle TRAINER_RIVAL_SILVER_16, 0, 0, 0
+	GoTo _ChampRivalWon
+
+_ChampRival3:
+	TrainerBattle TRAINER_RIVAL_SILVER_14, 0, 0, 0
+_ChampRivalWon:
+	CheckBattleWon VAR_SPECIAL_RESULT
+	Compare VAR_SPECIAL_RESULT, 0
+	GoToIfEq _0290
+	BufferPlayersName 0
+	BufferRivalsName 1
+	Compare VAR_UNK_4160, 1
+	GoToIfEq _ChampRivalWonA
+	NPCMsg msg_0527_T10R0601_00015
+	GoTo _ChampAfter
+
+_ChampRivalWonA:
+	NPCMsg msg_0527_T10R0601_00014
+	GoTo _ChampAfter
+
+_ChampKarol:
 	GenderMsgBox msg_0527_T10R0601_00000, msg_0527_T10R0601_00001
 	CloseMsg
 	Compare VAR_UNK_4135, 8
@@ -81,6 +125,7 @@ _00F0:
 	GoToIfEq _0290
 	BufferPlayersName 0
 	GenderMsgBox msg_0527_T10R0601_00002, msg_0527_T10R0601_00003
+_ChampAfter:
 	CloseMsg
 	Wait 10, VAR_SPECIAL_x8004
 	PlaySE SEQ_SE_DP_KI_GASYAN

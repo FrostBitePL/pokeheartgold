@@ -96,4 +96,16 @@
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Nad Zamkiem otwiera się szczelina w\nniebie. Łukasz chwyta notatki i\fwchodzi w nią, jakby czekał na ten\nmoment całe życie.\r</language>
 	</row>
+	<row id="msg_0070_D23R0106_00024" index="24">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">{STRVAR_1 3, 1, 0}: Dostałem rozkaz, żeby cię\nzatrzymać. Odmawiam.\rNie chcę być czyjąś bronią.\nWystarczy mi, że byłem czyjąś\finwestycją.\r</language>
+	</row>
+	<row id="msg_0070_D23R0106_00025" index="25">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">{STRVAR_1 3, 1, 0}: Zostaję z nim. Nikt inny\nmi nic nie dał.\rNie patrz tak na mnie. Zrozumiesz to\nkiedyś, albo nie.\r</language>
+	</row>
+	<row id="msg_0070_D23R0106_00026" index="26">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">{STRVAR_1 3, 1, 0} zdejmuje odznakę\nstypendysty, kładzie ją na podłodze\fi wychodzi bez słowa.\r</language>
+	</row>
 </body>
