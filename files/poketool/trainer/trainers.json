@@ -10327,7 +10327,7 @@
     {
       "type": "TRTYPE_MON_ITEM_MOVES",
       "class": "TRAINERCLASS_ELITE_FOUR_WILL",
-      "name": "{TRNAME}Henryk",
+      "name": "{TRNAME}Agnieszka",
       "items": [
         "ITEM_FULL_RESTORE",
         "ITEM_FULL_RESTORE"
@@ -31454,7 +31454,7 @@
     {
       "type": "TRTYPE_MON_ITEM_MOVES",
       "class": "TRAINERCLASS_ELITE_FOUR_WILL",
-      "name": "{TRNAME}Henryk",
+      "name": "{TRNAME}Agnieszka",
       "items": [
         "ITEM_FULL_RESTORE",
         "ITEM_FULL_RESTORE"
