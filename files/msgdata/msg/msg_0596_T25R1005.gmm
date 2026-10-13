@@ -60,7 +60,7 @@
 	</row>
 	<row id="msg_0596_T25R1005_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Co? Ty... należysz do Team Rocket?\nOd kiedy?</language>
+		<language name="English">Co? Ty... należysz do Genezy? Od\nkiedy?</language>
 	</row>
 	<row id="msg_0596_T25R1005_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
@@ -68,7 +68,7 @@
 	</row>
 	<row id="msg_0596_T25R1005_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team Rocket...\nCo oni tu robią?</language>
+		<language name="English">Geneza... Co oni tu robią?</language>
 	</row>
 	<row id="msg_0596_T25R1005_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
@@ -76,7 +76,7 @@
 	</row>
 	<row id="msg_0596_T25R1005_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nie powinieneś nosić takiego\nczarnego garnituru. Ludzie pomyślą,\fże należysz do Team Rocket.\rCo? Naprawdę do nich należysz?</language>
+		<language name="English">Nie powinieneś nosić takiego białego\nfartucha. Ludzie pomyślą, że\fnależysz do Genezy.\rCo? Naprawdę do nich należysz?</language>
 	</row>
 	<row id="msg_0596_T25R1005_00019" index="19">
 		<attribute name="window_context_name">used</attribute>

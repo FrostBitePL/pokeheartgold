@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0418_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team Rocket Announcement</language>
+		<language name="English">Komunikat Genezy</language>
 	</row>
 	<row id="msg_0418_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team Rocket</language>
+		<language name="English">Instytut Geneza</language>
 	</row>
 	<row id="msg_0418_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Uh... um. Testing! Testing 1, 2, 3...\nWe’re the amazing Team Rocket! It’s been\nthree years but we’ve rebuilt the team\nand restructured! We’re proud to\nannounce that we’re back!\nGiovanni! Can you hear this?!\n...We finally did it!\nWhere could the boss be, I wonder?\nI wonder if he heard this announcement...\n</language>
+		<language name="English">...Yyy... no. Test! Test, raz, dwa,\ntrzy...\rTu wspaniały Instytut Geneza! Przez\nte wszystkie lata budowaliśmy tę\fchwilę i dziś ogłaszamy z dumą, że\nnasz sygnał wreszcie nadaje!\rŁukasz! Słyszysz to?! ...Udało nam\nsię!\rGdzie też może być szef? Ciekawe,\nczy usłyszał ten komunikat...</language>
 	</row>
 </body>

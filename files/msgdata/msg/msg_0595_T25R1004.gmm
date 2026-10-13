@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0595_T25R1004_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Uważam się za złego typa, ale\nnigdy nie lubiłem zadawać się\fz innymi złymi typami jak\fTeam Rocket.</language>
+		<language name="English">Uważam się za złego typa, ale nigdy\nnie lubiłem zadawać się z innymi\fzłymi typami jak Geneza.</language>
 	</row>
 	<row id="msg_0595_T25R1004_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0595_T25R1004_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team Rocket...\nCo tu robicie?</language>
+		<language name="English">Geneza... Co tu robicie?</language>
 	</row>
 	<row id="msg_0595_T25R1004_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0595_T25R1004_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nawet Team Rocket nie okradłby\nwłasnych członków z Pokémonów,\fprawda?</language>
+		<language name="English">Nawet Geneza nie okradłaby własnych\npracowników z Pokémonów, prawda?</language>
 	</row>
 	<row id="msg_0595_T25R1004_00006" index="6">
 		<attribute name="window_context_name">used</attribute>

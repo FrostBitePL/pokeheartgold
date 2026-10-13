@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0597_T25R1006_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nawet Team Rocket zrozumiałby, jak\norzeźwiające jest słuchanie Radia\fna dachu, prawda?</language>
+		<language name="English">Nawet Geneza zrozumiałaby, jak\norzeźwiające jest słuchanie Radia na\fdachu, prawda?</language>
 	</row>
 	<row id="msg_0597_T25R1006_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0597_T25R1006_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team Rocket...\rPowinniście napić się czegoś\nz automatu i zrobić sobie przerwę.\rNajwyższy czas, żebyście zaczęli\nmyśleć, jak chcecie żyć.</language>
+		<language name="English">Geneza...\rPowinniście napić się czegoś z\nautomatu i zrobić sobie przerwę.\rNajwyższy czas, żebyście zaczęli\nmyśleć, jak chcecie żyć.</language>
 	</row>
 	<row id="msg_0597_T25R1006_00004" index="4">
 		<attribute name="window_context_name">used</attribute>

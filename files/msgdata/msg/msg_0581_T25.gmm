@@ -18,11 +18,11 @@
 	</row>
 	<row id="msg_0581_T25_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Czy ten mężczyzna w czerni jest\nprzebrany za członka Team Rocket?\fCóż za głupota!</language>
+		<language name="English">Czy ten mężczyzna w białym fartuchu\nnaprawdę jest z Genezy? Cóż za\fgłupota!</language>
 	</row>
 	<row id="msg_0581_T25_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Czy ten mężczyzna w czerni naprawdę\nnależał do Team Rocket?\fNie mogę w to uwierzyć!</language>
+		<language name="English">Czy ten mężczyzna w białym fartuchu\nnaprawdę jest z Genezy? Nie mogę w\fto uwierzyć!</language>
 	</row>
 	<row id="msg_0581_T25_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -98,15 +98,15 @@
 	</row>
 	<row id="msg_0581_T25_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kim jesteś? Nowy?\rSkończyły nam się mundury\nTeam Rocket.\rJeden z moich ludzi idzie po\nwięcej...\rCo mu tak długo zajmuje?\rStudio w tunelu jest\ntuż za rogiem.</language>
+		<language name="English">Kim jesteś? Nowy?\rSkończyły nam się fartuchy Genezy.\rJeden z moich ludzi idzie po\nwięcej... Co mu tak długo zajmuje?\rStudio w tunelu jest tuż za rogiem.</language>
 	</row>
 	<row id="msg_0581_T25_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Że taki młody jak ty zdecydował się\nzostać członkiem Team Rocket...\fŚwietnie, dzieciaku!</language>
+		<language name="English">Że taki młody jak ty zdecydował się\nzostać pracownikiem Genezy...\fŚwietnie, dzieciaku!</language>
 	</row>
 	<row id="msg_0581_T25_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zejdź mi z drogi!\rMy, jako Trenerzy Sali, nigdy nie\npozwolimy Team Rocket na paskudztwa\fw naszym mieście!</language>
+		<language name="English">Zejdź mi z drogi!\rMy, jako Trenerzy Sali, nigdy nie\npozwolimy Genezie na paskudztwa w\fnaszym mieście!</language>
 	</row>
 	<row id="msg_0581_T25_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
@@ -118,11 +118,11 @@
 	</row>
 	<row id="msg_0581_T25_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">C-co próbujesz zrobić?\nNie widzisz tego fajnego,\fczarnego jak smoła munduru,\fktóry noszę?\rNie boisz się Team Rocket? Co?</language>
+		<language name="English">C-co próbujesz zrobić? Nie widzisz\ntego fajnego, śnieżnobiałego\ffartucha, który noszę?\rNie boisz się Genezy? Co?</language>
 	</row>
 	<row id="msg_0581_T25_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nie wyglądasz wystarczająco strasznie\nna członka Team Rocket w tym mundurze...\fZrób straszniejszą minę i powiedz:\f„Yyy!”\rI zaciśnij przy tym zęby!</language>
+		<language name="English">Nie wyglądasz wystarczająco\nstrasznie na pracownika Genezy w tym\ffartuchu...\rZrób straszniejszą minę i powiedz:\n„Yyy!”\rI zaciśnij przy tym zęby!</language>
 	</row>
 	<row id="msg_0581_T25_00031" index="31">
 		<attribute name="window_context_name">used</attribute>

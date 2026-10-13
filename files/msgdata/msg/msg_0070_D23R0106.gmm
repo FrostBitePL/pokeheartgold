@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0070_D23R0106_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chwalibóg: Jak to możliwe...?\rNasze marzenia obróciły się w nicość.\nOstatecznie nie dorosłem do zadania.\rTak jak zrobił to przede mną Łukasz,\ndziś rozwiążę Team Rocket.\rŻegnaj...\r</language>
+		<language name="English">Chwalibóg: Jak to możliwe...?\rNasze marzenia obróciły się w\nnicość. Ostatecznie nie dorosłem do\fzadania.\rŁukasz mówił: kto przegra, ten znika\nbez śladu. Żegnaj...\r</language>
 	</row>
 	<row id="msg_0070_D23R0106_00002" index="2">
 		<attribute name="window_context_name">used</attribute>

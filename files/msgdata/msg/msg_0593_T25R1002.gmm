@@ -6,7 +6,7 @@
 	</row>
 	<row id="msg_0593_T25R1002_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Panie w tym domu towarowym nigdy\nnie zmieniają swojego podejścia.\rCzy to przed zwykłym klientem,\nczy przed członkiem Team Rocket.\rTo nazywam profesjonalizmem!</language>
+		<language name="English">Panie w tym domu towarowym nigdy nie\nzmieniają swojego podejścia.\rCzy to przed zwykłym klientem, czy\nprzed pracownikiem Genezy.\rTo nazywam profesjonalizmem!</language>
 	</row>
 	<row id="msg_0593_T25R1002_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,7 +14,7 @@
 	</row>
 	<row id="msg_0593_T25R1002_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lepiej mnie posłuchaj.\rPrzestań już być członkiem\nTeam Rocket!</language>
+		<language name="English">Lepiej mnie posłuchaj.\rPrzestań już być pracownikiem\nGenezy!</language>
 	</row>
 	<row id="msg_0593_T25R1002_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0593_T25R1002_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Och, Team Rocket!\nProszę, nie zabierajcie mi ABRA!</language>
+		<language name="English">Och, Geneza! Proszę, nie zabierajcie\nmi ABRA!</language>
 	</row>
 	<row id="msg_0593_T25R1002_00006" index="6">
 		<attribute name="window_context_name">used</attribute>

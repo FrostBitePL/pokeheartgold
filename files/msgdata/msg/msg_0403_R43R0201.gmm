@@ -18,7 +18,7 @@
 	</row>
 	<row id="msg_0403_R43R0201_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zbiry z Team Rocket przegoniły\nmnie z mojego posterunku.\rPotem po prostu zniknęły.\nWygląda na to, że ktoś zniszczył\fich kryjówkę.\r...Jeszcze jedno!\fZnalazłem to pod ladą.\fCzuję się z tym niekomfortowo.\fMógłbym ci to dać?\r</language>
+		<language name="English">Laboranci z Genezy przegonili mnie z\nmojego posterunku. Potem po prostu\fzniknęli. Wygląda na to, że ktoś\nzniszczył ich filię.\r...Jeszcze jedno! Znalazłem to pod\nladą. Czuję się z tym niekomfortowo.\fMógłbym ci to dać?\r</language>
 	</row>
 	<row id="msg_0403_R43R0201_00005" index="5">
 		<attribute name="window_context_name">garbage</attribute>

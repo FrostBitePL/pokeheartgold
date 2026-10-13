@@ -42,7 +42,7 @@
 	</row>
 	<row id="msg_0068_D23R0104_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ben: Team Rocket... Czegoś im brakuje.\nTo muzyka!\rMuzyka wzbogaca serce i duszę\nczłowieka.\rMiłośnicy muzyki nigdy nie zrobiliby\nczegoś tak okropnego w miejscu takim\fjak Wieża Radiowa!</language>
+		<language name="English">Ben: Geneza... Czegoś im brakuje. To\nmuzyka!\rMuzyka wzbogaca serce i duszę\nczłowieka.\rMiłośnicy muzyki nigdy nie zrobiliby\nczegoś tak okropnego w miejscu takim\fjak Zamek!</language>
 	</row>
 	<row id="msg_0068_D23R0104_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -54,10 +54,10 @@
 	</row>
 	<row id="msg_0068_D23R0104_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kim jesteś?\rJeśli stajesz na drodze Melchiorowi...\nchodzi mi o Team Rocket. Na to nie pozwolę!\r</language>
+		<language name="English">Kim jesteś?\rJeśli stajesz na drodze\nMelchiorowi... chodzi mi o Genezę.\fNa to nie pozwolę!\r</language>
 	</row>
 	<row id="msg_0068_D23R0104_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team Rocket i Melchior to wszystko,\nczego potrzebuję!\rKogo obchodzą Pokémony?</language>
+		<language name="English">Geneza i Melchior to wszystko, czego\npotrzebuję!\rKogo obchodzą Pokémony?</language>
 	</row>
 </body>

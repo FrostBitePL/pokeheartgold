@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0592_T25R1001_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jaki interes miałby tu członek\nTeam Rocket?\rNie sprzedajemy tu rozsądku.</language>
+		<language name="English">Jaki interes miałby tu ktoś z\nGenezy? Nie sprzedajemy tu rozsądku.</language>
 	</row>
 	<row id="msg_0592_T25R1001_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -18,7 +18,7 @@
 	</row>
 	<row id="msg_0592_T25R1001_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Czy to Team Rocket, „Team Pocket”,\nczy cokolwiek innego... zostaw mnie\fw spokoju!\rJestem zajęty zakupami i nie mam\nczasu do stracenia!</language>
+		<language name="English">Czy to Geneza, „Genetyka”, czy\ncokolwiek innego... zostaw mnie w\fspokoju!\rJestem zajęty zakupami i nie mam\nczasu do stracenia!</language>
 	</row>
 	<row id="msg_0592_T25R1001_00005" index="5">
 		<attribute name="window_context_name">used</attribute>

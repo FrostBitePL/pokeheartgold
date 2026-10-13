@@ -118,887 +118,887 @@
 	</row>
 	<row id="msg_0265_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wydaje się nieco\nzdenerwowany/a...\fChcesz powiedzieć coś na otuchę?{YESNO 0}</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wygląda na bardzo zadowolonego/ą!</language>
 	</row>
 	<row id="msg_0265_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wydaje się pogrążony/a w\nmarzeniach.\fZawołać go/ją?{YESNO 0}</language>
+		<language name="English">{STRVAR_1 1, 0, 0} nie uważał/a i wpadł/a prosto na ciebie!</language>
 	</row>
 	<row id="msg_0265_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wygląda na chętnego/ą do\npowrotu do Laboratorium.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} chyba chce się bawić i patrzy na ciebie z nadzieją.\fUlegniesz? {YESNO 0}</language>
 	</row>
 	<row id="msg_0265_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} nagle podszedł/podeszła\nbliżej!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} nagle cię popchnął/popchnęła!\nSkarcisz go/ją?{YESNO 0}</language>
 	</row>
 	<row id="msg_0265_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} gryzie twoje buty!\nSkarcić go/ją?{YESNO 0}</language>
+		<language name="English">{STRVAR_1 1, 0, 0} chyba przysypia...\nZawołać go/ją po imieniu? {YESNO 0}</language>
 	</row>
 	<row id="msg_0265_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} liść lekko opada.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} patrzy na ciebie bez wyrazu.</language>
 	</row>
 	<row id="msg_0265_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Policzki {STRVAR_1 1, 0, 0} robią się\nróżowe!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} tarza się w zaroślach, a dookoła pełno liści!\fPodnieść go/ją? {YESNO 0}</language>
 	</row>
 	<row id="msg_0265_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} zdaje się mieć\ntrudności z poruszaniem ciałem!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} nagle bardzo się do ciebie przysunął/przysunęła!\fOkazać trochę czułości?{YESNO 0}</language>
 	</row>
 	<row id="msg_0265_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} niezmiennie nadąża\nza tobą!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} patrzy nieobecnym wzrokiem w tę stronę...\fZawołać go/ją po imieniu?{YESNO 0}</language>
 	</row>
 	<row id="msg_0265_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} zdaje się chcieć bawić się z\n{STRVAR_1 3, 2, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wygląda, jakby chciał/a prowadzić!</language>
 	</row>
 	<row id="msg_0265_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} patrzy na ciebie z\nuwielbieniem!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} chce teraz uwagi!\nPobawisz się z nim/nią?{YESNO 0}</language>
 	</row>
 	<row id="msg_0265_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} stara się z całych sił nadążyć\nza tobą!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wydaje się nieco\nzdenerwowany/a...\fChcesz powiedzieć coś na otuchę?{YESNO 0}</language>
 	</row>
 	<row id="msg_0265_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} podskakuje z radości!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wydaje się pogrążony/a w\nmarzeniach.\fZawołać go/ją?{YESNO 0}</language>
 	</row>
 	<row id="msg_0265_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} radośnie się do ciebie\ntuli!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wygląda na chętnego/ą do\npowrotu do Laboratorium.</language>
 	</row>
 	<row id="msg_0265_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wygląda na bardzo szczęśliwego/ą!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} nagle podszedł/podeszła\nbliżej!</language>
 	</row>
 	<row id="msg_0265_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} zdaje się świetnie bawić,\nspacerując z tobą!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} gryzie twoje buty!\nSkarcić go/ją?{YESNO 0}</language>
 	</row>
 	<row id="msg_0265_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} włożył/a dodatkowy wysiłek!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} liść lekko opada.</language>
 	</row>
 	<row id="msg_0265_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} zakręcił/a się w kółko!</language>
+		<language name="English">Policzki {STRVAR_1 1, 0, 0} robią się\nróżowe!</language>
 	</row>
 	<row id="msg_0265_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} skupia całą uwagę na tobie.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} zdaje się mieć\ntrudności z poruszaniem ciałem!</language>
 	</row>
 	<row id="msg_0265_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} odwrócił/a się do ciebie\ni uśmiechnął/uśmiechnęła się!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} niezmiennie nadąża\nza tobą!</language>
 	</row>
 	<row id="msg_0265_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} popisuje się swoją\nzwinnością!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} zdaje się chcieć bawić się z\n{STRVAR_1 3, 2, 0}!</language>
 	</row>
 	<row id="msg_0265_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} radośnie podskakuje!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} patrzy na ciebie z\nuwielbieniem!</language>
 	</row>
 	<row id="msg_0265_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wydaje się bardzo szczęśliwy/a!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} stara się z całych sił nadążyć\nza tobą!</language>
 	</row>
 	<row id="msg_0265_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} skacze wokoło beztrosko!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} podskakuje z radości!</language>
 	</row>
 	<row id="msg_0265_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} porusza się radośnie!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} radośnie się do ciebie\ntuli!</language>
 	</row>
 	<row id="msg_0265_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wpatruje się prosto w tę\nstronę!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wygląda na bardzo szczęśliwego/ą!</language>
 	</row>
 	<row id="msg_0265_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} odwrócił/a wzrok...</language>
+		<language name="English">{STRVAR_1 1, 0, 0} zdaje się świetnie bawić,\nspacerując z tobą!</language>
 	</row>
 	<row id="msg_0265_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} dziobie\nTorbę gracza {STRVAR_1 3, 2, 0}!\fSkarcić go/ją?{YESNO 0}</language>
+		<language name="English">{STRVAR_1 1, 0, 0} włożył/a dodatkowy wysiłek!</language>
 	</row>
 	<row id="msg_0265_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wpatruje się prosto w oczy\ngracza {STRVAR_1 3, 2, 0}.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} zakręcił/a się w kółko!</language>
 	</row>
 	<row id="msg_0265_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} uśmiechnął/uśmiechnęła się do\nciebie radośnie!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} skupia całą uwagę na tobie.</language>
 	</row>
 	<row id="msg_0265_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} przywitał/a się z twoim przeciwnikiem!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} odwrócił/a się do ciebie\ni uśmiechnął/uśmiechnęła się!</language>
 	</row>
 	<row id="msg_0265_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wydał/a z siebie okrzyk!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} popisuje się swoją\nzwinnością!</language>
 	</row>
 	<row id="msg_0265_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} zwrócił/a się w stronę twojego\nprzeciwnika i głośno krzyknął/krzyknęła!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} radośnie podskakuje!</language>
 	</row>
 	<row id="msg_0265_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} zastrasza twojego przeciwnika!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wydaje się bardzo szczęśliwy/a!</language>
 	</row>
 	<row id="msg_0265_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} spogląda groźnie na twojego przeciwnika!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} skacze wokoło beztrosko!</language>
 	</row>
 	<row id="msg_0265_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wpatruje się w twojego przeciwnika!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} porusza się radośnie!</language>
 	</row>
 	<row id="msg_0265_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wydaje się bardzo zainteresowany/a Amphy!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wpatruje się prosto w tę\nstronę!</language>
 	</row>
 	<row id="msg_0265_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wydaje się chcieć bawić się z Amphy!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} odwrócił/a wzrok...</language>
 	</row>
 	<row id="msg_0265_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Przywitał/a się z Amphy!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} dziobie\nTorbę gracza {STRVAR_1 3, 2, 0}!\fSkarcić go/ją?{YESNO 0}</language>
 	</row>
 	<row id="msg_0265_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wydaje się zainteresowany/a Amphy...</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wpatruje się prosto w oczy\ngracza {STRVAR_1 3, 2, 0}.</language>
 	</row>
 	<row id="msg_0265_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} zaczął/zaczęła ziewać...\n...prawie ziewa...prawie...\fA jednak nie.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} uśmiechnął/uśmiechnęła się do\nciebie radośnie!</language>
 	</row>
 	<row id="msg_0265_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wpatruje się w poranne\nsłońce...</language>
+		<language name="English">{STRVAR_1 1, 0, 0} przywitał/a się z twoim przeciwnikiem!</language>
 	</row>
 	<row id="msg_0265_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} kłapnął/kłapnęła na twoje nogi!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wydał/a z siebie okrzyk!</language>
 	</row>
 	<row id="msg_0265_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} skubie twoje stopy!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} zwrócił/a się w stronę twojego\nprzeciwnika i głośno krzyknął/krzyknęła!</language>
 	</row>
 	<row id="msg_0265_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} pogryzł/a twoje stopy!\nSkarcić go/ją?{YESNO 0}</language>
+		<language name="English">{STRVAR_1 1, 0, 0} zastrasza twojego przeciwnika!</language>
 	</row>
 	<row id="msg_0265_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} skubnął/skubnęła twoje stopy!\nChcesz okazać trochę złości?{YESNO 0}</language>
+		<language name="English">{STRVAR_1 1, 0, 0} spogląda groźnie na twojego przeciwnika!</language>
 	</row>
 	<row id="msg_0265_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wpatruje się tępo\nw twoją głowę.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wpatruje się w twojego przeciwnika!</language>
 	</row>
 	<row id="msg_0265_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} uważnie przeszukuje\nokolicę!</language>
+		<language name="English">Wydaje się bardzo zainteresowany/a Amphy!</language>
 	</row>
 	<row id="msg_0265_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} bacznie obserwuje okolicę!</language>
+		<language name="English">Wydaje się chcieć bawić się z Amphy!</language>
 	</row>
 	<row id="msg_0265_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wydaje się niezadowolony/a, że\njest tak gorąco...</language>
+		<language name="English">Przywitał/a się z Amphy!</language>
 	</row>
 	<row id="msg_0265_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} pochyla głowę\nz powodu upału.</language>
+		<language name="English">Wydaje się zainteresowany/a Amphy...</language>
 	</row>
 	<row id="msg_0265_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wydaje się naprawdę\ncieszyć upałem!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} zaczął/zaczęła ziewać...\n...prawie ziewa...prawie...\fA jednak nie.</language>
 	</row>
 	<row id="msg_0265_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wydaje się szczęśliwy/a\nz powodu deszczu!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wpatruje się w poranne\nsłońce...</language>
 	</row>
 	<row id="msg_0265_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} jest bardzo szczęśliwy/a\nz powodu deszczu!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} kłapnął/kłapnęła na twoje nogi!</language>
 	</row>
 	<row id="msg_0265_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wydaje się bardzo\nzaskoczony/a, że pada deszcz!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} skubie twoje stopy!</language>
 	</row>
 	<row id="msg_0265_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wygląda, jakby zaraz\nmiał/a się przewrócić!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} pogryzł/a twoje stopy!\nSkarcić go/ją?{YESNO 0}</language>
 	</row>
 	<row id="msg_0265_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} energicznie wytwarza\nogień!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} skubnął/skubnęła twoje stopy!\nChcesz okazać trochę złości?{YESNO 0}</language>
 	</row>
 	<row id="msg_0265_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} nagle się rozzłościł/a!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wpatruje się tępo\nw twoją głowę.</language>
 	</row>
 	<row id="msg_0265_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} nagle zaryczał/a!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} uważnie przeszukuje\nokolicę!</language>
 	</row>
 	<row id="msg_0265_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} nagle się odwrócił/a\ni zaczął/zaczęła szczekać!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} bacznie obserwuje okolicę!</language>
 	</row>
 	<row id="msg_0265_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} nagle się odwrócił/a!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wydaje się niezadowolony/a, że\njest tak gorąco...</language>
 	</row>
 	<row id="msg_0265_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} figlarnie skubie\nziemię.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} pochyla głowę\nz powodu upału.</language>
 	</row>
 	<row id="msg_0265_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} figlarnie dotyka\nziemi.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wydaje się naprawdę\ncieszyć upałem!</language>
 	</row>
 	<row id="msg_0265_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} figlarnie skubie\nziemię.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wydaje się szczęśliwy/a\nz powodu deszczu!</language>
 	</row>
 	<row id="msg_0265_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} figlarnie toczy kamyk.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} jest bardzo szczęśliwy/a\nz powodu deszczu!</language>
 	</row>
 	<row id="msg_0265_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wącha zapachy\nunoszące się w powietrzu.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wydaje się bardzo\nzaskoczony/a, że pada deszcz!</language>
 	</row>
 	<row id="msg_0265_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} spojrzał/a ze zdumieniem na\nkamień!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wygląda, jakby zaraz\nmiał/a się przewrócić!</language>
 	</row>
 	<row id="msg_0265_00096" index="96">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} patrzy w górę z rozdziawionym\npyskiem.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} energicznie wytwarza\nogień!</language>
 	</row>
 	<row id="msg_0265_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} patrzy w górę z szeroko\notwartym pyskiem.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} nagle się rozzłościł/a!</language>
 	</row>
 	<row id="msg_0265_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} jest wesoły/a!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} nagle zaryczał/a!</language>
 	</row>
 	<row id="msg_0265_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} macha łapami i krzyczy!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} nagle się odwrócił/a\ni zaczął/zaczęła szczekać!</language>
 	</row>
 	<row id="msg_0265_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wydał/a z siebie ryk!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} nagle się odwrócił/a!</language>
 	</row>
 	<row id="msg_0265_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wydał/a z siebie ryk!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} figlarnie skubie\nziemię.</language>
 	</row>
 	<row id="msg_0265_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wpatruje się w morze.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} figlarnie dotyka\nziemi.</language>
 	</row>
 	<row id="msg_0265_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} jest podekscytowany/a,\npatrząc na morze!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} figlarnie skubie\nziemię.</language>
 	</row>
 	<row id="msg_0265_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} jest tak szczęśliwy/a, że\nzaczął/zaczęła tańczyć!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} figlarnie toczy kamyk.</language>
 	</row>
 	<row id="msg_0265_00105" index="105">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} jest tak szczęśliwy/a, że\nzaczął/zaczęła się tarzać.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wącha zapachy\nunoszące się w powietrzu.</language>
 	</row>
 	<row id="msg_0265_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wydaje się bardzo szczęśliwy/a,\nże cię widzi.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} spojrzał/a ze zdumieniem na\nkamień!</language>
 	</row>
 	<row id="msg_0265_00107" index="107">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wydaje się bardzo szczęśliwy/a\ni tarza się!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} patrzy w górę z rozdziawionym\npyskiem.</language>
 	</row>
 	<row id="msg_0265_00108" index="108">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wydaje się bardzo szczęśliwy/a\ni podskakuje!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} patrzy w górę z szeroko\notwartym pyskiem.</language>
 	</row>
 	<row id="msg_0265_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} radośnie chlapie się w\nwodzie!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} jest wesoły/a!</language>
 	</row>
 	<row id="msg_0265_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wydaje się chcieć\npojechać pociągiem!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} macha łapami i krzyczy!</language>
 	</row>
 	<row id="msg_0265_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} zaplątał/a się w gałęziach\ni omal nie upadł/a!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wydał/a z siebie ryk!</language>
 	</row>
 	<row id="msg_0265_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} był/a zaskoczony/a, gdy\ntrafiła go/ją gałąź!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wydał/a z siebie ryk!</language>
 	</row>
 	<row id="msg_0265_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} otworzył/a pysk bardzo\nszeroko!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wpatruje się w morze.</language>
 	</row>
 	<row id="msg_0265_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wydał/a z siebie bardzo\ngłośny okrzyk!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} jest podekscytowany/a,\npatrząc na morze!</language>
 	</row>
 	<row id="msg_0265_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} szeroko ziewnął/ziewnęła!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} jest tak szczęśliwy/a, że\nzaczął/zaczęła tańczyć!</language>
 	</row>
 	<row id="msg_0265_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wpatruje się w\ngłębiny...</language>
+		<language name="English">{STRVAR_1 1, 0, 0} jest tak szczęśliwy/a, że\nzaczął/zaczęła się tarzać.</language>
 	</row>
 	<row id="msg_0265_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} patrzy w głębiny\ni drży...</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wydaje się bardzo szczęśliwy/a,\nże cię widzi.</language>
 	</row>
 	<row id="msg_0265_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} nagle zaryczał/a!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wydaje się bardzo szczęśliwy/a\ni tarza się!</language>
 	</row>
 	<row id="msg_0265_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} bawi się wśród\nopadłych liści.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wydaje się bardzo szczęśliwy/a\ni podskakuje!</language>
 	</row>
 	<row id="msg_0265_00120" index="120">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} martwi się o pułapkę.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} radośnie chlapie się w\nwodzie!</language>
 	</row>
 	<row id="msg_0265_00121" index="121">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} zaczął/zaczęła szturchać cię\nw brzuch!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wydaje się chcieć\npojechać pociągiem!</language>
 	</row>
 	<row id="msg_0265_00122" index="122">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Na twarzy {STRVAR_1 1, 0, 0} pojawia się\nkropla potu...</language>
+		<language name="English">{STRVAR_1 1, 0, 0} zaplątał/a się w gałęziach\ni omal nie upadł/a!</language>
 	</row>
 	<row id="msg_0265_00123" index="123">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} boi się urwiska...</language>
+		<language name="English">{STRVAR_1 1, 0, 0} był/a zaskoczony/a, gdy\ntrafiła go/ją gałąź!</language>
 	</row>
 	<row id="msg_0265_00124" index="124">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wydaje się odczuwać\ndziwne mrowienie!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} otworzył/a pysk bardzo\nszeroko!</language>
 	</row>
 	<row id="msg_0265_00125" index="125">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} czuje się odświeżony/a!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wydał/a z siebie bardzo\ngłośny okrzyk!</language>
 	</row>
 	<row id="msg_0265_00126" index="126">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} drży!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} szeroko ziewnął/ziewnęła!</language>
 	</row>
 	<row id="msg_0265_00127" index="127">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} spokojnie obserwuje\nnurt rzeki.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wpatruje się w\ngłębiny...</language>
 	</row>
 	<row id="msg_0265_00128" index="128">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wydał/a z siebie bojowy okrzyk!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} patrzy w głębiny\ni drży...</language>
 	</row>
 	<row id="msg_0265_00129" index="129">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} nasłuchuje dźwięku\nwydawanego przez maszynę.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} nagle zaryczał/a!</language>
 	</row>
 	<row id="msg_0265_00130" index="130">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} zdaje się chcieć dotknąć\nmaszyny!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} bawi się wśród\nopadłych liści.</language>
 	</row>
 	<row id="msg_0265_00131" index="131">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} uważnie przygląda się\nmaszynie.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} martwi się o pułapkę.</language>
 	</row>
 	<row id="msg_0265_00132" index="132">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} patrzy groźnie na\nzbira z Zespołu Rocket!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} zaczął/zaczęła szturchać cię\nw brzuch!</language>
 	</row>
 	<row id="msg_0265_00133" index="133">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} nagle zaszczekał/a!</language>
+		<language name="English">Na twarzy {STRVAR_1 1, 0, 0} pojawia się\nkropla potu...</language>
 	</row>
 	<row id="msg_0265_00134" index="134">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} poruszył/a się i pokazał/a\nswoje umiejętności!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} boi się urwiska...</language>
 	</row>
 	<row id="msg_0265_00135" index="135">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wygląda na bardzo zainteresowanego/ą!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wydaje się odczuwać\ndziwne mrowienie!</language>
 	</row>
 	<row id="msg_0265_00136" index="136">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} rozgląda się\nniespokojnie.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} czuje się odświeżony/a!</language>
 	</row>
 	<row id="msg_0265_00137" index="137">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wędruje wokół, nasłuchując\nróżnych dźwięków.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} drży!</language>
 	</row>
 	<row id="msg_0265_00138" index="138">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wędruje wokół, szukając\nczegoś.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} spokojnie obserwuje\nnurt rzeki.</language>
 	</row>
 	<row id="msg_0265_00139" index="139">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wędruje wokoło.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wydał/a z siebie bojowy okrzyk!</language>
 	</row>
 	<row id="msg_0265_00140" index="140">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wędruje wokół, ciesząc się\nleśnym krajobrazem.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} nasłuchuje dźwięku\nwydawanego przez maszynę.</language>
 	</row>
 	<row id="msg_0265_00141" index="141">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wędruje wokół, słuchając\ndźwięku płynącej wody.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} zdaje się chcieć dotknąć\nmaszyny!</language>
 	</row>
 	<row id="msg_0265_00142" index="142">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wędruje wokół, obserwując\nokolicę.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} uważnie przygląda się\nmaszynie.</language>
 	</row>
 	<row id="msg_0265_00143" index="143">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wydaje się bardzo\nzainteresowany/a drzewem.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} spogląda groźnie na laboranta Genezy!</language>
 	</row>
 	<row id="msg_0265_00144" index="144">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} nastawia się na wysiłek!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} nagle zaszczekał/a!</language>
 	</row>
 	<row id="msg_0265_00145" index="145">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} napina się z nerwowej\nenergii.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} poruszył/a się i pokazał/a\nswoje umiejętności!</language>
 	</row>
 	<row id="msg_0265_00146" index="146">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} bawi się, skubiąc\nkępki trawy.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wygląda na bardzo zainteresowanego/ą!</language>
 	</row>
 	<row id="msg_0265_00147" index="147">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} skubie trawę.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} rozgląda się\nniespokojnie.</language>
 	</row>
 	<row id="msg_0265_00148" index="148">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} bawi się, wyrywając\ntrawę!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wędruje wokół, nasłuchując\nróżnych dźwięków.</language>
 	</row>
 	<row id="msg_0265_00149" index="149">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} zaprząta myśli podłoga,\nktóra wygląda, jakby mogła się zawalić.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wędruje wokół, szukając\nczegoś.</language>
 	</row>
 	<row id="msg_0265_00150" index="150">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} zaprząta myśli sufit,\nktóry wygląda, jakby mógł się zawalić.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wędruje wokoło.</language>
 	</row>
 	<row id="msg_0265_00151" index="151">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} otwiera pysk w\nszerokim ziewnięciu.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wędruje wokół, ciesząc się\nleśnym krajobrazem.</language>
 	</row>
 	<row id="msg_0265_00152" index="152">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zęby {STRVAR_1 1, 0, 0} szczękają!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wędruje wokół, słuchając\ndźwięku płynącej wody.</language>
 	</row>
 	<row id="msg_0265_00153" index="153">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} odwrócił/a głowę i wydał/a\nz siebie bojowy okrzyk!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wędruje wokół, obserwując\nokolicę.</language>
 	</row>
 	<row id="msg_0265_00154" index="154">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} bardzo się stara nadążyć\nza tobą...</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wydaje się bardzo\nzainteresowany/a drzewem.</language>
 	</row>
 	<row id="msg_0265_00155" index="155">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} zakręcił/a się w kółko!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} nastawia się na wysiłek!</language>
 	</row>
 	<row id="msg_0265_00156" index="156">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wącha powietrze,\nczując zapach przypływu.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} napina się z nerwowej\nenergii.</language>
 	</row>
 	<row id="msg_0265_00157" index="157">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} stoi na straży!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} bawi się, skubiąc\nkępki trawy.</language>
 	</row>
 	<row id="msg_0265_00158" index="158">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} promienieje zdrowiem!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} skubie trawę.</language>
 	</row>
 	<row id="msg_0265_00159" index="159">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} przywitał/a się serdecznie!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} bawi się, wyrywając\ntrawę!</language>
 	</row>
 	<row id="msg_0265_00160" index="160">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} radośnie skoczył/a\nw powietrze!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} zaprząta myśli podłoga,\nktóra wygląda, jakby mogła się zawalić.</language>
 	</row>
 	<row id="msg_0265_00161" index="161">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} dotyka lodu.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} zaprząta myśli sufit,\nktóry wygląda, jakby mógł się zawalić.</language>
 	</row>
 	<row id="msg_0265_00162" index="162">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} obgryza lód.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} otwiera pysk w\nszerokim ziewnięciu.</language>
 	</row>
 	<row id="msg_0265_00163" index="163">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} drapie ziemię, jakby\nczegoś szukał/a.</language>
+		<language name="English">Zęby {STRVAR_1 1, 0, 0} szczękają!</language>
 	</row>
 	<row id="msg_0265_00164" index="164">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} odwrócił/a się w tę stronę\ni uważnie się przygląda.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} odwrócił/a głowę i wydał/a\nz siebie bojowy okrzyk!</language>
 	</row>
 	<row id="msg_0265_00165" index="165">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} zwrócił/a się w tę stronę\ni uśmiechnął/uśmiechnęła się szeroko.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} bardzo się stara nadążyć\nza tobą...</language>
 	</row>
 	<row id="msg_0265_00166" index="166">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} zwrócił/a się w tę stronę\ni kiwnął/kiwnęła głową.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} zakręcił/a się w kółko!</language>
 	</row>
 	<row id="msg_0265_00167" index="167">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wpatruje się w światło\nsłoneczne przesączające się przez drzewa.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wącha powietrze,\nczując zapach przypływu.</language>
 	</row>
 	<row id="msg_0265_00168" index="168">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} tarza się.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} stoi na straży!</language>
 	</row>
 	<row id="msg_0265_00169" index="169">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} przestraszył/a się i przytulił/a\ndo gracza {STRVAR_1 3, 2, 0}!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} promienieje zdrowiem!</language>
 	</row>
 	<row id="msg_0265_00170" index="170">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} przestraszył/a się i przytulił/a\ndo ciebie!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} przywitał/a się serdecznie!</language>
 	</row>
 	<row id="msg_0265_00171" index="171">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} jest wesoły/a z powodu\nzimna!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} radośnie skoczył/a\nw powietrze!</language>
 	</row>
 	<row id="msg_0265_00172" index="172">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wydaje się niezadowolony/a\nz powodu zimna...</language>
+		<language name="English">{STRVAR_1 1, 0, 0} dotyka lodu.</language>
 	</row>
 	<row id="msg_0265_00173" index="173">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} radośnie dopinguje\nz powodu zimna!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} obgryza lód.</language>
 	</row>
 	<row id="msg_0265_00174" index="174">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} nieco się skulił/a\nz powodu zimna...</language>
+		<language name="English">{STRVAR_1 1, 0, 0} drapie ziemię, jakby\nczegoś szukał/a.</language>
 	</row>
 	<row id="msg_0265_00175" index="175">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wydaje się czuć lepiej\nz powodu morskiej bryzy!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} odwrócił/a się w tę stronę\ni uważnie się przygląda.</language>
 	</row>
 	<row id="msg_0265_00176" index="176">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} spogląda w dół nerwowo!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} zwrócił/a się w tę stronę\ni uśmiechnął/uśmiechnęła się szeroko.</language>
 	</row>
 	<row id="msg_0265_00177" index="177">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} spojrzał/a w dół i był/a\nzaskoczony/a!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} zwrócił/a się w tę stronę\ni kiwnął/kiwnęła głową.</language>
 	</row>
 	<row id="msg_0265_00178" index="178">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} rozbłysnął/rozbłysnęła\nognistym ogonem!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wpatruje się w światło\nsłoneczne przesączające się przez drzewa.</language>
 	</row>
 	<row id="msg_0265_00179" index="179">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wydaje się zainteresowany/a\nRowerami!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} tarza się.</language>
 	</row>
 	<row id="msg_0265_00180" index="180">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} patrzy na ślady stóp\ngracza {STRVAR_1 3, 2, 0}.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} przestraszył/a się i przytulił/a\ndo gracza {STRVAR_1 3, 2, 0}!</language>
 	</row>
 	<row id="msg_0265_00181" index="181">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} uważnie wpatruje się w\nodbicie swojej twarzy.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} przestraszył/a się i przytulił/a\ndo ciebie!</language>
 	</row>
 	<row id="msg_0265_00182" index="182">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wpatruje się w odbicie\nswojej twarzy.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} jest wesoły/a z powodu\nzimna!</language>
 	</row>
 	<row id="msg_0265_00183" index="183">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wydaje się bardzo niezadowolony/a\nz bycia mokrym/mokrą...</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wydaje się niezadowolony/a\nz powodu zimna...</language>
 	</row>
 	<row id="msg_0265_00184" index="184">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} obwąchuje ziemię.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} radośnie dopinguje\nz powodu zimna!</language>
 	</row>
 	<row id="msg_0265_00185" index="185">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} stukotliwie dziobie\nziemię.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} nieco się skulił/a\nz powodu zimna...</language>
 	</row>
 	<row id="msg_0265_00186" index="186">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} spogląda w dół uważnie.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wydaje się czuć lepiej\nz powodu morskiej bryzy!</language>
 	</row>
 	<row id="msg_0265_00187" index="187">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} dziobie ziemię.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} spogląda w dół nerwowo!</language>
 	</row>
 	<row id="msg_0265_00188" index="188">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} figlarnie kopie\nw ziemi.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} spojrzał/a w dół i był/a\nzaskoczony/a!</language>
 	</row>
 	<row id="msg_0265_00189" index="189">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} stukotliwie dziobie\nziemię.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} rozbłysnął/rozbłysnęła\nognistym ogonem!</language>
 	</row>
 	<row id="msg_0265_00190" index="190">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} zdaje się robić\nrozgrzewkę...</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wydaje się zainteresowany/a\nRowerami!</language>
 	</row>
 	<row id="msg_0265_00191" index="191">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} idzie ostrożnie!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} patrzy na ślady stóp\ngracza {STRVAR_1 3, 2, 0}.</language>
 	</row>
 	<row id="msg_0265_00192" index="192">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} zachowuje nerwową ciszę...</language>
+		<language name="English">{STRVAR_1 1, 0, 0} uważnie wpatruje się w\nodbicie swojej twarzy.</language>
 	</row>
 	<row id="msg_0265_00193" index="193">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wydaje się bardzo szczęśliwy/a!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wpatruje się w odbicie\nswojej twarzy.</language>
 	</row>
 	<row id="msg_0265_00194" index="194">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} jest trochę zdenerwowany/a.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wydaje się bardzo niezadowolony/a\nz bycia mokrym/mokrą...</language>
 	</row>
 	<row id="msg_0265_00195" index="195">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} jest trochę podekscytowany/a!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} obwąchuje ziemię.</language>
 	</row>
 	<row id="msg_0265_00196" index="196">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} przewrócił/a się i był/a\ntrochę sfrustrowany/a!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} stukotliwie dziobie\nziemię.</language>
 	</row>
 	<row id="msg_0265_00197" index="197">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wydaje się trochę zmęczony/a.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} spogląda w dół uważnie.</language>
 	</row>
 	<row id="msg_0265_00198" index="198">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} krząta się, pokazując\nswoją szybkość!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} dziobie ziemię.</language>
 	</row>
 	<row id="msg_0265_00199" index="199">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} zdawał/a się drżeć trochę\nze zdziwienia!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} figlarnie kopie\nw ziemi.</language>
 	</row>
 	<row id="msg_0265_00200" index="200">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} poślizgnął/poślizgnęła się\ni wpadł/a na ciebie!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} stukotliwie dziobie\nziemię.</language>
 	</row>
 	<row id="msg_0265_00201" index="201">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} jest trochę zdenerwowany/a\nciasną przestrzenią!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} zdaje się robić\nrozgrzewkę...</language>
 	</row>
 	<row id="msg_0265_00202" index="202">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} zachowuje ostrożność\nz powodu ciasnego miejsca!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} idzie ostrożnie!</language>
 	</row>
 	<row id="msg_0265_00203" index="203">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} martwi się wyjściem\nna zewnątrz!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} zachowuje nerwową ciszę...</language>
 	</row>
 	<row id="msg_0265_00204" index="204">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} jest szczęśliwy/a, widząc,\nco jest na zewnątrz!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wydaje się bardzo szczęśliwy/a!</language>
 	</row>
 	<row id="msg_0265_00205" index="205">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} nie może się doczekać,\nby zobaczyć, co jest na zewnątrz!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} jest trochę zdenerwowany/a.</language>
 	</row>
 	<row id="msg_0265_00206" index="206">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} szturcha cię, ponieważ\nchce zobaczyć, co jest na zewnątrz!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} jest trochę podekscytowany/a!</language>
 	</row>
 	<row id="msg_0265_00207" index="207">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wydaje się olśniony/a po\nzobaczeniu nieba!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} przewrócił/a się i był/a\ntrochę sfrustrowany/a!</language>
 	</row>
 	<row id="msg_0265_00208" index="208">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} patrzy w górę na\nwysoką górę...</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wydaje się trochę zmęczony/a.</language>
 	</row>
 	<row id="msg_0265_00209" index="209">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} krzyknął/krzyknęła, patrząc na\nwysoką górę!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} krząta się, pokazując\nswoją szybkość!</language>
 	</row>
 	<row id="msg_0265_00210" index="210">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wydaje się zaniepokojony/a\nwodospadem!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} zdawał/a się drżeć trochę\nze zdziwienia!</language>
 	</row>
 	<row id="msg_0265_00211" index="211">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} nasłuchuje dźwięku\nwodospadu.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} poślizgnął/poślizgnęła się\ni wpadł/a na ciebie!</language>
 	</row>
 	<row id="msg_0265_00212" index="212">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} zdaje się słyszeć\ncoś wewnątrz wodospadu...</language>
+		<language name="English">{STRVAR_1 1, 0, 0} jest trochę zdenerwowany/a\nciasną przestrzenią!</language>
 	</row>
 	<row id="msg_0265_00213" index="213">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} zdaje się znaleźć\ncoś wewnątrz wodospadu...?</language>
+		<language name="English">{STRVAR_1 1, 0, 0} zachowuje ostrożność\nz powodu ciasnego miejsca!</language>
 	</row>
 	<row id="msg_0265_00214" index="214">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} utrzymywał/a dobre tempo,\nby pokazać swoją wytrzymałość!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} martwi się wyjściem\nna zewnątrz!</language>
 	</row>
 	<row id="msg_0265_00215" index="215">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wyczuwa niezwykłą\nobecność...</language>
+		<language name="English">{STRVAR_1 1, 0, 0} jest szczęśliwy/a, widząc,\nco jest na zewnątrz!</language>
 	</row>
 	<row id="msg_0265_00216" index="216">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} obwąchuje\nsłomiane maty na podłodze.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} nie może się doczekać,\nby zobaczyć, co jest na zewnątrz!</language>
 	</row>
 	<row id="msg_0265_00217" index="217">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} nasłuchuje dźwięków\nbudynku.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} szturcha cię, ponieważ\nchce zobaczyć, co jest na zewnątrz!</language>
 	</row>
 	<row id="msg_0265_00218" index="218">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} patrzy w górę na\nwieżę.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wydaje się olśniony/a po\nzobaczeniu nieba!</language>
 	</row>
 	<row id="msg_0265_00219" index="219">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} cicho pomrukuje...</language>
+		<language name="English">{STRVAR_1 1, 0, 0} patrzy w górę na\nwysoką górę...</language>
 	</row>
 	<row id="msg_0265_00220" index="220">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} ciężko pracuje, by pokazać\nswoją potężną siłę!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} krzyknął/krzyknęła, patrząc na\nwysoką górę!</language>
 	</row>
 	<row id="msg_0265_00221" index="221">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} robi niezadowoloną\nminę...</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wydaje się zaniepokojony/a\nwodospadem!</language>
 	</row>
 	<row id="msg_0265_00222" index="222">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} jest trochę zdenerwowany/a...</language>
+		<language name="English">{STRVAR_1 1, 0, 0} nasłuchuje dźwięku\nwodospadu.</language>
 	</row>
 	<row id="msg_0265_00223" index="223">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} jest trochę przestraszony/a.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} zdaje się słyszeć\ncoś wewnątrz wodospadu...</language>
 	</row>
 	<row id="msg_0265_00224" index="224">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} zdaje się dostał/a\ntrochę porażenia prądem!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} zdaje się znaleźć\ncoś wewnątrz wodospadu...?</language>
 	</row>
 	<row id="msg_0265_00225" index="225">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wydaje się trochę\nniezdecydowany/a...</language>
+		<language name="English">{STRVAR_1 1, 0, 0} utrzymywał/a dobre tempo,\nby pokazać swoją wytrzymałość!</language>
 	</row>
 	<row id="msg_0265_00226" index="226">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} z uwagą obserwuje\nwędkowanie.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wyczuwa niezwykłą\nobecność...</language>
 	</row>
 	<row id="msg_0265_00227" index="227">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} zerwał/a swoją pnączę!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} obwąchuje\nsłomiane maty na podłodze.</language>
 	</row>
 	<row id="msg_0265_00228" index="228">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} pomachał/a swoim pnączem!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} nasłuchuje dźwięków\nbudynku.</language>
 	</row>
 	<row id="msg_0265_00229" index="229">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wpatruje się uważnie w\ntowary na wystawie!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} patrzy w górę na\nwieżę.</language>
 	</row>
 	<row id="msg_0265_00230" index="230">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} spojrzał/a w zdumieniu\nna sufit!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} cicho pomrukuje...</language>
 	</row>
 	<row id="msg_0265_00231" index="231">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} patrzył/a na sufit i\nwyglądał/a, jakby miał/a spaść!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} ciężko pracuje, by pokazać\nswoją potężną siłę!</language>
 	</row>
 	<row id="msg_0265_00232" index="232">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} patrzy w górę na\nsufit.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} robi niezadowoloną\nminę...</language>
 	</row>
 	<row id="msg_0265_00233" index="233">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} spojrzał/a w dal i\nzaszczekał/a!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} jest trochę zdenerwowany/a...</language>
 	</row>
 	<row id="msg_0265_00234" index="234">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wydaje się bardzo gorąco...</language>
+		<language name="English">{STRVAR_1 1, 0, 0} jest trochę przestraszony/a.</language>
 	</row>
 	<row id="msg_0265_00235" index="235">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Przywitał/a się z twoją mamą!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} zdaje się dostał/a\ntrochę porażenia prądem!</language>
 	</row>
 	<row id="msg_0265_00236" index="236">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wydaje się bardzo szczęśliwy/a!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wydaje się trochę\nniezdecydowany/a...</language>
 	</row>
 	<row id="msg_0265_00237" index="237">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wydaje się bardzo zziębnięty/a!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} z uwagą obserwuje\nwędkowanie.</language>
 	</row>
 	<row id="msg_0265_00238" index="238">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} zdaje się naprawdę\ndobrze bawić!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} zerwał/a swoją pnączę!</language>
 	</row>
 	<row id="msg_0265_00239" index="239">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} bawi się na piasku!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} pomachał/a swoim pnączem!</language>
 	</row>
 	<row id="msg_0265_00240" index="240">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} świetnie się bawi,\nplącząc się w wysokiej trawie!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wpatruje się uważnie w\ntowary na wystawie!</language>
 	</row>
 	<row id="msg_0265_00241" index="241">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} zaplątał/a się w\nwysokiej trawie!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} spojrzał/a w zdumieniu\nna sufit!</language>
 	</row>
 	<row id="msg_0265_00242" index="242">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} potyka się o wysoką\ntrawę!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} patrzył/a na sufit i\nwyglądał/a, jakby miał/a spaść!</language>
 	</row>
 	<row id="msg_0265_00243" index="243">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} gryzie wysoką trawę!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} patrzy w górę na\nsufit.</language>
 	</row>
 	<row id="msg_0265_00244" index="244">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wpatruje się uważnie w\nwzburzone morze.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} spojrzał/a w dal i\nzaszczekał/a!</language>
 	</row>
 	<row id="msg_0265_00245" index="245">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wydaje się być czegoś\nprzestraszony/a...</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wydaje się bardzo gorąco...</language>
 	</row>
 	<row id="msg_0265_00246" index="246">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} był/a zaskoczony/a nagłym\ndźwiękiem!</language>
+		<language name="English">Przywitał/a się z twoją mamą!</language>
 	</row>
 	<row id="msg_0265_00247" index="247">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wyczuł/a coś dziwnego\ni był/a zaskoczony/a!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wydaje się bardzo szczęśliwy/a!</language>
 	</row>
 	<row id="msg_0265_00248" index="248">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wyczuwa coś...</language>
+		<language name="English">{STRVAR_1 1, 0, 0} wydaje się bardzo zziębnięty/a!</language>
 	</row>
 	<row id="msg_0265_00249" index="249">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} zdaje się coś znaleźć!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} zdaje się naprawdę\ndobrze bawić!</language>
 	</row>
 	<row id="msg_0265_00250" index="250">
 		<attribute name="window_context_name">used</attribute>
@@ -1006,11 +1006,11 @@
 	</row>
 	<row id="msg_0265_00251" index="251">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} świetnie się bawi,\nplącząc się w długiej trawie!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} świetnie się bawi,\nplącząc się w wysokiej trawie!</language>
 	</row>
 	<row id="msg_0265_00252" index="252">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} zaplątał/a się w długiej\ntrawie!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} zaplątał/a się w\nwysokiej trawie!</language>
 	</row>
 	<row id="msg_0265_00253" index="253">
 		<attribute name="window_context_name">used</attribute>

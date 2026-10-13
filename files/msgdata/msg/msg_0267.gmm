@@ -70,7 +70,7 @@
 	</row>
 	<row id="msg_0267_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pardon us for the inconvenience...\nPlease return once you have stopped\fbeing a member of Team Rocket...</language>
+		<language name="English">Przepraszamy za niedogodności...\rProsimy wrócić, gdy przestaniesz być\npracownikiem Genezy...</language>
 	</row>
 	<row id="msg_0267_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
@@ -110,7 +110,7 @@
 	</row>
 	<row id="msg_0267_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pardon us for the inconvenience...\nbut people wearing black clothing,\fpeople who engage in unlawful\factivities, and people who are\fmembers of Team Rocket\fare barred from participating.</language>
+		<language name="English">Przepraszamy za niedogodności...\rale osoby w białych fartuchach,\nosoby zajmujące się nielegalną\fdziałalnością oraz pracownicy Genezy\nnie mogą uczestniczyć.</language>
 	</row>
 	<row id="msg_0267_00028" index="28">
 		<attribute name="window_context_name">used</attribute>

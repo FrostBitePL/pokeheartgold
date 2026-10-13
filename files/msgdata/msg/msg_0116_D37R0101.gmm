@@ -6,11 +6,11 @@
 	</row>
 	<row id="msg_0116_D37R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wyglądasz na uczciwego młodzieńca.\nJak trafiłeś do\fTeam Rocket...?</language>
+		<language name="English">Wyglądasz na uczciwego młodzieńca.\nJak trafiłeś do Genezy...?</language>
 	</row>
 	<row id="msg_0116_D37R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team Rocket nigdy nie przestaje\nnękać ludzi, co nie?</language>
+		<language name="English">Geneza nigdy nie przestaje nękać\nludzi, co nie?</language>
 	</row>
 	<row id="msg_0116_D37R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -18,11 +18,11 @@
 	</row>
 	<row id="msg_0116_D37R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tak...\nTeam Rocket też może korzystać z tunelu.</language>
+		<language name="English">Tak... Geneza też może korzystać z\ntunelu.</language>
 	</row>
 	<row id="msg_0116_D37R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wszyscy ludzie pracujący w tunelu\nodeszli. Nikt nie chce, żeby Team\fRocket robił im problemy.</language>
+		<language name="English">Wszyscy ludzie pracujący w tunelu\nodeszli. Nikt nie chce, żeby Geneza\frobiła im problemy.</language>
 	</row>
 	<row id="msg_0116_D37R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>

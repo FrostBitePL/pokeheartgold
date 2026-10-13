@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0120_D37R0105_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dyrektor: Kto? Co? Przyszedłeś/aś,\nżeby mnie uratować? Dziękuję!\rWieża Radiowa!\nCo się tam dzieje?\rPrzejęta przez Team Rocket?\nProszę. Weź tę Kartę-Klucz.\r</language>
+		<language name="English">Dyrektor: Kto? Co? Przyszedłeś/aś,\nżeby mnie uratować? Dziękuję!\rZamek! Co się tam dzieje? Przejęty\nprzez Genezę? Proszę. Weź tę\fKartę-Klucz.\r</language>
 	</row>
 	<row id="msg_0120_D37R0105_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>

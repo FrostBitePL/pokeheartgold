@@ -118,7 +118,7 @@
 	</row>
 	<row id="msg_0117_D37R0102_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Witaj w Pamiątkowym Studiu Fotograficznym.\nNie jesteśmy zwykłym studiem!\rMożesz założyć mundur Team Rocket,\nby zrobić sobie zdjęcie!\rChcesz spróbować? {YESNO 0}</language>
+		<language name="English">Witaj w Pamiątkowym Studiu\nFotograficznym. Nie jesteśmy zwykłym\fstudiem!\rMożesz założyć biały fartuch Genezy,\nby zrobić sobie zdjęcie!\rChcesz spróbować? {YESNO 0}</language>
 	</row>
 	<row id="msg_0117_D37R0102_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
@@ -134,11 +134,11 @@
 	</row>
 	<row id="msg_0117_D37R0102_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Możesz założyć mundur Team Rocket,\nby zrobić sobie zdjęcie!\rChcesz spróbować? {YESNO 0}</language>
+		<language name="English">Możesz założyć biały fartuch Genezy,\nby zrobić sobie zdjęcie!\rChcesz spróbować? {YESNO 0}</language>
 	</row>
 	<row id="msg_0117_D37R0102_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Uczciwie.\rNikt nie powinien podziwiać Team Rocket.</language>
+		<language name="English">...Uczciwie.\rNikt nie powinien podziwiać Genezy.</language>
 	</row>
 	<row id="msg_0117_D37R0102_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
@@ -224,7 +224,7 @@
 	</row>
 	<row id="msg_0117_D37R0102_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Członkowie Team Rocket w czarnych\nstrojach biegali wszędzie dookoła...\rZastanawiałem się, co się dzieje.\nWięc stawiłeś/aś czoła Team Rocket?\fJesteś imponujący/a!\rMoże będziesz w stanie stawić czoła\nlegendarnemu Poké...\r</language>
+		<language name="English">Pracownicy Genezy w białych\nfartuchach biegali wszędzie\fdookoła... Zastanawiałem się, co się\ndzieje. Więc stawiłeś/aś czoła\fGenezie? Jesteś imponujący/a!\rMoże będziesz w stanie stawić czoła\nlegendarnemu Poké...\r</language>
 	</row>
 	<row id="msg_0117_D37R0102_00056" index="56">
 		<attribute name="window_context_name">used</attribute>

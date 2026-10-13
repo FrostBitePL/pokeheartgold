@@ -74,11 +74,11 @@
 	</row>
 	<row id="msg_0065_D23R0101_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kim jesteś?\nMamy tu pewien interes do załatwienia.\rKazano mi nie wpuszczać nikogo poza\nTeam Rocket!\rRozumiesz?\rMożesz przejść tylko wtedy, gdy masz\nna sobie ten fajny, czarny mundur\fTeam Rocket!</language>
+		<language name="English">Kim jesteś? Mamy tu pewien interes\ndo załatwienia.\rKazano mi nie wpuszczać nikogo poza\npracownikami Genezy! Rozumiesz?\rMożesz przejść tylko wtedy, gdy masz\nna sobie ten biały fartuch z logo\fGenezy!</language>
 	</row>
 	<row id="msg_0065_D23R0101_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ha! Musisz być nowy/a!\nNieźle wyglądasz w mundurze\fTeam Rocket!\rIdź dalej!\r</language>
+		<language name="English">Ha! Musisz być nowy/a! Nieźle\nwyglądasz w fartuchu Genezy!\rIdź dalej!\r</language>
 	</row>
 	<row id="msg_0065_D23R0101_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
@@ -86,7 +86,7 @@
 	</row>
 	<row id="msg_0065_D23R0101_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1, 0}: Hej, Team Rocket!\rPrzestańcie się tak grupować i\nnękać ludzi. Tchórze!\r</language>
+		<language name="English">{STRVAR_1 3, 1, 0}: Hej, wy od Genezy!\rPrzestańcie się tak grupować i nękać\nludzi. Tchórze!\r</language>
 	</row>
 	<row id="msg_0065_D23R0101_00022" index="22">
 		<attribute name="window_context_name">used</attribute>

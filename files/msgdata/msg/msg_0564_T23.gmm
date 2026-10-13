@@ -6,11 +6,11 @@
 	</row>
 	<row id="msg_0564_T23_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: ...Powiedz mi coś.\rCzy to prawda, że Team Rocket\npowrócił?\rCo? Pokonałeś ich? Ha!\nPrzestań kłamać.\rMówisz poważnie?\nW takim razie zobaczmy, ile jesteś\fwart.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}: ...Powiedz mi coś.\rCzy to prawda, że ludzie z Genezy\nkręcą się przy Starej Studni?\rCo? Pokonałeś ich? Ha! Przestań\nkłamać.\rMówisz poważnie? W takim razie\nzobaczmy, ile jesteś wart.\r</language>
 	</row>
 	<row id="msg_0564_T23_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: Nienawidzę słabych.\rPokémonów, Trenerów.\nNieważne kto ani co.\rNienawidzę patrzeć, jak się kręcą.\nDotyczy to też Team Rocket.\rMyślą, że są wielcy i twardzi,\ndopóki są w grupie.\rAle weź ich osobno, a są słabi.\nNienawidzę ich wszystkich.\rTrzymaj się z dala ode mnie.\nNie będziesz wyjątkiem,\fjeśli wejdziesz mi w drogę.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}: Nienawidzę słabych.\rPokémonów, Trenerów. Nieważne kto\nani co.\rNienawidzę patrzeć, jak się kręcą.\nDotyczy to też Genezy.\rMyślą, że są wielcy i twardzi,\ndopóki są w grupie. Ale weź ich\fosobno, a są słabi. Nienawidzę ich\nwszystkich.\rTrzymaj się z dala ode mnie. Nie\nbędziesz wyjątkiem, jeśli wejdziesz\fmi w drogę.\r</language>
 	</row>
 	<row id="msg_0564_T23_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -66,7 +66,7 @@
 	</row>
 	<row id="msg_0564_T23_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kim jesteś?\nNie znasz nas?\rJesteśmy...\nTeam Rocket!\r...Co?\nRozwiązaliśmy się jakiś czas temu?\rDaj spokój!\nWcale się nie rozwiązaliśmy!\rNo, właściwie raz tak było.\nAle wróciliśmy, by realizować\fambicje Łukasza.\rDość gadania.\nZamknij się i spadaj!\r</language>
+		<language name="English">Kim jesteś? Nie znasz nas?\rJesteśmy z Genezy! Studnia jest\nzamknięta na czas badań.\r...Co? Że niby nie mamy pozwolenia?\nMamy! Wszystko mamy na piśmie!\rNo, prawie wszystko. Ale to\nrealizuje ambicje Łukasza.\rDość gadania. Zamknij się i spadaj!\r</language>
 	</row>
 	<row id="msg_0564_T23_00017" index="17">
 		<attribute name="window_context_name">used</attribute>

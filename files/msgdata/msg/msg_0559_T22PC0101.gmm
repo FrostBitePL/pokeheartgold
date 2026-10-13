@@ -51,7 +51,7 @@
 	</row>
 	<row id="msg_0559_T22PC0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To było jakieś trzy lata temu.\nGrupa zbirów zwana Team Rocket\fdopuszczała się złych czynów.\fKrzywdzili Pokémony.\rAle!\nZłe rzeczy nigdy nie trwają wiecznie!\rPewien chłopak wykonał wspaniałą\nrobotę i Team Rocket został\frozwiązany!\n\n</language>
+		<language name="English">Kiedyś w Żarowie stał zakład\n„Silesia”. Dziś mówi się, że po nim\fzostało tylko kilka pustych hal.\rAle ludzie z Genezy dbają o to\nmiejsce. To dobrzy ludzie!</language>
 	</row>
 	<row id="msg_0559_T22PC0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>

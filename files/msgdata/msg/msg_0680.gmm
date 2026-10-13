@@ -102,7 +102,7 @@
 	</row>
 	<row id="msg_0680_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team Rocket</language>
+		<language name="English">Laborant</language>
 	</row>
 	<row id="msg_0680_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
