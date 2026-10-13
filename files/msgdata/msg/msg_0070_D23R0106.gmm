@@ -108,4 +108,8 @@
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">{STRVAR_1 3, 1, 0} zdejmuje odznakę\nstypendysty, kładzie ją na podłodze\fi wychodzi bez słowa.\r</language>
 	</row>
+	<row id="msg_0070_D23R0106_00027" index="27">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Z dziedzińca dobiega głos Mariusza:\n„Nie zamknęła się. Wisi i czeka.\fProwadzi tam, dokąd on poszedł.”\r„Zanim tam pójdziesz, dokończ to, co\nzacząłeś. Będziesz potrzebować\fwszystkiego, czego się nauczysz.”\r</language>
+	</row>
 </body>

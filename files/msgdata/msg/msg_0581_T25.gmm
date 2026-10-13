@@ -188,4 +188,28 @@
 		<attribute name="window_context_name">used</attribute>
 		<language name="English">Kwiaciarnia w Żarowie\rMały Sklep Dostarczający\nMnóstwo Piękna</language>
 	</row>
+	<row id="msg_0581_T25_00047" index="47">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Różnie ludzie gadają. Jedni\ndziękują, drudzy się odwracają.\rJa tam wiem jedno: stało się coś, co\nnie powinno było się stać, i ktoś to\fw końcu uspokoił.\r</language>
+	</row>
+	<row id="msg_0581_T25_00048" index="48">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Zabrałeś nam pracę! Instytut dał\nludziom chleb, a ty go odebrałeś.\rNie ma dla ciebie miejsca w moim\nmieście.\r</language>
+	</row>
+	<row id="msg_0581_T25_00049" index="49">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Serwery puste, ludzie na korytarzach\nbez pracy. I nikt już nie wie, co\fbyło prawdą.\rMoże nawet stary Kulmiz by się\npogubił.\r</language>
+	</row>
+	<row id="msg_0581_T25_00050" index="50">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Pod Zamkiem było dziś cicho.\nNiektórzy płakali, niektórzy\fklaskali. Ja nie wiem, co czuć.\r</language>
+	</row>
+	<row id="msg_0581_T25_00051" index="51">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Podobno przez ciebie nie ma już\nInstytutu. A ja tam miałem posadę!\r</language>
+	</row>
+	<row id="msg_0581_T25_00052" index="52">
+		<attribute name="window_context_name">used</attribute>
+		<language name="English">Wszystko jakby ucichło. Nie wiem, co\no tym myśleć. Chyba wszyscy nie\fwiemy.\r</language>
+	</row>
 </body>

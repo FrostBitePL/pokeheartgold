@@ -336,4 +336,6 @@ _ClimaxMewtwo:
 _ClimaxEnd:
 	NPCMsg msg_0070_D23R0106_00023
 	CloseMsg
+	NPCMsg msg_0070_D23R0106_00027
+	CloseMsg
 	Return

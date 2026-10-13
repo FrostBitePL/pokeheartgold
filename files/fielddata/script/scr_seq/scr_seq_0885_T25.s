@@ -140,7 +140,25 @@ _019B:
 	End
 
 scr_seq_T25_003:
+	Compare VAR_UNK_4160, 1
+	GoToIfEq _ZarowReactA
+	Compare VAR_UNK_4160, 2
+	GoToIfEq _ZarowReactB
+	Compare VAR_UNK_4160, 3
+	GoToIfEq _ZarowReactC
 	SimpleNPCMsg msg_0581_T25_00008
+	End
+
+_ZarowReactA:
+	SimpleNPCMsg msg_0581_T25_00047
+	End
+
+_ZarowReactB:
+	SimpleNPCMsg msg_0581_T25_00048
+	End
+
+_ZarowReactC:
+	SimpleNPCMsg msg_0581_T25_00049
 	End
 
 scr_seq_T25_004:
@@ -194,6 +212,12 @@ scr_seq_T25_006:
 	Compare VAR_UNK_40DB, 0
 	GoToIfEq _024D
 _0242:
+	Compare VAR_UNK_4160, 1
+	GoToIfEq _ZarowReactNpcA
+	Compare VAR_UNK_4160, 2
+	GoToIfEq _ZarowReactNpcB
+	Compare VAR_UNK_4160, 3
+	GoToIfEq _ZarowReactNpcC
 	NPCMsg msg_0581_T25_00011
 	WaitButton
 	CloseMsg
@@ -736,3 +760,24 @@ scr_seq_T25_029:
 	TrainerTipsEx 2, msg_0581_T25_00046
 	End
 	.balign 4, 0
+
+_ZarowReactNpcA:
+	NPCMsg msg_0581_T25_00050
+	WaitButton
+	CloseMsg
+	ReleaseAll
+	End
+
+_ZarowReactNpcB:
+	NPCMsg msg_0581_T25_00051
+	WaitButton
+	CloseMsg
+	ReleaseAll
+	End
+
+_ZarowReactNpcC:
+	NPCMsg msg_0581_T25_00052
+	WaitButton
+	CloseMsg
+	ReleaseAll
+	End
