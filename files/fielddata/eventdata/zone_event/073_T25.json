@@ -576,6 +576,13 @@
       "header": "MAP_GOLDENROD_GLOBAL_TERMINAL_1F",
       "anchor": 0,
       "y": 0
+    },
+    {
+      "x": 355,
+      "z": 370,
+      "header": "MAP_ROUTE_34",
+      "anchor": 3,
+      "y": 0
     }
   ],
   "coords": [
