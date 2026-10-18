@@ -345,6 +345,13 @@
       "header": "MAP_ROUTE_34_DAYCARE",
       "anchor": 0,
       "y": 0
+    },
+    {
+      "x": 335,
+      "z": 399,
+      "header": "MAP_CHERRYGROVE_POKEMART",
+      "anchor": 0,
+      "y": 0
     }
   ],
   "coords": [
