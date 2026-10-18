@@ -2,39 +2,39 @@
 <body language="English">
 	<row id="msg_0735_normal" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NORMAL</language>
+		<language name="English">NORMALNY</language>
 	</row>
 	<row id="msg_0735_fighting" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FIGHTING</language>
+		<language name="English">WALKA</language>
 	</row>
 	<row id="msg_0735_flying" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FLYING</language>
+		<language name="English">LOTNY</language>
 	</row>
 	<row id="msg_0735_poison" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POISON</language>
+		<language name="English">TRUJĄCY</language>
 	</row>
 	<row id="msg_0735_ground" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GROUND</language>
+		<language name="English">ZIEMNY</language>
 	</row>
 	<row id="msg_0735_rock" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ROCK</language>
+		<language name="English">SKALNY</language>
 	</row>
 	<row id="msg_0735_bug" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BUG</language>
+		<language name="English">ROBAK</language>
 	</row>
 	<row id="msg_0735_ghost" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GHOST</language>
+		<language name="English">DUCH</language>
 	</row>
 	<row id="msg_0735_steel" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">STEEL</language>
+		<language name="English">STAL</language>
 	</row>
 	<row id="msg_0735_mystery" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -42,34 +42,34 @@
 	</row>
 	<row id="msg_0735_fire" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FIRE</language>
+		<language name="English">OGIEŃ</language>
 	</row>
 	<row id="msg_0735_water" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WATER</language>
+		<language name="English">WODA</language>
 	</row>
 	<row id="msg_0735_grass" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GRASS</language>
+		<language name="English">ROŚLINA</language>
 	</row>
 	<row id="msg_0735_electric" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ELECTRIC</language>
+		<language name="English">PRĄD</language>
 	</row>
 	<row id="msg_0735_psychic" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PSYCHIC</language>
+		<language name="English">PSYCHO</language>
 	</row>
 	<row id="msg_0735_ice" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ICE</language>
+		<language name="English">LÓD</language>
 	</row>
 	<row id="msg_0735_dragon" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DRAGON</language>
+		<language name="English">SMOK</language>
 	</row>
 	<row id="msg_0735_dark" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DARK</language>
+		<language name="English">MROK</language>
 	</row>
 </body>
