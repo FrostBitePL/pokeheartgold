@@ -34,7 +34,7 @@
 	</row>
 	<row id="msg_0247_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The gift has been received!\rPlease pick up your gift from the\ndeliveryman in any Poké Mart.</language>
+		<language name="English">The gift has been received!\rPlease pick up your gift from the\ndeliveryman in any Żabka.</language>
 	</row>
 	<row id="msg_0247_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
@@ -91,7 +91,7 @@
 	</row>
 	<row id="msg_0247_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Our deliveryman is overloaded with\ngifts for you!\rPlease see him at any Poké Mart and\npick up some of your gifts.</language>
+		<language name="English">Our deliveryman is overloaded with\ngifts for you!\rPlease see him at any Żabka and\npick up some of your gifts.</language>
 	</row>
 	<row id="msg_0247_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
@@ -160,7 +160,7 @@
 	</row>
 	<row id="msg_0247_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please pick up your gift from the\ndeliveryman in any Poké Mart.</language>
+		<language name="English">Please pick up your gift from the\ndeliveryman in any Żabka.</language>
 	</row>
 	<row id="msg_0247_00039" index="39">
 		<attribute name="window_context_name">used</attribute>

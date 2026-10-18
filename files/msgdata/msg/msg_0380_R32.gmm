@@ -6,11 +6,11 @@
 	</row>
 	<row id="msg_0380_R32_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, prawda?\nSzukał cię jakiś facet w okularach.\rZobacz sam. Czeka na ciebie\nw Sklepie Pokémon.</language>
+		<language name="English">{STRVAR_1 3, 0, 0}, prawda?\nSzukał cię jakiś facet w okularach.\rZobacz sam. Czeka na ciebie\nw Żabce.</language>
 	</row>
 	<row id="msg_0380_R32_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, prawda?\nSzukał cię jakiś facet w okularach.\rZobacz sam. Czeka na ciebie\nw Sklepie Pokémon.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}, prawda?\nSzukał cię jakiś facet w okularach.\rZobacz sam. Czeka na ciebie\nw Żabce.\r</language>
 	</row>
 	<row id="msg_0380_R32_00003" index="3">
 		<attribute name="window_context_name">used</attribute>

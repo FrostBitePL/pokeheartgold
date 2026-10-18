@@ -170,11 +170,11 @@
 	</row>
 	<row id="msg_0543_T20R0101_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Mariusz: {STRVAR_1 3, 0, 0}? Nie\nspotkałeś/aś mojego asystenta?\rPowinien się z tobą spotkać z\nJajkiem w Poké Marcie w Łażanach.</language>
+		<language name="English">Profesor Mariusz: {STRVAR_1 3, 0, 0}? Nie\nspotkałeś/aś mojego asystenta?\rPowinien się z tobą spotkać z\nJajkiem w Żabce w Łażanach.</language>
 	</row>
 	<row id="msg_0543_T20R0101_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Profesor Mariusz: {STRVAR_1 3, 0, 0}? Nie\nspotkałeś/aś mojego asystenta?\rPowinien się z tobą spotkać z\nJajkiem w Poké Marcie w Łażanach.</language>
+		<language name="English">Profesor Mariusz: {STRVAR_1 3, 0, 0}? Nie\nspotkałeś/aś mojego asystenta?\rPowinien się z tobą spotkać z\nJajkiem w Żabce w Łażanach.</language>
 	</row>
 	<row id="msg_0543_T20R0101_00044" index="44">
 		<attribute name="window_context_name">used</attribute>

@@ -178,7 +178,7 @@
 	</row>
 	<row id="msg_0040_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mama: Cieszę się! Ty i twój\nPokémon świetnie wyglądacie.\rAch tak, słyszałam od Profesora\nMariusza.\rPowiedział, że energia Pokémona\nmierzona jest w HP (punktach życia).\rJeśli twój Pokémon straci HP,\nmożesz go uzdrowić w każdym\fCentrum Pokémon.\rJeśli wybierasz się w daleką podróż,\nmądry Trener zaopatruje się\fw Mikstury w Sklepie Pokémon.\rSpraw, bym była dumna, kochanie!\nUważaj na siebie!</language>
+		<language name="English">Mama: Cieszę się! Ty i twój\nPokémon świetnie wyglądacie.\rAch tak, słyszałam od Profesora\nMariusza.\rPowiedział, że energia Pokémona\nmierzona jest w HP (punktach życia).\rJeśli twój Pokémon straci HP,\nmożesz go uzdrowić w każdym\fCentrum Pokémon.\rJeśli wybierasz się w daleką podróż,\nmądry Trener zaopatruje się\fw Mikstury w Żabce.\rSpraw, bym była dumna, kochanie!\nUważaj na siebie!</language>
 	</row>
 	<row id="msg_0040_00043" index="43">
 		<attribute name="window_context_name">used</attribute>

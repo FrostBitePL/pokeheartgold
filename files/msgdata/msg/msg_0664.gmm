@@ -86,7 +86,7 @@
 	</row>
 	<row id="msg_0664_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nie poszedłeś/aś jeszcze po te\nprzedmioty, które ci kupiłam,\fprawda? Nie zapomnij zajrzeć do\nPokémon Mart i porozmawiać z\fdostawcą.</language>
+		<language name="English">Nie poszedłeś/aś jeszcze po te\nprzedmioty, które ci kupiłam,\fprawda? Nie zapomnij zajrzeć do Żabki i porozmawiać z\fdostawcą.</language>
 	</row>
 	<row id="msg_0664_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
@@ -118,6 +118,6 @@
 	</row>
 	<row id="msg_0664_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Halo? O, cześć, {STRVAR_1 3, 0, 0}! Jak się\nmasz? Znalazłam przydatny przedmiot\fpodczas zakupów i kupiłam go za\ntwoje pieniądze. Przepraszam! Ale\fpoprosiłam dostawcę, żeby ci go\nprzyniósł, więc zajrzyj do\fnajbliższego Pokémon Mart albo domu\ntowarowego i go odbierz! Wiem, że ci\fsię przyda!</language>
+		<language name="English">Halo? O, cześć, {STRVAR_1 3, 0, 0}! Jak się\nmasz? Znalazłam przydatny przedmiot\fpodczas zakupów i kupiłam go za\ntwoje pieniądze. Przepraszam! Ale\fpoprosiłam dostawcę, żeby ci go\nprzyniósł, więc zajrzyj do\fnajbliższej Żabki albo domu\ntowarowego i go odbierz! Wiem, że ci\fsię przyda!</language>
 	</row>
 </body>
