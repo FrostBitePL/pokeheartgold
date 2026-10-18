@@ -62,7 +62,7 @@
 	</row>
 	<row id="msg_0279_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon League</language>
+		<language name="English">Liga Pokémon</language>
 	</row>
 	<row id="msg_0279_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -218,7 +218,7 @@
 	</row>
 	<row id="msg_0279_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Victory Road</language>
+		<language name="English">Trakt Mistrzów</language>
 	</row>
 	<row id="msg_0279_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
@@ -402,7 +402,7 @@
 	</row>
 	<row id="msg_0279_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Day Care</language>
+		<language name="English">Przedszkole</language>
 	</row>
 	<row id="msg_0279_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
@@ -410,7 +410,7 @@
 	</row>
 	<row id="msg_0279_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Game Corner</language>
+		<language name="English">Salon Gier</language>
 	</row>
 	<row id="msg_0279_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
@@ -434,7 +434,7 @@
 	</row>
 	<row id="msg_0279_00108" index="108">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Café</language>
+		<language name="English">Kawiarnia</language>
 	</row>
 	<row id="msg_0279_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
@@ -442,7 +442,7 @@
 	</row>
 	<row id="msg_0279_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Restaurant</language>
+		<language name="English">Restauracja</language>
 	</row>
 	<row id="msg_0279_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
@@ -474,7 +474,7 @@
 	</row>
 	<row id="msg_0279_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Global Terminal</language>
+		<language name="English">Terminal Globalny</language>
 	</row>
 	<row id="msg_0279_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
