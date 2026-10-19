@@ -4,96 +4,96 @@
     {
       "scriptId": "_EV_scr_seq_T25_019 + 1",
       "type": 1,
-      "x": 350,
-      "z": 350,
+      "x": 367,
+      "z": 381,
       "y": 0,
       "dir": 4
     },
     {
       "scriptId": "_EV_scr_seq_T25_020 + 1",
       "type": 1,
-      "x": 340,
-      "z": 350,
+      "x": 368,
+      "z": 381,
       "y": 0,
       "dir": 4
     },
     {
       "scriptId": "_EV_scr_seq_T25_021 + 1",
       "type": 1,
-      "x": 362,
-      "z": 334,
+      "x": 369,
+      "z": 381,
       "y": 0,
       "dir": 4
     },
     {
       "scriptId": "_EV_scr_seq_T25_022 + 1",
       "type": 1,
-      "x": 362,
-      "z": 356,
+      "x": 370,
+      "z": 381,
       "y": 0,
       "dir": 4
     },
     {
       "scriptId": "_EV_scr_seq_T25_023 + 1",
       "type": 1,
-      "x": 368,
-      "z": 375,
+      "x": 371,
+      "z": 381,
       "y": 0,
       "dir": 4
     },
     {
       "scriptId": "_EV_scr_seq_T25_024 + 1",
       "type": 1,
-      "x": 353,
-      "z": 361,
+      "x": 372,
+      "z": 381,
       "y": 0,
       "dir": 4
     },
     {
       "scriptId": "_EV_scr_seq_T25_025 + 1",
       "type": 1,
-      "x": 355,
-      "z": 334,
+      "x": 373,
+      "z": 381,
       "y": 0,
       "dir": 4
     },
     {
       "scriptId": "_EV_scr_seq_T25_026 + 1",
       "type": 1,
-      "x": 346,
-      "z": 336,
+      "x": 374,
+      "z": 381,
       "y": 0,
       "dir": 4
     },
     {
       "scriptId": "_EV_scr_seq_T25_027 + 1",
       "type": 1,
-      "x": 349,
-      "z": 375,
+      "x": 375,
+      "z": 381,
       "y": 0,
       "dir": 4
     },
     {
       "scriptId": "_EV_scr_seq_T25_028 + 1",
       "type": 1,
-      "x": 314,
-      "z": 350,
+      "x": 376,
+      "z": 381,
       "y": 0,
       "dir": 4
     },
     {
       "scriptId": "_EV_scr_seq_T25_029 + 1",
       "type": 1,
-      "x": 373,
-      "z": 333,
+      "x": 377,
+      "z": 381,
       "y": 0,
       "dir": 4
     },
     {
       "scriptId": "std_hiddenitem_r34_t25_super_potion",
       "type": 2,
-      "x": 369,
-      "z": 380,
+      "x": 378,
+      "z": 381,
       "y": 0,
       "dir": 4
     }
@@ -112,8 +112,8 @@
       "param2": 0,
       "xRange": 1,
       "yRange": 0,
-      "x": 363,
-      "z": 372,
+      "x": 351,
+      "z": 366,
       "y": 0
     },
     {
@@ -129,8 +129,8 @@
       "param2": 0,
       "xRange": 1,
       "yRange": 0,
-      "x": 344,
-      "z": 370,
+      "x": 350,
+      "z": 369,
       "y": 0
     },
     {
@@ -146,8 +146,8 @@
       "param2": 0,
       "xRange": 1,
       "yRange": 1,
-      "x": 370,
-      "z": 352,
+      "x": 348,
+      "z": 362,
       "y": 0
     },
     {
@@ -163,8 +163,8 @@
       "param2": 0,
       "xRange": 0,
       "yRange": 1,
-      "x": 356,
-      "z": 354,
+      "x": 351,
+      "z": 372,
       "y": 0
     },
     {
@@ -180,8 +180,8 @@
       "param2": 0,
       "xRange": 0,
       "yRange": 0,
-      "x": 341,
-      "z": 351,
+      "x": 355,
+      "z": 360,
       "y": 0
     },
     {
@@ -197,8 +197,8 @@
       "param2": 0,
       "xRange": 0,
       "yRange": 0,
-      "x": 345,
-      "z": 353,
+      "x": 359,
+      "z": 364,
       "y": 0
     },
     {
@@ -214,8 +214,8 @@
       "param2": 0,
       "xRange": 0,
       "yRange": 0,
-      "x": 352,
-      "z": 351,
+      "x": 347,
+      "z": 356,
       "y": 0
     },
     {
@@ -231,8 +231,8 @@
       "param2": 0,
       "xRange": 0,
       "yRange": 1,
-      "x": 356,
-      "z": 336,
+      "x": 359,
+      "z": 374,
       "y": 0
     },
     {
@@ -248,8 +248,8 @@
       "param2": 0,
       "xRange": 0,
       "yRange": 0,
-      "x": 358,
-      "z": 326,
+      "x": 353,
+      "z": 379,
       "y": 0
     },
     {
@@ -265,8 +265,8 @@
       "param2": 0,
       "xRange": 0,
       "yRange": 0,
-      "x": 359,
-      "z": 326,
+      "x": 365,
+      "z": 364,
       "y": 0
     },
     {
@@ -282,8 +282,8 @@
       "param2": 0,
       "xRange": 0,
       "yRange": 0,
-      "x": 371,
-      "z": 333,
+      "x": 347,
+      "z": 349,
       "y": 0
     },
     {
@@ -299,8 +299,8 @@
       "param2": 0,
       "xRange": 0,
       "yRange": 0,
-      "x": 376,
-      "z": 336,
+      "x": 347,
+      "z": 347,
       "y": 0
     },
     {
@@ -316,8 +316,8 @@
       "param2": 0,
       "xRange": 0,
       "yRange": 0,
-      "x": 368,
-      "z": 358,
+      "x": 329,
+      "z": 369,
       "y": 0
     },
     {
@@ -333,8 +333,8 @@
       "param2": 0,
       "xRange": 0,
       "yRange": 0,
-      "x": 369,
-      "z": 358,
+      "x": 327,
+      "z": 368,
       "y": 0
     },
     {
@@ -350,8 +350,8 @@
       "param2": 0,
       "xRange": 0,
       "yRange": 0,
-      "x": 354,
-      "z": 361,
+      "x": 342,
+      "z": 343,
       "y": 0
     },
     {
@@ -367,8 +367,8 @@
       "param2": 0,
       "xRange": 0,
       "yRange": 0,
-      "x": 359,
-      "z": 377,
+      "x": 325,
+      "z": 362,
       "y": 0
     },
     {
@@ -384,8 +384,8 @@
       "param2": 0,
       "xRange": 0,
       "yRange": 0,
-      "x": 316,
-      "z": 349,
+      "x": 339,
+      "z": 342,
       "y": 0
     },
     {
@@ -401,8 +401,8 @@
       "param2": 0,
       "xRange": 0,
       "yRange": 0,
-      "x": 346,
-      "z": 350,
+      "x": 351,
+      "z": 338,
       "y": 0
     },
     {
@@ -418,8 +418,8 @@
       "param2": 0,
       "xRange": 0,
       "yRange": 0,
-      "x": 366,
-      "z": 336,
+      "x": 334,
+      "z": 341,
       "y": 0
     },
     {
@@ -435,8 +435,8 @@
       "param2": 0,
       "xRange": 0,
       "yRange": 0,
-      "x": 366,
-      "z": 335,
+      "x": 325,
+      "z": 347,
       "y": 0
     },
     {
@@ -452,8 +452,8 @@
       "param2": 0,
       "xRange": 0,
       "yRange": 0,
-      "x": 366,
-      "z": 335,
+      "x": 354,
+      "z": 332,
       "y": 0
     }
   ],
@@ -473,106 +473,106 @@
       "y": 0
     },
     {
-      "x": 366,
-      "z": 334,
+      "x": 372,
+      "z": 348,
       "header": "MAP_GOLDENROD_GYM",
       "anchor": 0,
       "y": 0
     },
     {
-      "x": 370,
-      "z": 374,
+      "x": 367,
+      "z": 373,
       "header": "MAP_GOLDENROD_BIKE_SHOP",
       "anchor": 0,
       "y": 0
     },
     {
-      "x": 371,
-      "z": 332,
+      "x": 370,
+      "z": 380,
       "header": "MAP_GOLDENROD_FLOWER_SHOP",
       "anchor": 0,
       "y": 0
     },
     {
-      "x": 352,
-      "z": 368,
+      "x": 338,
+      "z": 360,
       "header": "MAP_GOLDENROD_POKECENTER_1F",
       "anchor": 0,
       "y": 0
     },
     {
-      "x": 351,
-      "z": 360,
+      "x": 359,
+      "z": 372,
       "header": "MAP_GOLDENROD_GAME_CORNER",
       "anchor": 0,
       "y": 0
     },
     {
-      "x": 342,
-      "z": 349,
+      "x": 316,
+      "z": 335,
       "header": "MAP_GOLDENROD_RADIO_TOWER_1F",
       "anchor": 0,
       "y": 0
     },
     {
-      "x": 365,
-      "z": 368,
+      "x": 371,
+      "z": 380,
       "header": "MAP_GOLDENROD_DEPARTMENT_STORE_1F",
       "anchor": 0,
       "y": 0
     },
     {
-      "x": 348,
-      "z": 349,
+      "x": 332,
+      "z": 378,
       "header": "MAP_GOLDENROD_MAGNET_TRAIN_STATION_1F",
       "anchor": 0,
       "y": 0
     },
     {
-      "x": 347,
-      "z": 334,
+      "x": 372,
+      "z": 380,
       "header": "MAP_GOLDENROD_TUNNEL_1F",
-      "anchor": 0,
-      "y": 0
-    },
-    {
-      "x": 347,
-      "z": 374,
-      "header": "MAP_GOLDENROD_TUNNEL_1F",
-      "anchor": 1,
-      "y": 0
-    },
-    {
-      "x": 341,
-      "z": 366,
-      "header": "MAP_GOLDENROD_BILLS_HOUSE",
       "anchor": 0,
       "y": 0
     },
     {
       "x": 373,
-      "z": 362,
+      "z": 380,
+      "header": "MAP_GOLDENROD_TUNNEL_1F",
+      "anchor": 1,
+      "y": 0
+    },
+    {
+      "x": 374,
+      "z": 380,
+      "header": "MAP_GOLDENROD_BILLS_HOUSE",
+      "anchor": 0,
+      "y": 0
+    },
+    {
+      "x": 375,
+      "z": 380,
       "header": "MAP_GOLDENROD_FRIENDSHIP_CHECKER_HOUSE",
       "anchor": 0,
       "y": 0
     },
     {
       "x": 376,
-      "z": 335,
+      "z": 380,
       "header": "MAP_GOLDENROD_NORTHEAST_HOUSE",
       "anchor": 0,
       "y": 0
     },
     {
-      "x": 352,
-      "z": 334,
+      "x": 377,
+      "z": 380,
       "header": "MAP_GOLDENROD_NAME_RATER_HOUSE",
       "anchor": 0,
       "y": 0
     },
     {
-      "x": 316,
-      "z": 348,
+      "x": 378,
+      "z": 380,
       "header": "MAP_GOLDENROD_GLOBAL_TERMINAL_1F",
       "anchor": 0,
       "y": 0
@@ -581,8 +581,8 @@
   "coords": [
     {
       "scriptId": "_EV_scr_seq_T25_017 + 1",
-      "x": 354,
-      "z": 376,
+      "x": 368,
+      "z": 382,
       "w": 10,
       "h": 1,
       "y": 0,
