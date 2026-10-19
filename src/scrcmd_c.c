@@ -3752,7 +3752,7 @@ static void DebugSetup(FieldSystem *fieldSystem) {
 
 BOOL ScrCmd_DebugStartCheck(ScriptContext *ctx) {
     u16 *p_ret = ScriptGetVarPointer(ctx);
-    if ((gSystem.heldKeys & (PAD_BUTTON_B | PAD_BUTTON_L | PAD_BUTTON_R)) == (PAD_BUTTON_B | PAD_BUTTON_L | PAD_BUTTON_R)) {
+    if (gSystem.heldKeys & PAD_BUTTON_B) {
         DebugSetup(ctx->fieldSystem);
         *p_ret = TRUE;
     } else {
